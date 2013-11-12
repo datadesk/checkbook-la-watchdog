@@ -1,5 +1,6 @@
 import os
 import csv
+import envoy
 import requests
 from jinja2 import Template
 from datetime import datetime
@@ -12,11 +13,11 @@ class Watchdog(object):
     Tricks for downloading and archiving Checkbook LA data.
     """
     file_list = [
-        dict(name='eCheckbook Data', id='pggv-e4fn', url='https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn'),
-        dict(name='General Fund Revenue', id='hfus-a659', url='https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659'),
+        #dict(name='eCheckbook Data', id='pggv-e4fn', url='https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn'),
+        #dict(name='General Fund Revenue', id='hfus-a659', url='https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659'),
         dict(name='Neighborhood Council Expenditures', id='f2ec-m4t9', url='https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9'),
-        dict(name='Payroll', id='qjfm-3srk', url='https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk'),
-        dict(name='General Fund Budget Expenditures', id='uyzw-yi8n', url='https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n'),
+        #dict(name='Payroll', id='qjfm-3srk', url='https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk'),
+        #dict(name='General Fund Budget Expenditures', id='uyzw-yi8n', url='https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n'),
     ]
     format_list = ['csv', 'json']
     url_template = 'https://controllerdata.lacity.org/api/views/%(id)s/\
@@ -29,9 +30,11 @@ rows.%(format)s?accessType=DOWNLOAD'
         """
         Make everything happen
         """
+        print "Running the checkbook la watchdog"
         self.set_options()
         [self.download(f) for f in self.file_list]
         self.update_log()
+        self.update_github()
 
     def set_options(self):
         """
@@ -51,6 +54,7 @@ rows.%(format)s?accessType=DOWNLOAD'
         """
         Download a file in pieces.
         """
+        print "- Downloading data"
         for format_ in self.format_list:
             url = self.url_template % dict(
                 format=format_,
@@ -67,6 +71,10 @@ rows.%(format)s?accessType=DOWNLOAD'
                         f.flush()
 
     def update_log(self):
+        """
+        Log activity to the README file.
+        """
+        print "- Updating log"
         template_path = os.path.join(self.template_dir, 'README.md')
         template_data = open(template_path, 'r').read()
         template = Template(template_data)
@@ -88,6 +96,21 @@ rows.%(format)s?accessType=DOWNLOAD'
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
         out_file.write(out_data)
         out_file.close()
+
+    def update_github(self):
+        """
+        Commit changes and push them to GitHub
+        """
+        print "- Updating GitHub"
+        r = envoy.run("git add --all")
+        #print r.status_code
+        envoy.run("git commit --file=%s" % os.path.join(
+            self.template_dir,
+            'commit.txt'
+        ))
+        #print r.status_code
+        envoy.run("git push origin master")
+        #print r.status_code
 
 
 if __name__ == '__main__':
