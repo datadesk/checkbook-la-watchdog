@@ -8,7 +8,7 @@
       "createdAt" : 1382254769,
       "description" : "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through September 30, 2013",
       "displayType" : "table",
-      "downloadCount" : 11,
+      "downloadCount" : 26,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6026115,
@@ -22,7 +22,7 @@
       "signed" : false,
       "tableId" : 1273172,
       "totalTimesRated" : 0,
-      "viewCount" : 189,
+      "viewCount" : 192,
       "viewLastModified" : 1382397823,
       "viewType" : "tabular",
       "columns" : [ {
