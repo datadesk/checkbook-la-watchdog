@@ -13,11 +13,11 @@ class Watchdog(object):
     Tricks for downloading and archiving Checkbook LA data.
     """
     file_list = [
-        #dict(name='eCheckbook Data', id='pggv-e4fn', url='https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn'),
-        #dict(name='General Fund Revenue', id='hfus-a659', url='https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659'),
+        dict(name='eCheckbook Data', id='pggv-e4fn', url='https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn'),
+        dict(name='General Fund Revenue', id='hfus-a659', url='https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659'),
         dict(name='Neighborhood Council Expenditures', id='f2ec-m4t9', url='https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9'),
-        #dict(name='Payroll', id='qjfm-3srk', url='https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk'),
-        #dict(name='General Fund Budget Expenditures', id='uyzw-yi8n', url='https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n'),
+        dict(name='Payroll', id='qjfm-3srk', url='https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk'),
+        dict(name='General Fund Budget Expenditures', id='uyzw-yi8n', url='https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n'),
     ]
     format_list = ['csv', 'json']
     url_template = 'https://controllerdata.lacity.org/api/views/%(id)s/\
