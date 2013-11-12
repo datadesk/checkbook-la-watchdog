@@ -13,7 +13,7 @@ What it tracks
 --------------
 
 |Data set|Row count|Last updated|
-|--------|--------:|------------|
+|:--------|--------:|:------------|
 {% for obj in file_list %}|[{{ obj.name }}](csv/{{ obj.csv_name }})|{{ obj.row_count }}|{{ obj.last_updated }}|
 {% endfor %}
 
