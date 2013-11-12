@@ -12,13 +12,13 @@ A periodically updated archive of financial data published by the city of Los An
 What it tracks
 --------------
 
-|Data set|Row count|Last updated|
-|--------|--------:|------------|
-|[Neighborhood Council Expenditures](csv/Neighborhood Council Expenditures.csv)|464|2013-11-11 16:31:18.252780|
-|[eCheckbook Data](csv/eCheckbook Data.csv)|111713|2013-11-11 16:31:18.252780|
-|[Payroll](csv/Payroll.csv)|150997|2013-11-11 16:31:18.252780|
-|[General Fund Revenue](csv/General Fund Revenue.csv)|2791|2013-11-11 16:31:18.252780|
-|[General Fund Budget Expenditures](csv/General Fund Budget Expenditures.csv)|1916|2013-11-11 16:31:18.252780|
+|Data set|Row count|Last download|   |   |
+|:--------|--------:|:-----------|:--|:--|
+|[eCheckbook Data](https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn)|111713|2013-11-11 17:03:20.636883|[CSV](csv/eCheckbook Data.csv)|[JSON](json/eCheckbook Data.json)|
+|[General Fund Revenue](https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659)|2791|2013-11-11 17:03:20.636883|[CSV](csv/General Fund Revenue.csv)|[JSON](json/General Fund Revenue.json)|
+|[Neighborhood Council Expenditures](https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9)|464|2013-11-11 17:03:20.636883|[CSV](csv/Neighborhood Council Expenditures.csv)|[JSON](json/Neighborhood Council Expenditures.json)|
+|[Payroll](https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk)|150997|2013-11-11 17:03:20.636883|[CSV](csv/Payroll.csv)|[JSON](json/Payroll.json)|
+|[General Fund Budget Expenditures](https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n)|1916|2013-11-11 17:03:20.636883|[CSV](csv/General Fund Budget Expenditures.csv)|[JSON](json/General Fund Budget Expenditures.json)|
 
 
 Getting started

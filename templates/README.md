@@ -12,9 +12,9 @@ A periodically updated archive of financial data published by the city of Los An
 What it tracks
 --------------
 
-|Data set|Row count|Last download|
-|:--------|--------:|:------------|
-{% for obj in file_list %}|[{{ obj.name }}](csv/{{ obj.csv_name }})|{{ obj.row_count }}|{{ obj.last_updated }}|
+|Data set|Row count|Last download|   |   |
+|:--------|--------:|:-----------|:--|:--|
+{% for obj in file_list %}|[{{ obj.name }}]({{ obj.url }})|{{ obj.row_count }}|{{ obj.last_updated }}|[CSV](csv/{{ obj.csv_name }})|[JSON](json/{{ obj.json_name }})|
 {% endfor %}
 
 Getting started
