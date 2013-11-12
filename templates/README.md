@@ -14,12 +14,8 @@ What it tracks
 
 |Data set|Row count|Last updated|
 |--------|--------:|------------|
-|[Neighborhood Council Expenditures](csv/Neighborhood Council Expenditures.csv)|464|2013-11-11 16:31:18.252780|
-|[eCheckbook Data](csv/eCheckbook Data.csv)|111713|2013-11-11 16:31:18.252780|
-|[Payroll](csv/Payroll.csv)|150997|2013-11-11 16:31:18.252780|
-|[General Fund Revenue](csv/General Fund Revenue.csv)|2791|2013-11-11 16:31:18.252780|
-|[General Fund Budget Expenditures](csv/General Fund Budget Expenditures.csv)|1916|2013-11-11 16:31:18.252780|
-
+{% for obj in file_list %}|[{{ obj.name }}](csv/{{ obj.csv_name }})|{{ obj.row_count }}|{{ obj.last_updated }}|
+{% endfor %}
 
 Getting started
 ---------------
