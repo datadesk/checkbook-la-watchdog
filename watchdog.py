@@ -120,7 +120,7 @@ rows.%(format)s?accessType=DOWNLOAD'
         print "- Updating GitHub"
         r = envoy.run("git add --all")
         self.update_log()
-        r = envoy.run("git add --all")
+        r = envoy.run("git add README.md")
         envoy.run("git commit --file=%s" % os.path.join(
             self.template_dir,
             'commit.txt'
