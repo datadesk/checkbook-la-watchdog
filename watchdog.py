@@ -28,7 +28,7 @@ rows.%(format)s?accessType=DOWNLOAD'
         """
         print "Running the checkbook la watchdog"
         self.set_options()
-        [self.download(f) for f in self.file_list[1:2]]
+        [self.download(f) for f in self.file_list]
         self.update_github()
 
     def set_options(self):
