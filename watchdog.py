@@ -108,7 +108,6 @@ rows.%(format)s?accessType=DOWNLOAD'
                 'url': obj['url'],
             })
         diff = envoy.run("git diff --stat").std_out
-        print diff
         out_data = template.render(file_list=dict_list, diff=diff)
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
         out_file.write(out_data)
@@ -119,8 +118,9 @@ rows.%(format)s?accessType=DOWNLOAD'
         Commit changes and push them to GitHub
         """
         print "- Updating GitHub"
-        r = envoy.run("git add .")
+        r = envoy.run("git add --all")
         self.update_log()
+        r = envoy.run("git add --all")
         envoy.run("git commit --file=%s" % os.path.join(
             self.template_dir,
             'commit.txt'
