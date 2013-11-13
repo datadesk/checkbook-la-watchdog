@@ -71,14 +71,13 @@ rows.%(format)s?accessType=DOWNLOAD'
         """
         Download a file in pieces.
         """
-        print "- Downloading data"
         for format_ in self.format_list:
             url = self.url_template % dict(
                 format=format_,
                 id=obj['id'],
             )
             file_name = '%s.%s' % (obj['name'], format_)
-            print "-- Downloading %s in %s format" % (obj['name'], format_)
+            print "- Downloading %s in %s format" % (obj['name'], format_)
             r = requests.get(url, headers=self.headers, stream=True)
             file_path = os.path.join(getattr(self, '%s_dir' % format_), file_name)
             with open(file_path, 'wb') as f:
