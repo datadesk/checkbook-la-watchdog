@@ -107,8 +107,8 @@ rows.%(format)s?accessType=DOWNLOAD'
                 'json_name': json_name,
                 'url': obj['url'],
             })
-        diff = envoy.run("git diff --stat").std_out
-        print diff
+        diff = envoy.run("git diff --stat")
+        print diff.__dict__
         out_data = template.render(file_list=dict_list, diff=diff)
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
         out_file.write(out_data)
