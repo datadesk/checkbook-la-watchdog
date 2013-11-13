@@ -14,17 +14,17 @@ What it tracks
 
 |Data set|Row count|Last download|   |   |
 |:--------|--------:|:-----------|:--|:--|
-|[Audits](https://controllerdata.lacity.org/Finance/Audits/n66v-7d9g)|371|2013-11-12 21:51:54.225524|[CSV](csv/Audits.csv)|[JSON](json/Audits.json)|
-|[Catalog](https://controllerdata.lacity.org/dataset/Catalog/hpxk-2i55)|83|2013-11-12 21:51:54.225524|[CSV](csv/Catalog.csv)|[JSON](json/Catalog.json)|
-|[eCheckbook Data](https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn)|111713|2013-11-12 21:51:54.225524|[CSV](csv/eCheckbook Data.csv)|[JSON](json/eCheckbook Data.json)|
-|[General Fund Budget Expenditures](https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n)|1916|2013-11-12 21:51:54.225524|[CSV](csv/General Fund Budget Expenditures.csv)|[JSON](json/General Fund Budget Expenditures.json)|
-|[General Fund Revenue](https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659)|2791|2013-11-12 21:51:54.225524|[CSV](csv/General Fund Revenue.csv)|[JSON](json/General Fund Revenue.json)|
-|[Home Page Featured Scrolling Stories](https://controllerdata.lacity.org/Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk)|5|2013-11-12 21:51:54.225524|[CSV](csv/Home Page Featured Scrolling Stories.csv)|[JSON](json/Home Page Featured Scrolling Stories.json)|
-|[Home Page Stories](https://controllerdata.lacity.org/Internal/Home-Page-Stories/uuhh-hvvk)|8|2013-11-12 21:51:54.225524|[CSV](csv/Home Page Stories.csv)|[JSON](json/Home Page Stories.json)|
-|[Messages](https://controllerdata.lacity.org/Internal/Messages/dsnd-us3j)|3|2013-11-12 21:51:54.225524|[CSV](csv/Messages.csv)|[JSON](json/Messages.json)|
-|[Neighborhood Council Expenditures](https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9)|464|2013-11-12 21:51:54.225524|[CSV](csv/Neighborhood Council Expenditures.csv)|[JSON](json/Neighborhood Council Expenditures.json)|
-|[Payroll](https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk)|150997|2013-11-12 21:51:54.225524|[CSV](csv/Payroll.csv)|[JSON](json/Payroll.json)|
-|[Templates](https://controllerdata.lacity.org/dataset/Templates/jbxg-3qpc)|1|2013-11-12 21:51:54.225524|[CSV](csv/Templates.csv)|[JSON](json/Templates.json)|
+|[Audits](https://controllerdata.lacity.org/Finance/Audits/n66v-7d9g)|371|2013-11-12 21:58:40.063767|[CSV](csv/Audits.csv)|[JSON](json/Audits.json)|
+|[Catalog](https://controllerdata.lacity.org/dataset/Catalog/hpxk-2i55)|83|2013-11-12 21:58:40.063767|[CSV](csv/Catalog.csv)|[JSON](json/Catalog.json)|
+|[eCheckbook Data](https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn)|9492|2013-11-12 21:58:40.063767|[CSV](csv/eCheckbook Data.csv)|[JSON](json/eCheckbook Data.json)|
+|[General Fund Budget Expenditures](https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n)|1916|2013-11-12 21:58:40.063767|[CSV](csv/General Fund Budget Expenditures.csv)|[JSON](json/General Fund Budget Expenditures.json)|
+|[General Fund Revenue](https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659)|2791|2013-11-12 21:58:40.063767|[CSV](csv/General Fund Revenue.csv)|[JSON](json/General Fund Revenue.json)|
+|[Home Page Featured Scrolling Stories](https://controllerdata.lacity.org/Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk)|5|2013-11-12 21:58:40.063767|[CSV](csv/Home Page Featured Scrolling Stories.csv)|[JSON](json/Home Page Featured Scrolling Stories.json)|
+|[Home Page Stories](https://controllerdata.lacity.org/Internal/Home-Page-Stories/uuhh-hvvk)|8|2013-11-12 21:58:40.063767|[CSV](csv/Home Page Stories.csv)|[JSON](json/Home Page Stories.json)|
+|[Messages](https://controllerdata.lacity.org/Internal/Messages/dsnd-us3j)|3|2013-11-12 21:58:40.063767|[CSV](csv/Messages.csv)|[JSON](json/Messages.json)|
+|[Neighborhood Council Expenditures](https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9)|464|2013-11-12 21:58:40.063767|[CSV](csv/Neighborhood Council Expenditures.csv)|[JSON](json/Neighborhood Council Expenditures.json)|
+|[Payroll](https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk)|150997|2013-11-12 21:58:40.063767|[CSV](csv/Payroll.csv)|[JSON](json/Payroll.json)|
+|[Templates](https://controllerdata.lacity.org/dataset/Templates/jbxg-3qpc)|1|2013-11-12 21:58:40.063767|[CSV](csv/Templates.csv)|[JSON](json/Templates.json)|
 
 
 What changed in last download
@@ -33,6 +33,14 @@ What changed in last download
 ```bash
 Nothing
 ```
+
+What you can do
+---------------
+
+* Try it out and report bugs.
+* Figure out ways to build notifications, visualizations or another application on top of the shifting data.
+* Try forking it and making it go on a Socrata based data site in your city.
+* Or just modify it to work off any old public data set.
 
 Getting started
 ---------------
@@ -68,11 +76,3 @@ Run the script to get the latest files.
 ```bash
 $ python watchdog.py
 ```
-
-What you can do
----------------
-
-* Try it out and report bugs.
-* Figure out ways to build notifications, visualizations or another application on top of the shifting data.
-* Try forking it and making it go on a Socrata based data site in your city...
-* ... Or just modifying it to work off any public data set.

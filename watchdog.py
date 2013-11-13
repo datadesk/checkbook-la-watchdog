@@ -119,7 +119,7 @@ rows.%(format)s?accessType=DOWNLOAD'
         Commit changes and push them to GitHub
         """
         print "- Updating GitHub"
-        r = envoy.run("git add --all")
+        r = envoy.run("git add .")
         self.update_log()
         envoy.run("git commit --file=%s" % os.path.join(
             self.template_dir,
