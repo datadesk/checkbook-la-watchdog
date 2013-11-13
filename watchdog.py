@@ -29,7 +29,6 @@ rows.%(format)s?accessType=DOWNLOAD'
         print "Running the checkbook la watchdog"
         self.set_options()
         [self.download(f) for f in self.file_list]
-        self.update_log()
         self.update_github()
 
     def set_options(self):
@@ -108,7 +107,8 @@ rows.%(format)s?accessType=DOWNLOAD'
                 'json_name': json_name,
                 'url': obj['url'],
             })
-        out_data = template.render(file_list=dict_list)
+        diff = envoy.run("git diff --stat").std_out
+        out_data = template.render(file_list=dict_list, diff=diff)
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
         out_file.write(out_data)
         out_file.close()
@@ -119,14 +119,12 @@ rows.%(format)s?accessType=DOWNLOAD'
         """
         print "- Updating GitHub"
         r = envoy.run("git add --all")
-        #print r.status_code
+        self.update_log()
         envoy.run("git commit --file=%s" % os.path.join(
             self.template_dir,
             'commit.txt'
         ))
-        #print r.status_code
         envoy.run("git push origin master")
-        #print r.status_code
 
 
 if __name__ == '__main__':

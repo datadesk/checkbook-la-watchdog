@@ -17,6 +17,13 @@ What it tracks
 {% for obj in file_list %}|[{{ obj.name }}]({{ obj.url }})|{{ obj.row_count }}|{{ obj.last_updated }}|[CSV](csv/{{ obj.csv_name }})|[JSON](json/{{ obj.json_name }})|
 {% endfor %}
 
+What changed in last download
+-----------------------------
+
+```bash
+{% if diff %}{{ diff }}{% else %}Nothing{% endif %}
+```
+
 Getting started
 ---------------
 
