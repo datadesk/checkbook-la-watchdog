@@ -1,0 +1,371 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "uuhh-hvvk",
+      "name" : "Home Page Stories",
+      "averageRating" : 0,
+      "category" : "Internal",
+      "createdAt" : 1380047669,
+      "displayType" : "table",
+      "downloadCount" : 0,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 6056065,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1382559079,
+      "publicationGroup" : 1181417,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1382559064,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "signed" : false,
+      "tableId" : 1279847,
+      "totalTimesRated" : 0,
+      "viewCount" : 135,
+      "viewLastModified" : 1382559079,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 109245097,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 15500997,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "1",
+          "sum" : "29",
+          "null" : 0,
+          "average" : "4.142857142857143",
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "5"
+          }, {
+            "count" : 17,
+            "item" : "3"
+          }, {
+            "count" : 16,
+            "item" : "6"
+          }, {
+            "count" : 15,
+            "item" : "1"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 109245098,
+        "name" : "Title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514321,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Controller's Message",
+          "null" : 0,
+          "largest" : "Tutorial",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Explore DWP Payroll Data"
+          }, {
+            "count" : 19,
+            "item" : "Control Panel L.A. Launch"
+          }, {
+            "count" : 18,
+            "item" : "Tutorial"
+          }, {
+            "count" : 17,
+            "item" : "Explore City Payroll Data"
+          }, {
+            "count" : 16,
+            "item" : "Questions?"
+          }, {
+            "count" : 15,
+            "item" : "Controller's Message"
+          }, {
+            "count" : 14,
+            "item" : "Search City Payments to Phone Companies"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 109245100,
+        "name" : "Image",
+        "dataTypeName" : "photo",
+        "fieldName" : "image",
+        "position" : 3,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 14820921,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "null" : 4
+        },
+        "format" : {
+          "size" : "medium"
+        }
+      }, {
+        "id" : 109245103,
+        "name" : "Description",
+        "dataTypeName" : "text",
+        "fieldName" : "description",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514322,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Browse Regular Pay & Earnings Averages by Job Class. Data provided by Department of Water & Power (2012).",
+          "null" : 0,
+          "largest" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Browse Regular Pay & Earnings Averages by Job Class. Data provided by Department of Water & Power (2012)."
+          }, {
+            "count" : 19,
+            "item" : "This first phase of ControlPanel L.A. includes data detailing billions of dollars of City transactions – with specifics on nearly 1,000 revenue sources, 600 expenditure accounts and bi-weekly payroll for nearly 50,000 City employees. The tool also opens up the City’s “checkbook” via CheckBookLA, an application allowing users to search tens of thousands of payments to external vendors by department, vendor name, or expenditure type. <br> <br> The Controller's new open data and transparency initiative is the first step in his efforts to bring cutting-edge technology and an innovative approach to managing the City’s finances."
+          }, {
+            "count" : 18,
+            "item" : "Click here for a quick instructional video on how to use Socrata."
+          }, {
+            "count" : 17,
+            "item" : "Curious to know how much City employees make? Browse regular pay & earnings by department."
+          }, {
+            "count" : 16,
+            "item" : "Need help navigating the Control Panel? Click here for helpful tips and resources."
+          }, {
+            "count" : 15,
+            "item" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA."
+          }, {
+            "count" : 14,
+            "item" : "Need a good example of a search? How about phone companies?"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 109245105,
+        "name" : "Data-type",
+        "dataTypeName" : "text",
+        "fieldName" : "data_type",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514324,
+        "width" : 165,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Chart",
+          "null" : 1,
+          "largest" : "Link",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Chart"
+          }, {
+            "count" : 19,
+            "item" : "Link"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 109245106,
+        "name" : "link",
+        "dataTypeName" : "text",
+        "fieldName" : "link",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514325,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "/videos",
+          "null" : 0,
+          "largest" : "http://www.socrata.com/solutions/platform-video-demo-v4/",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Finance/2012-DWP-Regular-Pay-v-Actual-Earnings/bbtf-f8cs"
+          }, {
+            "count" : 19,
+            "item" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027057.pdf"
+          }, {
+            "count" : 18,
+            "item" : "http://www.socrata.com/solutions/platform-video-demo-v4/"
+          }, {
+            "count" : 17,
+            "item" : "Finance/Payroll-by-Council-Controlled-Department/fefk-viyc"
+          }, {
+            "count" : 16,
+            "item" : "/videos"
+          }, {
+            "count" : 15,
+            "item" : "http://controller.lacity.org/index.htm"
+          }, {
+            "count" : 14,
+            "item" : "Finance/eCheckbook-Data/pggv-e4fn?q=verizon%20OR%20t-mobile%20OR%20at%26t%20OR%20sprint%20OR%20cingular"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "profileLastModified" : 1383863864,
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 109245097,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 109245097,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "profileLastModified" : 1383863864,
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 11, "BE2DE526-3643-47D2-996A-D8C9FF9AAD42", 11, 1382384684, "849710", 1382542517, "849710", null, "1", "Controller's Message", "VrmPtrkmbnMeyusKCYdE_FNdjXKwqavAnZtpYB8gkAs", "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.", "Link", "http://controller.lacity.org/index.htm" ]
+, [ 1, "4B12F722-B632-4155-B3D5-9F0D2B80C0A0", 1, 1380047671, "710611", 1382490115, "849710", "{}", "2", "Explore DWP Payroll Data", "gBAUF4K2ABE2BLwiqd-Vi17NlWU-pj1Sk1lhlRMQbtE", "Browse Regular Pay & Earnings Averages by Job Class. Data provided by Department of Water & Power (2012).", "Chart", "Finance/2012-DWP-Regular-Pay-v-Actual-Earnings/bbtf-f8cs" ]
+, [ 7, "F8E6C2E4-F8C6-4BC2-B5E8-AEAD264954C6", 7, 1382055629, "849676", 1382490117, "849710", null, "3", "Explore City Payroll Data", "VIIOfXO8CIS4epXgGX4GyawGoafVGpj7_w9ftA9NnBY", "Curious to know how much City employees make? Browse regular pay & earnings by department.", "Chart", "Finance/Payroll-by-Council-Controlled-Department/fefk-viyc" ]
+, [ 3, "4E3EF4E5-FD81-44DB-85C5-60FFC5DC3F2C", 3, 1380047671, "710611", 1382559060, "849676", "{}", "4", "Control Panel L.A. Launch", null, "This first phase of ControlPanel L.A. includes data detailing billions of dollars of City transactions – with specifics on nearly 1,000 revenue sources, 600 expenditure accounts and bi-weekly payroll for nearly 50,000 City employees. The tool also opens up the City’s “checkbook” via CheckBookLA, an application allowing users to search tens of thousands of payments to external vendors by department, vendor name, or expenditure type. <br> <br> The Controller's new open data and transparency initiative is the first step in his efforts to bring cutting-edge technology and an innovative approach to managing the City’s finances.", "Link", "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027057.pdf" ]
+, [ 4, "1EDD35B5-4D37-4304-9326-5AD53545ED07", 4, 1380047671, "710611", 1382499231, "710611", "{}", "5", "Tutorial", null, "Click here for a quick instructional video on how to use Socrata.", "Link", "http://www.socrata.com/solutions/platform-video-demo-v4/" ]
+, [ 9, "03E5465C-9298-40B9-9AA1-DC1ECE7976C4", 9, 1382334940, "849710", 1382500897, "710611", null, "6", "Questions?", null, "Need help navigating the Control Panel? Click here for helpful tips and resources.", null, "/videos" ]
+, [ 12, "1BF96E90-0D50-4CCA-B7BB-574E45D13556", 12, 1382466102, "849676", 1382495420, "849676", null, "8", "Search City Payments to Phone Companies", null, "Need a good example of a search? How about phone companies?", "Link", "Finance/eCheckbook-Data/pggv-e4fn?q=verizon%20OR%20t-mobile%20OR%20at%26t%20OR%20sprint%20OR%20cingular" ]
+ ]
+}

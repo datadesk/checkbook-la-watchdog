@@ -5,6 +5,7 @@ import requests
 from jinja2 import Template
 from datetime import datetime
 from hurry.filesize import size
+from BeautifulSoup import BeautifulSoup
 from dateutil.parser import parse as dateparse
 
 
@@ -12,19 +13,14 @@ class Watchdog(object):
     """
     Tricks for downloading and archiving Checkbook LA data.
     """
-    file_list = [
-        dict(name='eCheckbook Data', id='pggv-e4fn', url='https://controllerdata.lacity.org/Finance/eCheckbook-Data/pggv-e4fn'),
-        dict(name='General Fund Revenue', id='hfus-a659', url='https://controllerdata.lacity.org/Finance/General-Fund-Revenue/hfus-a659'),
-        dict(name='Neighborhood Council Expenditures', id='f2ec-m4t9', url='https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9'),
-        dict(name='Payroll', id='qjfm-3srk', url='https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk'),
-        dict(name='General Fund Budget Expenditures', id='uyzw-yi8n', url='https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n'),
-    ]
     format_list = ['csv', 'json']
     url_template = 'https://controllerdata.lacity.org/api/views/%(id)s/\
 rows.%(format)s?accessType=DOWNLOAD'
     headers = {
         'User-agent': 'Los Angeles Times Data Desk (datadesk@latimes.com)'
     }
+    catalog_url = 'https://controllerdata.lacity.org/browse?limitTo=datasets\
+&sortBy=alpha&view_type=table&limit=1000'
 
     def handle(self, *args, **kwargs):
         """
@@ -49,6 +45,27 @@ rows.%(format)s?accessType=DOWNLOAD'
         # Make sure template paths exist
         os.path.exists(self.csv_dir) or os.mkdir(self.csv_dir)
         os.path.exists(self.json_dir) or os.mkdir(self.json_dir)
+        # Discover all the files we're going to download
+        self.get_file_list()
+
+    def get_file_list(self):
+        """
+        Scrape all of the "datasets" published by the controller.
+        """
+        r = requests.get(self.catalog_url, headers=self.headers)
+        soup = BeautifulSoup(r.text)
+        row_list = soup.find("table", {"class": "gridList"}).findAll("tr")
+        self.file_list = []
+        for row in row_list[1:]:
+            cell = row.find("td", { "class": "nameDesc" })
+            data = cell.find("a", {"class": "name"})
+            name = data.string
+            url = data['href']
+            self.file_list.append({
+                'name': name,
+                'url': url,
+                'id': url.split("/")[-1],
+            })
 
     def download(self, obj):
         """

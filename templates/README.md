@@ -51,3 +51,11 @@ Run the script to get the latest files.
 ```bash
 $ python watchdog.py
 ```
+
+What you can do
+---------------
+
+# Try it out and report bugs.
+# Figure out ways to build notifications, visualizations or another application on top of the shifting data.
+# Try forking it and making it go on a Socrata based data site in your city...
+# ... Or just modifying it to work off any public data set.
