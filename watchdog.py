@@ -28,7 +28,7 @@ rows.%(format)s?accessType=DOWNLOAD'
         """
         print "Running the checkbook la watchdog"
         self.set_options()
-        [self.download(f) for f in self.file_list]
+        [self.download(f) for f in self.file_list[1:2]]
         self.update_github()
 
     def set_options(self):
@@ -108,6 +108,7 @@ rows.%(format)s?accessType=DOWNLOAD'
                 'url': obj['url'],
             })
         diff = envoy.run("git diff --stat").std_out
+        print diff
         out_data = template.render(file_list=dict_list, diff=diff)
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
         out_file.write(out_data)
