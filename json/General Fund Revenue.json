@@ -8,7 +8,7 @@
       "createdAt" : 1382069286,
       "description" : "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",
       "displayType" : "table",
-      "downloadCount" : 29,
+      "downloadCount" : 33,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6062673,
@@ -21,7 +21,7 @@
       "signed" : false,
       "tableId" : 1281160,
       "totalTimesRated" : 0,
-      "viewCount" : 249,
+      "viewCount" : 256,
       "viewLastModified" : 1382597080,
       "viewType" : "tabular",
       "columns" : [ {
