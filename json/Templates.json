@@ -5,7 +5,7 @@
       "name" : "Templates",
       "averageRating" : 0,
       "createdAt" : 1380047397,
-      "downloadCount" : 10,
+      "downloadCount" : 14,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 5583075,
@@ -18,7 +18,7 @@
       "state" : "empty",
       "tableId" : 1181401,
       "totalTimesRated" : 0,
-      "viewCount" : 23,
+      "viewCount" : 24,
       "viewLastModified" : 1380047402,
       "viewType" : "tabular",
       "columns" : [ {
