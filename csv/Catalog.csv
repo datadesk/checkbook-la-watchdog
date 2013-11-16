@@ -2146,6 +2146,52 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }]",fefk-viyc,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 03:04:56 AM +0000,11/16/2013 01:19:50 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Negative Earnings over Regular Pay (Finance/Negative-Earnings-over-Regular-Pay/fv2j-fh8d),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,fv2j-fh8d,1353044,,"[{
+  ""id"" : 115456628,
+  ""name"" : ""Department Title"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_title"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15401981,
+  ""width"" : 216,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115456631,
+  ""name"" : ""Regular Pay"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""regular_pay"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15401986,
+  ""width"" : 109,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115456637,
+  ""name"" : ""Earnings over Regular Pay"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay"",
+  ""fieldName"" : ""earnings_over_regular_pay"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15401992,
+  ""width"" : 93,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",fv2j-fh8d,"{Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,11/16/2013 02:44:45 AM +0000,11/16/2013 02:44:45 AM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,CD4 - payroll (Finance/CD4-payroll/gj4w-rb5s),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,gj4w-rb5s,1353044,,"[{
   ""id"" : 115446484,
   ""name"" : ""Year"",
@@ -4690,6 +4736,99 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }]",bdnu-jb4a,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 05:15:17 PM +0000,11/16/2013 01:19:45 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Expenditures by Account Group (Finance/Expenditures-by-Account-Group/ek3x-e9j4),,"General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014",0,Finance,"general fund, budget, expenditure, appropriation, account",0,,,,,ek3x-e9j4,1352437,,"[{
+  ""id"" : 115458664,
+  ""name"" : ""ACCOUNT GROUP NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""account_group_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407328,
+  ""width"" : 264,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115458665,
+  ""name"" : ""BUDGET FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""budget_fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407323,
+  ""width"" : 80,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115458666,
+  ""name"" : ""ADOPTED BUDGET AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Original budget amount adopted by Mayor and Council"",
+  ""fieldName"" : ""adopted_budget_amount"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407329,
+  ""width"" : 124,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115458667,
+  ""name"" : ""BUDGET TRANSFER OUT AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Decrease in appropriation to account by transfer out of funds"",
+  ""fieldName"" : ""budget_transfer_out_amount"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407332,
+  ""width"" : 99,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115458669,
+  ""name"" : ""TOTAL BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Appropriation account amount net of changes and transfers to/from the original budgeted amount"",
+  ""fieldName"" : ""total_budget"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407333,
+  ""width"" : 113,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115458671,
+  ""name"" : ""TOTAL EXPENDITURES"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Total Budget Fiscal Year amount expended from account to date"",
+  ""fieldName"" : ""total_expenditures"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407334,
+  ""width"" : 113,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",ek3x-e9j4,"{Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,11/16/2013 03:07:46 AM +0000,11/16/2013 03:07:46 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Total Budget v Total Expenditures by Department (Finance/FY2013-General-Fund-Total-Budget-v-Total-Expenditu/hrhm-8u54),,"General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014",0,Finance,"general fund, budget, expenditure, appropriation, account",0,,,,,hrhm-8u54,1352437,,"[{
   ""id"" : 115446353,
   ""name"" : ""DEPARTMENT NAME"",
