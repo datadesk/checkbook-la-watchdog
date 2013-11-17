@@ -7,7 +7,7 @@
       "category" : "Internal",
       "createdAt" : 1380047669,
       "displayType" : "table",
-      "downloadCount" : 18,
+      "downloadCount" : 22,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6056065,
@@ -20,7 +20,7 @@
       "signed" : false,
       "tableId" : 1279847,
       "totalTimesRated" : 0,
-      "viewCount" : 136,
+      "viewCount" : 137,
       "viewLastModified" : 1382559079,
       "viewType" : "tabular",
       "columns" : [ {
