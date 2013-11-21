@@ -1,4 +1,72 @@
 Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Relevance,Access this Week,Access this Month,Access this year,Uid,Table Id,External Id,Columns,Identifier,Custom Metadata,SoQL,Key Identifier,State,Owner,Permissions,License,Attribution,Creation Date,Last Updated Date
+"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Home Page Stories (Internal/Home-Page-Stories/uuhh-hvvk),,,0,Internal,,0,,,,,uuhh-hvvk,1364482,,"[{
+  ""id"" : 116774944,
+  ""name"" : ""Sort"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""sort"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15500997,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116774945,
+  ""name"" : ""Title"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""title"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 14514321,
+  ""width"" : 160,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116774946,
+  ""name"" : ""Image"",
+  ""dataTypeName"" : ""photo"",
+  ""fieldName"" : ""image"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""photo"",
+  ""tableColumnId"" : 14820921,
+  ""width"" : 100,
+  ""format"" : {
+    ""size"" : ""medium""
+  }
+}, {
+  ""id"" : 116774947,
+  ""name"" : ""Description"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""description"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 14514322,
+  ""width"" : 232,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116774948,
+  ""name"" : ""Data-type"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""data_type"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 14514324,
+  ""width"" : 165,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116774949,
+  ""name"" : ""link"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""link"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 14514325,
+  ""width"" : 148,
+  ""format"" : {
+  }
+}]",uuhh-hvvk,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,09/24/2013 06:34:29 PM +0000,11/21/2013 01:29:46 AM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Law Firms - NAMED (Finance/Law-Firms-NAMED/2np7-qmat),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,2np7-qmat,1361859,,"[{
   ""id"" : 116398783,
   ""name"" : ""VENDOR NAME"",
@@ -11471,74 +11539,6 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
     ""currency"" : ""USD""
   }
 }]",xcjh-7vku,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/12/2013 11:48:16 PM +0000,11/12/2013 11:49:16 PM +0000
-"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Home Page Stories (Internal/Home-Page-Stories/uuhh-hvvk),,,0,Internal,,0,,,,,uuhh-hvvk,1279847,,"[{
-  ""id"" : 109245097,
-  ""name"" : ""Sort"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""sort"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15500997,
-  ""width"" : 100,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 109245098,
-  ""name"" : ""Title"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""title"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 14514321,
-  ""width"" : 160,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 109245100,
-  ""name"" : ""Image"",
-  ""dataTypeName"" : ""photo"",
-  ""fieldName"" : ""image"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""photo"",
-  ""tableColumnId"" : 14820921,
-  ""width"" : 100,
-  ""format"" : {
-    ""size"" : ""medium""
-  }
-}, {
-  ""id"" : 109245103,
-  ""name"" : ""Description"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""description"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 14514322,
-  ""width"" : 232,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 109245105,
-  ""name"" : ""Data-type"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""data_type"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 14514324,
-  ""width"" : 165,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 109245106,
-  ""name"" : ""link"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""link"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 14514325,
-  ""width"" : 148,
-  ""format"" : {
-  }
-}]",uuhh-hvvk,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,09/24/2013 06:34:29 PM +0000,10/23/2013 08:11:19 PM +0000
 "<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Home Page Featured Scrolling Stories (Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk),,,0,Internal,,0,,,,,hmvt-bjfk,1277333,,"[{
   ""id"" : 109009975,
   ""name"" : ""Sort"",

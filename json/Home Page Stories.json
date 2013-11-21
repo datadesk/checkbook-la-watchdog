@@ -10,18 +10,18 @@
       "downloadCount" : 36,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6056065,
+      "oid" : 6506894,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1382559079,
+      "publicationDate" : 1384997386,
       "publicationGroup" : 1181417,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1382559064,
-      "rowsUpdatedBy" : "mnkj-bu52",
+      "rowsUpdatedAt" : 1384997367,
+      "rowsUpdatedBy" : "yikh-b4h5",
       "signed" : false,
-      "tableId" : 1279847,
+      "tableId" : 1364482,
       "totalTimesRated" : 0,
       "viewCount" : 137,
-      "viewLastModified" : 1382559079,
+      "viewLastModified" : 1384997386,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -96,7 +96,7 @@
         "format" : {
         }
       }, {
-        "id" : 109245097,
+        "id" : 116774944,
         "name" : "Sort",
         "dataTypeName" : "number",
         "fieldName" : "sort",
@@ -104,40 +104,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 15500997,
         "width" : 100,
-        "cachedContents" : {
-          "non_null" : 7,
-          "smallest" : "1",
-          "sum" : "29",
-          "null" : 0,
-          "average" : "4.142857142857143",
-          "largest" : "8",
-          "top" : [ {
-            "count" : 20,
-            "item" : "2"
-          }, {
-            "count" : 19,
-            "item" : "4"
-          }, {
-            "count" : 18,
-            "item" : "5"
-          }, {
-            "count" : 17,
-            "item" : "3"
-          }, {
-            "count" : 16,
-            "item" : "6"
-          }, {
-            "count" : 15,
-            "item" : "1"
-          }, {
-            "count" : 14,
-            "item" : "8"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 109245098,
+        "id" : 116774945,
         "name" : "Title",
         "dataTypeName" : "text",
         "fieldName" : "title",
@@ -145,38 +115,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514321,
         "width" : 160,
-        "cachedContents" : {
-          "non_null" : 7,
-          "smallest" : "Controller's Message",
-          "null" : 0,
-          "largest" : "Tutorial",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Explore DWP Payroll Data"
-          }, {
-            "count" : 19,
-            "item" : "Control Panel L.A. Launch"
-          }, {
-            "count" : 18,
-            "item" : "Tutorial"
-          }, {
-            "count" : 17,
-            "item" : "Explore City Payroll Data"
-          }, {
-            "count" : 16,
-            "item" : "Questions?"
-          }, {
-            "count" : 15,
-            "item" : "Controller's Message"
-          }, {
-            "count" : 14,
-            "item" : "Search City Payments to Phone Companies"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 109245100,
+        "id" : 116774946,
         "name" : "Image",
         "dataTypeName" : "photo",
         "fieldName" : "image",
@@ -184,15 +126,11 @@
         "renderTypeName" : "photo",
         "tableColumnId" : 14820921,
         "width" : 100,
-        "cachedContents" : {
-          "non_null" : 3,
-          "null" : 4
-        },
         "format" : {
           "size" : "medium"
         }
       }, {
-        "id" : 109245103,
+        "id" : 116774947,
         "name" : "Description",
         "dataTypeName" : "text",
         "fieldName" : "description",
@@ -200,38 +138,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514322,
         "width" : 232,
-        "cachedContents" : {
-          "non_null" : 7,
-          "smallest" : "Browse Regular Pay & Earnings Averages by Job Class. Data provided by Department of Water & Power (2012).",
-          "null" : 0,
-          "largest" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Browse Regular Pay & Earnings Averages by Job Class. Data provided by Department of Water & Power (2012)."
-          }, {
-            "count" : 19,
-            "item" : "This first phase of ControlPanel L.A. includes data detailing billions of dollars of City transactions – with specifics on nearly 1,000 revenue sources, 600 expenditure accounts and bi-weekly payroll for nearly 50,000 City employees. The tool also opens up the City’s “checkbook” via CheckBookLA, an application allowing users to search tens of thousands of payments to external vendors by department, vendor name, or expenditure type. <br> <br> The Controller's new open data and transparency initiative is the first step in his efforts to bring cutting-edge technology and an innovative approach to managing the City’s finances."
-          }, {
-            "count" : 18,
-            "item" : "Click here for a quick instructional video on how to use Socrata."
-          }, {
-            "count" : 17,
-            "item" : "Curious to know how much City employees make? Browse regular pay & earnings by department."
-          }, {
-            "count" : 16,
-            "item" : "Need help navigating the Control Panel? Click here for helpful tips and resources."
-          }, {
-            "count" : 15,
-            "item" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA."
-          }, {
-            "count" : 14,
-            "item" : "Need a good example of a search? How about phone companies?"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 109245105,
+        "id" : 116774948,
         "name" : "Data-type",
         "dataTypeName" : "text",
         "fieldName" : "data_type",
@@ -239,23 +149,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514324,
         "width" : 165,
-        "cachedContents" : {
-          "non_null" : 6,
-          "smallest" : "Chart",
-          "null" : 1,
-          "largest" : "Link",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Chart"
-          }, {
-            "count" : 19,
-            "item" : "Link"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 109245106,
+        "id" : 116774949,
         "name" : "link",
         "dataTypeName" : "text",
         "fieldName" : "link",
@@ -263,34 +160,6 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514325,
         "width" : 148,
-        "cachedContents" : {
-          "non_null" : 7,
-          "smallest" : "/videos",
-          "null" : 0,
-          "largest" : "http://www.socrata.com/solutions/platform-video-demo-v4/",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Finance/2012-DWP-Regular-Pay-v-Actual-Earnings/bbtf-f8cs"
-          }, {
-            "count" : 19,
-            "item" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027057.pdf"
-          }, {
-            "count" : 18,
-            "item" : "http://www.socrata.com/solutions/platform-video-demo-v4/"
-          }, {
-            "count" : 17,
-            "item" : "Finance/Payroll-by-Council-Controlled-Department/fefk-viyc"
-          }, {
-            "count" : 16,
-            "item" : "/videos"
-          }, {
-            "count" : 15,
-            "item" : "http://controller.lacity.org/index.htm"
-          }, {
-            "count" : 14,
-            "item" : "Finance/eCheckbook-Data/pggv-e4fn?q=verizon%20OR%20t-mobile%20OR%20at%26t%20OR%20sprint%20OR%20cingular"
-          } ]
-        },
         "format" : {
         }
       } ],
@@ -332,7 +201,7 @@
         "orderBys" : [ {
           "ascending" : true,
           "expression" : {
-            "columnId" : 109245097,
+            "columnId" : 116774944,
             "type" : "column"
           }
         } ]
@@ -340,7 +209,7 @@
       "rights" : [ "read" ],
       "sortBys" : [ {
         "id" : 0,
-        "viewColumnId" : 109245097,
+        "viewColumnId" : 116774944,
         "flags" : [ "asc" ]
       } ],
       "tableAuthor" : {
@@ -361,11 +230,11 @@
     }
   },
   "data" : [ [ 11, "BE2DE526-3643-47D2-996A-D8C9FF9AAD42", 11, 1382384684, "849710", 1382542517, "849710", null, "1", "Controller's Message", "VrmPtrkmbnMeyusKCYdE_FNdjXKwqavAnZtpYB8gkAs", "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.", "Link", "http://controller.lacity.org/index.htm" ]
-, [ 1, "4B12F722-B632-4155-B3D5-9F0D2B80C0A0", 1, 1380047671, "710611", 1382490115, "849710", "{}", "2", "Explore DWP Payroll Data", "gBAUF4K2ABE2BLwiqd-Vi17NlWU-pj1Sk1lhlRMQbtE", "Browse Regular Pay & Earnings Averages by Job Class. Data provided by Department of Water & Power (2012).", "Chart", "Finance/2012-DWP-Regular-Pay-v-Actual-Earnings/bbtf-f8cs" ]
-, [ 7, "F8E6C2E4-F8C6-4BC2-B5E8-AEAD264954C6", 7, 1382055629, "849676", 1382490117, "849710", null, "3", "Explore City Payroll Data", "VIIOfXO8CIS4epXgGX4GyawGoafVGpj7_w9ftA9NnBY", "Curious to know how much City employees make? Browse regular pay & earnings by department.", "Chart", "Finance/Payroll-by-Council-Controlled-Department/fefk-viyc" ]
-, [ 3, "4E3EF4E5-FD81-44DB-85C5-60FFC5DC3F2C", 3, 1380047671, "710611", 1382559060, "849676", "{}", "4", "Control Panel L.A. Launch", null, "This first phase of ControlPanel L.A. includes data detailing billions of dollars of City transactions – with specifics on nearly 1,000 revenue sources, 600 expenditure accounts and bi-weekly payroll for nearly 50,000 City employees. The tool also opens up the City’s “checkbook” via CheckBookLA, an application allowing users to search tens of thousands of payments to external vendors by department, vendor name, or expenditure type. <br> <br> The Controller's new open data and transparency initiative is the first step in his efforts to bring cutting-edge technology and an innovative approach to managing the City’s finances.", "Link", "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027057.pdf" ]
+, [ 1, "4B12F722-B632-4155-B3D5-9F0D2B80C0A0", 1, 1380047671, "710611", 1384997367, "849710", "{}", "2", "Search Neighborhood Council Expenditures", "QUKy8YjSrZ9PLK41_EW4rge4TCxs9L9tTTVggLGQcjo", "Top expenditures include: $118,849.09 on P-Card purchases, $43,070.95 on temporary administrative staff, and $33,517.46 on events - details on bank card purchases, rentals, temporary staff, events and more.", "Chart", "https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email" ]
+, [ 7, "F8E6C2E4-F8C6-4BC2-B5E8-AEAD264954C6", 7, 1382055629, "849676", 1384997342, "849710", null, "3", "Explore Quarter 3 City Payroll Data", "VIIOfXO8CIS4epXgGX4GyawGoafVGpj7_w9ftA9NnBY", "Between July 1 and September 30 of this year, the City spent $779,422,981.25 on payroll. More than 10,000 employees made $25,000 or more in the 3rd quarter, and on track to make more than $100,000 a year or more.", "Chart", "https://controllerdata.lacity.org/Finance/Top-Q3-Earners/v77r-2q9u?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email" ]
+, [ 3, "4E3EF4E5-FD81-44DB-85C5-60FFC5DC3F2C", 3, 1380047671, "710611", 1384997101, "849710", "{}", "4", " ControlPanel LA Update: Taxes, settlements, and more...", null, "Today, we released our first update to the City Controller's ControlPanel LA. The database of revenues and expenditures continues to grow with new and updated data sets, and information on business tax registrations, settlements and judgments, and new data fields.   <br> <br>  Knowledge is power -- and the Control Panel is about providing both to the people of Los Angeles. We're working to make all of the City's data and operations accessible and transparent.  We welcome your feedback and suggestions -- and stay tuned for ongoing updates.", null, null ]
 , [ 4, "1EDD35B5-4D37-4304-9326-5AD53545ED07", 4, 1380047671, "710611", 1382499231, "710611", "{}", "5", "Tutorial", null, "Click here for a quick instructional video on how to use Socrata.", "Link", "http://www.socrata.com/solutions/platform-video-demo-v4/" ]
 , [ 9, "03E5465C-9298-40B9-9AA1-DC1ECE7976C4", 9, 1382334940, "849710", 1382500897, "710611", null, "6", "Questions?", null, "Need help navigating the Control Panel? Click here for helpful tips and resources.", null, "/videos" ]
-, [ 12, "1BF96E90-0D50-4CCA-B7BB-574E45D13556", 12, 1382466102, "849676", 1382495420, "849676", null, "8", "Search City Payments to Phone Companies", null, "Need a good example of a search? How about phone companies?", "Link", "Finance/eCheckbook-Data/pggv-e4fn?q=verizon%20OR%20t-mobile%20OR%20at%26t%20OR%20sprint%20OR%20cingular" ]
+, [ 12, "1BF96E90-0D50-4CCA-B7BB-574E45D13556", 12, 1382466102, "849676", 1384997315, "849710", null, "8", "Money in; Money out", null, "Fresh data for the month of October, detailing $268,332,593 in Revenues and $393,345,708 in Expenditures", "Link", "https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email" ]
  ]
 }
