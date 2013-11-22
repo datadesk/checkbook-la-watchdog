@@ -104,6 +104,36 @@
         "renderTypeName" : "number",
         "tableColumnId" : 15500997,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "1",
+          "sum" : "29",
+          "null" : 0,
+          "average" : "4.142857142857143",
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "5"
+          }, {
+            "count" : 17,
+            "item" : "3"
+          }, {
+            "count" : 16,
+            "item" : "6"
+          }, {
+            "count" : 15,
+            "item" : "1"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -115,6 +145,34 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514321,
         "width" : 160,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Controller's Message",
+          "null" : 0,
+          "largest" : "Tutorial",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Search Neighborhood Council Expenditures"
+          }, {
+            "count" : 19,
+            "item" : " ControlPanel LA Update: Taxes, settlements, and more..."
+          }, {
+            "count" : 18,
+            "item" : "Tutorial"
+          }, {
+            "count" : 17,
+            "item" : "Explore Quarter 3 City Payroll Data"
+          }, {
+            "count" : 16,
+            "item" : "Questions?"
+          }, {
+            "count" : 15,
+            "item" : "Controller's Message"
+          }, {
+            "count" : 14,
+            "item" : "Money in; Money out"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -126,6 +184,10 @@
         "renderTypeName" : "photo",
         "tableColumnId" : 14820921,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "null" : 4
+        },
         "format" : {
           "size" : "medium"
         }
@@ -138,6 +200,34 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514322,
         "width" : 232,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Between July 1 and September 30 of this year, the City spent $779,422,981.25 on payroll. More than 10,000 employees made $25,000 or more in the 3rd quarter, and on track to make more than $100,000 a year or more.",
+          "null" : 0,
+          "largest" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Top expenditures include: $118,849.09 on P-Card purchases, $43,070.95 on temporary administrative staff, and $33,517.46 on events - details on bank card purchases, rentals, temporary staff, events and more."
+          }, {
+            "count" : 19,
+            "item" : "Today, we released our first update to the City Controller's ControlPanel LA. The database of revenues and expenditures continues to grow with new and updated data sets, and information on business tax registrations, settlements and judgments, and new data fields.   <br> <br>  Knowledge is power -- and the Control Panel is about providing both to the people of Los Angeles. We're working to make all of the City's data and operations accessible and transparent.  We welcome your feedback and suggestions -- and stay tuned for ongoing updates."
+          }, {
+            "count" : 18,
+            "item" : "Click here for a quick instructional video on how to use Socrata."
+          }, {
+            "count" : 17,
+            "item" : "Between July 1 and September 30 of this year, the City spent $779,422,981.25 on payroll. More than 10,000 employees made $25,000 or more in the 3rd quarter, and on track to make more than $100,000 a year or more."
+          }, {
+            "count" : 16,
+            "item" : "Need help navigating the Control Panel? Click here for helpful tips and resources."
+          }, {
+            "count" : 15,
+            "item" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA."
+          }, {
+            "count" : 14,
+            "item" : "Fresh data for the month of October, detailing $268,332,593 in Revenues and $393,345,708 in Expenditures"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -149,6 +239,19 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514324,
         "width" : 165,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "Chart",
+          "null" : 2,
+          "largest" : "Link",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Chart"
+          }, {
+            "count" : 19,
+            "item" : "Link"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -160,6 +263,31 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514325,
         "width" : 148,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "/videos",
+          "null" : 1,
+          "largest" : "https://controllerdata.lacity.org/Finance/Top-Q3-Earners/v77r-2q9u?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email",
+          "top" : [ {
+            "count" : 20,
+            "item" : "https://controllerdata.lacity.org/Finance/Neighborhood-Council-Expenditures/f2ec-m4t9?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email"
+          }, {
+            "count" : 19,
+            "item" : "http://www.socrata.com/solutions/platform-video-demo-v4/"
+          }, {
+            "count" : 18,
+            "item" : "https://controllerdata.lacity.org/Finance/Top-Q3-Earners/v77r-2q9u?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email"
+          }, {
+            "count" : 17,
+            "item" : "/videos"
+          }, {
+            "count" : 16,
+            "item" : "http://controller.lacity.org/index.htm"
+          }, {
+            "count" : 15,
+            "item" : "https://controllerdata.lacity.org/Finance/General-Fund-Budget-Expenditures/uyzw-yi8n?utm_source=ControlPanel+Update+1&utm_campaign=Control+Panel+Update+1&utm_medium=email"
+          } ]
+        },
         "format" : {
         }
       } ],

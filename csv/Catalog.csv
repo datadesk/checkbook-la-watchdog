@@ -11430,115 +11430,36 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
 }]",s5hu-54d5,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/19/2013 07:00:00 PM +0000,11/19/2013 07:00:11 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Neighborhood Council Expenditures Over Time (Finance/Neighborhood-Council-Expenditures-Over-Time/xcjh-7vku),,"Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.
 Information provided by the Department of Neighborhood Empowerment",0,Finance,"neighborhood council, expenditures, done, ncs, neighborhood",0,,,,,xcjh-7vku,1333914,,"[{
-  ""id"" : 114638759,
-  ""name"" : ""BFY"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""bfy"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 16072705,
-  ""width"" : 56,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""true""
-  }
-}, {
-  ""id"" : 114638760,
-  ""name"" : ""Appr"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""appr"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 16072706,
-  ""width"" : 79,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""true""
-  }
-}, {
-  ""id"" : 114638761,
-  ""name"" : ""Neighborhood Council"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""neighborhood_council"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16072707,
-  ""width"" : 205,
-  ""format"" : {
-  }
-}, {
   ""id"" : 114638762,
   ""name"" : ""Date"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""date"",
-  ""position"" : 4,
+  ""position"" : 1,
   ""renderTypeName"" : ""calendar_date"",
   ""tableColumnId"" : 16072708,
-  ""width"" : 93,
+  ""width"" : 123,
   ""format"" : {
-  }
-}, {
-  ""id"" : 114638763,
-  ""name"" : ""Description"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""description"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16072709,
-  ""width"" : 254,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114638764,
-  ""name"" : ""Vendor Name"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""vendor_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16072710,
-  ""width"" : 232,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114638765,
-  ""name"" : ""Spending Category"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""spending_category"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16072711,
-  ""width"" : 150,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114638766,
-  ""name"" : ""Task"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""task"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16072712,
-  ""width"" : 177,
-  ""format"" : {
+    ""group_function"" : ""date_ymd"",
+    ""drill_down"" : ""true"",
+    ""view"" : ""date""
   }
 }, {
   ""id"" : 114638767,
   ""name"" : ""Expenditure"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""expenditure"",
-  ""position"" : 9,
+  ""position"" : 2,
   ""renderTypeName"" : ""money"",
   ""tableColumnId"" : 16072713,
   ""width"" : 97,
   ""format"" : {
     ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
     ""humane"" : ""false"",
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",xcjh-7vku,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/12/2013 11:48:16 PM +0000,11/12/2013 11:49:16 PM +0000
+}]",xcjh-7vku,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/12/2013 11:48:16 PM +0000,11/22/2013 12:17:13 AM +0000
 "<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Home Page Featured Scrolling Stories (Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk),,,0,Internal,,0,,,,,hmvt-bjfk,1277333,,"[{
   ""id"" : 109009975,
   ""name"" : ""Sort"",

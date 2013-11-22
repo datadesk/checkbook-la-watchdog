@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 52,
+      "downloadCount" : 56,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 5583074,
@@ -12893,111 +12893,32 @@
       "Other" : "Department of Neighborhood Empowerment"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384887600, 1384887611 ]
-, [ 145980856857886, "145980856857886", null, 1384300096, "849676", 1384300156, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-Over-Time/xcjh-7vku", "Neighborhood Council Expenditures Over Time" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "xcjh-7vku", "1333914", null, [ {
-    "id" : 114638759,
-    "name" : "BFY",
-    "dataTypeName" : "number",
-    "fieldName" : "bfy",
-    "position" : 1,
-    "renderTypeName" : "number",
-    "tableColumnId" : 16072705,
-    "width" : 56,
-    "format" : {
-      "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "true"
-    }
-  }, {
-    "id" : 114638760,
-    "name" : "Appr",
-    "dataTypeName" : "number",
-    "fieldName" : "appr",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 16072706,
-    "width" : 79,
-    "format" : {
-      "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "true"
-    }
-  }, {
-    "id" : 114638761,
-    "name" : "Neighborhood Council",
-    "dataTypeName" : "text",
-    "fieldName" : "neighborhood_council",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 16072707,
-    "width" : 205,
-    "format" : {
-    }
-  }, {
+, [ 145980856857886, "145980856857886", null, 1384300096, "849676", 1385079433, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-Over-Time/xcjh-7vku", "Neighborhood Council Expenditures Over Time" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "xcjh-7vku", "1333914", null, [ {
     "id" : 114638762,
     "name" : "Date",
     "dataTypeName" : "calendar_date",
     "fieldName" : "date",
-    "position" : 4,
+    "position" : 1,
     "renderTypeName" : "calendar_date",
     "tableColumnId" : 16072708,
-    "width" : 93,
+    "width" : 123,
     "format" : {
-    }
-  }, {
-    "id" : 114638763,
-    "name" : "Description",
-    "dataTypeName" : "text",
-    "fieldName" : "description",
-    "position" : 5,
-    "renderTypeName" : "text",
-    "tableColumnId" : 16072709,
-    "width" : 254,
-    "format" : {
-    }
-  }, {
-    "id" : 114638764,
-    "name" : "Vendor Name",
-    "dataTypeName" : "text",
-    "fieldName" : "vendor_name",
-    "position" : 6,
-    "renderTypeName" : "text",
-    "tableColumnId" : 16072710,
-    "width" : 232,
-    "format" : {
-    }
-  }, {
-    "id" : 114638765,
-    "name" : "Spending Category",
-    "dataTypeName" : "text",
-    "fieldName" : "spending_category",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 16072711,
-    "width" : 150,
-    "format" : {
-    }
-  }, {
-    "id" : 114638766,
-    "name" : "Task",
-    "dataTypeName" : "text",
-    "fieldName" : "task",
-    "position" : 8,
-    "renderTypeName" : "text",
-    "tableColumnId" : 16072712,
-    "width" : 177,
-    "format" : {
+      "group_function" : "date_ymd",
+      "drill_down" : "true",
+      "view" : "date"
     }
   }, {
     "id" : 114638767,
     "name" : "Expenditure",
     "dataTypeName" : "money",
     "fieldName" : "expenditure",
-    "position" : 9,
+    "position" : 2,
     "renderTypeName" : "money",
     "tableColumnId" : 16072713,
     "width" : 97,
     "format" : {
       "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
       "humane" : "false",
       "align" : "right",
       "currency" : "USD"
@@ -13007,7 +12928,7 @@
       "Controller" : "",
       "Other" : "Department of Neighborhood Empowerment"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384300096, 1384300156 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384300096, 1385079433 ]
 , [ 76312394675156, "76312394675156", null, 1380047576, "710611", 1382500070, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk", "Home Page Featured Scrolling Stories" ], null, null, "0", "Internal", "", "0", null, null, null, null, "hmvt-bjfk", "1277333", null, [ {
     "id" : 109009975,
     "name" : "Sort",
