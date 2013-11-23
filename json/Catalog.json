@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 56,
+      "downloadCount" : 60,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 5583074,
@@ -1034,8 +1034,8 @@
       "flags" : [ "default" ]
     }
   },
-  "data" : [ [ 134021523044308, "134021523044308", null, 1380047669, "710611", 1384997386, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Internal/Home-Page-Stories/uuhh-hvvk", "Home Page Stories" ], null, null, "0", "Internal", "", "0", null, null, null, null, "uuhh-hvvk", "1364482", null, [ {
-    "id" : 116774944,
+  "data" : [ [ 134021523044308, "134021523044308", null, 1380047669, "710611", 1385145669, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Internal/Home-Page-Stories/uuhh-hvvk", "Home Page Stories" ], null, null, "0", "Internal", "", "0", null, null, null, null, "uuhh-hvvk", "1368222", null, [ {
+    "id" : 117354945,
     "name" : "Sort",
     "dataTypeName" : "number",
     "fieldName" : "sort",
@@ -1046,7 +1046,7 @@
     "format" : {
     }
   }, {
-    "id" : 116774945,
+    "id" : 117354946,
     "name" : "Title",
     "dataTypeName" : "text",
     "fieldName" : "title",
@@ -1057,7 +1057,7 @@
     "format" : {
     }
   }, {
-    "id" : 116774946,
+    "id" : 117354947,
     "name" : "Image",
     "dataTypeName" : "photo",
     "fieldName" : "image",
@@ -1069,7 +1069,7 @@
       "size" : "medium"
     }
   }, {
-    "id" : 116774947,
+    "id" : 117354948,
     "name" : "Description",
     "dataTypeName" : "text",
     "fieldName" : "description",
@@ -1080,7 +1080,7 @@
     "format" : {
     }
   }, {
-    "id" : 116774948,
+    "id" : 117354949,
     "name" : "Data-type",
     "dataTypeName" : "text",
     "fieldName" : "data_type",
@@ -1091,7 +1091,7 @@
     "format" : {
     }
   }, {
-    "id" : 116774949,
+    "id" : 117354950,
     "name" : "link",
     "dataTypeName" : "text",
     "fieldName" : "link",
@@ -1106,7 +1106,90 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047669, 1384997386 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047669, 1385145669 ]
+, [ 129762122572934, "129762122572934", null, 1385144752, "849676", 1385145524, "849676", null, "<div class='typeForm'><div class=\"viewTypeCell\">Form</div></div>", null, [ "dataset/ControlPanel-LA-Survey/twip-eai6", "ControlPanel LA Survey" ], null, "We want to hear from you - how can we improve ControlPanel LA?", "0", null, "form, survey, response", "0", null, null, null, null, "twip-eai6", "1368211", null, [ {
+    "id" : 117352020,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16491365,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 117352021,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 2,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 16491366,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 117352022,
+    "name" : "Recommendation",
+    "dataTypeName" : "text",
+    "fieldName" : "recommendation",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16491378,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 117352023,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16491379,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 117352024,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16491395,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 117352025,
+    "name" : "Email",
+    "dataTypeName" : "text",
+    "fieldName" : "email",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16491425,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 117352026,
+    "name" : "Phone Number",
+    "dataTypeName" : "number",
+    "fieldName" : "phone_number",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16491426,
+    "width" : 100,
+    "format" : {
+    }
+  } ], "twip-eai6", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1385144752, 1385145524 ]
 , [ 10403608879773, "10403608879773", null, 1382970365, "858342", 1384885990, "858342", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Law-Firms-NAMED/2np7-qmat", "Law Firms - NAMED" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "2np7-qmat", "1361859", null, [ {
     "id" : 116398783,
     "name" : "VENDOR NAME",
