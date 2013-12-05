@@ -7,7 +7,8 @@
       "createdAt" : 1384368127,
       "description" : "Payroll Calendar for the City of Los Angeles, 2013-2016.",
       "displayType" : "table",
-      "downloadCount" : 72,
+      "downloadCount" : 76,
+      "indexUpdatedAt" : 1384565589,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6406214,
@@ -20,7 +21,7 @@
       "signed" : false,
       "tableId" : 1352640,
       "totalTimesRated" : 0,
-      "viewCount" : 23,
+      "viewCount" : 25,
       "viewLastModified" : 1384564719,
       "viewType" : "tabular",
       "columns" : [ {
@@ -421,9 +422,6 @@
       "owner" : {
         "id" : "mnkj-bu52",
         "displayName" : "Controller's Office",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1382238997,
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -434,9 +432,6 @@
       "tableAuthor" : {
         "id" : "mnkj-bu52",
         "displayName" : "Controller's Office",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1382238997,
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

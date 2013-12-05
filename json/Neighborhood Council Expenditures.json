@@ -11,6 +11,7 @@
       "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment",
       "displayType" : "table",
       "downloadCount" : 139,
+      "indexUpdatedAt" : 1384892481,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6313733,
@@ -737,9 +738,6 @@
       "owner" : {
         "id" : "ajd3-jp8q",
         "displayName" : "Sevak Paramazian",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1383872103,
         "roleName" : "editor",
         "screenName" : "Sevak Paramazian",
         "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
@@ -750,9 +748,6 @@
       "tableAuthor" : {
         "id" : "ajd3-jp8q",
         "displayName" : "Sevak Paramazian",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1383872103,
         "roleName" : "editor",
         "screenName" : "Sevak Paramazian",
         "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]

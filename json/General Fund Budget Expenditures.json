@@ -8,7 +8,8 @@
       "createdAt" : 1382254769,
       "description" : "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through October 30, 2013",
       "displayType" : "table",
-      "downloadCount" : 122,
+      "downloadCount" : 126,
+      "indexUpdatedAt" : 1384600223,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6404942,
@@ -1117,9 +1118,6 @@
       "owner" : {
         "id" : "73wi-p96d",
         "displayName" : "Controller's Office",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1382334383,
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -1151,9 +1149,6 @@
       "tableAuthor" : {
         "id" : "73wi-p96d",
         "displayName" : "Controller's Office",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1382334383,
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

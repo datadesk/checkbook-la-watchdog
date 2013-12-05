@@ -9,6 +9,7 @@
       "description" : "Audits Released by the City Controller, 1999-Present",
       "displayType" : "table",
       "downloadCount" : 87,
+      "indexUpdatedAt" : 1382524001,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 5826801,
@@ -1007,9 +1008,6 @@
       "owner" : {
         "id" : "mnkj-bu52",
         "displayName" : "Controller's Office",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1382238997,
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -1020,9 +1018,6 @@
       "tableAuthor" : {
         "id" : "mnkj-bu52",
         "displayName" : "Controller's Office",
-        "emailUnsubscribed" : false,
-        "privacyControl" : "login",
-        "profileLastModified" : 1382238997,
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
