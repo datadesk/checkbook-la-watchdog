@@ -138,6 +138,1897 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",ncxv-mvpg,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 09:43:48 PM +0000,12/03/2013 09:46:33 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenue Budget v Collected Revenue (Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,6jqc-dtmi,1352438,,"[{
+  ""id"" : 115446342,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 248,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446341,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446344,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446345,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446346,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446343,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 267,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446347,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446351,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",6jqc-dtmi,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:42:39 PM +0000,11/16/2013 01:19:43 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Revenue from Fines (Finance/Revenue-from-Fines/6zdw-94i3),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,6zdw-94i3,1352438,,"[{
+  ""id"" : 115446214,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446212,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446215,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446216,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446217,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446218,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446219,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446220,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""grouping_aggregate"" : ""count"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446221,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446222,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",6zdw-94i3,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/06/2013 06:05:50 PM +0000,11/16/2013 01:19:41 AM +0000
+"<div class='typeApi'><div class=""viewTypeCell"">API</div></div>",,General Fund Revenue (Finance/General-Fund-Revenue/8dfn-4d7c),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,8dfn-4d7c,1352438,,"[{
+  ""id"" : 115446304,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 115446305,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 218,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 115446306,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 267,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 115446307,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446308,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446309,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""align"" : ""right"",
+    ""noCommas"" : ""false"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446310,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 115446311,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 115446312,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446313,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 115446314,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+  }
+}]",revenue,"{Department={Controller=, Other=}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,10/18/2013 04:08:06 AM +0000,11/16/2013 01:19:42 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenues by Revenue Source (Finance/FY2013-General-Fund-Revenues-by-Revenue-Source/8euj-efvz),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,8euj-efvz,1352438,,"[{
+  ""id"" : 115446258,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446256,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446259,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446260,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446261,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446257,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 218,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446262,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446266,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",8euj-efvz,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:39:17 PM +0000,11/16/2013 01:19:42 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Revenue from Fines & Fees (Finance/Revenue-from-Fines-Fees/ecct-mf8z),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,ecct-mf8z,1352438,,"[{
+  ""id"" : 115446269,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446267,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446270,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446271,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446272,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446273,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446274,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446275,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""grouping_aggregate"" : ""count"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446276,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446277,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",ecct-mf8z,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/05/2013 09:29:45 PM +0000,11/16/2013 01:19:42 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenues by Revenue Class (Finance/FY2013-General-Fund-Revenues-by-Revenue-Class/fbs3-k6nk),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,fbs3-k6nk,1352438,,"[{
+  ""id"" : 115446294,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 286,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446287,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446291,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446292,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446293,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446288,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 218,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446290,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 207,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446299,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 146,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",fbs3-k6nk,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:40:04 PM +0000,11/16/2013 01:19:42 AM +0000
+"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,General Fund Revenue (Finance/General-Fund-Revenue/hfus-a659),,"General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013",0,Finance,"revenue, general fund, revenues",0,,,,,hfus-a659,1352438,,"[{
+  ""id"" : 114807398,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 114807400,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 149,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 114807402,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 241,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 114807404,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 99,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 114807406,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 98,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 114807410,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 218,
+  ""format"" : {
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 114807412,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 220,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 114807415,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 114807416,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 114807418,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 114807420,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+  }
+}]",hfus-a659,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/8vyv-xsw4),public,,,10/18/2013 04:08:06 AM +0000,12/05/2013 06:07:20 PM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Public Works - Engineering (Finance/Public-Works-Engineering/ijfc-4mkj),,"General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013",0,Finance,"revenue, general fund, revenues",0,,,,,ijfc-4mkj,1352438,,"[{
+  ""id"" : 120123309,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 120123310,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 149,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120123311,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 241,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120123312,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 99,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 120123313,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 98,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 120123314,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 218,
+  ""format"" : {
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 120123315,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 220,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120123316,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120123317,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 120123318,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120123319,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+  }
+}]",ijfc-4mkj,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 11:22:06 PM +0000,12/04/2013 12:21:34 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,General Fund Revenues by Revenue Class (Finance/General-Fund-Revenues-by-Revenue-Class/jbcw-gaj7),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,jbcw-gaj7,1352438,,"[{
+  ""id"" : 115446185,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 286,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446179,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446182,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446183,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446184,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446180,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 218,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446181,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 207,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446189,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 146,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",jbcw-gaj7,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:35:57 PM +0000,11/16/2013 01:19:40 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,"FY2013 General Fund Revenue - Fees, Fines and Penalties (Finance/FY2013-General-Fund-Revenue-Fees-Fines-and-Penalti/s2h3-yzty)",,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,s2h3-yzty,1352438,,"[{
+  ""id"" : 115446236,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446234,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446237,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446238,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446239,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446240,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446241,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446242,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""grouping_aggregate"" : ""count"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446243,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446244,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",s2h3-yzty,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 06:58:53 AM +0000,11/16/2013 01:19:41 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,General Fund Revenues by Department (Finance/General-Fund-Revenues-by-Department/tm9i-25vw),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,tm9i-25vw,1352438,,"[{
+  ""id"" : 115446191,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 248,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446190,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446193,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446194,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446195,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446192,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 267,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446196,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446200,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",tm9i-25vw,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:28:24 PM +0000,11/16/2013 01:19:40 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,General Fund Revenues by Revenue Source (Finance/General-Fund-Revenues-by-Revenue-Source/tnz4-kaiq),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,tnz4-kaiq,1352438,,"[{
+  ""id"" : 115446317,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446315,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 115446318,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446319,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446320,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446316,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 218,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446321,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446325,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",tnz4-kaiq,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 06:11:24 AM +0000,11/16/2013 01:19:42 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,2013 Revenue from Fines & Fees (Finance/2013-Revenue-from-Fines-Fees/w6ky-4rsi),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,w6ky-4rsi,1352438,,"[{
+  ""id"" : 115446203,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446201,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 115446204,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446205,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446206,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446207,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446208,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446209,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""grouping_aggregate"" : ""count"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 115446210,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446211,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",w6ky-4rsi,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/05/2013 09:37:03 PM +0000,11/16/2013 01:19:41 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Fees Fines and Penalties (Finance/Fees-Fines-and-Penalties/xmd7-85kt),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,xmd7-85kt,1352438,,"[{
+  ""id"" : 115446225,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 297,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446223,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 115446226,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446227,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446228,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446229,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446230,
+  ""name"" : ""FUND"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fund"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343433,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446231,
+  ""name"" : ""REVENUE SOURCE CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_code"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343435,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""grouping_aggregate"" : ""count"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 115446232,
+  ""name"" : ""REVENUE CLASS CODE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""revenue_class_code"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343437,
+  ""width"" : 50,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446233,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",xmd7-85kt,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/8vyv-xsw4),public,,,11/05/2013 09:32:08 PM +0000,12/05/2013 06:09:42 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenues by Department (Finance/FY2013-General-Fund-Revenues-by-Department/ymby-y4ek),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,ymby-y4ek,1352438,,"[{
+  ""id"" : 115446246,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343432,
+  ""width"" : 248,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 115446245,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343431,
+  ""width"" : 80,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 115446247,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 267,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446248,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 111,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446249,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 116,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 115446250,
+  ""name"" : ""% REVENUE COLLECTED"",
+  ""dataTypeName"" : ""percent"",
+  ""fieldName"" : ""revenue_collected_2"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""percent"",
+  ""tableColumnId"" : 15343444,
+  ""width"" : 252,
+  ""format"" : {
+    ""precision"" : ""2"",
+    ""grouping_aggregate"" : ""average"",
+    ""noCommas"" : ""false"",
+    ""align"" : ""right"",
+    ""view"" : ""percent_bar_and_text""
+  }
+}, {
+  ""id"" : 115446251,
+  ""name"" : ""REVENUE CLASS NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_class_name"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343438,
+  ""width"" : 256,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}, {
+  ""id"" : 115446255,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15343434,
+  ""width"" : 208,
+  ""format"" : {
+    ""grouping_aggregate"" : ""count""
+  }
+}]",ymby-y4ek,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:29:46 PM +0000,11/16/2013 01:19:41 AM +0000
 "<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,ControlPanel LA Survey (dataset/ControlPanel-LA-Survey/twip-eai6),,We want to hear from you - how can we improve ControlPanel LA?,0,,"form, survey, response",0,,,,,twip-eai6,1373511,,"[{
   ""id"" : 117970480,
   ""name"" : ""Name"",
@@ -276,7 +2167,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }]",2np7-qmat,"{Department={Controller=, Other=}}",,,,jlow (http://controllerdata.lacity.org/api/users/26c2-wn3b),public,,,10/28/2013 02:26:05 PM +0000,11/19/2013 06:33:10 PM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,split payments 1 (Finance/split-payments-1/4f6i-5w4z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,4f6i-5w4z,1361859,,"[{
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Split Payments (Finance/Split-Payments/4f6i-5w4z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,4f6i-5w4z,1361859,,"[{
   ""id"" : 116398905,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
@@ -486,7 +2377,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",4f6i-5w4z,"{Department={Controller=, Other=}}",,,,rcampbell (http://controllerdata.lacity.org/api/users/qb48-gpvr),public,,,10/24/2013 08:01:09 PM +0000,11/19/2013 06:33:13 PM +0000
+}]",4f6i-5w4z,"{Department={Controller=, Other=}}",,,,rcampbell (http://controllerdata.lacity.org/api/users/qb48-gpvr),public,,,10/24/2013 08:01:09 PM +0000,12/05/2013 06:14:30 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook department pie chart (Finance/Checkbook-department-pie-chart/5g8d-u36b),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,5g8d-u36b,1361859,,"[{
   ""id"" : 116398582,
   ""name"" : ""DEPARTMENT NAME"",
@@ -796,11 +2687,25 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
+  ""id"" : 116398405,
+  ""name"" : ""ID NUMBER"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""id_number"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15294626,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
+  }
+}, {
   ""id"" : 116398410,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
-  ""position"" : 2,
+  ""position"" : 3,
   ""renderTypeName"" : ""money"",
   ""tableColumnId"" : 15294645,
   ""width"" : 114,
@@ -810,7 +2715,217 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",6rcq-jw35,"{Department={Controller=, Other=}}",,,,FF Willis (http://controllerdata.lacity.org/api/users/sifk-smve),public,,,11/01/2013 04:43:31 PM +0000,11/19/2013 06:33:03 PM +0000
+}, {
+  ""id"" : 116398406,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15294627,
+  ""width"" : 50,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 116398408,
+  ""name"" : ""VENDOR NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""vendor_name"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294631,
+  ""width"" : 232,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398409,
+  ""name"" : ""TRANSACTION DATE"",
+  ""dataTypeName"" : ""calendar_date"",
+  ""fieldName"" : ""transaction_date"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""calendar_date"",
+  ""tableColumnId"" : 15294633,
+  ""width"" : 112,
+  ""format"" : {
+    ""align"" : ""left"",
+    ""view"" : ""date""
+  }
+}, {
+  ""id"" : 116398411,
+  ""name"" : ""AUTHORITY"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""authority"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16275278,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398412,
+  ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""business_tax_registration_certificate"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 16275261,
+  ""width"" : 100,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 116398413,
+  ""name"" : ""GOVERNMENT ACTIVITY"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""government_activity"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294639,
+  ""width"" : 201,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398414,
+  ""name"" : ""FUND TYPE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_type"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294637,
+  ""width"" : 143,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398415,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294636,
+  ""width"" : 209,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398416,
+  ""name"" : ""ACCOUNT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""account_name"",
+  ""position"" : 12,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16275245,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398417,
+  ""name"" : ""ACCOUNT CODE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""account_code"",
+  ""position"" : 13,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16275244,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398418,
+  ""name"" : ""TRANSACTION ID"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""transaction_id"",
+  ""position"" : 14,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294635,
+  ""width"" : 111,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398419,
+  ""name"" : ""EXPENDITURE TYPE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""expenditure_type"",
+  ""position"" : 15,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294638,
+  ""width"" : 234,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398420,
+  ""name"" : ""SETTLEMENT/JUDGMENT"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""settlement_judgment"",
+  ""position"" : 16,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16275279,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398424,
+  ""name"" : ""CALENDAR MONTH NUMBER"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""calendar_month_number"",
+  ""position"" : 17,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15301856,
+  ""width"" : 61,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""false""
+  }
+}, {
+  ""id"" : 116398426,
+  ""name"" : ""CALENDAR MONTH"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""calendar_month"",
+  ""position"" : 19,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294644,
+  ""width"" : 133,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398427,
+  ""name"" : ""DATA SOURCE"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""data_source"",
+  ""position"" : 21,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294646,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398428,
+  ""name"" : ""Contract Name"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""contract_name"",
+  ""position"" : 23,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16395000,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 116398429,
+  ""name"" : ""Contract Link"",
+  ""dataTypeName"" : ""url"",
+  ""fieldName"" : ""contract_link"",
+  ""position"" : 24,
+  ""renderTypeName"" : ""url"",
+  ""tableColumnId"" : 16395001,
+  ""width"" : 100,
+  ""format"" : {
+  },
+  ""subColumnTypes"" : [ ""url"", ""description"" ]
+}]",6rcq-jw35,"{Department={Controller=, Other=}}",,,,FF Willis (http://controllerdata.lacity.org/api/users/sifk-smve),public,,,11/01/2013 04:43:31 PM +0000,12/05/2013 06:14:39 PM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook vendor search (Finance/Checkbook-vendor-search/7bbq-8b9r),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7bbq-8b9r,1361859,,"[{
   ""id"" : 116398558,
   ""name"" : ""VENDOR NAME"",
@@ -1967,7 +4082,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }]",t5z8-f2k6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 01:25:08 AM +0000,11/19/2013 06:33:04 PM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,BETTER T C INC (Finance/BETTER-T-C-INC/ty4d-miep),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ty4d-miep,1361859,,"[{
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,"Better T C, Inc. (Finance/Better-T-C-Inc-/ty4d-miep)",,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ty4d-miep,1361859,,"[{
   ""id"" : 116398880,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
@@ -2177,7 +4292,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",ty4d-miep,"{Department={Controller=, Other=}}",,,,vaipage (http://controllerdata.lacity.org/api/users/kbiq-yj4q),public,,,11/05/2013 04:58:10 PM +0000,11/19/2013 06:33:12 PM +0000
+}]",ty4d-miep,"{Department={Controller=, Other=}}",,,,vaipage (http://controllerdata.lacity.org/api/users/kbiq-yj4q),public,,,11/05/2013 04:58:10 PM +0000,12/05/2013 06:10:09 PM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook expenditure search (Finance/Checkbook-expenditure-search/tz7n-sj8z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,tz7n-sj8z,1361859,,"[{
   ""id"" : 116398744,
   ""name"" : ""EXPENDITURE TYPE"",
@@ -2203,217 +4318,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }]",tz7n-sj8z,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:05:59 PM +0000,11/19/2013 06:33:09 PM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,doz (Finance/doz/u2ac-btc3),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,u2ac-btc3,1361859,,"[{
-  ""id"" : 116398530,
-  ""name"" : ""ID NUMBER"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""id_number"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15294626,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398531,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15294627,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""noCommas"" : ""true"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 116398532,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294628,
-  ""width"" : 194,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398533,
-  ""name"" : ""VENDOR NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""vendor_name"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294631,
-  ""width"" : 232,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398534,
-  ""name"" : ""TRANSACTION DATE"",
-  ""dataTypeName"" : ""calendar_date"",
-  ""fieldName"" : ""transaction_date"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""calendar_date"",
-  ""tableColumnId"" : 15294633,
-  ""width"" : 112,
-  ""format"" : {
-    ""align"" : ""left"",
-    ""view"" : ""date""
-  }
-}, {
-  ""id"" : 116398535,
-  ""name"" : ""DOLLAR AMOUNT"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""dollar_amount"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15294645,
-  ""width"" : 114,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 116398540,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294636,
-  ""width"" : 208,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398539,
-  ""name"" : ""FUND TYPE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_type"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294637,
-  ""width"" : 143,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398543,
-  ""name"" : ""TRANSACTION ID"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""transaction_id"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294635,
-  ""width"" : 111,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398544,
-  ""name"" : ""EXPENDITURE TYPE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""expenditure_type"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294638,
-  ""width"" : 234,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398538,
-  ""name"" : ""GOVERNMENT ACTIVITY"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""government_activity"",
-  ""position"" : 11,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294639,
-  ""width"" : 201,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398546,
-  ""name"" : ""FISCAL MONTH NUMBER"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fiscal_month_number"",
-  ""position"" : 12,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15294640,
-  ""width"" : 65,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398547,
-  ""name"" : ""FISCAL YEAR-MONTH"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year_month"",
-  ""position"" : 13,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294641,
-  ""width"" : 114,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398548,
-  ""name"" : ""FISCAL YEAR-QUARTER"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year_quarter"",
-  ""position"" : 14,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294642,
-  ""width"" : 91,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398549,
-  ""name"" : ""CALENDAR MONTH NUMBER"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""calendar_month_number"",
-  ""position"" : 15,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15301856,
-  ""width"" : 61,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 116398550,
-  ""name"" : ""CALENDAR MONTH/YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""calendar_month_year"",
-  ""position"" : 16,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294643,
-  ""width"" : 174,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398551,
-  ""name"" : ""CALENDAR MONTH"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""calendar_month"",
-  ""position"" : 17,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294644,
-  ""width"" : 133,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 116398552,
-  ""name"" : ""DATA SOURCE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""data_source"",
-  ""position"" : 18,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294646,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}]",u2ac-btc3,"{Department={Controller=, Other=}}",,,,doz (http://controllerdata.lacity.org/api/users/q7w5-beyk),public,,,10/24/2013 05:25:27 AM +0000,11/19/2013 06:33:05 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,"FY2013 City of LA, All External Vendors with Total Payment > $10,000 (Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ug63-xt3q)",,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ug63-xt3q,1361859,,"[{
   ""id"" : 116398608,
   ""name"" : ""VENDOR NAME"",
@@ -3609,7 +5513,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",8f4u-8g6u,"{Department={Controller=, Other=}}",,,,waltarrrrr (http://controllerdata.lacity.org/api/users/75s9-d28k),public,,,10/23/2013 10:16:25 PM +0000,11/16/2013 01:19:46 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,dept (Finance/dept/ba5q-3c8k),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,ba5q-3c8k,1353044,,"[{
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Department (Finance/Department/ba5q-3c8k),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,ba5q-3c8k,1353044,,"[{
   ""id"" : 115446498,
   ""name"" : ""Year"",
   ""dataTypeName"" : ""number"",
@@ -3801,7 +5705,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",ba5q-3c8k,"{Department={Controller=, Other=}}",,,,Nancy (http://controllerdata.lacity.org/api/users/4457-b36v),public,,,10/24/2013 07:46:30 PM +0000,11/16/2013 01:19:48 AM +0000
+}]",ba5q-3c8k,"{Department={Controller=, Other=}}",,,,Nancy (http://controllerdata.lacity.org/api/users/4457-b36v),public,,,10/24/2013 07:46:30 PM +0000,12/05/2013 06:13:54 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,2012 DWP Regular Pay v Actual Earnings (Finance/2012-DWP-Regular-Pay-v-Actual-Earnings/bbtf-f8cs),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",1,,,,,bbtf-f8cs,1353044,,"[{
   ""id"" : 115446596,
   ""name"" : ""Year"",
@@ -5155,7 +7059,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",gj4w-rb5s,"{Department={Controller=, Other=}}",,,,D Thom Bissett (http://controllerdata.lacity.org/api/users/23xi-k6bt),public,,,10/29/2013 01:50:24 AM +0000,11/16/2013 01:19:48 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,3652 (Finance/3652/iyz7-6we7),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,iyz7-6we7,1353044,,"[{
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Department 3652 (Finance/Department-3652/iyz7-6we7),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,iyz7-6we7,1353044,,"[{
   ""id"" : 115446700,
   ""name"" : ""Year"",
   ""dataTypeName"" : ""number"",
@@ -5347,7 +7251,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",iyz7-6we7,"{Department={Controller=, Other=}}",,,,Nancy (http://controllerdata.lacity.org/api/users/4457-b36v),public,,,10/24/2013 07:41:11 PM +0000,11/16/2013 01:19:57 AM +0000
+}]",iyz7-6we7,"{Department={Controller=, Other=}}",,,,Nancy (http://controllerdata.lacity.org/api/users/4457-b36v),public,,,10/24/2013 07:41:11 PM +0000,12/05/2013 06:13:06 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY 2013 3rd Quarter City Employees Earning over $25k (Finance/FY-2013-3rd-Quarter-City-Employees-Earning-over-25/j7at-nhkz),,"City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,j7at-nhkz,1353044,,"[{
   ""id"" : 116424052,
   ""name"" : ""Year"",
@@ -6269,199 +8173,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",qjfm-3srk,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 01:53:14 AM +0000,11/16/2013 01:20:02 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Test (Finance/Test/rmyg-6k9s),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,rmyg-6k9s,1353044,,"[{
-  ""id"" : 115446756,
-  ""name"" : ""Year"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""year"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15401980,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""true""
-  }
-}, {
-  ""id"" : 115446757,
-  ""name"" : ""Department Title"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_title"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15401981,
-  ""width"" : 186,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446758,
-  ""name"" : ""Job Class Title"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""job_class_title"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15401984,
-  ""width"" : 184,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446759,
-  ""name"" : ""Regular Pay"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""regular_pay"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401986,
-  ""width"" : 109,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446760,
-  ""name"" : ""Q1 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q1_earnings"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401987,
-  ""width"" : 108,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446761,
-  ""name"" : ""Q2 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q2_earnings"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401988,
-  ""width"" : 113,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446762,
-  ""name"" : ""Q3 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q3_earnings"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401989,
-  ""width"" : 104,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446763,
-  ""name"" : ""Q4 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q4_earnings"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401990,
-  ""width"" : 107,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446764,
-  ""name"" : ""Actual Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""actual_earnings"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401991,
-  ""width"" : 113,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446765,
-  ""name"" : ""Earnings over Regular Pay"",
-  ""dataTypeName"" : ""money"",
-  ""description"" : ""Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay"",
-  ""fieldName"" : ""earnings_over_regular_pay"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401992,
-  ""width"" : 94,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446766,
-  ""name"" : ""% Over Regular"",
-  ""dataTypeName"" : ""percent"",
-  ""description"" : ""Earnings Over Regular as a percentage of Regular Pay. For 2013, Earnings over Regular as a percentage of 1/2 Regular Pay."",
-  ""fieldName"" : ""over_regular"",
-  ""position"" : 11,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15401993,
-  ""width"" : 72,
-  ""format"" : {
-    ""aggregate"" : ""average"",
-    ""precision"" : ""3"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446767,
-  ""name"" : ""MOU"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""mou"",
-  ""position"" : 12,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15401985,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446768,
-  ""name"" : ""DIV #"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""div"",
-  ""position"" : 13,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15401983,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446769,
-  ""name"" : ""Department #"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""department"",
-  ""position"" : 14,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15401982,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}]",rmyg-6k9s,"{Department={Controller=, Other=}}",,,,Denise Guerra (http://controllerdata.lacity.org/api/users/7xgp-qcea),public,,,10/30/2013 10:53:35 PM +0000,11/16/2013 01:19:59 AM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,DWP Payroll by Year (Finance/DWP-Payroll-by-Year/smpb-3w23),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel",0,,,,,smpb-3w23,1353044,,"[{
   ""id"" : 115446512,
   ""name"" : ""Year"",
@@ -6557,165 +8268,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""percent_bar_and_text""
   }
 }]",smpb-3w23,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 09:09:18 PM +0000,11/16/2013 01:19:49 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,d (Finance/d/tyrg-jkan),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,tyrg-jkan,1353044,,"[{
-  ""id"" : 115446398,
-  ""name"" : ""Department Title"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_title"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15401981,
-  ""width"" : 216,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446397,
-  ""name"" : ""Year"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15401980,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""true"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446400,
-  ""name"" : ""Regular Pay"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""regular_pay"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401986,
-  ""width"" : 109,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446401,
-  ""name"" : ""Q1 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q1_earnings"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401987,
-  ""width"" : 108,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446402,
-  ""name"" : ""Q2 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q2_earnings"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401988,
-  ""width"" : 113,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446408,
-  ""name"" : ""Q3 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q3_earnings"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401989,
-  ""width"" : 104,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446414,
-  ""name"" : ""Q4 Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""q4_earnings"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401990,
-  ""width"" : 107,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446415,
-  ""name"" : ""Actual Earnings"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""actual_earnings"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401991,
-  ""width"" : 113,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446421,
-  ""name"" : ""Earnings over Regular Pay"",
-  ""dataTypeName"" : ""money"",
-  ""description"" : ""Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay"",
-  ""fieldName"" : ""earnings_over_regular_pay"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15401992,
-  ""width"" : 94,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446422,
-  ""name"" : ""% Over Regular"",
-  ""dataTypeName"" : ""percent"",
-  ""description"" : ""Earnings Over Regular as a percentage of Regular Pay. For 2013, Earnings over Regular as a percentage of 1/2 Regular Pay."",
-  ""fieldName"" : ""over_regular"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15401993,
-  ""width"" : 72,
-  ""format"" : {
-    ""aggregate"" : ""average"",
-    ""precision"" : ""3"",
-    ""grouping_aggregate"" : ""average"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}]",tyrg-jkan,"{Department={Controller=, Other=}}",,,,doz (http://controllerdata.lacity.org/api/users/q7w5-beyk),public,,,10/24/2013 05:15:35 AM +0000,11/16/2013 01:19:44 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top Q3 Earners (Finance/Top-Q3-Earners/v77r-2q9u),,"City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,v77r-2q9u,1353044,,"[{
   ""id"" : 116077897,
   ""name"" : ""Year"",
@@ -9408,1897 +10960,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }]",x23h-7hzr,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 05:16:18 PM +0000,11/16/2013 01:19:44 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenue Budget v Collected Revenue (Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,6jqc-dtmi,1352438,,"[{
-  ""id"" : 115446342,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 248,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446341,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446344,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446345,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446346,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446343,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 267,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446347,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446351,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",6jqc-dtmi,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:42:39 PM +0000,11/16/2013 01:19:43 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Revenue from Fines (Finance/Revenue-from-Fines/6zdw-94i3),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,6zdw-94i3,1352438,,"[{
-  ""id"" : 115446214,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446212,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446215,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446216,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446217,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446218,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446219,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446220,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""grouping_aggregate"" : ""count"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446221,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446222,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",6zdw-94i3,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/06/2013 06:05:50 PM +0000,11/16/2013 01:19:41 AM +0000
-"<div class='typeApi'><div class=""viewTypeCell"">API</div></div>",,General Fund Revenue (Finance/General-Fund-Revenue/8dfn-4d7c),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,8dfn-4d7c,1352438,,"[{
-  ""id"" : 115446304,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 115446305,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 218,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446306,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 267,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446307,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446308,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446309,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""align"" : ""right"",
-    ""noCommas"" : ""false"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446310,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446311,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446312,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446313,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 115446314,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 11,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-  }
-}]",revenue,"{Department={Controller=, Other=}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,10/18/2013 04:08:06 AM +0000,11/16/2013 01:19:42 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenues by Revenue Source (Finance/FY2013-General-Fund-Revenues-by-Revenue-Source/8euj-efvz),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,8euj-efvz,1352438,,"[{
-  ""id"" : 115446258,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446256,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446259,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446260,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446261,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446257,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 218,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446262,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446266,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",8euj-efvz,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:39:17 PM +0000,11/16/2013 01:19:42 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Revenue from Fines & Fees (Finance/Revenue-from-Fines-Fees/ecct-mf8z),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,ecct-mf8z,1352438,,"[{
-  ""id"" : 115446269,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446267,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446270,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446271,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446272,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446273,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446274,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446275,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""grouping_aggregate"" : ""count"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446276,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446277,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",ecct-mf8z,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/05/2013 09:29:45 PM +0000,11/16/2013 01:19:42 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenues by Revenue Class (Finance/FY2013-General-Fund-Revenues-by-Revenue-Class/fbs3-k6nk),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,fbs3-k6nk,1352438,,"[{
-  ""id"" : 115446294,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 286,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446287,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446291,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446292,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446293,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446288,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 218,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446290,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 207,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446299,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 146,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",fbs3-k6nk,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:40:04 PM +0000,11/16/2013 01:19:42 AM +0000
-"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,General Fund Revenue (Finance/General-Fund-Revenue/hfus-a659),,"General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013",0,Finance,"revenue, general fund, revenues",0,,,,,hfus-a659,1352438,,"[{
-  ""id"" : 114807398,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 114807400,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 149,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114807402,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 241,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114807404,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 99,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 114807406,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 98,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 114807410,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 218,
-  ""format"" : {
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 114807412,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 220,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114807415,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114807416,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 114807418,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 114807420,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 11,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-  }
-}]",hfus-a659,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/73wi-p96d),public,,,10/18/2013 04:08:06 AM +0000,11/16/2013 01:19:44 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Public Works - Engineering (Finance/Public-Works-Engineering/ijfc-4mkj),,"General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013",0,Finance,"revenue, general fund, revenues",0,,,,,ijfc-4mkj,1352438,,"[{
-  ""id"" : 120123309,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 120123310,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 149,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 120123311,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 241,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 120123312,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 99,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 120123313,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 98,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 120123314,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 218,
-  ""format"" : {
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 120123315,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 220,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 120123316,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 120123317,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 120123318,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 120123319,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 11,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-  }
-}]",ijfc-4mkj,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 11:22:06 PM +0000,12/04/2013 12:21:34 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,General Fund Revenues by Revenue Class (Finance/General-Fund-Revenues-by-Revenue-Class/jbcw-gaj7),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,jbcw-gaj7,1352438,,"[{
-  ""id"" : 115446185,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 286,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446179,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446182,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446183,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446184,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446180,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 218,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446181,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 207,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446189,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 146,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",jbcw-gaj7,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:35:57 PM +0000,11/16/2013 01:19:40 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,"FY2013 General Fund Revenue - Fees, Fines and Penalties (Finance/FY2013-General-Fund-Revenue-Fees-Fines-and-Penalti/s2h3-yzty)",,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,s2h3-yzty,1352438,,"[{
-  ""id"" : 115446236,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446234,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446237,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446238,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446239,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446240,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446241,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446242,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""grouping_aggregate"" : ""count"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446243,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446244,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",s2h3-yzty,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 06:58:53 AM +0000,11/16/2013 01:19:41 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,General Fund Revenues by Department (Finance/General-Fund-Revenues-by-Department/tm9i-25vw),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,tm9i-25vw,1352438,,"[{
-  ""id"" : 115446191,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 248,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446190,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446193,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446194,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446195,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446192,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 267,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446196,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446200,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",tm9i-25vw,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:28:24 PM +0000,11/16/2013 01:19:40 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,General Fund Revenues by Revenue Source (Finance/General-Fund-Revenues-by-Revenue-Source/tnz4-kaiq),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,tnz4-kaiq,1352438,,"[{
-  ""id"" : 115446317,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446315,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 115446318,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446319,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446320,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446316,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 218,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446321,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446325,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",tnz4-kaiq,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 06:11:24 AM +0000,11/16/2013 01:19:42 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,2013 Revenue from Fines & Fees (Finance/2013-Revenue-from-Fines-Fees/w6ky-4rsi),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,w6ky-4rsi,1352438,,"[{
-  ""id"" : 115446203,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446201,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 115446204,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446205,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446206,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446207,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446208,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446209,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 115446210,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446211,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",w6ky-4rsi,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/05/2013 09:37:03 PM +0000,11/16/2013 01:19:41 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,SAfa (Finance/SAfa/xmd7-85kt),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,xmd7-85kt,1352438,,"[{
-  ""id"" : 115446225,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 297,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446223,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 115446226,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446227,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446228,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446229,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446230,
-  ""name"" : ""FUND"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""fund"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343433,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446231,
-  ""name"" : ""REVENUE SOURCE CODE"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_code"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343435,
-  ""width"" : 50,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""false""
-  }
-}, {
-  ""id"" : 115446232,
-  ""name"" : ""REVENUE CLASS CODE"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""revenue_class_code"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343437,
-  ""width"" : 50,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446233,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",xmd7-85kt,"{Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/kwhu-yksr),public,,,11/05/2013 09:32:08 PM +0000,11/16/2013 01:19:41 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenues by Department (Finance/FY2013-General-Fund-Revenues-by-Department/ymby-y4ek),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,ymby-y4ek,1352438,,"[{
-  ""id"" : 115446246,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343432,
-  ""width"" : 248,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 115446245,
-  ""name"" : ""FISCAL YEAR"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fiscal_year"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15343431,
-  ""width"" : 80,
-  ""format"" : {
-    ""precisionStyle"" : ""standard"",
-    ""drill_down"" : ""true"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right""
-  }
-}, {
-  ""id"" : 115446247,
-  ""name"" : ""REVENUE SOURCE NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_source_name"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343436,
-  ""width"" : 267,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446248,
-  ""name"" : ""REVENUE BUDGET"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_budget"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343440,
-  ""width"" : 111,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446249,
-  ""name"" : ""REVENUE COLLECTED"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""revenue_collected_1"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15343442,
-  ""width"" : 116,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}, {
-  ""id"" : 115446250,
-  ""name"" : ""% REVENUE COLLECTED"",
-  ""dataTypeName"" : ""percent"",
-  ""fieldName"" : ""revenue_collected_2"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""percent"",
-  ""tableColumnId"" : 15343444,
-  ""width"" : 252,
-  ""format"" : {
-    ""precision"" : ""2"",
-    ""grouping_aggregate"" : ""average"",
-    ""noCommas"" : ""false"",
-    ""align"" : ""right"",
-    ""view"" : ""percent_bar_and_text""
-  }
-}, {
-  ""id"" : 115446251,
-  ""name"" : ""REVENUE CLASS NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""revenue_class_name"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343438,
-  ""width"" : 256,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}, {
-  ""id"" : 115446255,
-  ""name"" : ""FUND NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""fund_name"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 15343434,
-  ""width"" : 208,
-  ""format"" : {
-    ""grouping_aggregate"" : ""count""
-  }
-}]",ymby-y4ek,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:29:46 PM +0000,11/16/2013 01:19:41 AM +0000
 "<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Los Angeles City Payroll Calendar (dataset/Los-Angeles-City-Payroll-Calendar/anqa-iu8a),,"Payroll Calendar for the City of Los Angeles, 2013-2016.",0,,,0,,,,,anqa-iu8a,1352640,,"[{
   ""id"" : 114826702,
   ""name"" : ""Year"",
