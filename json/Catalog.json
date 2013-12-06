@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 106,
+      "downloadCount" : 112,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -4717,6 +4717,55 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960251, 1384885993 ]
+, [ 84806464008972, "84806464008972", null, 1386318159, "849676", 1386318273, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc", "FY2013 City of LA, All External Vendors with Total Payment > $10,000" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ji6b-ancc", "1361859", null, [ {
+    "id" : 120625498,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 262,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 120625499,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294627,
+    "width" : 110,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 120625500,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "ji6b-ancc", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386318159, 1386318273 ]
 , [ 97407752808198, "97407752808198", null, 1381961059, "710611", 1384885992, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-agency-search/m9u2-wis6", "Checkbook agency search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m9u2-wis6", "1361859", null, [ {
     "id" : 116398857,
     "name" : "DEPARTMENT NAME",
@@ -5553,36 +5602,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961159, 1384885989 ]
-, [ 133047408513242, "133047408513242", null, 1381945745, "849676", 1384885987, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ug63-xt3q", "FY2013 City of LA, All External Vendors with Total Payment > $10,000" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ug63-xt3q", "1361859", null, [ {
-    "id" : 116398608,
-    "name" : "VENDOR NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "vendor_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15294631,
-    "width" : 262,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 116398610,
-    "name" : "DOLLAR AMOUNT",
-    "dataTypeName" : "money",
-    "fieldName" : "dollar_amount",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15294645,
-    "width" : 260,
-    "format" : {
-      "grouping_aggregate" : "sum"
-    }
-  } ], "ug63-xt3q", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381945745, 1384885987 ]
 , [ 137458737259788, "137458737259788", null, 1384886385, "849676", 1384887511, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-50-Contracts-by-Total-Dollar-Value/vgir-dakc", "Top 50 Contracts by Total Dollar Value" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "vgir-dakc", "1361859", null, [ {
     "id" : 116402046,
     "name" : "Contract Name",

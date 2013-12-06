@@ -3527,6 +3527,50 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }]",ifuf-j5ts,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:50:51 PM +0000,11/19/2013 06:33:13 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,"FY2013 City of LA, All External Vendors with Total Payment > $10,000 (Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc)",,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ji6b-ancc,1361859,,"[{
+  ""id"" : 120625498,
+  ""name"" : ""VENDOR NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""vendor_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294631,
+  ""width"" : 262,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 120625499,
+  ""name"" : ""FISCAL YEAR"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""fiscal_year"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 15294627,
+  ""width"" : 110,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""drill_down"" : ""true"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 120625500,
+  ""name"" : ""DOLLAR AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""dollar_amount"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15294645,
+  ""width"" : 98,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",ji6b-ancc,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/06/2013 08:22:39 AM +0000,12/06/2013 08:24:33 AM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook agency search (Finance/Checkbook-agency-search/m9u2-wis6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,m9u2-wis6,1361859,,"[{
   ""id"" : 116398857,
   ""name"" : ""DEPARTMENT NAME"",
@@ -4318,31 +4362,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }]",tz7n-sj8z,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:05:59 PM +0000,11/19/2013 06:33:09 PM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,"FY2013 City of LA, All External Vendors with Total Payment > $10,000 (Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ug63-xt3q)",,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ug63-xt3q,1361859,,"[{
-  ""id"" : 116398608,
-  ""name"" : ""VENDOR NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""vendor_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15294631,
-  ""width"" : 262,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 116398610,
-  ""name"" : ""DOLLAR AMOUNT"",
-  ""dataTypeName"" : ""money"",
-  ""fieldName"" : ""dollar_amount"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15294645,
-  ""width"" : 260,
-  ""format"" : {
-    ""grouping_aggregate"" : ""sum""
-  }
-}]",ug63-xt3q,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/16/2013 05:49:05 PM +0000,11/19/2013 06:33:07 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top 50 Contracts by Total Dollar Value (Finance/Top-50-Contracts-by-Total-Dollar-Value/vgir-dakc),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,vgir-dakc,1361859,,"[{
   ""id"" : 116402046,
   ""name"" : ""Contract Name"",
