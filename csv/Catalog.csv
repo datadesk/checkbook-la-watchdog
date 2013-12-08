@@ -11401,6 +11401,117 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
     ""currency"" : ""USD""
   }
 }]",kewd-24q7,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,Sara (http://controllerdata.lacity.org/api/users/9eac-mkfx),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/13/2013 07:08:31 PM +0000,11/13/2013 07:08:31 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,test (Finance/test/kwyb-avwg),,"Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.
+Information provided by the Department of Neighborhood Empowerment",0,Finance,"neighborhood council, expenditures, done, ncs, neighborhood",0,,,,,kwyb-avwg,1333914,,"[{
+  ""id"" : 120877185,
+  ""name"" : ""BFY"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""bfy"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 16072705,
+  ""width"" : 56,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 120877186,
+  ""name"" : ""Appr"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""appr"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 16072706,
+  ""width"" : 79,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
+  }
+}, {
+  ""id"" : 120877187,
+  ""name"" : ""Neighborhood Council"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""neighborhood_council"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16072707,
+  ""width"" : 205,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120877188,
+  ""name"" : ""Date"",
+  ""dataTypeName"" : ""calendar_date"",
+  ""fieldName"" : ""date"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""calendar_date"",
+  ""tableColumnId"" : 16072708,
+  ""width"" : 93,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120877189,
+  ""name"" : ""Description"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""description"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16072709,
+  ""width"" : 254,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120877190,
+  ""name"" : ""Vendor Name"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""vendor_name"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16072710,
+  ""width"" : 232,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120877191,
+  ""name"" : ""Spending Category"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""spending_category"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16072711,
+  ""width"" : 150,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120877192,
+  ""name"" : ""Task"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""task"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16072712,
+  ""width"" : 177,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 120877193,
+  ""name"" : ""Expenditure"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""expenditure"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 16072713,
+  ""width"" : 97,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",kwyb-avwg,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",12/07/2013 07:44:18 PM +0000,12/07/2013 07:44:18 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Neighborhood Council Expenditures by Task (Finance/Neighborhood-Council-Expenditures-by-Task/s5hu-54d5),,"Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.
 Information provided by the Department of Neighborhood Empowerment",0,Finance,"neighborhood council, expenditures, done, ncs, neighborhood",0,,,,,s5hu-54d5,1333914,,"[{
   ""id"" : 116404576,

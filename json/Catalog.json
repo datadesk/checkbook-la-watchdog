@@ -12857,6 +12857,121 @@
       "Other" : "Department of Neighborhood Empowerment"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/9eac-mkfx", "Sara" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384369711, 1384369711 ]
+, [ 90196647999504, "90196647999504", null, 1386445458, "866040", 1386445458, "866040", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/test/kwyb-avwg", "test" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "kwyb-avwg", "1333914", null, [ {
+    "id" : 120877185,
+    "name" : "BFY",
+    "dataTypeName" : "number",
+    "fieldName" : "bfy",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072705,
+    "width" : 56,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 120877186,
+    "name" : "Appr",
+    "dataTypeName" : "number",
+    "fieldName" : "appr",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072706,
+    "width" : 79,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 120877187,
+    "name" : "Neighborhood Council",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood_council",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072707,
+    "width" : 205,
+    "format" : {
+    }
+  }, {
+    "id" : 120877188,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 16072708,
+    "width" : 93,
+    "format" : {
+    }
+  }, {
+    "id" : 120877189,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072709,
+    "width" : 254,
+    "format" : {
+    }
+  }, {
+    "id" : 120877190,
+    "name" : "Vendor Name",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072710,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 120877191,
+    "name" : "Spending Category",
+    "dataTypeName" : "text",
+    "fieldName" : "spending_category",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072711,
+    "width" : 150,
+    "format" : {
+    }
+  }, {
+    "id" : 120877192,
+    "name" : "Task",
+    "dataTypeName" : "text",
+    "fieldName" : "task",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072712,
+    "width" : 177,
+    "format" : {
+    }
+  }, {
+    "id" : 120877193,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "kwyb-avwg", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1386445458, 1386445458 ]
 , [ 123507657950021, "123507657950021", null, 1384887600, "849676", 1384887611, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-by-Task/s5hu-54d5", "Neighborhood Council Expenditures by Task" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "s5hu-54d5", "1333914", null, [ {
     "id" : 116404576,
     "name" : "Task",
