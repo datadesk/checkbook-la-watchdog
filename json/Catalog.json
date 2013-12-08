@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 118,
+      "downloadCount" : 122,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -3815,6 +3815,38 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384628161, 1384885989 ]
+, [ 26694554042693, "26694554042693", null, 1386484617, "866040", 1386484617, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/64tf-qk55", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "64tf-qk55", "1361859", null, [ {
+    "id" : 120924283,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 120924284,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "64tf-qk55", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484617, 1386484617 ]
 , [ 28257031160005, "28257031160005", null, 1383324211, "859162", 1386267279, "859162", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/fire/6rcq-jw35", "fire" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "6rcq-jw35", "1361859", null, [ {
     "id" : 116398407,
     "name" : "DEPARTMENT NAME",
@@ -4131,6 +4163,38 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960296, 1384885985 ]
+, [ 35612032373532, "35612032373532", null, 1386484697, "866040", 1386484697, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/86ei-yxcs", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "86ei-yxcs", "1361859", null, [ {
+    "id" : 120924285,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 120924286,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "86ei-yxcs", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484697, 1386484697 ]
 , [ 39869278900377, "39869278900377", null, 1381940820, "402253", 1384885991, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/Checkbook-Data/94ba-dd2p", "Checkbook Data" ], null, "LA Financial Expenditures Data", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "94ba-dd2p", "1361859", null, [ {
     "id" : 116398805,
     "name" : "ID NUMBER",
@@ -4687,6 +4751,38 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960345, 1384885987 ]
+, [ 72718301050012, "72718301050012", null, 1386484787, "866040", 1386484787, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/ihatesosql/gycc-wbis", "ihatesosql" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gycc-wbis", "1361859", null, [ {
+    "id" : 120927092,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 120927093,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "gycc-wbis", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484787, 1386484787 ]
 , [ 80228098266972, "80228098266972", null, 1381960251, "710611", 1384885993, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Department-Count/ifuf-j5ts", "Department Count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ifuf-j5ts", "1361859", null, [ {
     "id" : 116398932,
     "name" : "DEPARTMENT NAME",
@@ -5247,6 +5343,38 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381950172, 1384885991 ]
+, [ 120554655711444, "120554655711444", null, 1386480059, "866040", 1386480059, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Girardi/rqjh-rw3k", "Girardi" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "rqjh-rw3k", "1361859", null, [ {
+    "id" : 120919579,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 120919580,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "rqjh-rw3k", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386480059, 1386480059 ]
 , [ 127924665328902, "127924665328902", null, 1382577908, "849676", 1384885984, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-External-Vendors/t5z8-f2k6", "Top External Vendors" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "t5z8-f2k6", "1361859", null, [ {
     "id" : 116398433,
     "name" : "VENDOR NAME",
