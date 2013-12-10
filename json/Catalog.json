@@ -1173,6 +1173,526 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, null, 1386107028, 1386107193 ]
+, [ 27097053655712, "27097053655712", null, 1381279851, "402253", 1386638378, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/Audits/6ak6-gvaw", "Audits" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "6ak6-gvaw", "1266728", null, [ {
+    "id" : 121302762,
+    "name" : "1",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15037349,
+    "width" : 112,
+    "format" : {
+    }
+  }, {
+    "id" : 121302763,
+    "name" : "Audit Name",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037350,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 121302764,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 15037351,
+    "width" : 148,
+    "format" : {
+    }
+  }, {
+    "id" : 121302765,
+    "name" : "Date Text",
+    "dataTypeName" : "text",
+    "fieldName" : "date_text",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037352,
+    "width" : 208,
+    "format" : {
+    }
+  }, {
+    "id" : 121302766,
+    "name" : "Department",
+    "dataTypeName" : "text",
+    "fieldName" : "department",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037353,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 121302767,
+    "name" : "Audit Type",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037354,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 121302768,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037355,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 121302769,
+    "name" : "Tag 1",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037356,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302770,
+    "name" : "Tag 2",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_2",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037357,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302771,
+    "name" : "Tag 3",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_3",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037358,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302772,
+    "name" : "Link",
+    "dataTypeName" : "url",
+    "fieldName" : "link",
+    "position" : 11,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037359,
+    "width" : 148,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 121302773,
+    "name" : "Department Response",
+    "dataTypeName" : "url",
+    "fieldName" : "department_response",
+    "position" : 12,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037360,
+    "width" : 328,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 121302774,
+    "name" : "Controller Evaluation",
+    "dataTypeName" : "url",
+    "fieldName" : "controller_evaluation",
+    "position" : 13,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037361,
+    "width" : 352,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 121302775,
+    "name" : "Sequence Number",
+    "dataTypeName" : "text",
+    "fieldName" : "sequence_number",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037362,
+    "width" : 280,
+    "format" : {
+    }
+  } ], "audits", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, null, 1381279851, 1386638378 ]
+, [ 101327093900578, "101327093900578", null, 1382292317, "849676", 1386638379, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Audits-by-Department/n2wd-s2ky", "Audits by Department" ], null, "Audits Released by the City Controller, 1999-Present. Click the magnifying lens next to the department name to see all audits performed on that department.", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "n2wd-s2ky", "1266728", null, [ {
+    "id" : 121302780,
+    "name" : "Department",
+    "dataTypeName" : "text",
+    "fieldName" : "department",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037353,
+    "width" : 190,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 121302777,
+    "name" : "Audit Name",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_name",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15037350,
+    "width" : 757,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 121302786,
+    "name" : "Link",
+    "dataTypeName" : "url",
+    "fieldName" : "link",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15037359,
+    "width" : 376,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "n2wd-s2ky", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382292317, 1386638379 ]
+, [ 101574351049296, "101574351049296", null, 1381279851, "849676", 1386638389, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Audits/n66v-7d9g", "Audits" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "n66v-7d9g", "1266728", null, [ {
+    "id" : 108262708,
+    "name" : "1",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15037349,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 108262709,
+    "name" : "Audit Name",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037350,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 108262711,
+    "name" : "Date Text",
+    "dataTypeName" : "text",
+    "fieldName" : "date_text",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037352,
+    "width" : 96,
+    "format" : {
+    }
+  }, {
+    "id" : 108262712,
+    "name" : "Department",
+    "dataTypeName" : "text",
+    "fieldName" : "department",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037353,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 108262713,
+    "name" : "Audit Type",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037354,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 108262714,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037355,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 108262715,
+    "name" : "Tag 1",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037356,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 108262716,
+    "name" : "Tag 2",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_2",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037357,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 108262717,
+    "name" : "Tag 3",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_3",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037358,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 108262718,
+    "name" : "Link",
+    "dataTypeName" : "url",
+    "fieldName" : "link",
+    "position" : 11,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037359,
+    "width" : 235,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 108262719,
+    "name" : "Department Response",
+    "dataTypeName" : "url",
+    "fieldName" : "department_response",
+    "position" : 12,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037360,
+    "width" : 211,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 108262720,
+    "name" : "Controller Evaluation",
+    "dataTypeName" : "url",
+    "fieldName" : "controller_evaluation",
+    "position" : 13,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037361,
+    "width" : 176,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 108262721,
+    "name" : "Sequence Number",
+    "dataTypeName" : "text",
+    "fieldName" : "sequence_number",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037362,
+    "width" : 50,
+    "format" : {
+    }
+  } ], "n66v-7d9g", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381279851, 1386638389 ]
+, [ 110169338759365, "110169338759365", null, 1381781205, "849676", 1386638377, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Audits-View/p3bc-jkz5", "Audits View" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "p3bc-jkz5", "1266728", null, [ {
+    "id" : 121302752,
+    "name" : "Department",
+    "dataTypeName" : "text",
+    "fieldName" : "department",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037353,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302749,
+    "name" : "Audit Name",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037350,
+    "width" : 442,
+    "format" : {
+    }
+  }, {
+    "id" : 121302758,
+    "name" : "Link",
+    "dataTypeName" : "url",
+    "fieldName" : "link",
+    "position" : 3,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037359,
+    "width" : 152,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 121302751,
+    "name" : "Date Text",
+    "dataTypeName" : "text",
+    "fieldName" : "date_text",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037352,
+    "width" : 82,
+    "format" : {
+    }
+  }, {
+    "id" : 121302759,
+    "name" : "Department Response",
+    "dataTypeName" : "url",
+    "fieldName" : "department_response",
+    "position" : 5,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037360,
+    "width" : 226,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 121302754,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037355,
+    "width" : 157,
+    "format" : {
+    }
+  }, {
+    "id" : 121302760,
+    "name" : "Controller Evaluation",
+    "dataTypeName" : "url",
+    "fieldName" : "controller_evaluation",
+    "position" : 7,
+    "renderTypeName" : "url",
+    "tableColumnId" : 15037361,
+    "width" : 244,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 121302753,
+    "name" : "Audit Type",
+    "dataTypeName" : "text",
+    "fieldName" : "audit_type",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037354,
+    "width" : 175,
+    "format" : {
+    }
+  }, {
+    "id" : 121302750,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 9,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 15037351,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 121302761,
+    "name" : "Sequence Number",
+    "dataTypeName" : "text",
+    "fieldName" : "sequence_number",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037362,
+    "width" : 93,
+    "format" : {
+    }
+  }, {
+    "id" : 121302755,
+    "name" : "Tag 1",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_1",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037356,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302756,
+    "name" : "Tag 2",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_2",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037357,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302757,
+    "name" : "Tag 3",
+    "dataTypeName" : "text",
+    "fieldName" : "tag_3",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15037358,
+    "width" : 160,
+    "format" : {
+    }
+  }, {
+    "id" : 121302748,
+    "name" : "1",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15037349,
+    "width" : 50,
+    "format" : {
+    }
+  } ], "p3bc-jkz5", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381781205, 1386638377 ]
 , [ 27722071266706, "27722071266706", null, 1382301759, "849676", 1384564783, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi", "FY2013 General Fund Revenue Budget v Collected Revenue" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6jqc-dtmi", "1352438", null, [ {
     "id" : 115446342,
     "name" : "DEPARTMENT NAME",
@@ -1954,6 +2474,55 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382301604, 1384564782 ]
+, [ 70746201244378, "70746201244378", null, 1386614376, "862121", 1386618542, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue1/g5vy-csbq", "Revenue1" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "g5vy-csbq", "1352438", null, [ {
+    "id" : 121265156,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 121265157,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 179,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 121265160,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "g5vy-csbq", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1386614376, 1386618542 ]
 , [ 75830267502921, "75830267502921", null, 1382069286, "855880", 1386266840, "855880", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Revenue/hfus-a659", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "hfus-a659", "1352438", null, [ {
     "id" : 114807398,
     "name" : "FISCAL YEAR",
@@ -10981,6 +11550,222 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382289317, 1384564785 ]
+, [ 54187492128350, "54187492128350", null, 1386615060, "862121", 1386618384, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditures1/cky2-e3pu", "Expenditures1" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through October 30, 2013", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "cky2-e3pu", "1352437", null, [ {
+    "id" : 121268106,
+    "name" : "BUDGET FISCAL YEAR",
+    "dataTypeName" : "text",
+    "fieldName" : "budget_fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407323,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 121268107,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407324,
+    "width" : 214,
+    "format" : {
+    }
+  }, {
+    "id" : 121268110,
+    "name" : "TOTAL EXPENDITURES",
+    "dataTypeName" : "money",
+    "description" : "Total Budget Fiscal Year amount expended from account to date",
+    "fieldName" : "total_expenditures",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407334,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268108,
+    "name" : "ACCOUNT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "account_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407327,
+    "width" : 223,
+    "format" : {
+    }
+  }, {
+    "id" : 121268109,
+    "name" : "ADOPTED BUDGET AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Original budget amount adopted by Mayor and Council",
+    "fieldName" : "adopted_budget_amount",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407329,
+    "width" : 101,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268111,
+    "name" : "BUDGET CHANGE AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Amendment to the adopted budget amount",
+    "fieldName" : "budget_change_amount",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407330,
+    "width" : 92,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268112,
+    "name" : "BUDGET TRANSFER IN AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Increase in appropriation to account by transfer in of funds",
+    "fieldName" : "budget_transfer_in_amount",
+    "position" : 7,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407331,
+    "width" : 86,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268113,
+    "name" : "BUDGET TRANSFER OUT AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Decrease in appropriation to account by transfer out of funds",
+    "fieldName" : "budget_transfer_out_amount",
+    "position" : 8,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407332,
+    "width" : 89,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268114,
+    "name" : "TOTAL BUDGET",
+    "dataTypeName" : "money",
+    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
+    "fieldName" : "total_budget",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407333,
+    "width" : 96,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268115,
+    "name" : "ENCUMBRANCE AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Obligation or commitment to pay for a good or service",
+    "fieldName" : "encumbrance_amount",
+    "position" : 10,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407335,
+    "width" : 90,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268116,
+    "name" : "PRE-ENCUMBRANCE AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Anticipated obligation or commitment to pay for a good or service",
+    "fieldName" : "pre_encumbrance_amount",
+    "position" : 11,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407336,
+    "width" : 86,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268117,
+    "name" : "BUDGET UNCOMMITTED AMOUNT",
+    "dataTypeName" : "money",
+    "description" : "Total unused appropriation after expenditures and encumbrances",
+    "fieldName" : "budget_uncommitted_amount",
+    "position" : 12,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407337,
+    "width" : 94,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 121268118,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407325,
+    "width" : 141,
+    "format" : {
+    }
+  }, {
+    "id" : 121268119,
+    "name" : "ACCOUNT GROUP NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "account_group_name",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407328,
+    "width" : 183,
+    "format" : {
+    }
+  }, {
+    "id" : 121268120,
+    "name" : "ACCOUNT",
+    "dataTypeName" : "text",
+    "fieldName" : "account",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407326,
+    "width" : 55,
+    "format" : {
+    }
+  } ], "cky2-e3pu", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1386615060, 1386618384 ]
 , [ 62950819271876, "62950819271876", null, 1384571266, "862121", 1384571266, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditures-by-Account-Group/ek3x-e9j4", "Expenditures by Account Group" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "ek3x-e9j4", "1352437", null, [ {
     "id" : 115458664,
     "name" : "ACCOUNT GROUP NAME",
@@ -13259,537 +14044,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047725, 1382299195 ]
-, [ 27097053655712, "27097053655712", null, 1381279851, "402253", 1382508643, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/Audits/6ak6-gvaw", "Audits" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "6ak6-gvaw", "1231504", null, [ {
-    "id" : 109032582,
-    "name" : "1",
-    "dataTypeName" : "number",
-    "fieldName" : "_1",
-    "position" : 1,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037349,
-    "width" : 112,
-    "format" : {
-    }
-  }, {
-    "id" : 109032583,
-    "name" : "Audit Name",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037350,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 109032584,
-    "name" : "Date",
-    "dataTypeName" : "calendar_date",
-    "fieldName" : "date",
-    "position" : 3,
-    "renderTypeName" : "calendar_date",
-    "tableColumnId" : 15037351,
-    "width" : 148,
-    "format" : {
-    }
-  }, {
-    "id" : 109032585,
-    "name" : "Date Text",
-    "dataTypeName" : "text",
-    "fieldName" : "date_text",
-    "position" : 4,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037352,
-    "width" : 208,
-    "format" : {
-    }
-  }, {
-    "id" : 109032586,
-    "name" : "Department",
-    "dataTypeName" : "text",
-    "fieldName" : "department",
-    "position" : 5,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037353,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 109032587,
-    "name" : "Audit Type",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_type",
-    "position" : 6,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037354,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 109032588,
-    "name" : "Description",
-    "dataTypeName" : "text",
-    "fieldName" : "description",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037355,
-    "width" : 232,
-    "format" : {
-    }
-  }, {
-    "id" : 109032589,
-    "name" : "Tag 1",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_1",
-    "position" : 8,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037356,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 109032590,
-    "name" : "Tag 2",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_2",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037357,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 109032591,
-    "name" : "Tag 3",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_3",
-    "position" : 10,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037358,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 109032592,
-    "name" : "Link",
-    "dataTypeName" : "url",
-    "fieldName" : "link",
-    "position" : 11,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037359,
-    "width" : 148,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 109032593,
-    "name" : "Department Response",
-    "dataTypeName" : "url",
-    "fieldName" : "department_response",
-    "position" : 12,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037360,
-    "width" : 328,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 109032594,
-    "name" : "Controller Evaluation",
-    "dataTypeName" : "url",
-    "fieldName" : "controller_evaluation",
-    "position" : 13,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037361,
-    "width" : 352,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 109032595,
-    "name" : "Sequence Number",
-    "dataTypeName" : "text",
-    "fieldName" : "sequence_number",
-    "position" : 14,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037362,
-    "width" : 280,
-    "format" : {
-    }
-  } ], "audits", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, null, 1381279851, 1382508643 ]
-, [ 101327093900578, "101327093900578", null, 1382292317, "849676", 1382341363, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Audits-by-Department/n2wd-s2ky", "Audits by Department" ], null, "Audits Released by the City Controller, 1999-Present. Click the magnifying lens next to the department name to see all audits performed on that department.", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "n2wd-s2ky", "1231504", null, [ {
-    "id" : 108441447,
-    "name" : "Department",
-    "dataTypeName" : "text",
-    "fieldName" : "department",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037353,
-    "width" : 190,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 108441448,
-    "name" : "Audit Name",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_name",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037350,
-    "width" : 757,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 108441449,
-    "name" : "Link",
-    "dataTypeName" : "url",
-    "fieldName" : "link",
-    "position" : 3,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037359,
-    "width" : 376,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "n2wd-s2ky", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382292317, 1382341363 ]
-, [ 101574351049296, "101574351049296", null, 1381279851, "849676", 1381280422, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Audits/n66v-7d9g", "Audits" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "n66v-7d9g", "1231504", null, [ {
-    "id" : 105224960,
-    "name" : "1",
-    "dataTypeName" : "number",
-    "fieldName" : "_1",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037349,
-    "width" : 112,
-    "format" : {
-    }
-  }, {
-    "id" : 105224961,
-    "name" : "Audit Name",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_name",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037350,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 105224962,
-    "name" : "Date",
-    "dataTypeName" : "calendar_date",
-    "fieldName" : "date",
-    "position" : 4,
-    "renderTypeName" : "calendar_date",
-    "tableColumnId" : 15037351,
-    "width" : 148,
-    "format" : {
-    }
-  }, {
-    "id" : 105224963,
-    "name" : "Date Text",
-    "dataTypeName" : "text",
-    "fieldName" : "date_text",
-    "position" : 5,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037352,
-    "width" : 208,
-    "format" : {
-    }
-  }, {
-    "id" : 105224964,
-    "name" : "Department",
-    "dataTypeName" : "text",
-    "fieldName" : "department",
-    "position" : 6,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037353,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 105224965,
-    "name" : "Audit Type",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_type",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037354,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 105224966,
-    "name" : "Description",
-    "dataTypeName" : "text",
-    "fieldName" : "description",
-    "position" : 8,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037355,
-    "width" : 232,
-    "format" : {
-    }
-  }, {
-    "id" : 105224967,
-    "name" : "Tag 1",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_1",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037356,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 105224968,
-    "name" : "Tag 2",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_2",
-    "position" : 10,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037357,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 105224969,
-    "name" : "Tag 3",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_3",
-    "position" : 11,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037358,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 105224970,
-    "name" : "Link",
-    "dataTypeName" : "url",
-    "fieldName" : "link",
-    "position" : 12,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037359,
-    "width" : 148,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 105224971,
-    "name" : "Department Response",
-    "dataTypeName" : "url",
-    "fieldName" : "department_response",
-    "position" : 13,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037360,
-    "width" : 328,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 105224972,
-    "name" : "Controller Evaluation",
-    "dataTypeName" : "url",
-    "fieldName" : "controller_evaluation",
-    "position" : 14,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037361,
-    "width" : 352,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 105224973,
-    "name" : "Sequence Number",
-    "dataTypeName" : "text",
-    "fieldName" : "sequence_number",
-    "position" : 15,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037362,
-    "width" : 280,
-    "format" : {
-    }
-  } ], "n66v-7d9g", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381279851, 1381280422 ]
-, [ 110169338759365, "110169338759365", null, 1381781205, "849676", 1382495002, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Audits-View/p3bc-jkz5", "Audits View" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "p3bc-jkz5", "1231504", null, [ {
-    "id" : 106751938,
-    "name" : "Department",
-    "dataTypeName" : "text",
-    "fieldName" : "department",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037353,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 106751935,
-    "name" : "Audit Name",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037350,
-    "width" : 442,
-    "format" : {
-    }
-  }, {
-    "id" : 106751937,
-    "name" : "Link",
-    "dataTypeName" : "url",
-    "fieldName" : "link",
-    "position" : 3,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037359,
-    "width" : 152,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 106751939,
-    "name" : "Date Text",
-    "dataTypeName" : "text",
-    "fieldName" : "date_text",
-    "position" : 4,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037352,
-    "width" : 82,
-    "format" : {
-    }
-  }, {
-    "id" : 106751941,
-    "name" : "Department Response",
-    "dataTypeName" : "url",
-    "fieldName" : "department_response",
-    "position" : 5,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037360,
-    "width" : 226,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 106751940,
-    "name" : "Description",
-    "dataTypeName" : "text",
-    "fieldName" : "description",
-    "position" : 6,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037355,
-    "width" : 157,
-    "format" : {
-    }
-  }, {
-    "id" : 106751943,
-    "name" : "Controller Evaluation",
-    "dataTypeName" : "url",
-    "fieldName" : "controller_evaluation",
-    "position" : 7,
-    "renderTypeName" : "url",
-    "tableColumnId" : 15037361,
-    "width" : 244,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 106751942,
-    "name" : "Audit Type",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_type",
-    "position" : 8,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037354,
-    "width" : 175,
-    "format" : {
-    }
-  }, {
-    "id" : 106751936,
-    "name" : "Date",
-    "dataTypeName" : "calendar_date",
-    "fieldName" : "date",
-    "position" : 9,
-    "renderTypeName" : "calendar_date",
-    "tableColumnId" : 15037351,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 106751946,
-    "name" : "Sequence Number",
-    "dataTypeName" : "text",
-    "fieldName" : "sequence_number",
-    "position" : 10,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037362,
-    "width" : 93,
-    "format" : {
-    }
-  }, {
-    "id" : 106751945,
-    "name" : "Tag 1",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_1",
-    "position" : 11,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037356,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 106751947,
-    "name" : "Tag 2",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_2",
-    "position" : 12,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037357,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 106751948,
-    "name" : "Tag 3",
-    "dataTypeName" : "text",
-    "fieldName" : "tag_3",
-    "position" : 13,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037358,
-    "width" : 160,
-    "format" : {
-    }
-  }, {
-    "id" : 106751944,
-    "name" : "1",
-    "dataTypeName" : "number",
-    "fieldName" : "_1",
-    "position" : 14,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037349,
-    "width" : 50,
-    "format" : {
-    }
-  } ], "p3bc-jkz5", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381781205, 1382495002 ]
 , [ 84354500765260, "84354500765260", null, 1380047397, "710611", 1380047402, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Templates/jbxg-3qpc", "Templates" ], null, null, "0", null, "", "0", null, null, null, null, "jbxg-3qpc", "1181401", null, [ {
     "id" : 101151763,
     "name" : "Name",
