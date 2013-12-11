@@ -8,7 +8,7 @@
       "createdAt" : 1381279851,
       "description" : "Audits Released by the City Controller, 1999-Present",
       "displayType" : "table",
-      "downloadCount" : 111,
+      "downloadCount" : 117,
       "indexUpdatedAt" : 1386661419,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -107,15 +107,21 @@
         "tableColumnId" : 15037349,
         "width" : 50,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "2",
-          "sum" : "69005",
+          "sum" : "69750",
           "null" : 0,
-          "average" : "186.5",
-          "largest" : "371",
+          "average" : "187.5",
+          "largest" : "373",
           "top" : [ {
             "count" : 20,
             "item" : "371"
+          }, {
+            "count" : 19,
+            "item" : "372"
+          }, {
+            "count" : 18,
+            "item" : "373"
           } ]
         },
         "format" : {
@@ -130,12 +136,18 @@
         "tableColumnId" : 15037350,
         "width" : 220,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "2008 Industrial, Economic and Administrative (IEA) Survey of LAWA",
           "null" : 0,
           "largest" : "Water & Power-Duplicate Payment to a Contractor",
           "top" : [ {
             "count" : 20,
+            "item" : "Bureau of Sanitation-Survey of Purchasing & Inventory Activities"
+          }, {
+            "count" : 19,
+            "item" : "Los Angeles Police Department-Peace Officers Standards & Training (Post) Program"
+          }, {
+            "count" : 18,
             "item" : "Bureau of Engineering-Administration of Police Facilities Bond Projects"
           } ]
         },
@@ -151,10 +163,10 @@
         "tableColumnId" : 15037352,
         "width" : 96,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "01-Jul-2010",
           "null" : 0,
-          "largest" : " 8/10/2010",
+          "largest" : " 8/10/2010",
           "top" : [ {
             "count" : 20,
             "item" : "30-Jul-2002"
@@ -172,49 +184,49 @@
             "item" : "18-Aug-2000"
           }, {
             "count" : 15,
-            "item" : "14-Jul-2000"
+            "item" : "08-Aug-2000"
           }, {
             "count" : 14,
-            "item" : "05-Jun-2000"
+            "item" : "04-Aug-2000"
           }, {
             "count" : 13,
-            "item" : "25-May-2000"
+            "item" : "14-Jul-2000"
           }, {
             "count" : 12,
-            "item" : "25-Apr-2000"
+            "item" : "05-Jun-2000"
           }, {
             "count" : 11,
-            "item" : "31-Mar-2000"
+            "item" : "25-May-2000"
           }, {
             "count" : 10,
-            "item" : "21-Mar-2000"
+            "item" : "25-Apr-2000"
           }, {
             "count" : 9,
-            "item" : "16-Feb-2000"
+            "item" : "31-Mar-2000"
           }, {
             "count" : 8,
-            "item" : "14-Feb-2000"
+            "item" : "21-Mar-2000"
           }, {
             "count" : 7,
-            "item" : "13-Jan-2000"
+            "item" : "16-Feb-2000"
           }, {
             "count" : 6,
-            "item" : "13-Dec-1999"
+            "item" : "14-Feb-2000"
           }, {
             "count" : 5,
-            "item" : "10-Dec-1999"
+            "item" : "13-Jan-2000"
           }, {
             "count" : 4,
-            "item" : "30-Nov-1999"
+            "item" : "13-Dec-1999"
           }, {
             "count" : 3,
-            "item" : "12-Nov-1999"
+            "item" : "10-Dec-1999"
           }, {
             "count" : 2,
-            "item" : "23-Sep-1999"
+            "item" : "30-Nov-1999"
           }, {
             "count" : 1,
-            "item" : "01-Sep-1999"
+            "item" : "12-Nov-1999"
           } ]
         },
         "format" : {
@@ -229,7 +241,7 @@
         "tableColumnId" : 15037353,
         "width" : 220,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "Aging",
           "null" : 0,
           "largest" : "Zoo",
@@ -268,31 +280,31 @@
             "item" : "Recreation and Parks"
           }, {
             "count" : 9,
-            "item" : "City Administrative Officer"
-          }, {
-            "count" : 8,
             "item" : "Animal Services"
           }, {
-            "count" : 7,
+            "count" : 8,
             "item" : "Public Works"
           }, {
-            "count" : 6,
+            "count" : 7,
             "item" : "Harbor"
           }, {
-            "count" : 5,
+            "count" : 6,
             "item" : "Fire"
           }, {
-            "count" : 4,
+            "count" : 5,
             "item" : "Community Redevelopment"
           }, {
-            "count" : 3,
+            "count" : 4,
             "item" : "Community Development"
           }, {
-            "count" : 2,
+            "count" : 3,
             "item" : "El Pueblo"
           }, {
-            "count" : 1,
+            "count" : 2,
             "item" : "Zoo"
+          }, {
+            "count" : 1,
+            "item" : "Cultural Affairs"
           } ]
         },
         "format" : {
@@ -307,7 +319,7 @@
         "tableColumnId" : 15037354,
         "width" : 220,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "Contract",
           "null" : 0,
           "largest" : "Special Analysis & Reviews",
@@ -345,7 +357,7 @@
         "cachedContents" : {
           "non_null" : 24,
           "smallest" : "\"The Los Angeles City Controller engaged Sjoberg Evashenk Consulting (SEC) to conduct a performance audit to evaluate the efficiency and effectiveness of the Treasurer’s investment activities. Under City Charter, the Treasurer of the City of Los Angeles is the chief administrative officer of the City Treasury and custodian of record for more than $7 billion in City funds. In 2011, the Treasurer’s Office was moved under the Director of Finance, who holds both titles. As a part of our review, we assessed the City’s investment program performance in terms of maximizing returns while complying with provisions of the Government Code, and evaluated the benchmarks and measurement practices employed and the manner and method of reporting the results. We also reviewed the City’s cash flow forecasting methods and use of information systems as well as the City’s organizational structure, access to external experts, and utilization of oversight and control processes. Overall, we found that the City’s investment activities reflect positive returns and its investing processes were reasonable and complete.\n\n\"The City manages two portfolios, the Core and Reserve Portfolios.  The results of our analyses reveal that the Core Portfolio outperformed its chosen benchmark in each of the four periods (calendar and fiscal years, 2011 and 2012) that we reviewed. The Reserve Portfolio slightly outperformed its benchmark for three of the four periods analyzed. Additionally, we noted that the benchmark indices the City uses for comparative purposes are similar to those used by a number of other peer municipalities.\"",
-          "null" : 346,
+          "null" : 348,
           "largest" : "We reviewed two Wells Fargo Bank accounts used to fund expenditures related to the operation and maintenance of two City-owned properties under the management of CB Richard Ellis (CBRE). As of August 31, 2012, the bank balances were $354,351 and $792,925 for the Public Works and Figueroa Plaza building maintenance accounts, respectively.\n\nThe purpose of our review was to evaluate internal controls over GSD's bank accounts and to determine whether GSD used the funds in accordance with their authorized purposes.\n\nThe bank accounts were used in accordance with their authorized purposes; specifically, for the Property Manager (CBRE) to process vendor payments related to the operations and maintenance of the two City-owned properties, subject to the review, approval and signature by GSD.\n\nWhile all check disbursements were supported, we noted minor observations related to GSD's documentary review requirements. However, we question the necessity of GSD maintaining these bank accounts, as the processes for detailed payment review are duplicated between CBRE and GSD. The agreement with CBRE requires they maintain separate and sufficient accounting records to support all disbursements; this function is supported through their monthly management fee. In addition, CBRE is required to manage expenditures within an established budget that has been approved by GSD, and expenditures over a certain dollar limit require GSD's prior written approval.\n\nTo streamline City operations while ensuring appropriate oversight and control of the property management function for these buildings, we recommend that GSD execute a new contract(s) for property management services that simplifies payment processing and eliminates the need for these City bank accounts that are outside the control of the Treasurer's Office. Under the terms of a new contract, CBRE could continue to receive a monthly management fee and be reimbursed for other direct expenditures, in accordance with an established budget.",
           "top" : [ {
             "count" : 20,
@@ -367,7 +379,7 @@
             "item" : "LAFPP administers the defined benefit retirement plan for almost 26,000 City of Los Angeles sworn employees, including police, fire, and certain port police. The LAFPP Board of Administration oversees a diversified investment portfolio holding assets exceeding $14 billion as of June 30, 2012. LAFPP has a staff of over 100 employees, with an administrative expense budget of nearly $17 million. This Management Audit is to analyze LAFPP’s administrative and investment policies, procedures and practices in order to provide information related to the objectives described above."
           }, {
             "count" : 14,
-            "item" : "The Controller’s Office has completed an audit of the Business Improvement District (BID) Trust Fund (Fund #659). The objectives of the audit were to determine if transactions were made in accordance with the specific purposes allowed by applicable policies, laws, regulations, and ordinances and to evaluate the adequacy of internal controls over the financial management of the Fund. We also assessed whether BIDs are being charged proper amounts required under their contracts and whether the City is recovering its costs for supporting the BIDs. Background: A BID is a geographically defined area in which businesses or property owners have requested that the City assess them an additional fee, to pay for services designed to improve the business climate of the area. Specific goals of a BID may include increasing pedestrian traffic for businesses, improving the economic vitality of commercial areas, and improving the safety of individual assessed parcels. The level and types of services to achieve these goals are determined by the BID. ​"
+            "item" : "The Controller’s Office has completed an audit of the Business Improvement District (BID) Trust Fund (Fund #659). The objectives of the audit were to determine if transactions were made in accordance with the specific purposes allowed by applicable policies, laws, regulations, and ordinances and to evaluate the adequacy of internal controls over the financial management of the Fund. We also assessed whether BIDs are being charged proper amounts required under their contracts and whether the City is recovering its costs for supporting the BIDs. Background: A BID is a geographically defined area in which businesses or property owners have requested that the City assess them an additional fee, to pay for services designed to improve the business climate of the area. Specific goals of a BID may include increasing pedestrian traffic for businesses, improving the economic vitality of commercial areas, and improving the safety of individual assessed parcels. The level and types of services to achieve these goals are determined by the BID. "
           }, {
             "count" : 13,
             "item" : "The primary objective of this audit was to assess LAWA’s management controls over the assignment, usage, and monitoring of fleet vehicles assigned to Central Pools and LAWA Divisions, as well as those assigned to specific individuals with authorization for home-garaging. We also evaluated the Department’s fleet management practices to identify opportunities to improvement. LAWA maintains a fleet of over 1,400 items including cars, trucks, motorcycles, and heavy equipment. This audit focused on light duty sedans, trucks, vans, and motorcycles that are maintained by LAWA, as categorized below: No. of Vehicles Home-Garaged Vehicles 84, Central Pool Vehicles 81, Vehicles Assigned to Divisions 651, Vehicles Assigned to Airport Police 213, Total 1,029.\n\nWe focused our review on LAWA’s passenger vehicles (e.g., light duty sedans, trucks and vans) that are being used to perform critical functions and support services in the areas of administration, airport operations, grounds and facility maintenance, engineering and construction, and security and law enforcement.\n\nThis performance audit included the current control structure and processes used to manage LAWA’s vehicle fleet, and sample transactions and activities from July 1, 2010 to October 31, 2012. Audit fieldwork was conducted between October 2012 and January 2013.\nSUMMARY OF AUDIT RESULTS Over the last two years LAWA has purchased light-duty vehicles totaling more than $2 million. Additional costs are incurred for maintenance and fuel for the vehicle fleet.\n\nOverall, our audit found that there is inadequate centralized accountability or control over the vehicles that are assigned to staff with authority for home-garaging and those allocated to LAWA Divisions and other pools. We noted that the inventory information produced by the fleet system was inaccurate, and LAWA has no utilization standard or process to evaluate the need for or best use of its existing vehicles. Divisional pool vehicles are routinely assigned to individuals, limiting their effective use by other staff, and some employees who use their personal vehicle due to a shortage of available pool cars have been paid excessive mileage reimbursements. In addition, there is inadequate control over the vehicle replacement process. LAWA should take immediate action to improve controls over its vehicle fleet, as well as maximize the usage of those assets and reduce overall costs."
@@ -406,7 +418,7 @@
             "item" : "The primary objectives of the audit were to determine if transactions were made in accordance with the specific purposes allowed by applicable policies, laws, regulations, and ordinances and to evaluate the adequacy of internal controls over the financial management of the Fund.\n\nOn June 26, 2003, City ordinance #175327 created the Attorney Conflicts Panel Special Fund. The establishment of the Fund was based upon a continuous need to hire outside counsel to handle conflict of interest matters which preclude the City Attorney's Office from handling. The nature of a conflict varies, and conflict matters range from partial to fully conflicted assignments and include potential conflicts, as determined by the City Attorney's Office.\n\nIn August 2003, the Office of the Controller established Fund #46T (Fund), the Attorney Conflicts Panel Special Fund, to account for monies received from the General Fund and for payments made to outside law firms under contract to perform specified legal services. The City Administrative Officer (CAO) manages the Fund. Fiscal Year (FY) 2012 revenues and expenses were $1,567,000 and $1,018,528, respectively. As of November 30, 2012 the Fund had a cash balance of $9.9 million. However, as of November 30, 2012, the CAO had not yet transferred any of the $1,964,450 FY 2013 adopted budgeted amount from the General Fund to Fund #46T.\n\nOur audit covered expenses made between July 2009 and June 2012. However, for purposes of analyzing overall expenses, sources of funds, and the management of the Fund, our audit period extended back to Fiscal Year 2004."
           }, {
             "count" : 1,
-            "item" : "We have examined the proposals of HNTB Corporation and its subcontractors: Earth Mechanics, Inc., MGE Engineering, Inc., V&A Architects and Michael Maltzan, Inc. to provide design and support services relating to the City of Los Angeles’ Sixth Street Viaduct Replacement Project. The objectives of the examination were to (i) assess the reasonableness of the proposed costs, (ii) determine the adequacy of the accounting system in accumulating costs under the proposed contract, (iii) evaluate the financial capability of HNTB and the 4 major subcontractors listed above.\n\nBased on our examination, we found that:\n\n• Costs proposed by HNTB were higher by $2,049,762 than the audit recommended costs. We recommend that the City of Los Angeles Bureau of Engineering (“BOE”) utilize the audited costs in its negotiations with HNTB.\n\nAs discussed in this report, our examination was limited to verification of proposed labor rates, overhead rates, mark-ups and unit costs used for other direct expense items. We did not verify the reasonableness of the proposed hours, mileages, number of copies or similar units of measurement utilized in the proposals. These were utilized in the examination merely to compare the total proposed, audited and recommended costs.\n\n• Documentation supporting the cost proposal was not adequate to determine whether the proposed overhead rates can be sustained by HNTB or its 4 major subcontractors for the 6- year period of contract performance. The City of Los Angeles risks overpaying on the contract if HNTB and its subcontractors’ actual overhead rates become lower during the period of contract performance. We recommend that the BOE consider utilizing a Cost-plus fixed-fee contract with a not-to-exceed amount for this project. In addition, we recommend that BOE consider capping the indirect expense rate to protect the City from unexpected increases in overhead rates.\n\n• Based on our evaluation, we found that HNTB and its 4 major subcontractors accounting and billing systems were adequate to identify, account for, record, and accumulate costs in proper costs pools.\n\n• Based on our analysis of key ratios, we found that HNTB and its 4 majors subcontractors are financially capable to perform on the proposed contract. Our evaluation of financial capability was based solely on the review of the most recent financial statements and not on financial projections. Therefore, certain events may occur during the performance of this 6-year project that might impact the key financial ratios of HNTB or its 4 major subcontractors. BACKGROUND\n\nThe Sixth Street Viaduct Replacement Project (“Project”) of the City of Los Angeles will replace the existing viaduct which was constructed in 1932. In April 2012, the City of Los Angeles BOE issued a Request for Qualifications to begin the process of selecting a design consultant for the Project. In October 2012, the BOE announced the selection of HNTB as the design consultant that will provide comprehensive design and support services through the final design, right-of-way and construction phases. The proposed contract is anticipated to be negotiated as a firm fixed-priced contract with estimated total costs of $27M and the expected period of performance is 6 years. The total estimated cost includes 14 subcontractors totaling $6.6M.\n\nThe objectives of the examination were to (i) assess the reasonableness of the proposed costs, (ii) determine the adequacy of the accounting system in accumulating costs under the proposed contract, (iii) evaluate the financial capability of HNTB and its 4 major subcontractors.\n"
+            "item" : "We have examined the proposals of HNTB Corporation and its subcontractors: Earth Mechanics, Inc., MGE Engineering, Inc., V&A Architects and Michael Maltzan, Inc. to provide design and support services relating to the City of Los Angeles’ Sixth Street Viaduct Replacement Project. The objectives of the examination were to (i) assess the reasonableness of the proposed costs, (ii) determine the adequacy of the accounting system in accumulating costs under the proposed contract, (iii) evaluate the financial capability of HNTB and the 4 major subcontractors listed above.\n\nBased on our examination, we found that:\n\n• Costs proposed by HNTB were higher by $2,049,762 than the audit recommended costs. We recommend that the City of Los Angeles Bureau of Engineering (“BOE”) utilize the audited costs in its negotiations with HNTB.\n\nAs discussed in this report, our examination was limited to verification of proposed labor rates, overhead rates, mark-ups and unit costs used for other direct expense items. We did not verify the reasonableness of the proposed hours, mileages, number of copies or similar units of measurement utilized in the proposals. These were utilized in the examination merely to compare the total proposed, audited and recommended costs.\n\n• Documentation supporting the cost proposal was not adequate to determine whether the proposed overhead rates can be sustained by HNTB or its 4 major subcontractors for the 6- year period of contract performance. The City of Los Angeles risks overpaying on the contract if HNTB and its subcontractors’ actual overhead rates become lower during the period of contract performance. We recommend that the BOE consider utilizing a Cost-plus fixed-fee contract with a not-to-exceed amount for this project. In addition, we recommend that BOE consider capping the indirect expense rate to protect the City from unexpected increases in overhead rates.\n\n• Based on our evaluation, we found that HNTB and its 4 major subcontractors accounting and billing systems were adequate to identify, account for, record, and accumulate costs in proper costs pools.\n\n• Based on our analysis of key ratios, we found that HNTB and its 4 majors subcontractors are financially capable to perform on the proposed contract. Our evaluation of financial capability was based solely on the review of the most recent financial statements and not on financial projections. Therefore, certain events may occur during the performance of this 6-year project that might impact the key financial ratios of HNTB or its 4 major subcontractors. BACKGROUND\n\nThe Sixth Street Viaduct Replacement Project (“Project”) of the City of Los Angeles will replace the existing viaduct which was constructed in 1932. In April 2012, the City of Los Angeles BOE issued a Request for Qualifications to begin the process of selecting a design consultant for the Project. In October 2012, the BOE announced the selection of HNTB as the design consultant that will provide comprehensive design and support services through the final design, right-of-way and construction phases. The proposed contract is anticipated to be negotiated as a firm fixed-priced contract with estimated total costs of $27M and the expected period of performance is 6 years. The total estimated cost includes 14 subcontractors totaling $6.6M.\n\nThe objectives of the examination were to (i) assess the reasonableness of the proposed costs, (ii) determine the adequacy of the accounting system in accumulating costs under the proposed contract, (iii) evaluate the financial capability of HNTB and its 4 major subcontractors."
           } ]
         },
         "format" : {
@@ -421,7 +433,7 @@
         "tableColumnId" : 15037356,
         "width" : 160,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "Business Development",
           "null" : 0,
           "largest" : "Transportation",
@@ -499,7 +511,7 @@
         "tableColumnId" : 15037357,
         "width" : 160,
         "cachedContents" : {
-          "non_null" : 333,
+          "non_null" : 335,
           "smallest" : "Business Development",
           "null" : 37,
           "largest" : "Transportation",
@@ -577,9 +589,9 @@
         "tableColumnId" : 15037358,
         "width" : 160,
         "cachedContents" : {
-          "non_null" : 149,
+          "non_null" : 152,
           "smallest" : "Business Development",
-          "null" : 221,
+          "null" : 220,
           "largest" : "Transportation",
           "top" : [ {
             "count" : 20,
@@ -604,16 +616,16 @@
             "item" : "Personnel"
           }, {
             "count" : 13,
-            "item" : "Business Development"
+            "item" : "General Government"
           }, {
             "count" : 12,
-            "item" : "Revenue"
+            "item" : "Business Development"
           }, {
             "count" : 11,
-            "item" : "Transportation"
+            "item" : "Revenue"
           }, {
             "count" : 10,
-            "item" : "General Government"
+            "item" : "Transportation"
           }, {
             "count" : 9,
             "item" : "Construction and Engineering"
@@ -655,16 +667,26 @@
         "tableColumnId" : 15037359,
         "width" : 235,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : {
             "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008035"
           },
           "null" : 0,
           "largest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_026554"
+            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_027273"
           },
           "top" : [ {
             "count" : 20,
+            "item" : {
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008297"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008296"
+            }
+          }, {
+            "count" : 18,
             "item" : {
               "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008295"
             }
@@ -683,113 +705,43 @@
         "tableColumnId" : 15037360,
         "width" : 211,
         "cachedContents" : {
-          "non_null" : 249,
+          "non_null" : 254,
           "smallest" : {
             "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_007876"
           },
-          "null" : 121,
+          "null" : 118,
           "largest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_026613"
+            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_027384"
           },
           "top" : [ {
             "count" : 20,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008381"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008834"
             }
           }, {
             "count" : 19,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008379"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008335"
             }
           }, {
             "count" : 18,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008377"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008317"
             }
           }, {
             "count" : 17,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008375"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008316"
             }
           }, {
             "count" : 16,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008374"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008314"
             }
           }, {
             "count" : 15,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008373"
-            }
-          }, {
-            "count" : 14,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008371"
-            }
-          }, {
-            "count" : 13,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008823"
-            }
-          }, {
-            "count" : 12,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008369"
-            }
-          }, {
-            "count" : 11,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008368"
-            }
-          }, {
-            "count" : 10,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008366"
-            }
-          }, {
-            "count" : 9,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008364"
-            }
-          }, {
-            "count" : 8,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008362"
-            }
-          }, {
-            "count" : 7,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008360"
-            }
-          }, {
-            "count" : 6,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008358"
-            }
-          }, {
-            "count" : 5,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008357"
-            }
-          }, {
-            "count" : 4,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008355"
-            }
-          }, {
-            "count" : 3,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008353"
-            }
-          }, {
-            "count" : 2,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008351"
-            }
-          }, {
-            "count" : 1,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008349"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008312"
             }
           } ]
         },
@@ -806,113 +758,23 @@
         "tableColumnId" : 15037361,
         "width" : 176,
         "cachedContents" : {
-          "non_null" : 242,
+          "non_null" : 250,
           "smallest" : {
             "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_007876"
           },
-          "null" : 128,
+          "null" : 122,
           "largest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_026645"
+            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_027431"
           },
           "top" : [ {
             "count" : 20,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008370"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008835"
             }
           }, {
             "count" : 19,
             "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008823"
-            }
-          }, {
-            "count" : 18,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008369"
-            }
-          }, {
-            "count" : 17,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008367"
-            }
-          }, {
-            "count" : 16,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008365"
-            }
-          }, {
-            "count" : 15,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008363"
-            }
-          }, {
-            "count" : 14,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008361"
-            }
-          }, {
-            "count" : 13,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008359"
-            }
-          }, {
-            "count" : 12,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008358"
-            }
-          }, {
-            "count" : 11,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008356"
-            }
-          }, {
-            "count" : 10,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008354"
-            }
-          }, {
-            "count" : 9,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008352"
-            }
-          }, {
-            "count" : 8,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008350"
-            }
-          }, {
-            "count" : 7,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008348"
-            }
-          }, {
-            "count" : 6,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008346"
-            }
-          }, {
-            "count" : 5,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008344"
-            }
-          }, {
-            "count" : 4,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008342"
-            }
-          }, {
-            "count" : 3,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008340"
-            }
-          }, {
-            "count" : 2,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008835"
-            }
-          }, {
-            "count" : 1,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008336"
+              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008334"
             }
           } ]
         },
@@ -929,12 +791,18 @@
         "tableColumnId" : 15037362,
         "width" : 50,
         "cachedContents" : {
-          "non_null" : 370,
+          "non_null" : 372,
           "smallest" : "00-01",
           "null" : 0,
           "largest" : "99-19",
           "top" : [ {
             "count" : 20,
+            "item" : "99-07"
+          }, {
+            "count" : 19,
+            "item" : "99-06"
+          }, {
+            "count" : 18,
             "item" : "99-05"
           } ]
         },
