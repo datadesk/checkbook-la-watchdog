@@ -10,7 +10,7 @@
       "createdAt" : 1383870766,
       "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment",
       "displayType" : "table",
-      "downloadCount" : 1371,
+      "downloadCount" : 2275,
       "indexUpdatedAt" : 1386464064,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -24,7 +24,7 @@
       "signed" : false,
       "tableId" : 1333914,
       "totalTimesRated" : 0,
-      "viewCount" : 234,
+      "viewCount" : 238,
       "viewLastModified" : 1383978382,
       "viewType" : "tabular",
       "columns" : [ {
