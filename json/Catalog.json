@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 142,
+      "downloadCount" : 149,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -1694,6 +1694,56 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382301557, 1386970735 ]
+, [ 57888962908636, "57888962908636", null, 1387005215, "847801", 1387005215, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-Collected-by-Revenue-Class-up-to-Nov2013/dapj-4x7s", "Revenue Collected by Revenue Class up to Nov2013" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "dapj-4x7s", "1396857", null, [ {
+    "id" : 122290546,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 271,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 122290547,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 122290548,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "dapj-4x7s", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1387005215, 1387005215 ]
 , [ 62410662146595, "62410662146595", null, 1383686985, "849004", 1386970736, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines-Fees/ecct-mf8z", "Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ecct-mf8z", "1396857", null, [ {
     "id" : 122199171,
     "name" : "REVENUE SOURCE NAME",
@@ -3818,6 +3868,58 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1386615060, 1386970735 ]
+, [ 54371441561991, "54371441561991", null, 1387006696, "847801", 1387006696, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditure-Budget-by-Dept/cndm-tt67", "Expenditure&Budget by Dept" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through November 30, 2013", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "cndm-tt67", "1396848", null, [ {
+    "id" : 122291386,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15407324,
+    "width" : 244,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 122291387,
+    "name" : "TOTAL EXPENDITURES",
+    "dataTypeName" : "money",
+    "description" : "Total Budget Fiscal Year amount expended from account to date",
+    "fieldName" : "total_expenditures",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407334,
+    "width" : 138,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 122291388,
+    "name" : "TOTAL BUDGET",
+    "dataTypeName" : "money",
+    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
+    "fieldName" : "total_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407333,
+    "width" : 150,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "cndm-tt67", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1387006696, 1387006696 ]
 , [ 62950819271876, "62950819271876", null, 1384571266, "862121", 1386970733, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditures-by-Account-Group/ek3x-e9j4", "Expenditures by Account Group" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "ek3x-e9j4", "1396848", null, [ {
     "id" : 122198935,
     "name" : "ACCOUNT GROUP NAME",
@@ -7602,6 +7704,40 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/6vkd-j24i", "magustin" ], "public", null, null, 1383690730, 1386970742 ]
+, [ 116630951916035, "116630951916035", null, 1386998672, "847801", 1386998672, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/eCheckBook-Expenditure-by-Department/qxd2-tn83", "eCheckBook Expenditure by Department" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "qxd2-tn83", "1398207", null, [ {
+    "id" : 122281783,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294628,
+    "width" : 224,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 122281788,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "qxd2-tn83", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1386998672, 1386998672 ]
 , [ 116692340007364, "116692340007364", null, 1381950172, "710611", 1386970736, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-total-pie/qy6d-um74", "Checkbook total pie" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "qy6d-um74", "1398207", null, [ {
     "id" : 122199200,
     "name" : "DOLLAR AMOUNT",

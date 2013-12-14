@@ -639,6 +639,51 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }]",8euj-efvz,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 08:39:17 PM +0000,12/13/2013 09:38:55 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Revenue Collected by Revenue Class up to Nov2013 (Finance/Revenue-Collected-by-Revenue-Class-up-to-Nov2013/dapj-4x7s),,"General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013",0,Finance,"revenue, general fund, revenues",0,,,,,dapj-4x7s,1396857,,"[{
+  ""id"" : 122290546,
+  ""name"" : ""REVENUE SOURCE NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""revenue_source_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15343436,
+  ""width"" : 271,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 122290547,
+  ""name"" : ""REVENUE BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_budget"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343440,
+  ""width"" : 99,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 122290548,
+  ""name"" : ""REVENUE COLLECTED"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""revenue_collected_1"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15343442,
+  ""width"" : 98,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",dapj-4x7s,"{Department={Controller=, Other=}}",,,,D. Chen (http://controllerdata.lacity.org/api/users/k42r-k4hk),public,,,12/14/2013 07:13:35 AM +0000,12/14/2013 07:13:35 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Revenue from Fines & Fees (Finance/Revenue-from-Fines-Fees/ecct-mf8z),,"General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013",0,Finance,revenue,0,,,,,ecct-mf8z,1396857,,"[{
   ""id"" : 122199171,
   ""name"" : ""REVENUE SOURCE NAME"",
@@ -2688,6 +2733,53 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",cky2-e3pu,"{Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,12/09/2013 06:51:00 PM +0000,12/13/2013 09:38:55 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Expenditure&Budget by Dept (Finance/Expenditure-Budget-by-Dept/cndm-tt67),,"General Fund Budget, Adjustments and Expenditures from July 1, 2011 through November 30, 2013",0,Finance,"general fund, budget, expenditure, appropriation, account, expenditures",0,,,,,cndm-tt67,1396848,,"[{
+  ""id"" : 122291386,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407324,
+  ""width"" : 244,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 122291387,
+  ""name"" : ""TOTAL EXPENDITURES"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Total Budget Fiscal Year amount expended from account to date"",
+  ""fieldName"" : ""total_expenditures"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407334,
+  ""width"" : 138,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 122291388,
+  ""name"" : ""TOTAL BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Appropriation account amount net of changes and transfers to/from the original budgeted amount"",
+  ""fieldName"" : ""total_budget"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407333,
+  ""width"" : 150,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",cndm-tt67,"{Department={Controller=, Other=}}",,,,D. Chen (http://controllerdata.lacity.org/api/users/k42r-k4hk),public,,,12/14/2013 07:38:16 AM +0000,12/14/2013 07:38:16 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Expenditures by Account Group (Finance/Expenditures-by-Account-Group/ek3x-e9j4),,"General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014",0,Finance,"general fund, budget, expenditure, appropriation, account",0,,,,,ek3x-e9j4,1396848,,"[{
   ""id"" : 122198935,
   ""name"" : ""ACCOUNT GROUP NAME"",
@@ -6317,6 +6409,35 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }]",q368-s8vv,"{Department={Controller=, Other=}}",,,,magustin (http://controllerdata.lacity.org/api/users/6vkd-j24i),public,,,11/05/2013 10:32:10 PM +0000,12/13/2013 09:39:02 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,eCheckBook Expenditure by Department (Finance/eCheckBook-Expenditure-by-Department/qxd2-tn83),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,qxd2-tn83,1398207,,"[{
+  ""id"" : 122281783,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15294628,
+  ""width"" : 224,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 122281788,
+  ""name"" : ""DOLLAR AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""dollar_amount"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15294645,
+  ""width"" : 98,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",qxd2-tn83,"{Department={Controller=, Other=}}",,,,D. Chen (http://controllerdata.lacity.org/api/users/k42r-k4hk),public,,,12/14/2013 05:24:32 AM +0000,12/14/2013 05:24:32 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook total pie (Finance/Checkbook-total-pie/qy6d-um74),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,qy6d-um74,1398207,,"[{
   ""id"" : 122199200,
   ""name"" : ""DOLLAR AMOUNT"",
