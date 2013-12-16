@@ -22,7 +22,7 @@
       "state" : "normal",
       "tableId" : 1181400,
       "totalTimesRated" : 0,
-      "viewCount" : 25,
+      "viewCount" : 26,
       "viewLastModified" : 1382122867,
       "viewType" : "tabular",
       "columns" : [ {
@@ -7174,6 +7174,40 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484787, 1386970729 ]
+, [ 76969594074266, "76969594074266", null, 1387178755, "404935", 1387178755, "404935", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/My-View/hw3x-k3iq", "My View" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "hw3x-k3iq", "1398207", null, [ {
+    "id" : 122667738,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294628,
+    "width" : 224,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 122667739,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "hw3x-k3iq", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/zs8p-j3v5", "Darrell Cabales" ], "public", null, null, 1387178755, 1387178755 ]
 , [ 80228098266972, "80228098266972", null, 1381960251, "710611", 1386970745, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Department-Count/ifuf-j5ts", "Department Count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ifuf-j5ts", "1398207", null, [ {
     "id" : 122199775,
     "name" : "DEPARTMENT NAME",
@@ -7253,6 +7287,40 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386318159, 1386970735 ]
+, [ 97112719766745, "97112719766745", null, 1387179077, "404935", 1387179077, "404935", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/My-Chart/m5bh-azjp", "My Chart" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m5bh-azjp", "1398207", null, [ {
+    "id" : 122667848,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294628,
+    "width" : 224,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 122667849,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "m5bh-azjp", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/zs8p-j3v5", "Darrell Cabales" ], "public", null, null, 1387179077, 1387179077 ]
 , [ 97407752808198, "97407752808198", null, 1381961059, "710611", 1386970736, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-agency-search/m9u2-wis6", "Checkbook agency search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m9u2-wis6", "1398207", null, [ {
     "id" : 122199262,
     "name" : "DEPARTMENT NAME",
