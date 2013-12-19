@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 163,
+      "downloadCount" : 167,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -1029,7 +1029,7 @@
       "flags" : [ "default" ]
     }
   },
-  "data" : [ [ 102015662945872, "102015662945872", null, 1386107028, "865607", 1386970735, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/BOE-Goal/ncxv-mvpg", "BOE Goal" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ncxv-mvpg", "1396857", null, [ {
+  "data" : [ [ 102015662945872, "102015662945872", null, 1386107028, "865607", 1387414139, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/BOE-Goal/ncxv-mvpg", "BOE Goal" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ncxv-mvpg", "1396857", null, [ {
     "id" : 122199045,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "text",
@@ -1172,7 +1172,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, null, 1386107028, 1386970735 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1387414139 ]
 , [ 27722071266706, "27722071266706", null, 1382301759, "849676", 1386970737, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi", "FY2013 General Fund Revenue Budget v Collected Revenue" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6jqc-dtmi", "1396857", null, [ {
     "id" : 122199347,
     "name" : "DEPARTMENT NAME",
@@ -1289,7 +1289,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382301759, 1386970737 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301759, 1386970737 ]
 , [ 28807958643843, "28807958643843", null, 1383761150, "849004", 1386970734, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines/6zdw-94i3", "Revenue from Fines" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6zdw-94i3", "1396857", null, [ {
     "id" : 122198959,
     "name" : "REVENUE SOURCE NAME",
@@ -1432,7 +1432,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, null, 1383761150, 1386970734 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383761150, 1386970734 ]
 , [ 36094218392012, "36094218392012", null, 1382069286, "402253", 1386970736, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/General-Fund-Revenue/8dfn-4d7c", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "8dfn-4d7c", "1396857", null, [ {
     "id" : 122199203,
     "name" : "FISCAL YEAR",
@@ -1576,7 +1576,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, null, 1382069286, 1386970736 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1386970736 ]
 , [ 36178979518435, "36178979518435", null, 1382301557, "849676", 1386970735, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Revenue-Source/8euj-efvz", "FY2013 General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "8euj-efvz", "1396857", null, [ {
     "id" : 122199116,
     "name" : "REVENUE SOURCE NAME",
@@ -1693,7 +1693,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382301557, 1386970735 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301557, 1386970735 ]
 , [ 57888962908636, "57888962908636", null, 1387005215, "847801", 1387005215, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-Collected-by-Revenue-Class-up-to-Nov2013/dapj-4x7s", "Revenue Collected by Revenue Class up to Nov2013" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "dapj-4x7s", "1396857", null, [ {
     "id" : 122290546,
     "name" : "REVENUE SOURCE NAME",
@@ -1743,7 +1743,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1387005215, 1387005215 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, [ null, "Controller's Office" ], 1387005215, 1387005215 ]
 , [ 62410662146595, "62410662146595", null, 1383686985, "849004", 1386970736, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines-Fees/ecct-mf8z", "Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ecct-mf8z", "1396857", null, [ {
     "id" : 122199171,
     "name" : "REVENUE SOURCE NAME",
@@ -1886,7 +1886,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, null, 1383686985, 1386970736 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383686985, 1386970736 ]
 , [ 66756732282324, "66756732282324", null, 1382301604, "849676", 1386970736, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Revenue-Class/fbs3-k6nk", "FY2013 General Fund Revenues by Revenue Class" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "fbs3-k6nk", "1396857", null, [ {
     "id" : 122199252,
     "name" : "REVENUE CLASS NAME",
@@ -2003,7 +2003,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382301604, 1386970736 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301604, 1386970736 ]
 , [ 70746201244378, "70746201244378", null, 1386614376, "862121", 1386970737, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue1/g5vy-csbq", "Revenue1" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "g5vy-csbq", "1396857", null, [ {
     "id" : 122199305,
     "name" : "FISCAL YEAR",
@@ -2052,7 +2052,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1386614376, 1386970737 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, [ null, "Controller's Office" ], 1386614376, 1386970737 ]
 , [ 75830267502921, "75830267502921", null, 1382069286, "855880", 1386970739, "855880", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Revenue/hfus-a659", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "hfus-a659", "1396857", null, [ {
     "id" : 122001176,
     "name" : "FISCAL YEAR",
@@ -2196,7 +2196,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, null, 1382069286, 1386970739 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1386970739 ]
 , [ 80486815851795, "80486815851795", null, 1386112926, "865607", 1386970737, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Public-Works-Engineering/ijfc-4mkj", "Public Works - Engineering" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ijfc-4mkj", "1396857", null, [ {
     "id" : 122199359,
     "name" : "FISCAL YEAR",
@@ -2340,7 +2340,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, null, 1386112926, 1386970737 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386112926, 1386970737 ]
 , [ 84332223964359, "84332223964359", null, 1382301357, "849676", 1386970733, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Class/jbcw-gaj7", "General Fund Revenues by Revenue Class" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "jbcw-gaj7", "1396857", null, [ {
     "id" : 122198912,
     "name" : "REVENUE CLASS NAME",
@@ -2457,7 +2457,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382301357, 1386970733 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301357, 1386970733 ]
 , [ 123301054265186, "123301054265186", null, 1382597933, "849676", 1386970734, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Fees-Fines-and-Penalti/s2h3-yzty", "FY2013 General Fund Revenue - Fees, Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "s2h3-yzty", "1396857", null, [ {
     "id" : 122199021,
     "name" : "REVENUE SOURCE NAME",
@@ -2600,7 +2600,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382597933, 1386970734 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382597933, 1386970734 ]
 , [ 129065143523296, "129065143523296", null, 1382300904, "849676", 1386970733, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Department/tm9i-25vw", "General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tm9i-25vw", "1396857", null, [ {
     "id" : 122198876,
     "name" : "DEPARTMENT NAME",
@@ -2717,7 +2717,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382300904, 1386970733 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300904, 1386970733 ]
 , [ 129161550144666, "129161550144666", null, 1382595084, "849676", 1386970737, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Source/tnz4-kaiq", "General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tnz4-kaiq", "1396857", null, [ {
     "id" : 122199290,
     "name" : "REVENUE SOURCE NAME",
@@ -2834,7 +2834,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382595084, 1386970737 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382595084, 1386970737 ]
 , [ 141171851638546, "141171851638546", null, 1383687423, "849004", 1386970734, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/2013-Revenue-from-Fines-Fees/w6ky-4rsi", "2013 Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "w6ky-4rsi", "1396857", null, [ {
     "id" : 122198975,
     "name" : "REVENUE SOURCE NAME",
@@ -2977,7 +2977,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, null, 1383687423, 1386970734 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687423, 1386970734 ]
 , [ 146661441557789, "146661441557789", null, 1383687128, "855880", 1386970735, "855880", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Fees-Fines-and-Penalties/xmd7-85kt", "Fees Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "xmd7-85kt", "1396857", null, [ {
     "id" : 122199092,
     "name" : "REVENUE SOURCE NAME",
@@ -3120,7 +3120,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, null, 1383687128, 1386970735 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687128, 1386970735 ]
 , [ 151057800381332, "151057800381332", null, 1382300986, "849676", 1386970736, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Department/ymby-y4ek", "FY2013 General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ymby-y4ek", "1396857", null, [ {
     "id" : 122199159,
     "name" : "DEPARTMENT NAME",
@@ -3237,7 +3237,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382300986, 1386970736 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300986, 1386970736 ]
 , [ 9700243285779, "9700243285779", null, 1382289805, "849676", 1386970736, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures-by-Account-Group-/2da3-zysj", "General Fund Budget Expenditures by Account Group Name" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "2da3-zysj", "1396848", null, [ {
     "id" : 122199193,
     "name" : "ACCOUNT GROUP NAME",
