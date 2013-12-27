@@ -1,0 +1,199 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "dsnd-us3j",
+      "name" : "Messages",
+      "averageRating" : 0,
+      "category" : "Internal",
+      "createdAt" : 1380047725,
+      "displayType" : "table",
+      "downloadCount" : 182,
+      "indexUpdatedAt" : 1382317500,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 6010596,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1382299194,
+      "publicationGroup" : 1181421,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1382299192,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "signed" : false,
+      "tableId" : 1269369,
+      "totalTimesRated" : 0,
+      "viewCount" : 40,
+      "viewLastModified" : 1382299195,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 108447966,
+        "name" : "title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514362,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "Developers Message",
+          "null" : 0,
+          "largest" : "Explorer Messages",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Developers Message"
+          }, {
+            "count" : 19,
+            "item" : "Explorer Messages"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 108447967,
+        "name" : "text",
+        "dataTypeName" : "text",
+        "fieldName" : "text",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514363,
+        "width" : 682,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "Build something with public data.",
+          "null" : 0,
+          "largest" : "How much is each Department spending and what are they spending it on?<br/><br/>Explore the City's payments to external vendors. ",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Build something with public data."
+          }, {
+            "count" : 19,
+            "item" : "How much is each Department spending and what are they spending it on?<br/><br/>Explore the City's payments to external vendors. "
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 2, "73B323E6-530C-473A-B12D-F1ADB91CC3AD", 2, 1380047727, "710611", 1381967525, "710611", "{}", "Developers Message", "Build something with public data." ]
+, [ 3, "509D4389-5BEF-4B6B-BD69-DE7B24C6DF71", 3, 1380047727, "710611", 1382299192, "849676", "{}", "Explorer Messages", "How much is each Department spending and what are they spending it on?<br/><br/>Explore the City's payments to external vendors. " ]
+ ]
+}

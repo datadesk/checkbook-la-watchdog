@@ -1,0 +1,243 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jbxg-3qpc",
+      "name" : "Templates",
+      "averageRating" : 0,
+      "createdAt" : 1380047397,
+      "downloadCount" : 182,
+      "indexUpdatedAt" : 1380047956,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 5583075,
+      "publicationAppendEnabled" : false,
+      "publicationGroup" : 1181401,
+      "publicationStage" : "published",
+      "resourceName" : "templates",
+      "rowIdentifierColumnId" : 101151766,
+      "signed" : false,
+      "state" : "empty",
+      "tableId" : 1181401,
+      "totalTimesRated" : 0,
+      "viewCount" : 29,
+      "viewLastModified" : 1380047402,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 101151763,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514167,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 0
+        },
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      }, {
+        "id" : 101151764,
+        "name" : "Path",
+        "dataTypeName" : "object",
+        "fieldName" : "path",
+        "position" : 3,
+        "renderTypeName" : "object",
+        "tableColumnId" : 14514168,
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      }, {
+        "id" : 101151765,
+        "name" : "Title",
+        "dataTypeName" : "object",
+        "fieldName" : "title",
+        "position" : 4,
+        "renderTypeName" : "object",
+        "tableColumnId" : 14514169,
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      }, {
+        "id" : 101151766,
+        "name" : "Identifier",
+        "dataTypeName" : "text",
+        "fieldName" : "identifier",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514170,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 0
+        },
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      }, {
+        "id" : 101151767,
+        "name" : "Version",
+        "dataTypeName" : "number",
+        "fieldName" : "version",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 14514171,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 0
+        },
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      }, {
+        "id" : 101151768,
+        "name" : "Status",
+        "dataTypeName" : "text",
+        "fieldName" : "status",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514172,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 0
+        },
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      }, {
+        "id" : 101151769,
+        "name" : "Content",
+        "dataTypeName" : "object",
+        "fieldName" : "content",
+        "position" : 8,
+        "renderTypeName" : "object",
+        "tableColumnId" : 14514173,
+        "format" : {
+        },
+        "metadata" : {
+          "sync" : true
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "rowIdentifier" : "identifier"
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ ]
+}

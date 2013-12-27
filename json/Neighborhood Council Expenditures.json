@@ -1,0 +1,1223 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "f2ec-m4t9",
+      "name" : "Neighborhood Council Expenditures",
+      "attribution" : "City of Los Angeles, Department of Neighborhood Empowerment",
+      "attributionLink" : "http://www.empowerla.org",
+      "averageRating" : 0,
+      "category" : "Finance",
+      "createdAt" : 1383870766,
+      "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment",
+      "displayType" : "table",
+      "downloadCount" : 8405,
+      "indexUpdatedAt" : 1386464064,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 6313733,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1383946122,
+      "publicationGroup" : 1333874,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1383871630,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "signed" : false,
+      "tableId" : 1333914,
+      "totalTimesRated" : 0,
+      "viewCount" : 269,
+      "viewLastModified" : 1383978382,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 113322695,
+        "name" : "BFY",
+        "dataTypeName" : "number",
+        "fieldName" : "bfy",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 16072705,
+        "width" : 56,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "2012",
+          "sum" : "932439",
+          "null" : 0,
+          "average" : "2013.907127429806",
+          "largest" : "2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014"
+          }, {
+            "count" : 19,
+            "item" : "2013"
+          }, {
+            "count" : 18,
+            "item" : "2012"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 113322696,
+        "name" : "Appr",
+        "dataTypeName" : "number",
+        "fieldName" : "appr",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 16072706,
+        "width" : 79,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "471001",
+          "sum" : "218098443",
+          "null" : 0,
+          "average" : "471054.9524838013",
+          "largest" : "471115",
+          "top" : [ {
+            "count" : 20,
+            "item" : "471074"
+          }, {
+            "count" : 19,
+            "item" : "471031"
+          }, {
+            "count" : 18,
+            "item" : "471020"
+          }, {
+            "count" : 17,
+            "item" : "471039"
+          }, {
+            "count" : 16,
+            "item" : "471055"
+          }, {
+            "count" : 15,
+            "item" : "471095"
+          }, {
+            "count" : 14,
+            "item" : "471065"
+          }, {
+            "count" : 13,
+            "item" : "471099"
+          }, {
+            "count" : 12,
+            "item" : "471100"
+          }, {
+            "count" : 11,
+            "item" : "471087"
+          }, {
+            "count" : 10,
+            "item" : "471062"
+          }, {
+            "count" : 9,
+            "item" : "471071"
+          }, {
+            "count" : 8,
+            "item" : "471075"
+          }, {
+            "count" : 7,
+            "item" : "471061"
+          }, {
+            "count" : 6,
+            "item" : "471025"
+          }, {
+            "count" : 5,
+            "item" : "471082"
+          }, {
+            "count" : 4,
+            "item" : "471083"
+          }, {
+            "count" : 3,
+            "item" : "471059"
+          }, {
+            "count" : 2,
+            "item" : "471015"
+          }, {
+            "count" : 1,
+            "item" : "471109"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 113322697,
+        "name" : "Neighborhood Council",
+        "dataTypeName" : "text",
+        "fieldName" : "neighborhood_council",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 16072707,
+        "width" : 205,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "Arleta",
+          "null" : 0,
+          "largest" : "Woodland Hills-Warner Center",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Atwater Village"
+          }, {
+            "count" : 19,
+            "item" : "Central Hollywood"
+          }, {
+            "count" : 18,
+            "item" : "Empowerment Congress North"
+          }, {
+            "count" : 17,
+            "item" : "Greater Echo Park Elysian"
+          }, {
+            "count" : 16,
+            "item" : "Greater Toluca Lake"
+          }, {
+            "count" : 15,
+            "item" : "Greater Wilshire"
+          }, {
+            "count" : 14,
+            "item" : "Harbor Gateway North"
+          }, {
+            "count" : 13,
+            "item" : "Northridge East"
+          }, {
+            "count" : 12,
+            "item" : "Palms"
+          }, {
+            "count" : 11,
+            "item" : "Pico Union"
+          }, {
+            "count" : 10,
+            "item" : "Reseda"
+          }, {
+            "count" : 9,
+            "item" : "Sherman Oaks"
+          }, {
+            "count" : 8,
+            "item" : "Silver Lake"
+          }, {
+            "count" : 7,
+            "item" : "Studio City"
+          }, {
+            "count" : 6,
+            "item" : "Sun Valley Area"
+          }, {
+            "count" : 5,
+            "item" : "Sunland-Tujunga"
+          }, {
+            "count" : 4,
+            "item" : "Sylmar"
+          }, {
+            "count" : 3,
+            "item" : "Valley Village"
+          }, {
+            "count" : 2,
+            "item" : "Venice"
+          }, {
+            "count" : 1,
+            "item" : "Voices of 90037"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 113322698,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 4,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 16072708,
+        "width" : 93,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "2013-07-02T00:00:00",
+          "null" : 0,
+          "largest" : "2013-10-04T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-07-22T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-07-25T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-09-17T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-07-10T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-07-26T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-08-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-07-03T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-07-11T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-08-05T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-08-15T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-08-23T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-09-05T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-09-06T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-10-04T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-07-17T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-08-07T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-08-29T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-09-03T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-08-19T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 113322699,
+        "name" : "Description",
+        "dataTypeName" : "text",
+        "fieldName" : "description",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 16072709,
+        "width" : 254,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "Adj DEX 0036 from BFY2013 to BFY2014,  SLNC-NPG- Maintenance of public walk way",
+          "null" : 0,
+          "largest" : "WWNC- Website MAINTENANCE FOR 7/20/13-7/20/14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "RICOH AMERICAS CORPORATION"
+          }, {
+            "count" : 19,
+            "item" : "WLMNC-TRANSLATION FOR MTG 6/26/13"
+          }, {
+            "count" : 18,
+            "item" : "WLMNC-AT&T-07/13/13"
+          }, {
+            "count" : 17,
+            "item" : "WLMNC-TRANSLATION FOR MTG ON 7/24/13"
+          }, {
+            "count" : 16,
+            "item" : "WLMNC-Temporary StaffP SERV.-W/E 7/6/13-7/27/13- S.AVILA"
+          }, {
+            "count" : 15,
+            "item" : "WLMNC-AppleOne-Temporary StaffP-ADM-S.AVILA-W/E-10/27/12"
+          }, {
+            "count" : 14,
+            "item" : "WLMNC-PHONE SERV. 7/13-8/12/13- ACCT# 3105222013107"
+          }, {
+            "count" : 13,
+            "item" : "WLMNC-TRANSLATION FOR MTG ON 8/28/13"
+          }, {
+            "count" : 12,
+            "item" : "W/C MANQIN 9781490-WINNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13"
+          }, {
+            "count" : 11,
+            "item" : "W/C MANQIN 9781490-WHWCNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13"
+          }, {
+            "count" : 10,
+            "item" : "W/C MANQIN 9781490-WHWCNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 113322700,
+        "name" : "Vendor Name",
+        "dataTypeName" : "text",
+        "fieldName" : "vendor_name",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 16072710,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "Aaron Devandry",
+          "null" : 0,
+          "largest" : "Zaino Tennis Courts Inc",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Partners In Diversity Inc"
+          }, {
+            "count" : 19,
+            "item" : "Los Angelectionss Unified School District"
+          }, {
+            "count" : 18,
+            "item" : "Treasury-city Of Los Angelectionss (us Bank)"
+          }, {
+            "count" : 17,
+            "item" : "Continental Interpreting Services Inc"
+          }, {
+            "count" : 16,
+            "item" : "Department Of Recreation And Parks"
+          }, {
+            "count" : 15,
+            "item" : "Department Of Water And Power"
+          }, {
+            "count" : 14,
+            "item" : "Howroyd Wright Employment Agency Inc (apple One)"
+          }, {
+            "count" : 13,
+            "item" : "Extra Space Of Casitas Llc"
+          }, {
+            "count" : 12,
+            "item" : "Lloyd Staffing"
+          }, {
+            "count" : 11,
+            "item" : "Aaron Devandry"
+          }, {
+            "count" : 10,
+            "item" : "Ricoh Americas Corporation"
+          }, {
+            "count" : 9,
+            "item" : "Not Entered"
+          }, {
+            "count" : 8,
+            "item" : "Library Department"
+          }, {
+            "count" : 7,
+            "item" : "At&t Communications Of Ca Inc"
+          }, {
+            "count" : 6,
+            "item" : "Larchmont Chronicle Inc"
+          }, {
+            "count" : 5,
+            "item" : "Bennett Enterprintingses /c"
+          }, {
+            "count" : 4,
+            "item" : "The Walking Man Inc"
+          }, {
+            "count" : 3,
+            "item" : "Darrell Griffin"
+          }, {
+            "count" : 2,
+            "item" : "Community Deventslopment Department"
+          }, {
+            "count" : 1,
+            "item" : "Manuel R Gutilitieserrez"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 113322701,
+        "name" : "Spending Category",
+        "dataTypeName" : "text",
+        "fieldName" : "spending_category",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 16072711,
+        "width" : 150,
+        "cachedContents" : {
+          "non_null" : 460,
+          "smallest" : "Community Improvement Projects",
+          "null" : 3,
+          "largest" : "Outreach",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Operations"
+          }, {
+            "count" : 19,
+            "item" : "Outreach"
+          }, {
+            "count" : 18,
+            "item" : "Community Improvement Projects"
+          }, {
+            "count" : 17,
+            "item" : "Neighborhood Purpose Grants"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 113322702,
+        "name" : "Task",
+        "dataTypeName" : "text",
+        "fieldName" : "task",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 16072712,
+        "width" : 177,
+        "cachedContents" : {
+          "non_null" : 460,
+          "smallest" : "Advertisements (outreach)",
+          "null" : 3,
+          "largest" : "Website",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Temporary Administrative Staff"
+          }, {
+            "count" : 19,
+            "item" : "Facilities"
+          }, {
+            "count" : 18,
+            "item" : "P-Card Purchases"
+          }, {
+            "count" : 17,
+            "item" : "Translations"
+          }, {
+            "count" : 16,
+            "item" : "Events"
+          }, {
+            "count" : 15,
+            "item" : "Utilities"
+          }, {
+            "count" : 14,
+            "item" : "Community Service"
+          }, {
+            "count" : 13,
+            "item" : "Website"
+          }, {
+            "count" : 12,
+            "item" : "Non Profit"
+          }, {
+            "count" : 11,
+            "item" : "Meeting"
+          }, {
+            "count" : 10,
+            "item" : "Office Supplies"
+          }, {
+            "count" : 9,
+            "item" : "Beautification Projects"
+          }, {
+            "count" : 8,
+            "item" : "Elections"
+          }, {
+            "count" : 7,
+            "item" : "Printing"
+          }, {
+            "count" : 6,
+            "item" : "Advertisements (outreach)"
+          }, {
+            "count" : 5,
+            "item" : "Median"
+          }, {
+            "count" : 4,
+            "item" : "Temporary Staff"
+          }, {
+            "count" : 3,
+            "item" : "Miscellaneous"
+          }, {
+            "count" : 2,
+            "item" : "Los Angeles Unified School District"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 113322703,
+        "name" : "Expenditure",
+        "dataTypeName" : "money",
+        "fieldName" : "expenditure",
+        "position" : 9,
+        "renderTypeName" : "money",
+        "tableColumnId" : 16072713,
+        "width" : 97,
+        "cachedContents" : {
+          "non_null" : 463,
+          "smallest" : "-1000",
+          "sum" : "321089.51",
+          "null" : 0,
+          "average" : "693.4978617710583",
+          "largest" : "11562.5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "16.5"
+          }, {
+            "count" : 19,
+            "item" : "0"
+          }, {
+            "count" : 18,
+            "item" : "225"
+          }, {
+            "count" : 17,
+            "item" : "275"
+          }, {
+            "count" : 16,
+            "item" : "215"
+          }, {
+            "count" : 15,
+            "item" : "230"
+          }, {
+            "count" : 14,
+            "item" : "5000"
+          }, {
+            "count" : 13,
+            "item" : "875"
+          }, {
+            "count" : 12,
+            "item" : "325"
+          }, {
+            "count" : 11,
+            "item" : "226.76"
+          }, {
+            "count" : 10,
+            "item" : "484.81"
+          }, {
+            "count" : 9,
+            "item" : "41.57"
+          }, {
+            "count" : 8,
+            "item" : "38.16"
+          }, {
+            "count" : 7,
+            "item" : "38.1"
+          }, {
+            "count" : 6,
+            "item" : "305.19"
+          }, {
+            "count" : 5,
+            "item" : "33.78"
+          }, {
+            "count" : 4,
+            "item" : "63.53"
+          }, {
+            "count" : 3,
+            "item" : "1200"
+          }, {
+            "count" : 2,
+            "item" : "78.14"
+          }, {
+            "count" : 1,
+            "item" : "75"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : "Department of Neighborhood Empowerment"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "1333874" : 16072707
+              },
+              "operator" : "EQUALS"
+            }
+          }, {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "1333874" : 16072710
+              },
+              "operator" : "CONTAINS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2,
+            "advanced" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "ajd3-jp8q",
+        "displayName" : "Sevak Paramazian",
+        "roleName" : "editor",
+        "screenName" : "Sevak Paramazian",
+        "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ajd3-jp8q",
+        "displayName" : "Sevak Paramazian",
+        "roleName" : "editor",
+        "screenName" : "Sevak Paramazian",
+        "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "neighborhood council", "expenditures", "done", "ncs", "neighborhood" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "F3A4F34E-FF6E-4A9C-B500-319C7D1C2217", 1, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471067", "Arleta", "2013-07-22T00:00:00", "ANC-Temporary StaffP I. SANDOVAL W/E 4/21", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "150.15" ]
+, [ 2, "10911E1A-B328-419A-8F75-5B8EE5D8DEC2", 2, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471067", "Arleta", "2013-07-22T00:00:00", "ANC-Temporary StaffP I. SANDOVAL & A. JIMENEZ W/E 4/28", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "134.64" ]
+, [ 3, "A150913F-4873-438A-80DA-8F313FA053D2", 3, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471067", "Arleta", "2013-07-25T00:00:00", "ANC-Temporary StaffP I. SANDOVAL & A. JIMENEZ W/E 6/23", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "215.49" ]
+, [ 4, "FC54AA75-3EB1-4F0F-8A50-B63807104D4F", 4, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471067", "Arleta", "2013-07-25T00:00:00", "ANC-Temporary StaffP I. SANDOVAL W/E 6/16", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "80.85" ]
+, [ 5, "849A528C-395F-4760-AA17-F713DBF26C7B", 5, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471067", "Arleta", "2013-09-17T00:00:00", "ANC-MTG SPACE FOR 8/20/13, 9/17/13 & 10/15/13", "Los Angelectionss Unified School District", "Operations", "Facilities", "357.48" ]
+, [ 6, "C354D5EF-2F8E-4829-8166-AEED95F1A5EC", 6, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471040", "Arroyo Seco", "2013-07-10T00:00:00", "W/C MANQIN 9781490-ASNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "3356.04" ]
+, [ 7, "CEE5F1D3-48F9-4DC9-B315-63F64BD7EA36", 7, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471040", "Arroyo Seco", "2013-07-22T00:00:00", "ASNC-TRANSLATION FOR MTG 6/11/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 8, "31D88527-28E5-4968-A94F-043703C07439", 8, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471040", "Arroyo Seco", "2013-07-26T00:00:00", "ASNC-STORAGE FOR 8/1/13-8/31/13", "Public Storage Inc Et Al", "Operations", "Facilities", "68" ]
+, [ 9, "A58AC898-CDAA-4DA6-9265-4B53D8D678DB", 9, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471040", "Arroyo Seco", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ASNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "134" ]
+, [ 10, "A5F3F513-E7A0-4B90-A107-2D440C5937BF", 10, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471040", "Arroyo Seco", "2013-07-26T00:00:00", "ASNC-MONTECITO HEIGHTS Park&Rec-INV#051013ASNC", "Department Of Recreation And Parks", "Outreach", "Events", "1433.08" ]
+, [ 11, "4475640A-39F5-4432-97D7-E08060798834", 11, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471040", "Arroyo Seco", "2013-07-26T00:00:00", "ASNC-RamonaHallCommunityCenter-05/10/13 INV#051013ASNC", "Department Of Recreation And Parks", "Outreach", "Events", "1644.72" ]
+, [ 12, "87EF39C0-27E3-4769-B3E7-BEF219416030", 12, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471074", "Atwater Village", "2013-07-03T00:00:00", "DWP lighting FOR 2932 GLEN HURST AVE.2/14/13-3/18/13", "Department Of Water And Power", "Operations", "Utilities", "16.5" ]
+, [ 13, "A0DDD4D4-F119-4262-ACE4-41997DA60B7B", 13, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471074", "Atwater Village", "2013-07-03T00:00:00", "DWP lighting FOR 2932 GLEN HURST AVE.3/18/13-4/16/13", "Department Of Water And Power", "Operations", "Utilities", "16.5" ]
+, [ 14, "E0CDC85D-C459-4A73-867D-81F11FF48CEC", 14, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471074", "Atwater Village", "2013-07-03T00:00:00", "DWP lighting FOR 2932 GLEN HURST AVE.4/16/13-5/15/13", "Department Of Water And Power", "Operations", "Utilities", "16.5" ]
+, [ 15, "76521FD7-9631-4971-AE49-414B71B47BF5", 15, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-07-11T00:00:00", "AVNC-ADM-D.LEVIN-6/15/2013-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "167.48" ]
+, [ 16, "616FB742-7F1E-4AA8-88CE-ACB27751E24B", 16, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-07-22T00:00:00", "AVNC-STORAGE FOR JULY 2013", "Extra Space Of Casitas Llc", "Operations", "Facilities", "225" ]
+, [ 17, "97E34978-BCF8-4DF3-B4AB-816D72369B76", 17, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-08-05T00:00:00", "W/C MANQIN 9781490-AVNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "701.83" ]
+, [ 18, "54CF5A12-C7AF-485E-977A-B3CF66B8A55D", 18, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-08-15T00:00:00", "AVNC-COMMUNITY LIGHTING PROGRAM #751091-321985- 6/14/13-7/16/13", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 19, "2EE4FF0F-C80D-4B51-8D62-2CEDD9772557", 19, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-08-23T00:00:00", "AVNC-Temporary StaffP SERV.-W/E 7/13/13- D.LEVIN", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "155.93" ]
+, [ 20, "FF91EC9F-88ED-4B11-8EC2-6D8ADD43FFF5", 20, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-08-30T00:00:00", "W/C MANQIN 9781490-AVNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "849.09" ]
+, [ 21, "2EE62246-610C-40C2-B896-EEF92AC3F6D1", 21, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-09-05T00:00:00", "AVNC-DWP-07/16/13-08/14/2013-ACCT#751091-321985", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 22, "2FAA5B36-698E-49C1-96F0-AF88CE646D73", 22, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-09-06T00:00:00", "AVNC-STORAGE FOR AUGUST 2013", "Extra Space Of Casitas Llc", "Operations", "Facilities", "225" ]
+, [ 23, "9AF9AEF0-AE16-44EC-A23D-1CEF78497C57", 23, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-10-04T00:00:00", "AVNC-STORAGE FOR SEPTemporary StaffBER 2013", "Extra Space Of Casitas Llc", "Operations", "Facilities", "225" ]
+, [ 24, "FFB94E5C-B405-434A-99CF-A9EEAD4F1D1B", 24, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-08-15T00:00:00", "AVNC-COMMUNITY LIGHTING PROGRAM #751091-321985- 6/14/13-7/16/13", "Department Of Water And Power", "Outreach", "Utilities", "16.5" ]
+, [ 25, "8D6D1977-F580-424A-B8F4-555E41AE42EC", 25, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471074", "Atwater Village", "2013-09-05T00:00:00", "AVNC-DWP-07/16/13-08/14/2013-ACCT#751091-321985", "Department Of Water And Power", "Outreach", "Utilities", "16.5" ]
+, [ 26, "85493847-8478-4277-B454-D72B74DF3019", 26, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471052", "Bel Air-Beverly Crest", "2013-07-03T00:00:00", "BABCNC-DEPLOYMENT OF TRAFFIC CONTROL @ WONDERLAND AVE ElectionsM 4 YR  2013-2014 INV. 2013-BABCNC-01", "Department Of Transportation", "Community Improvement Projects", "Community Service", "6000" ]
+, [ 27, "0FDB2E69-8340-46B9-9A35-EA3772ADF2FD", 27, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471052", "Bel Air-Beverly Crest", "2013-07-10T00:00:00", "W/C MANQIN 9781490-BABCNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1425.14" ]
+, [ 28, "678E3BDE-05CB-47D0-9E95-43A71CD248B6", 28, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471052", "Bel Air-Beverly Crest", "2013-07-26T00:00:00", "BABCNC-Temporary StaffP SERV. W/E 6/9/12", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "772.2" ]
+, [ 29, "D322CD4C-2A7E-4834-B841-0731E446C2E2", 29, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471052", "Bel Air-Beverly Crest", "2013-07-26T00:00:00", "BABCNC-Temporary StaffP SERV. W/E 5/12/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "617.76" ]
+, [ 30, "BC4551F5-3DC9-44A3-848A-F91C008CDB7C", 30, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471052", "Bel Air-Beverly Crest", "2013-07-26T00:00:00", "BABCNC-Temporary StaffP SERV. W/E 5/19/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "308.88" ]
+, [ 31, "0E248863-A896-45F0-A4CC-0541DBC96B2E", 31, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471052", "Bel Air-Beverly Crest", "2013-07-26T00:00:00", "BABCNC-Temporary StaffP SERV. W/E 5/26/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "386.1" ]
+, [ 32, "F46D0F26-5FDA-48D2-BB28-C2FA2A46E319", 32, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471052", "Bel Air-Beverly Crest", "2013-08-30T00:00:00", "W/C MANQIN 9781490-BABCNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1110" ]
+, [ 33, "9A3CD6C1-D5F1-4F0F-A834-3B6E22FF60EA", 33, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471038", "Boyle Heights", "2013-07-17T00:00:00", "BHNC-TRANSLATION FOR MTG 6/26/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 34, "8CE0E493-29C8-4905-BEE7-CB9B335245A1", 34, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471038", "Boyle Heights", "2013-08-30T00:00:00", "W/C MANQIN 9781490-BHNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "116.99" ]
+, [ 35, "5EF6062A-6198-4A6E-B666-147FE950FD28", 35, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471038", "Boyle Heights", "2013-10-01T00:00:00", "BHNC-Website SITE MAINTENANCE JULY 2013-SEPTemporary StaffBER 2013", "Aaron Devandry", "Operations", "Website", "600" ]
+, [ 36, "1E9A0510-CE15-46C4-BBBD-675BAE069D42", 36, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471077", "CANNDU", "2013-08-05T00:00:00", "W/C MANQIN 9781490-CANNDU-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "72.95" ]
+, [ 37, "45884A15-EA57-487F-B424-93C96FD4346C", 37, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471077", "CANNDU", "2013-08-30T00:00:00", "W/C MANQIN 9781490-CANNDU-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "53.96" ]
+, [ 38, "2F4A0520-AC39-41F5-A9CA-5452613D174B", 38, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471048", "Canoga Park", "2013-08-05T00:00:00", "W/C MANQIN 9781490-CPNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "27.74" ]
+, [ 39, "A8507DBC-60EF-4586-ACA8-A0ABB9730470", 39, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471093", "Central Alameda", "2013-08-05T00:00:00", "W/C MANQIN 9781490-CANC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "799.49" ]
+, [ 40, "FE99DE97-CDB8-4250-8696-B22A01124565", 40, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471093", "Central Alameda", "2013-08-30T00:00:00", "W/C MANQIN 9781490-CANC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "173.46" ]
+, [ 41, "A87ECF6A-245B-45D9-8DE4-753606F696DD", 41, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-09-17T00:00:00", "CHNC-NPG-28TH ANNUAL CHILDREN'S FESTIVAL 8/11/13", "Hollywood Arts Council", "Neighborhood Purpose Grants", "Non Profit", "2000" ]
+, [ 42, "48C47F6A-4091-4ADF-89D3-D7E2462010EB", 42, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-05T00:00:00", "W/C MANQIN 9781490-CHNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2200.44" ]
+, [ 43, "72670B0C-40E1-46D5-859E-1D26D1301F58", 43, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-05T00:00:00", "CHNC-Los Angeles Unified School DistrictrieGolman-REIM-07/17/13", "Goldman, Los Angeles Unified School Districtrie", "Operations", "Website", "299.19" ]
+, [ 44, "3507FAF4-A0A5-430E-BF27-276B978A88C3", 44, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-07T00:00:00", "CHNC-Temporary StaffP SERV. W/E 7/14/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "371.28" ]
+, [ 45, "D158587A-FCF2-4D95-9384-75D5A59F1026", 45, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-07T00:00:00", "CHNC-Temporary StaffP SERV. W/E 7/7/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "285.60" ]
+, [ 46, "05BC3E7D-2AE2-4B59-A888-32EA08FD1B58", 46, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-07T00:00:00", "CHNC-Temporary StaffP SERV. W/E 7/21/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "285.60" ]
+, [ 47, "BABDFA9B-A062-423F-8C58-E59524D1F1CB", 47, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-07T00:00:00", "CHNC-Temporary StaffP SERV. W/E 7/2813-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "485.52" ]
+, [ 48, "8BCE765E-55E2-45AE-9D24-131264727135", 48, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-23T00:00:00", "CHNC-Temporary StaffP SERV. W/E 8/4/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "542.64" ]
+, [ 49, "ADA90EEF-F69F-4EC5-8977-C7E0B00263D2", 49, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-29T00:00:00", "CHNC-Temporary StaffP SERV. W/E 8/11/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "428.4" ]
+, [ 50, "61027251-7097-407A-83C8-5BE44867009C", 50, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-29T00:00:00", "CHNC-Temporary StaffP SERV. W/E 8/18/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "456.96" ]
+, [ 51, "A3322981-2AC5-4263-9638-910E5680B26A", 51, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-08-30T00:00:00", "W/C MANQIN 9781490-CHNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "147.16" ]
+, [ 52, "917E598B-3A04-4593-885B-A60B02B4498C", 52, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-09-03T00:00:00", "CHNC-REIMB. FOR Website SERVICES 5/2013-6/2013", "Scott Campbell", "Operations", "Website", "45" ]
+, [ 53, "2EED9CF6-625D-4477-9912-CAACB40A15A1", 53, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-10-01T00:00:00", "CHNC-Temporary StaffP SERVICES-W/E 8/25/13 L.LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "514.08" ]
+, [ 54, "8A91FA9F-CA40-47AC-8968-73FC88E5EC38", 54, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-10-01T00:00:00", "CHNC-Temporary StaffP SERV. W/E 9/1/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "428.4" ]
+, [ 55, "58E1EC66-5F2D-481C-8F78-28DF0FC7FD2E", 55, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471031", "Central Hollywood", "2013-10-01T00:00:00", "CHNC-Temporary StaffP SERVICES-W/E 9/8/13-LINDA LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "428.4" ]
+, [ 56, "5EAF54F1-6A7D-4763-9C7D-C9F0533B473D", 56, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471011", "Central San Pedro", "2013-07-22T00:00:00", "CESPNC-RECORD KEEPING, Website UPDATES & MONITORING JULY2013", "Kristina Smith", "Operations", "Website", "520" ]
+, [ 57, "5C37A37C-6DD4-49E9-A9FF-9570C758A2EB", 57, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471011", "Central San Pedro", "2013-08-05T00:00:00", "W/C MANQIN 9781490-CESPNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "350" ]
+, [ 58, "528D671F-AF46-4CC8-9F6A-27D42E4866B0", 58, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471011", "Central San Pedro", "2013-08-07T00:00:00", "CESPNC-REIMB. F. ANDERSON MTG EXPENSE NOV-APrintingL", "Frank Anderson", "Operations", "Meeting", "70.65" ]
+, [ 59, "7096D3DD-8AC7-4154-AE4B-5777C82B6D30", 59, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471011", "Central San Pedro", "2013-08-30T00:00:00", "W/C MANQIN 9781490-CESPNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "950.39" ]
+, [ 60, "0136925E-D4C4-40B3-8EFC-9FE447B6CBF8", 60, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471081", "Chatsworth", "2013-10-01T00:00:00", "CHANC-CRIME PREventsNTION TOOLS FOR THE COMMUNITY POLICING", "Devonshire Is S O L I D", "Neighborhood Purpose Grants", "Non Profit", "250" ]
+, [ 61, "E38FA418-0874-41DC-80B2-AD5199BC6DA3", 61, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471081", "Chatsworth", "2013-08-05T00:00:00", "W/C MANQIN 9781490-CHANC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "194.25" ]
+, [ 62, "A163B8A9-BEFA-4BEF-9E3B-47977F552904", 62, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471081", "Chatsworth", "2013-08-30T00:00:00", "W/C MANQIN 9781490-CHANC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "159.27" ]
+, [ 63, "9E2B25EC-BF7E-4B9B-B8C0-10054F018363", 63, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471002", "Coastal San Pedro", "2013-08-05T00:00:00", "W/C MANQIN 9781490-COSPNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1479.73" ]
+, [ 64, "0F72BC74-3F6D-444B-816F-81BE5EA1B395", 64, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471002", "Coastal San Pedro", "2013-08-29T00:00:00", "COSPNC-VIRTUAL Office SuppliesICE SERVICES FOR 6/2013-7/2013", "Kristina Smith", "Operations", "Office Supplies", "390" ]
+, [ 65, "D751D954-B518-4C99-A4C0-58CAEE21C5DF", 65, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471002", "Coastal San Pedro", "2013-08-30T00:00:00", "W/C MANQIN 9781490-COSPNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1350.76" ]
+, [ 66, "DBFA2B7B-F30A-4301-A9FE-A2EC966201A1", 66, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471003", "Coastal San Pedro", "2013-07-10T00:00:00", "W/C MANQIN 9781490-GPNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "3175.85" ]
+, [ 67, "062211F6-8EC4-48A3-B9FF-4FA7F68FB3CE", 67, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471091", "Del Rey", "2013-08-19T00:00:00", "DRNC-PlayaBoosterClub-04/20/13", "Boostr Club Of Playa Del Rey", "Neighborhood Purpose Grants", "Non Profit", "500" ]
+, [ 68, "4B049469-2646-4FA8-A815-8D4A928EE2D5", 68, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471091", "Del Rey", "2013-08-29T00:00:00", "DRNC-BoysandGirlsClub-MarVista-05/10/13", "Boys & Girls Club Of Sm", "Neighborhood Purpose Grants", "Non Profit", "263.13" ]
+, [ 69, "3D9F7336-04B4-4112-BB2D-9DEC2C2302F2", 69, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471091", "Del Rey", "2013-07-11T00:00:00", "DRNC-ADM-B.REIMERS-06/08/13-06/22/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "51.98" ]
+, [ 70, "4D42FB58-6684-4BA1-BA07-E68B29BEE5A9", 70, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471091", "Del Rey", "2013-08-05T00:00:00", "W/C MANQIN 9781490-DRNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "86.91" ]
+, [ 71, "E9D692D0-6586-43C8-9F4F-50D0174B6A35", 71, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471091", "Del Rey", "2013-08-23T00:00:00", "DRNC-Temporary StaffP SERV W/E.7/13/13- S.B. REIMERS", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "34.65" ]
+, [ 72, "D2E325C8-063B-4758-94C7-CF6AF474345C", 72, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471091", "Del Rey", "2013-08-30T00:00:00", "W/C MANQIN 9781490-DRNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "86.08" ]
+, [ 73, "F560CAD5-D491-4BBC-91F0-4AAF2E2BD6B6", 73, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471028", "Downtown LA", "2013-10-01T00:00:00", "DLANC-Tree Maintenance of Alemada Corridor, 5/1/13-6/30/13", "Los Angelectionss Conservation Corps Inc", "Community Improvement Projects", "Beautification Projects", "817" ]
+, [ 74, "0AA7A10D-31D0-4C46-940A-E5A47918583B", 74, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-10-01T00:00:00", "DLANC-Tree Maintenance of Alemada Corridor, 7/1/13-4/30/13", "Los Angelectionss Conservation Corps Inc", "Community Improvement Projects", "Beautification Projects", "4083" ]
+, [ 75, "1B6ABC90-690D-4212-A29A-CCDB75AE3324", 75, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-08-19T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 76, "28F13871-4035-4F1C-94E2-4086CA8A5944", 76, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-08-23T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "46.16" ]
+, [ 77, "4F3628BF-578B-4CF8-B2D1-7288EED189A1", 77, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-08-23T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 78, "A296CC35-2DCE-49A3-AC15-AB5ACE0DF2C9", 78, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-08-28T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 79, "1293CB74-639B-4771-BC16-EFDD6B173CA6", 79, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-08-30T00:00:00", "W/C MANQIN 9781490-DLANC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2128.36" ]
+, [ 80, "C4A45966-6CDF-4B31-9F9B-432501A318EA", 80, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471028", "Downtown LA", "2013-07-11T00:00:00", "DLANC-SPrintingng Arts Tower-11/12/2012", "Sprintingng Arts Tower Inc", "Outreach", "Elections", "50" ]
+, [ 81, "3330D2F5-56F9-4FC1-ADB9-B16D50B55519", 81, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471027", "Eagle Rock", "2013-07-11T00:00:00", "ERNC-ADM-J.CLARKE-06/08/13,06/22/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "184.8" ]
+, [ 82, "5F15835D-794B-4E6D-9BB5-30AF67B313C9", 82, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471027", "Eagle Rock", "2013-08-05T00:00:00", "W/C MANQIN 9781490-ERNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "25" ]
+, [ 83, "22DAC417-EC17-4152-997D-A7D1A17EA28A", 83, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471027", "Eagle Rock", "2013-08-23T00:00:00", "ERNC-REIMB.-M.NOGUEIRA FOR MAINTENANCE OF PO BOX", "Michael Nogueira", "Operations", "Facilities", "86" ]
+, [ 84, "9B9ED923-33F2-43F1-9887-1424C29B3291", 84, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471027", "Eagle Rock", "2013-08-27T00:00:00", "ERNC-Temporary StaffP SERVICES W/E 7/6/13-J.CLARKE", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "161.70" ]
+, [ 85, "F64DD7BF-71E8-47D1-A1F5-901E88914FB1", 85, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471027", "Eagle Rock", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ERNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "985" ]
+, [ 86, "EFDD1483-5847-4E4A-9F5D-A7CB75BC879E", 86, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471027", "Eagle Rock", "2013-10-01T00:00:00", "ERNC-Temporary StaffP SERV. W/E 8/10-8/17/13- J. CLARKE &7/20/13 M. ROBINSON", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "307.92" ]
+, [ 87, "923AFF67-2073-4E2A-BA4A-AA5D5003614B", 87, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471054", "Elysian Valley Riverside", "2013-08-05T00:00:00", "W/C MANQIN 9781490-EVRNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "58.06" ]
+, [ 88, "7AF6310E-7AAB-463C-8360-D9FF6EECEE67", 88, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471054", "Elysian Valley Riverside", "2013-08-30T00:00:00", "W/C MANQIN 9781490-EVRNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "71.16" ]
+, [ 89, "D5406FF3-E966-48CE-8029-7CACA5389EE4", 89, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471054", "Elysian Valley Riverside", "2013-08-07T00:00:00", "EVRNC-ELYSIAN VALLEY REC CENTER 2 INV. #2", "Department Of Recreation And Parks", "Outreach", "Facilities", "255" ]
+, [ 90, "00D629A1-45F7-454E-97A4-E45AF6DC1D7A", 90, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471054", "Elysian Valley Riverside", "2013-08-07T00:00:00", "EVRNC-ELYSIAN VALLEY REC CENTER 2 INV. 1678", "Department Of Recreation And Parks", "Outreach", "Facilities", "500" ]
+, [ 91, "17AF4341-2D03-4831-95B5-648C6D25970E", 91, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471017", "Empowerment Congress Central", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ECCANDC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1155.72" ]
+, [ 92, "9CD8AB52-C888-411D-9D22-1824190C88C6", 92, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471017", "Empowerment Congress Central", "2013-07-12T00:00:00", "ECCANDC-Fine for illegal signs- Inv# 20130002347", "Not Entered", "Outreach", "Elections", "312.95" ]
+, [ 93, "A1AC5FD1-83A7-4E51-928C-29849DB770DB", 93, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471020", "Empowerment Congress North", "2013-08-07T00:00:00", "ECNANDC-COMMUNITY LIGHTING ACCT#742749316322-5/1/2013-5/31/2013", "Department Of Water And Power", "Operations", "Utilities", "33" ]
+, [ 94, "7C3EB348-DF4E-442D-9BE2-273CCA266CA0", 94, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471020", "Empowerment Congress North", "2013-08-07T00:00:00", "ECNANDC-COMMUNITY LIGHTING ACCT#742749-316746-5/1/2013-5/31/2013", "Department Of Water And Power", "Operations", "Utilities", "41.5" ]
+, [ 95, "FEE2B59F-626D-4A91-B2D1-CEF85172CE50", 95, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471020", "Empowerment Congress North", "2013-08-07T00:00:00", "ECNANDC-COMMUNITY LIGHTING ACCT#742749-316319-5/1/2013-5/31/2013", "Department Of Water And Power", "Operations", "Utilities", "16.5" ]
+, [ 96, "972EB965-C56D-4AC6-88DC-7585FA789A67", 96, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471020", "Empowerment Congress North", "2013-08-07T00:00:00", "ECNANDC-COMMUNITY LIGHTING ACCT#742749-316314-5/1/2013-5/31/2013", "Department Of Water And Power", "Operations", "Utilities", "16.5" ]
+, [ 97, "6FE1D6D6-968D-404E-A5CB-8EB62466CD90", 97, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471020", "Empowerment Congress North", "2013-08-07T00:00:00", "ECNANDC-COMMUNITY LIGHTING ACCT#742749-316321-5/1/2013-5/31/2013", "Department Of Water And Power", "Operations", "Utilities", "16.5" ]
+, [ 98, "6B8EE69E-BE84-47D3-9D0C-2CDAEF7312C7", 98, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471020", "Empowerment Congress North", "2013-08-07T00:00:00", "ECNANDC-COMMUNITY LIGHTING ACCT#742749-316323-5/1/2013-5/31/2013", "Department Of Water And Power", "Operations", "Utilities", "20.75" ]
+, [ 99, "0C16FF4C-9C43-425D-91C2-F7F0DE233D16", 99, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ECNANDC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "832.6" ]
+, [ 100, "B2544CD7-CA3C-446D-8DC6-42A7128F2445", 100, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/31/13-7/1/13-2201 Juliet ST- ACCT#742749-316746", "Not Entered", "Operations", "Utilities", "41.5" ]
+, [ 101, "3A9A5BA6-38C1-44F2-904C-F2E90BB2AE21", 101, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/29/13-6/27/13-3880 S Western Ave, CA90062- ACCT#742749-316735", "Not Entered", "Operations", "Utilities", "58" ]
+, [ 102, "3900CC32-9D67-49F5-B5FF-D8B9F2D38149", 102, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 4/29/13-6/27/13-3890 S Hobart Blvd, CA90062- ACCT#742749-346679", "Not Entered", "Operations", "Utilities", "33" ]
+, [ 103, "38186842-7281-433A-94C0-CFB24A17AF34", 103, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 4/29/13-6/27/13-3828 S Hobart Blvd, CA90062- ACCT#742749-346678", "Not Entered", "Operations", "Utilities", "32" ]
+, [ 104, "2DBCEA7E-5010-4A79-8246-1F6D099625F6", 104, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/31/13-7/1/13-1419 W29th ST, CA90007- ACCT#742749-316319", "Not Entered", "Operations", "Utilities", "16.5" ]
+, [ 105, "D44B0CF0-44E0-49BD-8704-3F98E7C9FAA3", 105, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/31/13-7/1/13-2900 S Catalina ST, CA90007- ACCT#742749-316314", "Not Entered", "Operations", "Utilities", "16.5" ]
+, [ 106, "148D58C4-112D-4962-AE7B-EFAE5D235E84", 106, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/31/13-7/1/13-2630 S Budlong Ave, CA90007- ACCT#742749-316321", "Not Entered", "Operations", "Utilities", "16.5" ]
+, [ 107, "8ABB4B1C-3BA0-4888-8FFA-11CB0DBE58D4", 107, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/31/13-7/1/13-2911 S Budlong Ave, CA90007- ACCT#742749-316322", "Not Entered", "Operations", "Utilities", "33" ]
+, [ 108, "41688F7C-F1DD-4762-846E-E613D79B001E", 108, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-06T00:00:00", "ESNANDC-DWP-lighting 5/31/13-7/1/13-3119 S Budlong Ave, CA90007- ACCT#742749-316323", "Not Entered", "Operations", "Utilities", "20.75" ]
+, [ 109, "94349F06-41DC-4316-99BD-4F6386F56E42", 109, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316735", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 110, "54533B38-CD38-4F5F-A11E-3E64B055149F", 110, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316679", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 111, "25E1DD5B-B173-485E-9012-1729C13AF288", 111, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316678", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 112, "FC4A42FF-2654-47D6-85D2-D04671202675", 112, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316323", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 113, "A55DC051-A4D4-4B0B-BEFB-E893F9970EEB", 113, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316322", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 114, "25C85CA8-C02B-4996-958E-E88CAD4365B4", 114, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316314", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 115, "B406CDCA-4037-4949-9EDC-F13A08D39CA9", 115, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316319", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 116, "B31F89B8-2C54-42B9-824D-4DEEF92C694C", 116, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316321", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 117, "63A6F63A-0D41-4C17-A8D6-67F65BDF850F", 117, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316746", "Department Of Water And Power", "Operations", "Utilities", "0" ]
+, [ 118, "FC609F9E-5127-4B97-A58E-765E2D8AB243", 118, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-08-19T00:00:00", "ECNANDC-YelbaCastellon-03/29/13", "Yelba Castellon", "Outreach", "Events", "280" ]
+, [ 119, "EF61878B-38A2-46F9-919B-65D7B17F32D8", 119, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316735", "Department Of Water And Power", "Outreach", "Utilities", "58" ]
+, [ 120, "82C0062F-82DA-4F92-9136-18E6BFEF871A", 120, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316679", "Department Of Water And Power", "Outreach", "Utilities", "33" ]
+, [ 121, "16FFC6F3-BAD3-4CF1-826B-49AC9D2C69DB", 121, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316678", "Department Of Water And Power", "Outreach", "Utilities", "32" ]
+, [ 122, "5B888766-77C9-4F3E-A5F5-F323342D1A7F", 122, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316323", "Department Of Water And Power", "Outreach", "Utilities", "20.75" ]
+, [ 123, "CF631AAA-37D1-49DE-B6CB-372F7537B301", 123, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316322", "Department Of Water And Power", "Outreach", "Utilities", "33" ]
+, [ 124, "5111CF04-7BA7-4B39-9E2C-E1538D087F7D", 124, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316314", "Department Of Water And Power", "Outreach", "Utilities", "16.5" ]
+, [ 125, "3D21044C-C796-4BAF-A3A4-93AD2E73D1AE", 125, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316319", "Department Of Water And Power", "Outreach", "Utilities", "41.5" ]
+, [ 126, "7A14B16D-B4DB-4249-92DA-6E6F5EECE496", 126, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316321", "Department Of Water And Power", "Outreach", "Utilities", "16.5" ]
+, [ 127, "9D84CD66-A342-4F16-AAB9-A71522934D20", 127, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471020", "Empowerment Congress North", "2013-09-26T00:00:00", "ECNANDC-DWP-07/29/13-08/27/2013-ACCT#742749-316746", "Department Of Water And Power", "Outreach", "Utilities", "16.5" ]
+, [ 128, "D54D5434-2C83-4B61-A0EE-9946DF219824", 128, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-07-25T00:00:00", "ECommunity ServiceANDC-NPG-THE ASSIST THOSE WHO HAVE FALLEN ON HARD TIMES", "Helping Our People Excel For Life Foundation /c", "Neighborhood Purpose Grants", "Non Profit", "1000" ]
+, [ 129, "F9B38A65-79DB-4484-8749-EAE0FD6DC0A8", 129, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-08-05T00:00:00", "ECommunity ServiceANDC-SouthEastAreaBusinessBooster-07/25/13", "Southeast Area Booster", "Neighborhood Purpose Grants", "Non Profit", "1000" ]
+, [ 130, "50CC359E-4453-47F1-AF56-4C582050CDEA", 130, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-07-10T00:00:00", "W/C MANQIN 9781490-ECommunity ServiceANDC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "649.76" ]
+, [ 131, "BE83D7D6-D141-46C0-B977-367CEC0A37D2", 131, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-07-11T00:00:00", "ECommunity ServiceANC-ADM-A.TOBIAS-06/01/13-06/15/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "479.49" ]
+, [ 132, "078ADD54-E5AC-4A9C-B06D-0820183A03B6", 132, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-08-05T00:00:00", "W/C MANQIN 9781490-ECommunity ServiceANDC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "571.52" ]
+, [ 133, "0925571F-0408-4621-97AD-12BDD1EA24D7", 133, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-08-27T00:00:00", "ECommunity ServiceANDC-Temporary StaffP SERV. W/E 6/8/13-7/27/13-A.TOBIAS", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "695.97" ]
+, [ 134, "A7976721-106B-4E05-B99B-D73ECA8AEEB6", 134, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471019", "Empowerment Congress Southeast", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ECommunity ServiceANDC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "447.13" ]
+, [ 135, "B791A873-531D-4D3A-BD91-A0D85355F768", 135, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471018", "Empowerment Congress Southwest", "2013-09-20T00:00:00", "ECSWANDC-NPG-EDUCATION N DIALOGUE FOR YOUTH & YOUNG ADULTS", "D.r.e.a.m. Girls Inc", "Neighborhood Purpose Grants", "Non Profit", "500" ]
+, [ 136, "6BA1B119-EEE1-4CC3-B711-89019EF6C0BE", 136, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471018", "Empowerment Congress Southwest", "2013-07-10T00:00:00", "W/C MANQIN 9781490-ECSWANDC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1454.62" ]
+, [ 137, "CF2BFD3F-206D-4726-882A-5F86BC7368B4", 137, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471018", "Empowerment Congress Southwest", "2013-08-05T00:00:00", "W/C MANQIN 9781490-ECSWANDC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "15" ]
+, [ 138, "4CACEACB-5AFF-49B8-B663-8F9BD7C2B3E0", 138, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471018", "Empowerment Congress Southwest", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ECSWANDC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1060.63" ]
+, [ 139, "E6F96E95-F301-4BDE-8406-EBE6A75DECC5", 139, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471021", "Empowerment Congress West", "2013-08-05T00:00:00", "W/C MANQIN 9781490-ECWANDC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2443.24" ]
+, [ 140, "C6A41717-83E9-47E7-AFC8-6671217F278A", 140, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471021", "Empowerment Congress West", "2013-08-05T00:00:00", "HGNNC-Los Angeles Unified School DistrictSD-07/27/13", "Los Angelectionss Unified School District", "Operations", "Facilities", "161.47" ]
+, [ 141, "60B245A8-0543-4451-ACAD-AB12CFEA4AA6", 141, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471021", "Empowerment Congress West", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ECWANDC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "412.92" ]
+, [ 142, "218F994C-0FAE-47DA-895F-E09ADE22FD27", 142, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471060", "Encino", "2013-07-10T00:00:00", "W/C MANQIN 9781490-ENC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "7944.62" ]
+, [ 143, "4FE9AE3E-CCEA-4CB8-B53D-26263E32BA65", 143, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471060", "Encino", "2013-07-11T00:00:00", "ENC-ADM-T. HOULBERG-05/25/13-06/22/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1192.46" ]
+, [ 144, "0A3F922A-B4B4-4A9F-A276-35A3E675ECBB", 144, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471060", "Encino", "2013-08-05T00:00:00", "W/C MANQIN 9781490-ENC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "437.99" ]
+, [ 145, "EC6CD9F8-29AC-43F2-9C10-1CD86C12F9B7", 145, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471060", "Encino", "2013-08-23T00:00:00", "ENC-Temporary StaffP SERV.-W/E 6/29/13-7/20/13 T. HOULBERG", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "794.98" ]
+, [ 146, "7CF7B047-9400-42CA-9718-87CFFF93B388", 146, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471060", "Encino", "2013-08-30T00:00:00", "W/C MANQIN 9781490-ENC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1411.58" ]
+, [ 147, "EE64D20F-E037-4F2F-BB81-063901180ED5", 147, 1383870770, "849676", 1383870770, "849676", "{\n}", "2012", "471060", "Encino", "2013-07-17T00:00:00", "ENC-Aol Advertisments (outreach)ertising-Advertisments (outreach) in the Websitesite for Electionsction 2012", "Aol Advertisments (outreach)ertising Inc", "Outreach", "Elections", "459.19" ]
+, [ 148, "F1D42FE4-C111-49AD-8BE2-46A8EFBF130C", 148, 1383870770, "849676", 1383870770, "849676", "{\n}", "2012", "471060", "Encino", "2013-07-17T00:00:00", "ENC-Aol Advertisments (outreach)ertising-Advertisments (outreach) in the Websitesite for Electionsction 2012", "Not Entered", null, null, "0" ]
+, [ 149, "9BAF60C0-4997-4656-AFAF-695BFA2CE0BF", 149, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471078", "Foothill Trails District", "2013-08-19T00:00:00", "FTDNC-NPG-HELP FUNDING OF RIDING PROGRAM", "Special Spirit Inc", "Neighborhood Purpose Grants", "Non Profit", "1440" ]
+, [ 150, "9EC6CD02-866A-407B-AA5F-BB7022DE7C97", 150, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471078", "Foothill Trails District", "2013-08-29T00:00:00", "FTDNC-NPG-ANNUAL EventsNTS TO RAISE FUNDS FOR LOCAL CHARITIES", "Ride For A Cure /c", "Neighborhood Purpose Grants", "Non Profit", "828" ]
+, [ 151, "32224DA8-9363-4297-8F3C-524FB01133BC", 151, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471078", "Foothill Trails District", "2013-08-05T00:00:00", "W/C MANQIN 9781490-FTDNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "135.17" ]
+, [ 152, "AF133E68-CE2B-4D80-8FB1-E6DD5B7BF799", 152, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471078", "Foothill Trails District", "2013-08-30T00:00:00", "W/C MANQIN 9781490-FTDNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "799.29" ]
+, [ 153, "78FC1A13-6366-4AED-8F12-5CADA984A8B6", 153, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471003", "Glassell Park", "2013-07-11T00:00:00", "GPNC-ADM-B.GLOVER-06/01/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "108.27" ]
+, [ 154, "5908C45A-8A50-44E0-B13D-E76F09EA3FE5", 154, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471003", "Glassell Park", "2013-09-13T00:00:00", "GPNC-AppleOne-02/16/13-02/23/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "156.39" ]
+, [ 155, "25AB4D40-1725-4129-A50D-00BFE5F59EC2", 155, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471004", "Granada Hills North", "2013-07-10T00:00:00", "GHNNC-LEASE- INV# GHNNC 2013- 11139 WOODLEY AVE, GRANADA HILL", "Richard M/roberta M Gelb/ Charles T & Ruth I Gelb", "Operations", "Facilities", "7224" ]
+, [ 156, "967C3925-9C87-4442-AAB8-C17107CFD3EA", 156, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471004", "Granada Hills North", "2013-07-25T00:00:00", "GHNNC-Temporary StaffP D.LEVIN W/E 6/30", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "219.78" ]
+, [ 157, "C3AC9C65-F4C5-41D0-AFEC-A5CFC64D3708", 157, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471004", "Granada Hills North", "2013-08-05T00:00:00", "W/C MANQIN 9781490-GHNNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "236.03" ]
+, [ 158, "7183BCF3-2EEF-4C2F-AF5E-97C2DD16B534", 158, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471004", "Granada Hills North", "2013-08-23T00:00:00", "GHNNC-Temporary StaffP SERV. W/E 8/4/13-L. LEE", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "207.57" ]
+, [ 159, "BC72C37C-E662-407C-8117-AC1AC8FC9C0D", 159, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471004", "Granada Hills North", "2013-08-30T00:00:00", "W/C MANQIN 9781490-GHNNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "556.86" ]
+, [ 160, "E9C615B3-4BFF-402E-817C-001EB21833F5", 160, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471004", "Granada Hills North", "2013-09-17T00:00:00", "GHNNC-Lease 7/1/13-12/31/13 16275 1/2 San Fernando Miscellanioussion B", "Richard M/roberta M Gelb/ Charles T & Ruth I Gelb", "Operations", "Facilities", "7224" ]
+, [ 161, "DF556579-88D5-4799-8E95-7F9DA3A318B8", 161, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471004", "Granada Hills North", "2013-10-01T00:00:00", "GHNNC-Website SITE MAINTENANCE JULY 2013-OCTOBER 2013", "Aaron Devandry", "Operations", "Website", "800" ]
+, [ 162, "932BBC10-E34B-4887-81FB-30F3B49A71FA", 162, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471004", "Granada Hills North", "2013-07-02T00:00:00", "GSD -  GRANDA HILLS NC INV#81754 02/20/2013", "Department Of General Services", "Outreach", "Printing", "151.20" ]
+, [ 163, "945219B7-F7DE-4EAC-991C-73C8699FB20B", 163, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471103", "Granada Hills South", "2013-08-26T00:00:00", "GHSNC-FriendsOfGranadaHillsLib-06/30/13", "Friends Of The Granada Hills Library", "Neighborhood Purpose Grants", "Non Profit", "2500" ]
+, [ 164, "B27CEBA0-850C-4117-9459-C2F5E9E2B045", 164, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471103", "Granada Hills South", "2013-08-05T00:00:00", "W/C MANQIN 9781490-GHSNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "5.99" ]
+, [ 165, "95611A6A-CF30-469C-9CA8-A18D270CB8CF", 165, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471103", "Granada Hills South", "2013-08-30T00:00:00", "W/C MANQIN 9781490-GHSNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "789.47" ]
+, [ 166, "1368BE4B-B297-4897-845C-4569FCC1B858", 166, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471039", "Greater Echo Park Elysian", "2013-07-03T00:00:00", "GEPENC-SPORTS EQUIP. INV# 20520085 & 20520124", "Department Of Recreation And Parks", "Community Improvement Projects", "Community Service", "2000" ]
+, [ 167, "638BADBC-0B8E-4775-B077-663E298D02C5", 167, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471039", "Greater Echo Park Elysian", "2013-07-03T00:00:00", "GEPENC-SPORTS EQUIP. INV# 20520085 & 20520124", "Department Of Recreation And Parks", "Community Improvement Projects", "Community Service", "0" ]
+, [ 168, "C56B7205-A63A-40DB-8005-877D9F6808E7", 168, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471039", "Greater Echo Park Elysian", "2013-07-03T00:00:00", "GEPENC-BOOKS FOR THE NEW PHILIPPINE HERITAGE COLLECTION", "Library Department", "Community Improvement Projects", "Community Service", "750" ]
+, [ 169, "E1EEB781-D8A4-483A-80B1-28708C57BC81", 169, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-07-11T00:00:00", "GEPENC-ADM-D.TAZZARE-6/22/2013-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "142.53" ]
+, [ 170, "D9B52254-A255-468F-94AC-CADE389DEEFB", 170, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-07-22T00:00:00", "GEPENC-REIMERS, BRENDA SUSAN-05/13/13-05/18/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "51.98" ]
+, [ 171, "B4E446D4-78DB-41D4-A1AF-C57B62DE1226", 171, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-07-22T00:00:00", "GEPENC-REIMERS, BRENDA SUSAN-06/17/13-06/22/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "40.43" ]
+, [ 172, "8C444F07-ED97-4086-B8D5-2ADC83B4905E", 172, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-07-25T00:00:00", "GEPENC-WK-05/25/13-06/01/13-P.MCALLISTER/B.REIMERS-ADM-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "586.97" ]
+, [ 173, "0B782C8C-02C8-4785-B254-4EE31B4862FA", 173, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-08-07T00:00:00", "GEPENC-US bank Restoration Costs INV# 43090", "Bank Of America", "Operations", "Facilities", "6500" ]
+, [ 174, "194EB2B0-3383-451D-8017-4A0FFB1B4F59", 174, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-08-29T00:00:00", "GEPENC-AppleOne-Temporary StaffP-ADM-D.TAZZARE-W/E-07/13/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "111.65" ]
+, [ 175, "8426EF43-023C-46C3-A1DA-9BCE1732787A", 175, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-08-30T00:00:00", "W/C MANQIN 9781490-GEPENC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "105" ]
+, [ 176, "03FFAB60-09D5-497F-A9C4-619B2D10C4E3", 176, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-09-03T00:00:00", "GEPENC-AppleOne-B.REIMERS-07/20/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "57.75" ]
+, [ 177, "DA961FFC-4913-45D4-B14F-2205725203A7", 177, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-09-03T00:00:00", "GEPENC-AppleOne-D.TAZZARE-07/06/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "50.13" ]
+, [ 178, "BED0252D-2E0B-4B3A-8F27-A1F5E0A55F6A", 178, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471039", "Greater Echo Park Elysian", "2013-10-01T00:00:00", "GEPENC-Temporary StaffP SERV. W/E 7/27-8/3/13-D.TRAZZARE", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "265.64" ]
+, [ 179, "BDE73570-92FA-4339-A90F-61F30C265987", 179, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-07-11T00:00:00", "GTLNC-AT&T-05/13/2013-06/12/2013", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "29.2" ]
+, [ 180, "00410F27-93D3-4DAE-A4A9-3D9064651F7F", 180, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-07-11T00:00:00", "GTLNC-ADM-D.LEVIN-05/25/13-06/22/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "435.6" ]
+, [ 181, "A418B817-7F21-4924-9AA3-4F110B7658B8", 181, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-07-25T00:00:00", "GTLNC-AT&T-11/13/2012-12/12/2012", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "29.14" ]
+, [ 182, "10D641CC-6746-4F71-AC31-1BAC9C12AE6B", 182, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-07-25T00:00:00", "GTLNC-AT&T-12/13/2012-1/12/2013", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "29.08" ]
+, [ 183, "93C7809A-B059-4C8F-BCF3-17AC308BA1AA", 183, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-07-25T00:00:00", "GTLNC-AT&T-1/13/2012-2/12/2013", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "29.26" ]
+, [ 184, "D91D3D17-03F2-4914-87DF-1448FC1C04D8", 184, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-07-26T00:00:00", "GTLNC-PHONE BILL 6/13-7/12/13-ACCT #8187557649898", "At&t Communications Of Ca Inc", "Operations", "Utilities", "29.4" ]
+, [ 185, "6565D6A4-D6DF-48BC-8C59-468153470530", 185, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471055", "Greater Toluca Lake", "2013-08-30T00:00:00", "W/C MANQIN 9781490-GTLNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "725.83" ]
+, [ 186, "72868E04-FE2A-414D-AA07-828960CEC9CD", 186, 1383870770, "849676", 1383870770, "849676", "{\n}", "2012", "471055", "Greater Toluca Lake", "2013-07-17T00:00:00", "GTLNC-Aol Advertisments (outreach)ertising-Advertisments (outreach) in the Websitesite for Electionsction 2012", "Aol Advertisments (outreach)ertising Inc", "Outreach", "Elections", "459.19" ]
+, [ 187, "936196BC-35F0-4C6E-B7E5-03F281CD56C0", 187, 1383870770, "849676", 1383870770, "849676", "{\n}", "2012", "471055", "Greater Toluca Lake", "2013-07-17T00:00:00", "GTLNC-Aol Advertisments (outreach)ertising-Advertisments (outreach) in the Websitesite for Electionsction 2012", "Not Entered", null, null, "0" ]
+, [ 188, "CBD60248-912E-421E-BF2B-F7A2FDBEDF3E", 188, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471053", "Greater Valley Glen", "2013-08-05T00:00:00", "W/C MANQIN 9781490-GVGNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "466.4" ]
+, [ 189, "48435A83-8DD0-4CE0-9582-9D058DA24DB8", 189, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471053", "Greater Valley Glen", "2013-08-30T00:00:00", "W/C MANQIN 9781490-GVGNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "675.47" ]
+, [ 190, "E48FD143-13E7-4438-8C51-278CFCB95789", 190, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-07-11T00:00:00", "GWNC-LLOYD STAFFING-04/08/2013-04/14/2013", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "180.18" ]
+, [ 191, "A11E03A1-48B0-4660-9296-3F29263EC203", 191, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-07-17T00:00:00", "GWNC-Temporary StaffP D.LEVIN W/E 6/30", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "180.18" ]
+, [ 192, "249ED9A1-C8FD-4604-B892-1223840DABE0", 192, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-07-26T00:00:00", "GWNC- D. LEVIN-W/E07/14/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "167.31" ]
+, [ 193, "D0F7F03D-FE1E-46FD-9DD1-573AC8EFEB2A", 193, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-08-21T00:00:00", "GWNC-LLOYD STAFFING-06/09/2013-06/16/2013", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "115.83" ]
+, [ 194, "6ED234FB-7CB0-4CB6-8C23-FDDD00F2F46E", 194, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-08-21T00:00:00", "GWNC-LLOYD STAFFING-05/05/2013-05/12/2013", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "160.88" ]
+, [ 195, "6C0BDEDE-ECBA-4AA5-9FE5-49DACDE23332", 195, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-08-30T00:00:00", "W/C MANQIN 9781490-GWNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "57.23" ]
+, [ 196, "D70CF1C6-F290-43E7-8CB0-D613DFADCC38", 196, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-09-17T00:00:00", "GWNC-Temporary StaffP W/E 8/18-D.LEVIN CLIENT #11174-100", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "128.69" ]
+, [ 197, "F7C54C84-26E0-4CCE-83AB-1A574077B795", 197, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-09-20T00:00:00", "GWNC-MONTHLY ADS FOR 7/2013", "Larchmont Chronicle Inc", "Operations", "Advertisements (outreach)", "340" ]
+, [ 198, "890D15B7-8831-41A3-A70E-445CFECD189D", 198, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-09-20T00:00:00", "GWNC-MONTHLY ADS FOR 8/2013", "Larchmont Chronicle Inc", "Operations", "Advertisements (outreach)", "340" ]
+, [ 199, "4C16BB18-E753-41B6-92DB-043F106F9822", 199, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471095", "Greater Wilshire", "2013-09-20T00:00:00", "GWNC-MONTHLY ADS FOR 9/2013", "Larchmont Chronicle Inc", "Operations", "Advertisements (outreach)", "340" ]
+, [ 200, "56F556D1-D456-4ADF-8B2B-3647A745A298", 200, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-07-26T00:00:00", "HRCNC-MONTHLY MedianIAN CLEAN UP JULY 2013", "Bennett Enterprintingses /c", "Community Improvement Projects", "Median", "283" ]
+, [ 201, "BDEF2971-E566-430B-8F36-D1D4D05606DB", 201, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-08-07T00:00:00", "HRCNC-MONTHLY CLEAN UP FOR AUGUST 2013", "Bennett Enterprintingses /c", "Community Improvement Projects", "Median", "283" ]
+, [ 202, "AD517201-EB8D-42E4-A160-8AF9FE1F45A5", 202, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-08-07T00:00:00", "HRCNC-MONTHLY CLEAN UP FOR MAY 2013", "Bennett Enterprintingses /c", "Community Improvement Projects", "Median", "283" ]
+, [ 203, "0CDB0D8D-EAA1-404E-B229-AB34E47D162B", 203, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-07-10T00:00:00", "W/C MANQIN 9781490-HRCNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2390.21" ]
+, [ 204, "80F6922F-833C-48EB-80ED-8C56C78336D4", 204, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-08-05T00:00:00", "W/C MANQIN 9781490-HRCNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "11.25" ]
+, [ 205, "EF4C7CAE-8735-4F2F-9140-3A7168D18804", 205, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-08-15T00:00:00", "HRCNC-Security 7/17/13 INV#68071713", "Library Department", "Operations", "Facilities", "216" ]
+, [ 206, "FBE5FC02-B1E0-47AE-A3C1-A05FB148670B", 206, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-08-15T00:00:00", "HRCNC-Security 7/17/13 INV#68071713", "Library Department", "Operations", "Meeting", "0" ]
+, [ 207, "235D32DA-1DC8-49B2-B016-1299B411A787", 207, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471024", "Harbor City", "2013-08-30T00:00:00", "W/C MANQIN 9781490-HRCNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "169" ]
+, [ 208, "D83BA9D4-6F89-4C51-B223-FF8BC55AE046", 208, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-07-26T00:00:00", "HGNNC-PHONE BILL 6/13-7/12/13-ACCT #3105389654833", "At&t Communications Of Ca Inc", "Operations", "Utilities", "102.83" ]
+, [ 209, "C6F525FD-C9C2-4784-81FC-8D4F2396A2F8", 209, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-05T00:00:00", "W/C MANQIN 9781490-HGNNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2460.6" ]
+, [ 210, "B9D00C80-6E29-4642-88E0-D2CA945763AC", 210, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-05T00:00:00", "HGNNC-Los Angeles Unified School DistrictSD-07/09/2013-08/22/2013", "Los Angelectionss Unified School District", "Operations", "Facilities", "589.48" ]
+, [ 211, "BD0136C0-0D16-48DB-BB1B-1B4500C68613", 211, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-05T00:00:00", "HGNNC-WK-04/06/13-V.MARTIN-ADM-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "435.6" ]
+, [ 212, "00DED3E6-E492-4E5E-BE04-F4252032861B", 212, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-07T00:00:00", "HGNNC-TRANSLATION FOR MTG 7/23/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 213, "CCE51FFE-2A61-45D7-9709-32ADF1E03597", 213, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-19T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 214, "6B0C8216-7B85-449E-817E-23A330245976", 214, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-23T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "44.7" ]
+, [ 215, "A43E39AE-D5B1-476F-BCE0-C491F88489E6", 215, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-23T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 216, "4CE21EF2-C2BA-4199-9BE3-1639CE9293AE", 216, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-28T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 217, "817934D4-3F9C-45F0-B236-1811DB31D467", 217, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-08-30T00:00:00", "W/C MANQIN 9781490-HGNNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1758.03" ]
+, [ 218, "29DFE333-BBD7-4253-A8A6-9E4D531AF727", 218, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-09-03T00:00:00", "HGNNC-PHONE SERV. 7/13-8/12/13- ACCT# 3105389654833", "At&t Communications Of Ca Inc", "Operations", "Utilities", "97.94" ]
+, [ 219, "B1190A40-EE15-4628-8535-7C8D7AF5B4C3", 219, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Harbor Gateway North", "2013-09-03T00:00:00", "HGNNC-AppleOne-V. MARTIN-04/13/13-4/27/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1306.8" ]
+, [ 220, "D96055BE-20BD-4A84-9370-109EF0954152", 220, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471080", "Harbor Gateway South", "2013-08-05T00:00:00", "W/C MANQIN 9781490-HGSNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "87.94" ]
+, [ 221, "C1B468A5-D8E6-4A9F-ACFE-C756D2FC7061", 221, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471080", "Harbor Gateway South", "2013-08-30T00:00:00", "W/C MANQIN 9781490-HGSNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "140" ]
+, [ 222, "FF583A1D-256D-4D42-8F1F-DB3C05527673", 222, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471044", "Historic Highland Park", "2013-07-22T00:00:00", "HHPNC-TRANSLATION FOR MTG 6/06/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 223, "F62BC261-4B74-4341-8841-D77AE4F8148F", 223, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471044", "Historic Highland Park", "2013-07-22T00:00:00", "HHPNC-TRANSLATION FOR MTG 6/20/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 224, "E4ED0EBA-81D1-462A-B2AE-AFB0FE0F9512", 224, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471044", "Historic Highland Park", "2013-08-07T00:00:00", "HHPNC-TRANSLATION FOR MTG 7/18/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 225, "07FAFB3D-C652-4272-82FB-F6128CCAAE3D", 225, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471029", "Hollywood Hills West", "2013-07-11T00:00:00", "HHWNC-ADM-P.KRAMER -6/29/2013-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "184.8" ]
+, [ 226, "21FE8743-6A3A-4DA1-8BE9-361FDFB5FEAA", 226, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471029", "Hollywood Hills West", "2013-07-22T00:00:00", "HHWNC-SasNet-5/22/13", "Steventsn A Shmerler", "Operations", "Website", "500" ]
+, [ 227, "3C2F497F-E6D2-46C2-A0FE-C665F79F645A", 227, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471105", "Hollywood Studio District", "2013-07-11T00:00:00", "HSDNC-ADM-B.REIMERS-06/01/13-06/29/2013-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1995.68" ]
+, [ 228, "DD2954CF-5288-4917-9026-F3B2A8685A33", 228, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471105", "Hollywood Studio District", "2013-07-22T00:00:00", "HSDNC-TRANSLATION FOR MTG 6/11/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 229, "EBCC8A6C-621B-4CED-860B-39FD7919BD2B", 229, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471105", "Hollywood Studio District", "2013-07-25T00:00:00", "HSDNC-TRANSLATION FOR MTG 7/16/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 230, "7B4F6F29-5913-451E-86F4-25B477D12456", 230, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471105", "Hollywood Studio District", "2013-08-27T00:00:00", "HSDNC-Temporary StaffP W/E 76/13-7/13/13 S.B. REIMERS & H.SEMERDJIAN", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "333.3" ]
+, [ 231, "344618AC-C930-4A12-BBE0-43E4A81411E9", 231, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471105", "Hollywood Studio District", "2013-09-03T00:00:00", "HSDNC-AppleOne-G.LEVIN-04/28/12", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "272.28" ]
+, [ 232, "3D94A012-CFE6-4AD6-9DFF-C58DFCC4067D", 232, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471070", "Hollywood United", "2013-08-14T00:00:00", "HUNC-NPG-CONTINUATION OF THE GRIFFITH PARK NATURAL HISTORY", "Friends Of Griffith Park", "Neighborhood Purpose Grants", "Non Profit", "5000" ]
+, [ 233, "3A1901EF-73D5-4A67-BB71-ACBE9CD323FD", 233, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471070", "Hollywood United", "2013-08-30T00:00:00", "W/C MANQIN 9781490-HUNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "225.3" ]
+, [ 234, "4E6A3879-DFA5-4E95-B523-F2134D086C56", 234, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471047", "LA 32", "2013-10-01T00:00:00", "LA32NC-Website MAINTENANCE- AUGUST 2013", "Aaron Devandry", "Operations", "Website", "250" ]
+, [ 235, "D15F77CC-BDEB-4B5B-95BC-4CDDDFD723FD", 235, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471047", "LA 32", "2013-10-01T00:00:00", "LA32NC-Website MAINTENANCE- JULY 2013", "Aaron Devandry", "Operations", "Website", "250" ]
+, [ 236, "15BB4FF4-A3AE-45BA-BD1D-7F7B5BCC5A48", 236, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471047", "LA 32", "2013-10-01T00:00:00", "LA32NC-Website MAINTENANCE- JUNE 2013", "Aaron Devandry", "Operations", "Website", "250" ]
+, [ 237, "DDC9A9A5-E719-4D91-BCBF-B4C86DB78C60", 237, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471047", "LA 32", "2013-08-07T00:00:00", "LA32NC-Rose Hill Recreation Ctr INV#123", "Department Of Recreation And Parks", "Outreach", "Community Service", "0" ]
+, [ 238, "4C2F54B2-6CC3-461A-A9D2-956AA0CFC3A5", 238, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471047", "LA 32", "2013-08-07T00:00:00", "LA32NC-Rose Hill Recreation Ctr INV#123", "Department Of Recreation And Parks", "Outreach", "Events", "2000" ]
+, [ 239, "C26B7B1B-6E3E-4CCA-937A-418D1BB5D64D", 239, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471047", "LA 32", "2013-08-07T00:00:00", "LA32NC-AD FOR KITE FESTIVAL 4/21/13", "Brooklyn & Boyle, Ltd.", "Outreach", "Advertisements (outreach)", "75" ]
+, [ 240, "9AFFE31F-5F2C-45A3-8C60-067E5E411D6E", 240, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471097", "Lake Balboa", "2013-08-05T00:00:00", "W/C MANQIN 9781490-LBNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "33.52" ]
+, [ 241, "391B4116-3826-4BA4-8B9A-1858DF76D0F9", 241, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471097", "Lake Balboa", "2013-08-30T00:00:00", "W/C MANQIN 9781490-LBNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "248.75" ]
+, [ 242, "87F416D0-C225-4385-B1DE-A071C10FD505", 242, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471097", "Lake Balboa", "2013-09-17T00:00:00", "LBNC-AaronDevandry-04/01/13", "Aaron Devandry", "Operations", "Website", "434.85" ]
+, [ 243, "359E01F4-072B-4F1B-BF30-928F28FBDA69", 243, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471097", "Lake Balboa", "2013-10-01T00:00:00", "LBNC-PHONE BILL FOR 9/1-9/30/13 CUST. #3214430", "At&t Communications Of Ca Inc", "Operations", "Utilities", "16.3" ]
+, [ 244, "4D82E0FD-AEE8-4930-8FC5-DF176CD2795F", 244, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471097", "Lake Balboa", "2013-08-07T00:00:00", "LBNC-NEWSLETTER FOR 7/2013", "The Walking Man Inc", "Outreach", "Advertisements (outreach)", "1477.5" ]
+, [ 245, "835319ED-AA4C-4D79-83AD-28132800E2F8", 245, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471097", "Lake Balboa", "2013-08-23T00:00:00", "LBNC-NEWSLETTER FOR 8/2013", "The Walking Man Inc", "Outreach", "Advertisements (outreach)", "1477.5" ]
+, [ 246, "486ED040-9A1A-4B46-9CA7-39605ED555A7", 246, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471041", "Lincoln Heights", "2013-07-26T00:00:00", "LHNC-PHONE BILL 6/13-7/12/13-ACCT #C602222113777", "At&t Communications Of Ca Inc", "Operations", "Utilities", "16.73" ]
+, [ 247, "54E157A6-7BAA-45DD-AA2A-BABD294DB24C", 247, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471041", "Lincoln Heights", "2013-08-30T00:00:00", "W/C MANQIN 9781490-LHNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "188.54" ]
+, [ 248, "9B351F70-8434-4215-8CC1-C0E99E709FE1", 248, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471041", "Lincoln Heights", "2013-09-03T00:00:00", "LHNC-AT&T-04/13/2008-05/12/2008", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "28.76" ]
+, [ 249, "4433A398-56BC-44A4-9BEB-0FE4ADEECC07", 249, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471049", "Los Feliz", "2013-07-10T00:00:00", "W/C MANQIN 9781490-GGPNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1924.82" ]
+, [ 250, "50B28395-8D35-4EF5-95F3-2B00F0725F83", 250, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471049", "Los Feliz", "2013-08-05T00:00:00", "W/C MANQIN 9781490-GGPNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "91.92" ]
+, [ 251, "5BA73B88-CCDF-4C2A-9164-CCA3F066BF9B", 251, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471084", "MacArthur Park", "2013-07-17T00:00:00", "MPNC-TRANSLATION FOR MTG 7/1/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 252, "A91C004C-BDA3-42A0-A89A-20812999CDB9", 252, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471084", "MacArthur Park", "2013-07-22T00:00:00", "MPNC-TRANSLATION FOR MTG 6/17/13", "Continental Interpreting Services Inc", "Operations", "Translations", "225" ]
+, [ 253, "9B08778D-34D2-4962-958B-D139366A4AA4", 253, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471084", "MacArthur Park", "2013-07-25T00:00:00", "MPNC-TRANSLATION FOR MTG 7/15/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 254, "A4FBE772-1E39-4A40-A7CC-07F63E887A42", 254, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471050", "Mar Vista", "2013-08-29T00:00:00", "MVCC-ZainoTennisCourts-05/09/13", "Zaino Tennis Courts Inc", "Community Improvement Projects", "Beautification Projects", "3656" ]
+, [ 255, "7985392F-EC2B-4CEF-B748-79A28BB5CC67", 255, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471050", "Mar Vista", "2013-08-30T00:00:00", "W/C MANQIN 9781490-MVCC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "956.25" ]
+, [ 256, "E4CFBDCB-8D35-4BF2-9102-5F834C3A01F3", 256, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471010", "Mid City", "2013-08-05T00:00:00", "W/C MANQIN 9781490-MINC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "151.76" ]
+, [ 257, "2437D0FB-1456-4272-8389-61465A9A902F", 257, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471010", "Mid City", "2013-08-30T00:00:00", "W/C MANQIN 9781490-MINC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "166.94" ]
+, [ 258, "15B45F1B-0EF7-4397-AF8A-8B39ADEF46B0", 258, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471034", "Mid City West", "2013-07-11T00:00:00", "MCWCC-ADM-R.ADAMS-06/01/13-06/29/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1039.83" ]
+, [ 259, "A39F7B34-43E3-4E36-A5FF-30D0FFA0799C", 259, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471034", "Mid City West", "2013-07-26T00:00:00", "MCWCC-PHONE BILL 6/13-7/12/13-ACCT #3236513512548", "At&t Communications Of Ca Inc", "Operations", "Utilities", "89.02" ]
+, [ 260, "9268D7F8-1B7A-40CA-8BD0-F71A8CAB9BE7", 260, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471034", "Mid City West", "2013-08-05T00:00:00", "W/C MANQIN 9781490-MCWCC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "52.32" ]
+, [ 261, "1564DAF6-D665-49C6-90F8-6319AD055576", 261, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471034", "Mid City West", "2013-08-14T00:00:00", "MCWCC-AT&T-05/13/2011-06/12/2011", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "90.71" ]
+, [ 262, "3E8873BF-018D-4689-9680-69705BB8F2F6", 262, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471034", "Mid City West", "2013-08-23T00:00:00", "MCWCC-Temporary StaffP. SERVICES-W/E  7/6/13-7/27/13-R. ADAMS", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "809.82" ]
+, [ 263, "2E2C2419-5C16-4A9F-93F2-FB6A37F59915", 263, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471034", "Mid City West", "2013-08-30T00:00:00", "W/C MANQIN 9781490-MCWCC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "12.95" ]
+, [ 264, "49005EAF-B7A4-4205-801E-1A9C4A307941", 264, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471058", "Mid-Town North Hollywood", "2013-07-10T00:00:00", "W/C MANQIN 9781490-MTNHNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1448.26" ]
+, [ 265, "3DBED623-CE02-4EE5-B3EA-78ED534E45D8", 265, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471058", "Mid-Town North Hollywood", "2013-07-11T00:00:00", "MTNHNC-ADM-M.SHUMAKER-06/01/13,06/15/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "277.2" ]
+, [ 266, "1CB63A9A-3232-405C-A236-F0905A1B436C", 266, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471058", "Mid-Town North Hollywood", "2013-08-23T00:00:00", "MTNHNC-AppleOne-ADM-M.SHUMAKER W/E-04/13/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Staff", "138.6" ]
+, [ 267, "39EAC2F8-6100-4B98-8E80-2546C95FDE43", 267, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471058", "Mid-Town North Hollywood", "2013-08-30T00:00:00", "W/C MANQIN 9781490-MTNHNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "604.89" ]
+, [ 268, "9EC5C738-2E61-43FA-835A-93D8A73C27D8", 268, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471101", "Miscellanioussion Hills", "2013-07-25T00:00:00", "MHNC-Temporary StaffP W/E 7/7 D.LEVIN", "Partners In Diversity Inc", "Operations", "Temporary Administrative Staff", "158.72" ]
+, [ 269, "8A855046-1773-474E-9556-7E81B65F219F", 269, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471101", "Miscellanioussion Hills", "2013-08-30T00:00:00", "W/C MANQIN 9781490-MHNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "558.49" ]
+, [ 270, "73206C02-D143-455D-A086-1C92DEE2537E", 270, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471101", "Miscellanioussion Hills", "2013-10-01T00:00:00", "MHNC-Website SITE MAINTENANCE JULY 2013-SEPTemporary StaffBER 2013", "Aaron Devandry", "Operations", "Website", "746.85" ]
+, [ 271, "BDFB8FA9-F0B8-4977-8728-0B46A5A2EBFA", 271, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471112", "North Hills East", "2013-07-17T00:00:00", "NHENC-TRANSLATION FOR MTG 7/8/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 272, "529CEA8F-DB5A-4D3B-8E0A-9FEB2ABF84BD", 272, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471112", "North Hills East", "2013-07-22T00:00:00", "NHENC-TRANSLATION FOR MTG 6/03/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 273, "35CFF3C1-DAA7-414C-BBFF-EB266A6C7C08", 273, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471112", "North Hills East", "2013-07-22T00:00:00", "NHENC-TRANSLATION FOR MTG 6/17/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 274, "0F344D7C-F213-48AC-9711-CC283A126637", 274, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471112", "North Hills East", "2013-08-07T00:00:00", "NHENC-TRANSLATION FOR MTG 7/18/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 275, "D67144F3-ABFF-4149-9AC1-ABFBDFAC1176", 275, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471112", "North Hills East", "2013-07-12T00:00:00", "NHENC-CIVILITY POSTER-INV#81425", "Not Entered", "Outreach", "Advertisements (outreach)", "228.95" ]
+, [ 276, "9A3F907F-FBA9-4712-8BE3-71D23404F958", 276, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471112", "North Hills East", "2013-09-17T00:00:00", "NHENC-REIMB-O.DIAZ CLEAN UP ON 2/9/13", "Diaz, Olivia", "Outreach", "Events", "357.59" ]
+, [ 277, "DFA87517-54DD-415A-9E81-4EDA3E3C87F9", 277, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471076", "North Hills West", "2013-08-27T00:00:00", "NHWNC-Temporary StaffP. SERVICES-W/E  6/8/13-7/27/13-D.WAGGER", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "57.75" ]
+, [ 278, "44F85DC6-4CFF-46A9-8409-271E66EE399C", 278, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471076", "North Hills West", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NHWNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "204" ]
+, [ 279, "15ED8EED-6DD5-4E57-B57F-896AFD5B6D34", 279, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471076", "North Hills West", "2013-09-03T00:00:00", "NHWNC-REIMB Office SuppliesICE SUPPLIES-D. FRANCISCO", "Debra Francisco", "Operations", "Office Supplies", "244.38" ]
+, [ 280, "8F237548-0F8E-46F9-927C-D3FE1D80F8AD", 280, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471057", "North Hollywood Northeast", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NHNENC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1392.08" ]
+, [ 281, "C23EE4DF-581C-4826-B4E3-36F1C7D38FD9", 281, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471057", "North Hollywood Northeast", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NHNENC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2621.78" ]
+, [ 282, "22CC6880-C5F9-4FCD-8BC2-721AB82A859E", 282, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471113", "North Hollywood West", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NHWDWNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "345.2" ]
+, [ 283, "8D2C87D9-57B9-4D29-9A50-50107FD65A70", 283, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471113", "North Hollywood West", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NHWDWNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "163.41" ]
+, [ 284, "EFD02B2A-80E4-4A18-A3A3-E903640F7023", 284, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471113", "North Hollywood West", "2013-08-23T00:00:00", "NOHOWNC-REIMB. CAROL ROSE-SUPPLIES FOR OUTREACH ON 6/15/13", "Carol Rose", "Outreach", "Events", "40.33" ]
+, [ 285, "E7555FAE-32C8-4C25-BB0D-34E62B64E4F5", 285, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471099", "Northridge East", "2013-08-23T00:00:00", "NENC-AssistancElectionsagueSouthern California-04/30/13", "Assistance League Of Southern California /c", "Neighborhood Purpose Grants", "Non Profit", "500" ]
+, [ 286, "EE8E5A1F-E037-443F-96E2-671023B30118", 286, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471099", "Northridge East", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NENC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "206.3" ]
+, [ 287, "1F193786-B84B-4DF3-B8BF-22877BBBC463", 287, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471099", "Northridge East", "2013-08-23T00:00:00", "NENC-Temporary StaffP SERVICES-W/E 6/29/13- B. GLOVER", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "103.95" ]
+, [ 288, "9B07AB48-6BFE-48EE-95D1-73C43D4CB09C", 288, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471099", "Northridge East", "2013-08-26T00:00:00", "NENC-AppleOne-Temporary StaffP-ADM-G.WENGLIN-W/E-04/28/12", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Staff", "24.06" ]
+, [ 289, "A822926D-A9FD-422C-B968-05D7AD7C7381", 289, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471099", "Northridge East", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NENC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "666.66" ]
+, [ 290, "F7386DB9-2967-47AA-9182-2D7E66D4CE20", 290, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471099", "Northridge East", "2013-10-01T00:00:00", "NENC-Website SITE MAINTENANCE JULY 2013- SEPTemporary StaffBER 2013", "Aaron Devandry", "Operations", "Website", "300" ]
+, [ 291, "A30B32C1-2EF6-4DBF-9899-A215D03FA07C", 291, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471111", "Northridge South", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NSNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "675" ]
+, [ 292, "D54A0B14-0585-4B9B-934D-9D45D6F15F2E", 292, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471111", "Northridge South", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NSNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1204.85" ]
+, [ 293, "E5F4800C-2642-4191-BCBF-DCF83D2103C4", 293, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471098", "Northridge West", "2013-08-26T00:00:00", "NWNC-REIM-DarrellGriffin-01/24/13", "Darrell Griffin", "Operations", "Miscellaneous", "7.4" ]
+, [ 294, "294C1377-B9E5-4892-805A-77B830B72F1E", 294, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471098", "Northridge West", "2013-08-26T00:00:00", "NWNC-REIM-DarrellGriffin-02/25/13", "Darrell Griffin", "Operations", "Miscellaneous", "27.42" ]
+, [ 295, "7A71F343-45E4-4847-AFF4-1448C7D6A2C3", 295, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471098", "Northridge West", "2013-08-26T00:00:00", "NWNC-REIM-DarrellGriffin-04/15/13", "Darrell Griffin", "Operations", "Miscellaneous", "17.02" ]
+, [ 296, "9022A444-057A-4FB3-88E1-03E9B784BABE", 296, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471098", "Northridge West", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NWNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2075.19" ]
+, [ 297, "B80BB5DD-3635-4A13-BABB-D598A401301D", 297, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471098", "Northridge West", "2013-10-01T00:00:00", "NWNC-Website SITE MAINTENANCE JULY 2013- SEPTemporary StaffBER 2013", "Aaron Devandry", "Operations", "Website", "600" ]
+, [ 298, "2CD08DE2-D3AB-4564-94C4-B6A0D7BB432E", 298, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471012", "Northwest San Pedro", "2013-07-22T00:00:00", "NSPNC-KaizerRangwala-2ndInstallment-04/17/13", "Kaizer Rangwala", "Operations", "Miscellaneous", "2700" ]
+, [ 299, "C2A49E95-E097-4BB9-9E7E-BD2F2C87AC3C", 299, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471012", "Northwest San Pedro", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NSPNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "94.97" ]
+, [ 300, "F08849EB-E39F-4755-A1D5-F41984FA9E04", 300, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471012", "Northwest San Pedro", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NSPNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "475.26" ]
+, [ 301, "2871185E-88ED-474B-B5EE-F3360724429E", 301, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471012", "Northwest San Pedro", "2013-09-03T00:00:00", "NWSP-EpperhartCommunications-03/22/13", "Douglas J Epperhart", "Outreach", "Advertisements (outreach)", "600" ]
+, [ 302, "7F65B43E-9077-4D71-9DBD-630358A0EE4C", 302, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471015", "Northwest San Pedro", "2013-07-10T00:00:00", "W/C MANQIN 9781490-VNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "5623.4" ]
+, [ 303, "ED456AD3-C315-4B3D-831E-5A23BBDF7959", 303, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471094", "Olympic Park", "2013-08-05T00:00:00", "W/C MANQIN 9781490-OPNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "181.1" ]
+, [ 304, "402EAEDB-A0A4-4BEA-8AC4-97CE6874AC25", 304, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471094", "Olympic Park", "2013-08-30T00:00:00", "W/C MANQIN 9781490-OPNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "3358.61" ]
+, [ 305, "07C752BC-B710-42E1-8C0E-A0FDB8FFA09D", 305, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471026", "Pacoima", "2013-08-07T00:00:00", "PACNC-LEASE FROM JAN TO JUNE 2013", "Community Deventslopment Department", "Operations", "Facilities", "900" ]
+, [ 306, "B79ED2D3-7B06-4B9F-AC5E-9D0B956C0160", 306, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471026", "Pacoima", "2013-08-20T00:00:00", "PACNC-LEASE FROM JULY TO SEPTemporary StaffBER 2013", "Community Deventslopment Department", "Operations", "Facilities", "450" ]
+, [ 307, "E64AE910-5351-4CCC-9A85-665346B554DD", 307, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471026", "Pacoima", "2013-08-30T00:00:00", "W/C MANQIN 9781490-PACNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "87.57" ]
+, [ 308, "F5D4B1E5-B70D-49E7-8FF7-63A2301568E0", 308, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471026", "Pacoima", "2013-10-01T00:00:00", "PACNC-Website SITE MAINTENANCE MAY 2013-OCTOBER 2013", "Aaron Devandry", "Operations", "Website", "800" ]
+, [ 309, "0619283F-5323-48C9-91E6-9A01AA827394", 309, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471026", "Pacoima", "2013-10-04T00:00:00", "PACNC-LEASE FROM OCT TO DECEMBER 2013", "Community Deventslopment Department", "Operations", "Facilities", "450" ]
+, [ 310, "BCBBE0AE-9929-4444-9A38-696C0E8D6134", 310, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471100", "Palms", "2013-09-20T00:00:00", "PALMSNC-REIM-Nial Manmenamin-02/21/13", "Niall Macmenamin", "Community Improvement Projects", "Beautification Projects", "280.32" ]
+, [ 311, "2DB1766C-ED54-4233-AA6A-E3298929DF28", 311, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471100", "Palms", "2013-09-06T00:00:00", "PALMSNC-FriendsofPalmMiddle-6/30/14", "Friends Of Palms Middle School", "Neighborhood Purpose Grants", "Non Profit", "2000" ]
+, [ 312, "E0B8D0EC-37F3-49E3-BEFE-75D54DB2E4C2", 312, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471100", "Palms", "2013-09-06T00:00:00", "PALMSNC-CharnockRoadElectionsm-06/01/14", "Los Angelectionss Unified School District", "Neighborhood Purpose Grants", "Los Angeles Unified School District", "4000" ]
+, [ 313, "62AAEC3A-042C-481A-AD23-9009DA53004C", 313, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471100", "Palms", "2013-07-11T00:00:00", "PALMSNC-ADM-D.LEVIN-6/8/2013-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "150.15" ]
+, [ 314, "DB3A4247-6B57-48E5-9DF5-56433D079A98", 314, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471100", "Palms", "2013-08-05T00:00:00", "W/C MANQIN 9781490-PALMSNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "35" ]
+, [ 315, "BEBC8206-233B-4D47-8439-D41D8A70823F", 315, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471100", "Palms", "2013-08-01T00:00:00", "PALMSNC-Hillcrest Party Rentals- 05/18/2013", "Dorothy Levinson/marilyn San Shuck", "Outreach", "Events", "1319.74" ]
+, [ 316, "CC2BEF0C-82F4-439E-B757-12CAC6FBDB2B", 316, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471106", "Panorama City", "2013-08-05T00:00:00", "W/C MANQIN 9781490-PCNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "86.11" ]
+, [ 317, "24B5FF39-2EF9-4E9E-94EC-48418716DFA0", 317, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471106", "Panorama City", "2013-08-30T00:00:00", "W/C MANQIN 9781490-PCNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "408.87" ]
+, [ 318, "DD652718-8679-4AE3-9882-737E5F24EDDF", 318, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471037", "Park Mesa Heights", "2013-08-05T00:00:00", "W/C MANQIN 9781490-PMHCC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "595.91" ]
+, [ 319, "D719948F-3115-4C65-89ED-A7D9C210ADB3", 319, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471037", "Park Mesa Heights", "2013-08-30T00:00:00", "W/C MANQIN 9781490-PMHCC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2009.79" ]
+, [ 320, "3FBE427A-D4D1-47F2-98AF-528C6271ECEC", 320, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471037", "Park Mesa Heights", "2013-09-17T00:00:00", "PMHCC-REIMB. FOR FOOD & REFRESHMENTS FOR MTG ON 6/11/13", "Kim C Moore", "Operations", "Meeting", "42.79" ]
+, [ 321, "1D74D921-AFE2-43AA-BF21-38AAF7651480", 321, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471037", "Park Mesa Heights", "2013-10-01T00:00:00", "PMHCC-REIMB. FOR K. ALALIM-4 POSTAGE FOR LETTERS TO PUBLIC Office SuppliesICIALS", "Kahllid A Alalim", "Outreach", "Community Service", "57.76" ]
+, [ 322, "204795E7-20FD-46BD-B729-09B161488764", 322, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471042", "PICO", "2013-09-17T00:00:00", "PICONC-NPG-SUPPORT THE ANNUAL LITTLE ETHIOPIA CULTURAL FAIR", "Community Partners", "Neighborhood Purpose Grants", "Non Profit", "2000" ]
+, [ 323, "1BE04BE5-1CE8-4215-8A60-4D0FD69F71AA", 323, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471042", "PICO", "2013-08-28T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 324, "B891A7C0-2C71-4A07-A30F-E288F2DA410C", 324, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471042", "PICO", "2013-09-03T00:00:00", "PICONC-AppleOne-M.ROBINSON-07/13/13-7/20/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "234.01" ]
+, [ 325, "72B47218-1152-47F1-B9AF-D9447AD0EA64", 325, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471087", "Pico Union", "2013-07-10T00:00:00", "W/C MANQIN 9781490-PUNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "3476.87" ]
+, [ 326, "76F09165-0C27-48F0-9773-96A65ADBCA8B", 326, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471087", "Pico Union", "2013-07-11T00:00:00", "PUNC-ADM-C.CRUZ-05/25/13-06/15/2013-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1753.29" ]
+, [ 327, "C599DB5B-36F4-4DC8-93D4-825D3AD3C36A", 327, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471087", "Pico Union", "2013-07-15T00:00:00", "PUNC-WK-4/27/13-5/18/2013-C. CRUZ-ADM-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1709.73" ]
+, [ 328, "92EBE7E5-D0BF-4241-9406-EEE40A12A224", 328, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471087", "Pico Union", "2013-07-17T00:00:00", "PUNC-TRANSLATION FOR MTG 7/1/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 329, "A793E8C1-9359-48A8-96A0-68A0C986ACD9", 329, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471087", "Pico Union", "2013-08-05T00:00:00", "W/C MANQIN 9781490-PUNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "96.66" ]
+, [ 330, "F2CABE8C-81FA-4C1A-9B2D-892425899771", 330, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471090", "Porter Ranch", "2013-07-11T00:00:00", "PRNC-ADM-D.LEVIN-06/08/13-06/15/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "340.73" ]
+, [ 331, "1FF240D5-5EBE-403D-BFCA-35F20E0D52D5", 331, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471090", "Porter Ranch", "2013-08-23T00:00:00", "PRNC-Temporary StaffP SERVICES-W/E 7/13/13-D. LEVIN", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "225.23" ]
+, [ 332, "59F08433-264D-4F10-B770-EADA61C75411", 332, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471090", "Porter Ranch", "2013-08-30T00:00:00", "W/C MANQIN 9781490-PRNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "580.16" ]
+, [ 333, "5ECC8465-8096-4C2B-8712-768F301EDE45", 333, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471090", "Porter Ranch", "2013-10-02T00:00:00", "PRNC-REIMB. FOR B. LEventsQUE- 4 PIZZAS FOR MTG ON 7/9/13", "Becky Leventsque", "Outreach", "Meeting", "186.6" ]
+, [ 334, "8E24637D-F0F0-4AE8-90C3-0E5DE702B6DB", 334, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471108", "Rampart Village", "2013-08-05T00:00:00", "W/C MANQIN 9781490-RVNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "4009.78" ]
+, [ 335, "36D55C44-2944-41D7-A77E-9C6F67339C9E", 335, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471108", "Rampart Village", "2013-08-26T00:00:00", "RVNC-AppleOne-A.PRUITT-07/31/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "658.35" ]
+, [ 336, "DEBB9CDA-BCDB-4351-A720-B30BC70CF500", 336, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471108", "Rampart Village", "2013-08-30T00:00:00", "W/C MANQIN 9781490-RVNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1282.85" ]
+, [ 337, "9640A801-86FE-47EA-9CA7-4DF21E2C1ECB", 337, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471108", "Rampart Village", "2013-09-03T00:00:00", "RVNC-AppleOne-ADM-A.PRUITT W/E 06/22/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "69.3" ]
+, [ 338, "4CDD108E-2B82-412E-9C3A-3534BEF52839", 338, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471062", "Reseda", "2013-07-10T00:00:00", "W/C MANQIN 9781490-RNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2378.56" ]
+, [ 339, "1E306194-7CE7-4369-A529-1F30FDF65A15", 339, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471062", "Reseda", "2013-08-05T00:00:00", "W/C MANQIN 9781490-RNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "138.97" ]
+, [ 340, "9BFCC71A-2847-4869-83CB-1A5010E9D004", 340, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471062", "Reseda", "2013-08-23T00:00:00", "RNC-WebsiteSITE MAINTENANCE 7/2013", "Kristine C Cherry", "Operations", "Website", "160" ]
+, [ 341, "733F88E2-21F1-41C5-A5C1-1105E2BA3203", 341, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471062", "Reseda", "2013-08-30T00:00:00", "W/C MANQIN 9781490-RNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "640.58" ]
+, [ 342, "F134FF1C-2E60-4C53-9FDC-80E095D48F24", 342, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471062", "Reseda", "2013-09-17T00:00:00", "RNC-STORAGE OF SUPPLIES & EQUIPMENT 6/6/13-8/1/13", "Thomas B Ballard Et Al", "Operations", "Facilities", "394.99" ]
+, [ 343, "B9D97ED3-E0BC-47AA-8275-AE944AE954E2", 343, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471062", "Reseda", "2013-07-17T00:00:00", "RNC-ProductionDudes-05/10/13-REMAINING BALANCE", "Manuel R Gutilitieserrez", "Outreach", "Events", "5500" ]
+, [ 344, "778B2FB4-5546-4679-9A24-629520D93E47", 344, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471065", "Reseda", "2013-07-17T00:00:00", "HGNNC-NPG-SCHOOL SUPPLIES FOR GIVE AWAY 8/5/13", "Southeast Area Booster", "Neighborhood Purpose Grants", "Non Profit", "1065" ]
+, [ 345, "875231C2-2675-46C4-ACE6-2591BED341E5", 345, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-11T00:00:00", "SONC-LLOYD STAFFING-04/8/2013-04/14/2013", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "142.56" ]
+, [ 346, "F4E5B12C-6128-437A-9912-EC7B6FC205BA", 346, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-11T00:00:00", "SONC-LLOYD STAFFING-04/01/2013-04/07/2013", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "95.04" ]
+, [ 347, "9F4226E2-AB7A-4680-900B-0FAE036408A7", 347, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-22T00:00:00", "SONC-Temporary StaffP R.STERN W/E 7/7/2013", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "59.4" ]
+, [ 348, "3268CC3D-2D17-43A2-AC62-7B83C4866614", 348, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-26T00:00:00", "SONC-Temporary StaffP R.STERN W/E 7/14/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "142.56" ]
+, [ 349, "E33FBDA7-1CA9-43E9-A72E-9B20236DBCC7", 349, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-26T00:00:00", "SONC-Temporary StaffP R.STERN W/E-06/23/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "71.28" ]
+, [ 350, "18F57776-9505-458B-BF54-C0CC3CD7C4EF", 350, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-26T00:00:00", "SONC-Temporary StaffP R.STERN W/E-06/30/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "59.4" ]
+, [ 351, "E323A7B5-00A9-4CD3-9E0F-A195DE2D6BCF", 351, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-07-26T00:00:00", "SONC-Temporary StaffP R.STERN W/E-06/16/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "59.4" ]
+, [ 352, "F23D3437-C3E0-4A2B-8291-FB2DE024D062", 352, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-08-05T00:00:00", "W/C MANQIN 9781490-SONC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "5.67" ]
+, [ 353, "3459882D-6688-41C2-997B-FBB4669EB887", 353, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-08-05T00:00:00", "SONC-Temporary StaffP R.STERN W/E 7/21/13", "Lloyd Staffing", "Operations", "Temporary Administrative Staff", "142.56" ]
+, [ 354, "10DB4EDE-4325-4083-9697-A63F31155DE3", 354, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-08-30T00:00:00", "W/C MANQIN 9781490-SONC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "97.74" ]
+, [ 355, "B986C0C1-012F-46AB-8C17-983602D4F049", 355, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-09-17T00:00:00", "SONC-MTG SPACE FOR 9/9/13 & 10/14/13", "Los Angelectionss Unified School District", "Operations", "Facilities", "259.48" ]
+, [ 356, "36FC6C05-2E05-4F68-885D-720E6A38EF85", 356, 1383870770, "849676", 1383870770, "849676", "{\n}", "2012", "471071", "Sherman Oaks", "2013-07-17T00:00:00", "SONC-Aol Advertisments (outreach)ertising-Advertisments (outreach) in the Websitesite for Electionsction 2012", "Aol Advertisments (outreach)ertising Inc", "Outreach", "Elections", "459.2" ]
+, [ 357, "DFB4D957-592F-4005-B787-F086CA6599A3", 357, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471071", "Sherman Oaks", "2013-10-01T00:00:00", "SONC- 4 PAYMENT FOR CANOPY, TABLE & CHAIRS AT ANNUAL ST FAIR", "Greater Sherman Oaks Chamber Of Commerce", "Outreach", "Events", "400" ]
+, [ 358, "B44AF381-6A4C-484E-B89D-B939A1451DAB", 358, 1383870770, "849676", 1383870770, "849676", "{\n}", "2012", "471071", "Sherman Oaks", "2013-07-17T00:00:00", "SONC-Aol Advertisments (outreach)ertising-Advertisments (outreach) in the Websitesite for Electionsction 2012", "Not Entered", null, null, "0" ]
+, [ 359, "BE393CAB-91D8-4576-B8D9-D73F5C2B16D1", 359, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471075", "Silver Lake", "2013-07-25T00:00:00", "SLNC-NPG-MAITENANCE OF PUBLIC WALKWAYS SUNSET BL & SILVER LAKE BLVD", "Silver Lake Community Improvement Projects Association", "Neighborhood Purpose Grants", "Non Profit", "1000" ]
+, [ 360, "4ABDFAAD-D71A-4377-AC3A-ECD5168AFBC9", 360, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471075", "Silver Lake", "2013-08-02T00:00:00", "Adj DEX 0036 from BFY2013 to BFY2014,  SLNC-NPG- Maintenance of public walk way", "Silver Lake Community Improvement Projects Association", "Neighborhood Purpose Grants", "Non Profit", "-1000" ]
+, [ 361, "2E268AEB-7158-40FD-B4C2-7A3F1065DDFF", 361, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-07-25T00:00:00", "SLNC-NPGS-MAITENANCE OF MEDIANS & GREEN SPACE @ SILVER LAKE AND THE 101 FWY", "Silver Lake Community Improvement Projects Association", "Neighborhood Purpose Grants", "Non Profit", "1000" ]
+, [ 362, "4E3FCD94-A363-4760-B2FF-576B7FE91921", 362, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-08-02T00:00:00", "Adj DEX 0036 from BFY2013 to BFY2014,  SLNC-NPG- Maintenance of public walk way", "Silver Lake Community Improvement Projects Association", "Neighborhood Purpose Grants", "Non Profit", "1000" ]
+, [ 363, "44860000-3521-4734-B70F-730A3340AC4F", 363, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-07-11T00:00:00", "SLNC-ADM-B.REIMERS/D.TAZZARE-06/01/13-06/15/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "367.68" ]
+, [ 364, "23C6B444-0857-4E7D-A8C0-58A3EB159140", 364, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-08-05T00:00:00", "W/C MANQIN 9781490-SLNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "580" ]
+, [ 365, "50672EDB-7DB9-4929-8827-94192CDC4440", 365, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-08-19T00:00:00", "SLNC-AppleOne-Temporary StaffP-ADM-D.TRAZZARE-W/E02/02/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Staff", "169.32" ]
+, [ 366, "F27B0D3A-3218-4EC5-8BE5-207D2CB2F24C", 366, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-08-27T00:00:00", "SLNC-Temporary StaffP SERVICES-W/E 7/6/13 & 7/20/13-D.TRAZZARE", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "288.75" ]
+, [ 367, "55D8DEEC-5E45-4C0B-AE61-D3C58E1E8AB8", 367, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-08-30T00:00:00", "W/C MANQIN 9781490-SLNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "150.02" ]
+, [ 368, "A0562E88-521A-49DC-8A7B-916144B033EA", 368, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471075", "Silver Lake", "2013-08-05T00:00:00", "SLNC-SilverlakeCommunity Improvement ProjectsAssoc-05/08/13", "Silver Lake Community Improvement Projects Association", "Outreach", "Events", "500" ]
+, [ 369, "6C54F86F-DE67-437F-BE9D-3BD869344942", 369, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471085", "South Central", "2013-07-10T00:00:00", "W/C MANQIN 9781490-SECNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "2893.47" ]
+, [ 370, "DD085320-90D5-44ED-A902-D1F51D7B3C5A", 370, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471085", "South Central", "2013-08-30T00:00:00", "W/C MANQIN 9781490-SECNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "140" ]
+, [ 371, "0A7190CA-2612-4961-899F-4CB67514DD24", 371, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471046", "South Robertson", "2013-08-05T00:00:00", "W/C MANQIN 9781490-SRNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "12.95" ]
+, [ 372, "5E9D7C42-0B8C-4F52-A51C-DA38E8AF955F", 372, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471046", "South Robertson", "2013-08-30T00:00:00", "W/C MANQIN 9781490-SRNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "278.3" ]
+, [ 373, "4CD8F8C1-AD69-435F-859B-49CBAED21F67", 373, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471046", "South Robertson", "2013-08-02T00:00:00", "SRNC-Business cards for Board members-INV#81389", "Department Of General Services", "Outreach", "Advertisements (outreach)", "603" ]
+, [ 374, "0924EA21-6753-4486-BE2C-25AC30CB3638", 374, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471061", "Studio City", "2013-07-24T00:00:00", "STCNC-Landsco-02/11/13", "Gary A Peterson", "Community Improvement Projects", "Beautification Projects", "1415" ]
+, [ 375, "AE89E28D-C93E-4C99-B873-6ECF18CF64D5", 375, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471061", "Studio City", "2013-08-05T00:00:00", "W/C MANQIN 9781490-STCNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "270.18" ]
+, [ 376, "307D95EA-B6FD-4850-864F-535E8CDFB71B", 376, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471061", "Studio City", "2013-08-30T00:00:00", "W/C MANQIN 9781490-STCNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1349.38" ]
+, [ 377, "75269821-1430-49F3-9273-0AFE7133A070", 377, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471061", "Studio City", "2013-10-01T00:00:00", "STCNC-Website SITE MAINTENANCE JULY 2013-SEPTemporary StaffBER 2013", "Aaron Devandry", "Operations", "Website", "1045" ]
+, [ 378, "B01DCA63-F4F8-4848-8622-6898A8EF3994", 378, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471061", "Studio City", "2013-08-23T00:00:00", "STCNC-Aol Advertisments (outreach)ertising Inc-09/01/2012-09/20/2012", "Aol Advertisments (outreach)ertising Inc", "Outreach", "Elections", "459.19" ]
+, [ 379, "A262C7A6-E8F1-4D5D-A1DC-19F79CB2B827", 379, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-19T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 380, "439A0670-62EC-4B4A-81AD-5D35C91A4E0E", 380, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-23T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "41.2" ]
+, [ 381, "4BBB97F2-2DE3-4F96-8A99-FCC2C22B66E1", 381, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-23T00:00:00", "RICOH AMERICAS CORPORATION", "Ricoh Americas Corporation", "Operations", "Office Supplies", "0" ]
+, [ 382, "F8CD2962-D4F5-4E01-9FD5-45878ED82C1A", 382, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-30T00:00:00", "W/C MANQIN 9781490-SVANC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "61.61" ]
+, [ 383, "18A90EAA-BEC0-495B-8CA3-C98EB63999DB", 383, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-TRANSLATION 4 MTG 3/18/2013", "Delia Torres", "Outreach", "Translations", "215" ]
+, [ 384, "99840953-E0C6-49E7-A1FA-80A2F8AE1390", 384, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-TRANSLATION 4 MTG 4/11/13", "Delia Torres", "Outreach", "Translations", "215" ]
+, [ 385, "E16FA151-9CF2-4CC7-BB73-5F83D29017B8", 385, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-MINUTETAKING-03/18/13", "Delia Torres", "Outreach", "Temporary Administrative Staff", "230" ]
+, [ 386, "2FD579B4-6D3B-4817-9DCD-9CC2DD4A43AC", 386, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-MINUTETAKING-04/11/13", "Delia Torres", "Outreach", "Temporary Administrative Staff", "230" ]
+, [ 387, "B021D718-6CF2-4725-BEFB-5BED8F6DF0B0", 387, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-MINUTETAKING-05/16/13", "Delia Torres", "Outreach", "Temporary Administrative Staff", "230" ]
+, [ 388, "21126B5E-3150-4F08-A3E2-0C6E86291B7D", 388, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-MINUTETAKING-06/15/13", "Delia Torres", "Outreach", "Temporary Administrative Staff", "230" ]
+, [ 389, "EC3108D1-0FEF-4499-A247-61BAF58FED92", 389, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-TRANSLATION-06/15/13", "Delia Torres", "Outreach", "Translations", "215" ]
+, [ 390, "633DEA8D-8A75-4A51-9B88-DC7A63F99B3E", 390, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471025", "Sun Valley Area", "2013-08-08T00:00:00", "SVANC-TRANSLATION-05/16/13", "Delia Torres", "Outreach", "Translations", "215" ]
+, [ 391, "52622998-7F21-459F-9873-A4A939198D01", 391, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471082", "Sunland-Tujunga", "2013-07-11T00:00:00", "STNC-ADM-P.KRAMER/E.ROCK-06/01/13-06/29/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1862.52" ]
+, [ 392, "C899FEC9-17C4-4C39-9EF3-A00DABA15754", 392, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471082", "Sunland-Tujunga", "2013-08-05T00:00:00", "W/C MANQIN 9781490-STNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "208.47" ]
+, [ 393, "32062196-D1EA-4044-AB63-621C80B8492C", 393, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471082", "Sunland-Tujunga", "2013-08-23T00:00:00", "STNC-Temporary StaffP W/E 76/13-7/27/13 E. ROCK & P. KRAMER", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1427.58" ]
+, [ 394, "03C2D398-979E-4DDD-9729-AC9A5C5843AC", 394, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471082", "Sunland-Tujunga", "2013-08-30T00:00:00", "W/C MANQIN 9781490-STNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "403.63" ]
+, [ 395, "B4D3BBBA-9BDB-4F59-8035-DEAC764C6BF5", 395, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471083", "Sylmar", "2013-07-11T00:00:00", "SNC-ADM-D.LEVIN-06/01/13-06/29/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1155" ]
+, [ 396, "63BB2206-44B3-4F41-95BC-FB05E512A09B", 396, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471083", "Sylmar", "2013-08-05T00:00:00", "W/C MANQIN 9781490-SNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "485.93" ]
+, [ 397, "B206B784-165D-41CA-857C-531B61930432", 397, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471083", "Sylmar", "2013-08-05T00:00:00", "SNC-WK-03/02/13-03/30/13-D.LEVIN-ADM-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1501.5" ]
+, [ 398, "67412878-24DD-453F-AA0B-9819975CB09A", 398, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471083", "Sylmar", "2013-08-27T00:00:00", "SNC-Temporary StaffP SERV W/E.7/6/13-7/27/13-D.LEVIN", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "924" ]
+, [ 399, "EFF683A6-05C4-4845-B8A4-EA2D495746BC", 399, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471072", "Tarzana", "2013-08-23T00:00:00", "TNC-Aol Advertisments (outreach)ertising Inc-09/01/2012-09/20/2012", "Aol Advertisments (outreach)ertising Inc", "Outreach", "Elections", "459.19" ]
+, [ 400, "AAE124B7-72B1-4BDF-BEB1-2F39F52AC9B5", 400, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471036", "United Neighborhoods", "2013-07-10T00:00:00", "W/C MANQIN 9781490-UNNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "623.35" ]
+, [ 401, "44503F4B-2127-463E-99FE-E83595B77421", 401, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471036", "United Neighborhoods", "2013-08-30T00:00:00", "W/C MANQIN 9781490-UNNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "1043.76" ]
+, [ 402, "99E48C99-2BCD-48DB-B51C-2540DE97885F", 402, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471059", "Valley Village", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NCVV-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "429.84" ]
+, [ 403, "40C9CD05-B8F6-4361-8768-DACE3D5FA43E", 403, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471059", "Valley Village", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NCVV-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "4577.87" ]
+, [ 404, "9DE30A9E-7372-4FC0-A67B-C27E57CACC39", 404, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471059", "Valley Village", "2013-10-01T00:00:00", "NCVV-PHONE BILL FOR 9/1-9/30/13 CUST. #3212385", "At&t Communications Of Ca Inc", "Operations", "Utilities", "1.67" ]
+, [ 405, "F4092BA3-25F7-4C0F-85E1-986DA2AF0503", 405, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471051", "Van Nuys", "2013-08-05T00:00:00", "W/C MANQIN 9781490-VNNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "164.99" ]
+, [ 406, "B7E5D4A7-1855-46FD-98E0-54C77EAA9CB1", 406, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471051", "Van Nuys", "2013-08-30T00:00:00", "W/C MANQIN 9781490-VNNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "991.28" ]
+, [ 407, "B78FCEAE-1A8E-46BD-BB2C-212B1979CCE3", 407, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471015", "Venice", "2013-08-05T00:00:00", "W/C MANQIN 9781490-VNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "276.31" ]
+, [ 408, "C19AD4CC-43E2-4F12-BA05-A06179E80FCC", 408, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471015", "Venice", "2013-08-23T00:00:00", "VNC-Temporary StaffP SERVICES-W/E 7/6/13 & 7/20/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "295.5" ]
+, [ 409, "BFBDBB00-16E1-4F23-BA5A-01109F8C9CBA", 409, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471015", "Venice", "2013-08-30T00:00:00", "W/C MANQIN 9781490-VNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "3324.24" ]
+, [ 410, "3781BDBD-54CB-4743-926A-A2955277444C", 410, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471109", "Voices of 90037", "2013-08-07T00:00:00", "V90037-STRAGETIC VIOLENCE REDUCTION PROGRAM 06/30/2013", "Office Suppliesice Of The Mayor", "Community Improvement Projects", "Community Service", "5000" ]
+, [ 411, "D1E5C090-37A7-4BF0-A4BD-F3E3CD62858F", 411, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471109", "Voices of 90037", "2013-08-07T00:00:00", "V90037-CameronEugeneJacksonsLibrary-08/02/13", "Cameron Eugene Jackson Children's Library", "Neighborhood Purpose Grants", "Non Profit", "5000" ]
+, [ 412, "07CB9464-C4F2-47F9-A995-31BFA77A2455", 412, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471109", "Voices of 90037", "2013-08-26T00:00:00", "V9037-NPG-GAND PREventsNTION & EARLY INTER-LAPD 77TH JEOPARDY", "California Community Foundation/c", "Neighborhood Purpose Grants", "Non Profit", "2000" ]
+, [ 413, "9E4506A2-11B2-407E-9162-F4E135E0E583", 413, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471109", "Voices of 90037", "2013-07-03T00:00:00", "V90037-LEASE- 4060 S FIGUEROA ST, LA- INV# VOICES-2013-14", "Los Angelectionss Community Reinvestment Committee /c", "Operations", "Facilities", "2800" ]
+, [ 414, "6F0937FF-A8F8-4FB6-A595-B43202E3DAB8", 414, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471109", "Voices of 90037", "2013-08-07T00:00:00", "V90037-STACIEventsRNon Profit-07/08/13", "Stacie Vernon Profit", "Operations", "Office Supplies", "9.86" ]
+, [ 415, "C23AB118-2B26-4CFB-8D35-544C73BDD756", 415, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471109", "Voices of 90037", "2013-08-30T00:00:00", "W/C MANQIN 9781490-V90037-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "369.38" ]
+, [ 416, "CAFFC137-3F7B-4FC9-8F7A-3085AA658366", 416, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471109", "Voices of 90037", "2013-07-02T00:00:00", "GSD - NC INV#80498 09/28/2012", "Department Of General Services", "Outreach", "Printing", "658.48" ]
+, [ 417, "0F34CA91-9561-400B-B8B0-531CB6FC1A39", 417, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471068", "Watts", "2013-07-26T00:00:00", "WATNC-PHONE BILL 6/13-7/12/13-ACCT #3235640260678", "At&t Communications Of Ca Inc", "Operations", "Utilities", "105.2" ]
+, [ 418, "FA1070D0-BCC3-4E4A-A4BA-8A2598D2D9E7", 418, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471068", "Watts", "2013-09-03T00:00:00", "WATNC-PHONE SERV. 7/13-8/12/13- ACCT# 3235640260678", "At&t Communications Of Ca Inc", "Operations", "Utilities", "97.26" ]
+, [ 419, "9769F8B1-9514-4D36-9EB1-A41DAAFFBD5D", 419, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471009", "West Adams", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WANC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "80" ]
+, [ 420, "4E198A84-4981-43F0-8E31-460FAC5909F0", 420, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471009", "West Adams", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WANC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "435.44" ]
+, [ 421, "7941A650-348D-4732-949A-F46D143C9B59", 421, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471007", "West Hills", "2013-07-11T00:00:00", "WHNC-ADM-M.RITCHIE-06/01/2013-06/29/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1987.45" ]
+, [ 422, "80415DB4-C5DA-45C0-81B9-F99FF21F503F", 422, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471007", "West Hills", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WHNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "-5.63" ]
+, [ 423, "7F7B626C-BDCD-4B73-B691-ACDD2C78BFB9", 423, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471007", "West Hills", "2013-08-23T00:00:00", "WHNC-Temporary StaffP SERVICES-W/E 7/6/13-7/27/13-M. RITCHIE", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1589.96" ]
+, [ 424, "428A9769-63A9-45A2-9970-5DB034572EAB", 424, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471007", "West Hills", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WHNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "36.13" ]
+, [ 425, "77FD945C-B50B-4441-B692-ECDBFCEB8849", 425, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471092", "West Los Angeles ", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WLANC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "70" ]
+, [ 426, "BE1DEFF3-B1C2-44CA-AAB0-5DAB53888EF4", 426, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471092", "West Los Angeles ", "2013-08-27T00:00:00", "WLANC-Temporary StaffP SERVICES-W/E 7/6/13 & 7/13/13-M ROBINSON", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "145.07" ]
+, [ 427, "C120F607-271E-4DB1-9F4B-E684EBB37DC6", 427, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471092", "West Los Angeles ", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WLANC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "235" ]
+, [ 428, "D5E01D32-7F8C-45B6-93B9-2BA4F3B14E0B", 428, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471092", "West Los Angeles ", "2013-07-16T00:00:00", "WLANC-Community Concerts and Movies - CO122424", "Daniel Meyer", "Outreach", "Events", "1542" ]
+, [ 429, "8D0CC0B4-E1EF-403C-9E8F-D7949634E2CE", 429, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471092", "West Los Angeles ", "2013-07-31T00:00:00", "WLANC-Community Concerts and Movies -7/30/13", "Daniel Meyer", "Outreach", "Events", "11562.5" ]
+, [ 430, "94EEECB3-8A9A-4939-9AD8-635E185918EE", 430, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471092", "West Los Angeles ", "2013-08-29T00:00:00", "WLANC-Summer Outdoor movies and concerts, 7/1/13-6/24/14", "Daniel Meyer", "Outreach", "Events", "6937.5" ]
+, [ 431, "ED788C4B-7339-4B77-8660-D805A36E755C", 431, 1383870770, "849676", 1383870770, "849676", "{\n}", "2013", "471005", "Westchester-Playa", "2013-08-07T00:00:00", "NCWPP-MK OVER FOREDUC. MATERIALS TOYS AND CLEANING EQUIPMENT 05/03/2013 - 05/06/2013", "Department Of Recreation And Parks", "Community Improvement Projects", "Community Service", "4967.33" ]
+, [ 432, "E136F70B-BE26-4EB2-8704-67727E88C0D5", 432, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471005", "Westchester-Playa", "2013-08-05T00:00:00", "W/C MANQIN 9781490-NCWP-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "30" ]
+, [ 433, "6D735F7A-0F7B-49E0-8AAD-BA333BCFA1E4", 433, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471005", "Westchester-Playa", "2013-08-30T00:00:00", "W/C MANQIN 9781490-NCWP-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "33.25" ]
+, [ 434, "C169DB98-28D0-46B5-936B-1B974506AD9B", 434, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471005", "Westchester-Playa", "2013-08-26T00:00:00", "NCWP-NEWS LETTER FOR JULY 2013", "Stephanie E Davis", "Outreach", "Advertisements (outreach)", "875" ]
+, [ 435, "892C995D-F1C1-41C4-A009-A898B7B34C24", 435, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471005", "Westchester-Playa", "2013-08-26T00:00:00", "NCWP-NEWS LETTER FOR AUGUST 2013", "Stephanie E Davis", "Outreach", "Advertisements (outreach)", "875" ]
+, [ 436, "2C0B181D-7BD0-46FD-BEBF-45CAC04CA8C4", 436, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471114", "Westlake North", "2013-07-11T00:00:00", "Continental Interpreting-WLKNNC-05/09/2013", "Continental Interpreting Services Inc", "Operations", "Meeting", "275" ]
+, [ 437, "16E1BEDD-6C50-481C-9251-B91661C60799", 437, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471114", "Westlake North", "2013-07-15T00:00:00", "WLKNNC-WK-11/27/12-11/24/12-D. HURTemporary Administrative StaffO-ADM-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "642.62" ]
+, [ 438, "93782B13-CCF9-4372-936D-72B97D18EDAD", 438, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471114", "Westlake North", "2013-07-15T00:00:00", "WLKNNC-WK-10/27/12-D. HURTemporary Administrative StaffO-ADM-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "249.9" ]
+, [ 439, "4CEFC30A-C70F-4A33-8E5E-085F56CA1D1C", 439, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471114", "Westlake North", "2013-07-22T00:00:00", "WLNNC-TRANSLATION FOR MTG 6/13/13", "Continental Interpreting Services Inc", "Operations", "Translations", "275" ]
+, [ 440, "6362041C-8623-463F-9650-BEB13FD379F5", 440, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471114", "Westlake North", "2013-08-26T00:00:00", "WLNC-AppleOne-Temporary StaffP-ADM-D.HURTemporary Administrative StaffO-W/E-10/24/12", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Staff", "214.2" ]
+, [ 441, "014679BF-3F6E-42B4-9AE2-EC2E1959198F", 441, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471114", "Westlake North", "2013-10-01T00:00:00", "WLKNNC-TRANS. FOR MTG ON 9/12/13", "Axiom Translations Llc", "Operations", "Translations", "325" ]
+, [ 442, "5BA415E0-FB44-4B4B-97DA-1547F3E8E299", 442, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471115", "Westlake South", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WLKSNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "226.76" ]
+, [ 443, "1CB07685-F89D-4AB4-B972-8068E5BD1904", 443, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471115", "Westlake South", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WLKSNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "484.81" ]
+, [ 444, "88C1402F-DFE5-49E7-B774-AD9003285DDC", 444, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471008", "Westside", "2013-07-10T00:00:00", "W/C MANQIN 9781490-WSNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "41.57" ]
+, [ 445, "861B30C3-DFAB-4BEF-BE26-CA0FA8374CE7", 445, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471008", "Westside", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WSNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "38.16" ]
+, [ 446, "104BA264-4FE5-4262-A56F-3999DAF476AC", 446, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471008", "Westside", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WSNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "38.1" ]
+, [ 447, "F5355AC5-EC4B-4D50-8900-0638B24F9C40", 447, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471008", "Westside", "2013-08-23T00:00:00", "WSNC-TerriTippit-07/21/13", "Tippit, Terri", "Outreach", "Advertisements (outreach)", "305.19" ]
+, [ 448, "55EDA7CD-7255-4021-901B-38BEF1E3D948", 448, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471110", "Westwood", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WWNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "33.78" ]
+, [ 449, "F5DAAC8A-04DC-4C60-9911-D50FDBA7A392", 449, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471110", "Westwood", "2013-08-26T00:00:00", "WWNC-AppleOne-Temporary StaffP-ADM-D.WAGGER-W/E-07/13/13", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Staff", "63.53" ]
+, [ 450, "B14A225B-7E01-467F-833C-30B0DAE7C011", 450, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471110", "Westwood", "2013-08-29T00:00:00", "WWNC- Website MAINTENANCE FOR 7/20/13-7/20/14", "Media81 Group Inc", "Operations", "Website", "1200" ]
+, [ 451, "1BD2797A-84E9-44FD-A1CF-C85CAC418A93", 451, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471110", "Westwood", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WWNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "78.14" ]
+, [ 452, "C505A41B-0901-4353-9B54-2949FA4CF11F", 452, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471110", "Westwood", "2013-09-17T00:00:00", "WWNC-LisaChapman-8/14/13", "Chapman, Lisa", "Operations", "Facilities", "75" ]
+, [ 453, "A285655A-D0DE-4429-B212-7F65939E8BF0", 453, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-07-11T00:00:00", "WLMNC-ADM-S. AVILA-06/01/13-06/29/13-CUST#00950101", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1329.3" ]
+, [ 454, "2E01B014-A2CC-4A5D-958E-DFA999812BA5", 454, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-07-25T00:00:00", "WLMNC-TRANSLATION FOR MTG 6/26/13", "Paragon Language Services, Inc.", "Operations", "Translations", "310" ]
+, [ 455, "12628E1C-2971-435B-AE93-183E51FE7491", 455, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-07-30T00:00:00", "WLMNC-AT&T-07/13/13", "At&t Communications Of Ca Inc", "Operations", "Office Supplies", "96.15" ]
+, [ 456, "F2C564F3-99E2-4B83-B2DC-B846DD6F0287", 456, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-08-07T00:00:00", "WLMNC-TRANSLATION FOR MTG ON 7/24/13", "Paragon Language Services, Inc.", "Operations", "Translations", "310" ]
+, [ 457, "7027DC91-054C-493E-B7AF-FD688DF6D244", 457, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-08-23T00:00:00", "WLMNC-Temporary StaffP SERV.-W/E 7/6/13-7/27/13- S.AVILA", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Administrative Staff", "1007.33" ]
+, [ 458, "F99CB5B1-60DC-474E-B825-A3D613B23189", 458, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-08-26T00:00:00", "WLMNC-AppleOne-Temporary StaffP-ADM-S.AVILA-W/E-10/27/12", "Howroyd Wright Employment Agency Inc (apple One)", "Operations", "Temporary Staff", "86.63" ]
+, [ 459, "BF7E06F6-5289-4AAD-93F4-FCACEC3A7A37", 459, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-09-03T00:00:00", "WLMNC-PHONE SERV. 7/13-8/12/13- ACCT# 3105222013107", "At&t Communications Of Ca Inc", "Operations", "Utilities", "97.03" ]
+, [ 460, "74F08DB9-165B-4BEF-9209-26E97050F4D9", 460, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471001", "Wilmington", "2013-10-01T00:00:00", "WLMNC-TRANSLATION FOR MTG ON 8/28/13", "Paragon Language Services, Inc.", "Operations", "Translations", "310" ]
+, [ 461, "A5678B75-ACAD-4BFE-B181-EAA4567B7300", 461, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471088", "Winnetka", "2013-07-10T00:00:00", "W/C MANQIN 9781490-WINNC-US BANK PYMT CYCLE 05/22/13 - 06/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "257.25" ]
+, [ 462, "1991A5D9-F1AB-4D48-8884-823B6037179A", 462, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471023", "Woodland Hills-Warner Center", "2013-08-05T00:00:00", "W/C MANQIN 9781490-WHWCNC-US BANK PYMT CYCLE 06/22/13 - 07/22/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "440.03" ]
+, [ 463, "99D4B87B-1D0E-4FE9-B455-F7672FBFCB72", 463, 1383870770, "849676", 1383870770, "849676", "{\n}", "2014", "471023", "Woodland Hills-Warner Center", "2013-08-30T00:00:00", "W/C MANQIN 9781490-WHWCNC-US BANK PYMT CYCLE 07/23/13 - 08/21/13", "Treasury-city Of Los Angelectionss (us Bank)", "Operations", "P-Card Purchases", "3101.52" ]
+ ]
+}
