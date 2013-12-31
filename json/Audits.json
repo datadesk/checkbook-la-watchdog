@@ -9,21 +9,20 @@
       "description" : "Audits Released by the City Controller, 1999-Present",
       "displayType" : "table",
       "downloadCount" : 197,
-      "indexUpdatedAt" : 1386661419,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6000551,
+      "oid" : 6992158,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1386638388,
+      "publicationDate" : 1388446929,
       "publicationGroup" : 1231486,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1386638325,
-      "rowsUpdatedBy" : "mnkj-bu52",
+      "rowsUpdatedAt" : 1388446916,
+      "rowsUpdatedBy" : "vcvp-yass",
       "signed" : false,
-      "tableId" : 1266728,
+      "tableId" : 1420248,
       "totalTimesRated" : 0,
       "viewCount" : 55,
-      "viewLastModified" : 1386638389,
+      "viewLastModified" : 1388446929,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -98,7 +97,7 @@
         "format" : {
         }
       }, {
-        "id" : 108262708,
+        "id" : 125967392,
         "name" : "1",
         "dataTypeName" : "number",
         "fieldName" : "_1",
@@ -106,28 +105,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 15037349,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "2",
-          "sum" : "69750",
-          "null" : 0,
-          "average" : "187.5",
-          "largest" : "373",
-          "top" : [ {
-            "count" : 20,
-            "item" : "371"
-          }, {
-            "count" : 19,
-            "item" : "372"
-          }, {
-            "count" : 18,
-            "item" : "373"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262709,
+        "id" : 125967393,
         "name" : "Audit Name",
         "dataTypeName" : "text",
         "fieldName" : "audit_name",
@@ -135,26 +116,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037350,
         "width" : 220,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "2008 Industrial, Economic and Administrative (IEA) Survey of LAWA",
-          "null" : 0,
-          "largest" : "Water & Power-Duplicate Payment to a Contractor",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Bureau of Sanitation-Survey of Purchasing & Inventory Activities"
-          }, {
-            "count" : 19,
-            "item" : "Los Angeles Police Department-Peace Officers Standards & Training (Post) Program"
-          }, {
-            "count" : 18,
-            "item" : "Bureau of Engineering-Administration of Police Facilities Bond Projects"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262711,
+        "id" : 125967395,
         "name" : "Date Text",
         "dataTypeName" : "text",
         "fieldName" : "date_text",
@@ -162,77 +127,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037352,
         "width" : 96,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "01-Jul-2010",
-          "null" : 0,
-          "largest" : " 8/10/2010",
-          "top" : [ {
-            "count" : 20,
-            "item" : "30-Jul-2002"
-          }, {
-            "count" : 19,
-            "item" : "26-Sep-2001"
-          }, {
-            "count" : 18,
-            "item" : "10-May-2001"
-          }, {
-            "count" : 17,
-            "item" : "03-Nov-2000"
-          }, {
-            "count" : 16,
-            "item" : "18-Aug-2000"
-          }, {
-            "count" : 15,
-            "item" : "08-Aug-2000"
-          }, {
-            "count" : 14,
-            "item" : "04-Aug-2000"
-          }, {
-            "count" : 13,
-            "item" : "14-Jul-2000"
-          }, {
-            "count" : 12,
-            "item" : "05-Jun-2000"
-          }, {
-            "count" : 11,
-            "item" : "25-May-2000"
-          }, {
-            "count" : 10,
-            "item" : "25-Apr-2000"
-          }, {
-            "count" : 9,
-            "item" : "31-Mar-2000"
-          }, {
-            "count" : 8,
-            "item" : "21-Mar-2000"
-          }, {
-            "count" : 7,
-            "item" : "16-Feb-2000"
-          }, {
-            "count" : 6,
-            "item" : "14-Feb-2000"
-          }, {
-            "count" : 5,
-            "item" : "13-Jan-2000"
-          }, {
-            "count" : 4,
-            "item" : "13-Dec-1999"
-          }, {
-            "count" : 3,
-            "item" : "10-Dec-1999"
-          }, {
-            "count" : 2,
-            "item" : "30-Nov-1999"
-          }, {
-            "count" : 1,
-            "item" : "12-Nov-1999"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262712,
+        "id" : 125967411,
         "name" : "Department",
         "dataTypeName" : "text",
         "fieldName" : "department",
@@ -240,77 +138,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037353,
         "width" : 220,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "Aging",
-          "null" : 0,
-          "largest" : "Zoo",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Police"
-          }, {
-            "count" : 19,
-            "item" : "Airport"
-          }, {
-            "count" : 18,
-            "item" : "Building and Safety"
-          }, {
-            "count" : 17,
-            "item" : "Finance"
-          }, {
-            "count" : 16,
-            "item" : "Housing"
-          }, {
-            "count" : 15,
-            "item" : "General Services"
-          }, {
-            "count" : 14,
-            "item" : "Non-Departmental"
-          }, {
-            "count" : 13,
-            "item" : "Convention Center"
-          }, {
-            "count" : 12,
-            "item" : "Transportation"
-          }, {
-            "count" : 11,
-            "item" : "Water and Power"
-          }, {
-            "count" : 10,
-            "item" : "Recreation and Parks"
-          }, {
-            "count" : 9,
-            "item" : "Animal Services"
-          }, {
-            "count" : 8,
-            "item" : "Public Works"
-          }, {
-            "count" : 7,
-            "item" : "Harbor"
-          }, {
-            "count" : 6,
-            "item" : "Fire"
-          }, {
-            "count" : 5,
-            "item" : "Community Redevelopment"
-          }, {
-            "count" : 4,
-            "item" : "Community Development"
-          }, {
-            "count" : 3,
-            "item" : "El Pueblo"
-          }, {
-            "count" : 2,
-            "item" : "Zoo"
-          }, {
-            "count" : 1,
-            "item" : "Cultural Affairs"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262713,
+        "id" : 125967412,
         "name" : "Audit Type",
         "dataTypeName" : "text",
         "fieldName" : "audit_type",
@@ -318,35 +149,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037354,
         "width" : 220,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "Contract",
-          "null" : 0,
-          "largest" : "Special Analysis & Reviews",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Financial & Compliance"
-          }, {
-            "count" : 19,
-            "item" : "Performance"
-          }, {
-            "count" : 18,
-            "item" : "Fraud, Waste & Abuse"
-          }, {
-            "count" : 17,
-            "item" : "Special Analysis & Reviews"
-          }, {
-            "count" : 16,
-            "item" : "Contract"
-          }, {
-            "count" : 15,
-            "item" : "Financial\nPerformance"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262714,
+        "id" : 125967413,
         "name" : "Description",
         "dataTypeName" : "text",
         "fieldName" : "description",
@@ -354,77 +160,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037355,
         "width" : 232,
-        "cachedContents" : {
-          "non_null" : 24,
-          "smallest" : "\"The Los Angeles City Controller engaged Sjoberg Evashenk Consulting (SEC) to conduct a performance audit to evaluate the efficiency and effectiveness of the Treasurer’s investment activities. Under City Charter, the Treasurer of the City of Los Angeles is the chief administrative officer of the City Treasury and custodian of record for more than $7 billion in City funds. In 2011, the Treasurer’s Office was moved under the Director of Finance, who holds both titles. As a part of our review, we assessed the City’s investment program performance in terms of maximizing returns while complying with provisions of the Government Code, and evaluated the benchmarks and measurement practices employed and the manner and method of reporting the results. We also reviewed the City’s cash flow forecasting methods and use of information systems as well as the City’s organizational structure, access to external experts, and utilization of oversight and control processes. Overall, we found that the City’s investment activities reflect positive returns and its investing processes were reasonable and complete.\n\n\"The City manages two portfolios, the Core and Reserve Portfolios.  The results of our analyses reveal that the Core Portfolio outperformed its chosen benchmark in each of the four periods (calendar and fiscal years, 2011 and 2012) that we reviewed. The Reserve Portfolio slightly outperformed its benchmark for three of the four periods analyzed. Additionally, we noted that the benchmark indices the City uses for comparative purposes are similar to those used by a number of other peer municipalities.\"",
-          "null" : 348,
-          "largest" : "We reviewed two Wells Fargo Bank accounts used to fund expenditures related to the operation and maintenance of two City-owned properties under the management of CB Richard Ellis (CBRE). As of August 31, 2012, the bank balances were $354,351 and $792,925 for the Public Works and Figueroa Plaza building maintenance accounts, respectively.\n\nThe purpose of our review was to evaluate internal controls over GSD's bank accounts and to determine whether GSD used the funds in accordance with their authorized purposes.\n\nThe bank accounts were used in accordance with their authorized purposes; specifically, for the Property Manager (CBRE) to process vendor payments related to the operations and maintenance of the two City-owned properties, subject to the review, approval and signature by GSD.\n\nWhile all check disbursements were supported, we noted minor observations related to GSD's documentary review requirements. However, we question the necessity of GSD maintaining these bank accounts, as the processes for detailed payment review are duplicated between CBRE and GSD. The agreement with CBRE requires they maintain separate and sufficient accounting records to support all disbursements; this function is supported through their monthly management fee. In addition, CBRE is required to manage expenditures within an established budget that has been approved by GSD, and expenditures over a certain dollar limit require GSD's prior written approval.\n\nTo streamline City operations while ensuring appropriate oversight and control of the property management function for these buildings, we recommend that GSD execute a new contract(s) for property management services that simplifies payment processing and eliminates the need for these City bank accounts that are outside the control of the Treasurer's Office. Under the terms of a new contract, CBRE could continue to receive a monthly management fee and be reimbursed for other direct expenditures, in accordance with an established budget.",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Results of Surprise Cash Counts and a Review of a Petty Cash Fund Bank Account at the Los Angeles Zoo.\n\nOn March 21, 2013, the Controller's Office conducted surprise cash counts at the Los Angeles Zoo (Zoo) to ensure that collections and authorized change funds are accounted for properly and that adequate controls exist for these funds. We also reviewed an $800 petty cash fund maintained by the Zoo in a Wells Fargo bank account.\n\nWe counted a total of $25,134.89, comprised of change funds of $18,127.46, daily collections of $6,495, and petty cash funds of $512.43. The Zoo also currently has $16,872.54 in a City bank account, which they can readily access to obtain additional change fund monies. In total, the Zoo has $35,000 ($18,127.46 + $16,872.54) available to use to make change. Overall, we found that the collections, change funds and petty cash funds were accounted for.  Although we found no overages or shortages, we identified some issues that require attention, as described in the Observations Section of this report."
-          }, {
-            "count" : 19,
-            "item" : "\"The Los Angeles City Controller engaged Sjoberg Evashenk Consulting (SEC) to conduct a performance audit to evaluate the efficiency and effectiveness of the Treasurer’s investment activities. Under City Charter, the Treasurer of the City of Los Angeles is the chief administrative officer of the City Treasury and custodian of record for more than $7 billion in City funds. In 2011, the Treasurer’s Office was moved under the Director of Finance, who holds both titles. As a part of our review, we assessed the City’s investment program performance in terms of maximizing returns while complying with provisions of the Government Code, and evaluated the benchmarks and measurement practices employed and the manner and method of reporting the results. We also reviewed the City’s cash flow forecasting methods and use of information systems as well as the City’s organizational structure, access to external experts, and utilization of oversight and control processes. Overall, we found that the City’s investment activities reflect positive returns and its investing processes were reasonable and complete.\n\n\"The City manages two portfolios, the Core and Reserve Portfolios.  The results of our analyses reveal that the Core Portfolio outperformed its chosen benchmark in each of the four periods (calendar and fiscal years, 2011 and 2012) that we reviewed. The Reserve Portfolio slightly outperformed its benchmark for three of the four periods analyzed. Additionally, we noted that the benchmark indices the City uses for comparative purposes are similar to those used by a number of other peer municipalities.\""
-          }, {
-            "count" : 18,
-            "item" : "The objectives of the audit were to determine the effectiveness of current management controls over seized and forfeited assets, including both cash and property, and to ensure LAPD has adequate control processes to comply with State and federal laws relating to the disposition of these assets. State and federal laws require the confiscation and forfeiture of all contraband— property that is illegal to possess per se. Other laws authorize the seizure and forfeiture of private property that is used in an extensive array of crimes. Therefore, LAPD may seize real and personal property that is used in a crime, and after a legal forfeiture process, may use the proceeds or the property itself to enhance law enforcement activities.\n\nCrimes for which LAPD dedicates staff resources towards pursuing asset forfeitures include only those that involve illegal drugs or money laundering, through the designated activities of personnel assigned to the Asset Forfeiture Investigative Detail of the Gangs and Narcotics Division. LAPD works independently or with other local, State, or federal authorities to file forfeiture cases—nearly all of which involve seizures of cash—with the Los Angeles County District Attorney or with the U.S. Attorney.\n\nDuring 2012 LAPD’s Asset Forfeiture Investigative Detail (AFID) reported the initiation of more than 500 forfeiture cases involving nearly $21 million in cash. Federal guides describe how LAPD may participate in federal asset forfeiture cases and qualify to receive as much as an 80% “equitable share” of the forfeited assets. Asset forfeitures resulting from violations of State law result in LAPD receiving a 65% share of forfeited assets. While AFID initiates asset forfeiture cases, accounting for the financial proceeds of asset forfeitures is the task of LAPD’s Fiscal Operations Division (FOD). Together, AFID and FOD comprise LAPD’s Asset Forfeiture Program (Program), whose activities were the focus of this audit. This performance audit was performed in accordance with generally accepted government auditing standards and covered LAPD’s asset seizure and forfeiture activities during 2011 and 2012. Audit fieldwork was conducted between October 2012 and March 2013."
-          }, {
-            "count" : 17,
-            "item" : "The Controller's Fraud, Waste and Abuse Unit conducted a limited investigation of LAPD's failure to adhere to payroll policies on two separate occasions. The investigation originated from two complaints reported to the Controller's Fraud Hotline, each alleging payroll breaches. One complaint reported the six-month long usage and approval of sick leave and family medical leave benefits for a sworn LAPD employee without having medical necessity. The complainant alleged that the employee was living out-of-state and seeking new employment during the six-month period. A second complaint reported that a non-sworn LAPD employee consistently works during the day while receiving a night-shift bonus payment.\n\nOur review found that a lack of LAPD. supervisory adherence to payroll policies and procedures led to two separate MOU breaches resulting in payroll overpayments to LAPD employees. A now former LAPD employee received $41,243 in sick leave and family medical leave benefits over a six-month period without providing information or documentation detailing an illness or medical necessity. During that period the individual also received holiday pay and continuation of City benefits. In addition, the now former LAPD employee was concurrently employed by an out-of-state police department while receiving City paid leave. Another LAPD employee has been receiving bonus payments for non-qualifying work. Had LAPD adequately followed payroll policies and procedures the MOU breaches and payroll overpayments could have been prevented."
-          }, {
-            "count" : 16,
-            "item" : "The City Charter requires that a management audit of LACERS be completed every five years, the broad objectives of which are to examine whether the System is operating in the most efficient and economical manner, and to evaluate the asset allocation of the System. A committee comprised of representatives of the Mayor, the City Council, and the City Controller (the “Joint Administrators”) hired P2E Consulting Group, LLC (“P2E Consulting”) to perform the management audit. P2E Consulting hired Cortex Applied Research as a key independent sub-contractor on the audit. The period covered by the management audit includes the fiscal years 2008 – 2012 (“the Review Period”).\n\nAs the plan sponsor of LACERS, the City has a strong interest in ensuring the effective administration of the System on behalf of its residents and taxpayers. This management audit is one of several mechanisms designed to allow the City to monitor LACERS. This Interim report focuses on certain priority questions identified by the Joint Administrators:\n1. Whether the administration of LACERS resulted in minimizing City contributions? (RFP Objectives 2, 4A, 4B, and 12E)\n2. Whether LACERS had adequately evaluated the ongoing costs and benefits associated with participation in actively managed funds as compared to passively managed funds? (RFP Objective 8)\n3. Whether investment manager performance was adequately reviewed and monitored? (RFP Objectives 6D and 6E)\nThe above priority questions represent only a few of the objectives included in the scope of the audit . The remaining objectives will be addressed in our final report, as well as a review of the status of t he recommendations from the prior Management Audit. Appendix A lists the expected content of the final report."
-          }, {
-            "count" : 15,
-            "item" : "LAFPP administers the defined benefit retirement plan for almost 26,000 City of Los Angeles sworn employees, including police, fire, and certain port police. The LAFPP Board of Administration oversees a diversified investment portfolio holding assets exceeding $14 billion as of June 30, 2012. LAFPP has a staff of over 100 employees, with an administrative expense budget of nearly $17 million. This Management Audit is to analyze LAFPP’s administrative and investment policies, procedures and practices in order to provide information related to the objectives described above."
-          }, {
-            "count" : 14,
-            "item" : "The Controller’s Office has completed an audit of the Business Improvement District (BID) Trust Fund (Fund #659). The objectives of the audit were to determine if transactions were made in accordance with the specific purposes allowed by applicable policies, laws, regulations, and ordinances and to evaluate the adequacy of internal controls over the financial management of the Fund. We also assessed whether BIDs are being charged proper amounts required under their contracts and whether the City is recovering its costs for supporting the BIDs. Background: A BID is a geographically defined area in which businesses or property owners have requested that the City assess them an additional fee, to pay for services designed to improve the business climate of the area. Specific goals of a BID may include increasing pedestrian traffic for businesses, improving the economic vitality of commercial areas, and improving the safety of individual assessed parcels. The level and types of services to achieve these goals are determined by the BID. "
-          }, {
-            "count" : 13,
-            "item" : "The primary objective of this audit was to assess LAWA’s management controls over the assignment, usage, and monitoring of fleet vehicles assigned to Central Pools and LAWA Divisions, as well as those assigned to specific individuals with authorization for home-garaging. We also evaluated the Department’s fleet management practices to identify opportunities to improvement. LAWA maintains a fleet of over 1,400 items including cars, trucks, motorcycles, and heavy equipment. This audit focused on light duty sedans, trucks, vans, and motorcycles that are maintained by LAWA, as categorized below: No. of Vehicles Home-Garaged Vehicles 84, Central Pool Vehicles 81, Vehicles Assigned to Divisions 651, Vehicles Assigned to Airport Police 213, Total 1,029.\n\nWe focused our review on LAWA’s passenger vehicles (e.g., light duty sedans, trucks and vans) that are being used to perform critical functions and support services in the areas of administration, airport operations, grounds and facility maintenance, engineering and construction, and security and law enforcement.\n\nThis performance audit included the current control structure and processes used to manage LAWA’s vehicle fleet, and sample transactions and activities from July 1, 2010 to October 31, 2012. Audit fieldwork was conducted between October 2012 and January 2013.\nSUMMARY OF AUDIT RESULTS Over the last two years LAWA has purchased light-duty vehicles totaling more than $2 million. Additional costs are incurred for maintenance and fuel for the vehicle fleet.\n\nOverall, our audit found that there is inadequate centralized accountability or control over the vehicles that are assigned to staff with authority for home-garaging and those allocated to LAWA Divisions and other pools. We noted that the inventory information produced by the fleet system was inaccurate, and LAWA has no utilization standard or process to evaluate the need for or best use of its existing vehicles. Divisional pool vehicles are routinely assigned to individuals, limiting their effective use by other staff, and some employees who use their personal vehicle due to a shortage of available pool cars have been paid excessive mileage reimbursements. In addition, there is inadequate control over the vehicle replacement process. LAWA should take immediate action to improve controls over its vehicle fleet, as well as maximize the usage of those assets and reduce overall costs."
-          }, {
-            "count" : 12,
-            "item" : "The Los Angeles World Airports (LAWA or the Department) is a proprietary, self-supporting City of Los Angeles department that owns and operates the Airport System, consisting of three FAA-certified airports: (Los Angeles International, LA/Ontario International, and Van Nuys) and the noncertified LA/Palmdale Regional Airport. The firm of Vasquez & Company LLP (Vasquez) was engaged by the Los Angeles City Controller’s Office to conduct a performance audit to assess the effectiveness and efficiency of LAWA’s financial operations, and identify opportunities for improvement. The audit focused on internal controls, processes, personnel and systems relevant to its core financial activities.\n\nLAWA is responsible for the physical elements of the airports it operates, which include runways, fueling facilities, passenger terminals and ground transportation facilities. From these capital assets LAWA generates revenues in the form of aircraft landing fees, lease fees, concession fees from tenants and parking fees. As a self-supporting department with no tax base, these revenues must be sufficient to fund LAWA’s operating, maintenance and capital expenses, debt service and required reserves. Annual revenues and capital grants for LAWA were approximately $1.1 billion in fiscal year 2012, while expenses were $809 million, resulting in an increase in net assets of approximately $279 million.\n\nThe primary objective of the audit was to assess the effectiveness and efficiency of LAWA’s financial operations, and identify opportunities for improvement. Our audit was performed in accordance with Generally Accepted Government Auditing Standards (GAGAS) and covered conditions, activities and processes as of June 30, 2011, with consideration given to current conditions when considered relevant to the conclusions reached.\n\nOverall we found that LAWA’s policies and procedures pertaining to core financial activities are comparable to those found in a governmental enterprise environment, and are generally up-todate and communicated to appropriate personnel. The organization structure provides for key functions and reasonable reporting relationships. Personnel interviewed possessed qualifications commensurate with their roles and demonstrated an adequate understanding of their responsibilities. Information technology is in a transitional state as new system implementations are underway, planned or recently completed. The internal control systems with respect to fiscal processes, budgeting and management were found to be designed appropriately to safeguard assets and promote adherence to BOAC and management approved policies and procedures."
-          }, {
-            "count" : 11,
-            "item" : "The audit was designed to evaluate the efficiency and effectiveness of Los Angeles World Airports’ (LAWA) processes for capital improvement projects, including construction management practices. Although LAWA owns and operates Los Angeles International Airport (LAX), LA/Ontario International Airport (ONT), and Van Nuys Airport (VNY), the audit was primarily focused on processes and practices related to the LAX capital development program due to the significant program costs – more than $3.6 billion - currently underway.\n\nThe scope of the audit included consultant, contractor, and departmental functions related to construction projects completed at LAX as of FY 2010-11 and projects currently in process.\n\nThe audit report includes seven major findings that examine LAWA’s capital development activity. Overall, the report found that, while LAWA has succeeded in building an effective capital development organization under substantial pressures, opportunities exist to enhance the transparency and accountability of the process and reduce financial risks to LAWA."
-          }, {
-            "count" : 10,
-            "item" : "The Controller's Fraud, Waste and Abuse Unit conducted an investigation of Bureau of Sanitation (BOS) expenditures relating to purchases of specialized trucks for the BOS Wastewater Collection Systems Division (WCSD) Closed Circuit Television (CCTV) inspection pilot program. The investigation originated from a complaint reported to the Controller's Office expressing concerns that CCTV trucks had been unused for several years. The complaint also included information regarding the rental of SUVs for WCSD staff in lieu of utilizing existing BOS aSSigned fleet vehicles, which was also characterized as a waste of City resources. This report provides my conclusions from investigating those complaints. The WCSD operates and maintains the City's wastewater collection system which consists of over 6,500 miles of sewers. CCTV inspections are primarily conducted to assess the condition of sewer pipes subsequent to cleaning to detect potential blockages. A 2004 legal settlement mandated BOS to conduct 600 miles of sewer inspections on an annual basis. BOS has had continuous personal services contracts for CCTV inspections of City sewer pipelines since at least 2002.\n\nOne objective of this investigation was to evaluate 80S CCTV pilot program equipment purchases, utilization and program staffing. A second objective was to review and evaluate 80S' plan to lease SUVs with maintenance contracts under a forthcoming pilot program rather than purchasing new vehicles.\n\nThis review has brought to light the need for City managers to focus on the expected full cost impact prior to initiating any pilot program. Especially in times of fiscal constraint, but always as a good business practice, management should provide adequate support and analysis that demonstrates an expected economic benefit to the City for any proposed new endeavor."
-          }, {
-            "count" : 9,
-            "item" : "The Controller's Office reviewed and conducted surprise cash counts at six locations at the Department of Building and Safety (DBS) in February and March 2013.  The purpose of these surprise cash counts was to ensure that collections and authorized Change Funds are accounted for properly and adequate controls are in place over these funds, and that Petty Cash Funds' (PCF) authorized amounts are intact and controls are in place for PCF expenditures.\n\nOverall, we found that the collections were properly accounted for and there were no shortages or overages for current activity at the DBS locations that we visited. We also did not find any exceptions on the PCF expenditures. However, our audit noted that the total authorized DBS Petty Cash Fund of $5,000 was short by $500 due to unreplenished prior loss/shortages in the Change Funds portion of the PCF. In addition, DBS did not have complete accountability/responsibility forms on file for their fund custodians."
-          }, {
-            "count" : 8,
-            "item" : "The primary objectives of the audit were to evaluate the adequacy of internal controls over the financial management of the Fund and to determine if Fund transactions were made in accordance with the specific purposes allowed by applicable policies, laws, regulations, and ordinances.\n\nFieldwork took place in March and April 2013 and covered transactions taking place between July 2009 and December 2012. In conducting our audit, we reviewed applicable policies, procedures, and administrative codes; conducted interviews with CDD management and staff; analyzed accounting data from the Financial Management Information System (FMIS) and the Financial Management System (FMS); reviewed budget data; and tested a sample of transactions recorded in the Fund.\n\nBased on our audit testwork, we have no reportable findings. For example, all transactions tested were properly supported by documentation and were in accordance with applicable policies and/or were specifically approved by City Council. As our audit focused on fiscal controls related to the Fund, our testwork of expenditures was limited to verifying that they were properly approved and that a valid contract existed (for contract payments). We did not assess the quality or quantity of services provided by contractors related to their program operations."
-          }, {
-            "count" : 7,
-            "item" : "The Controller’s Fraud, Waste & Abuse Unit (Unit) conducted an examination of the processes used to select contractors for IT-related projects by various City departments. The City’s Information Technology Agency (ITA) has established master agreements with four prequalified IT contractors to create a pool of qualified applications developers, data managers, information business process analysts, and systems/network developers to address specific IT projects as they arise. Some Departments have also executed direct contracts with these providers for IT services.\n\nThis examination was initiated from a procurement risk assessment conducted by a third party that identified Commercial Programming Services, Inc. (CPS) as requiring further review. While our analysis of CPS’ transactional detail found no issues of concern related to invoice payments, we noted that CPS has received a significantly larger proportion of total payments for IT services compared to the other pre-qualified vendors. The objective of this review was to determine if a fair and open selection process had occurred in the selections of CPS, or if there has been any inappropriate action or favoritism in awarding work to a specific vendor.\n\nBased on the total amounts paid to each IT vendor by City department, as well as total dollars spent on IT services and amounts paid to CPS, the Unit reviewed selection processes used by the Information Technology Agency (ITA), Department of Transportation (DOT), Los Angeles Police Department (LAPD), Department of Building and Safety (DBS), City Planning (Planning), Housing Department (LAHD), and Community Development Department (CDD). Overall, we found that there is no consistent method used to select IT vendors to provide project-based services. While three Departments had sufficient evidence to support they had conducted an open and fair selection, the other departments either lacked documentation to support an open process, or indicated their understanding that a direct selection of CPS was appropriate. While the Unit did not find any specific indications of fraud, without sufficient assurance of a fair and open contractor selection process, there remains a risk of favoritism or inappropriate award."
-          }, {
-            "count" : 6,
-            "item" : "The objective of the audit was to evaluate the City’s policy and process for making salary continuation payments. We also evaluated current system controls to minimize the risk of overpayments to employees. Our review was limited to non-sworn employees because State laws preclude the City from changing how sworn personnel are paid the salary continuation benefits.\n\nThe audit covered salary continuation payments made between January 1, 2007 and December 31, 2012. Fieldwork was conducted between January 2011 and March 2011, and between February 2013 and March 2013. In conducting our audit, we interviewed Personnel Department staff; reviewed applicable laws and City policies and procedures; and analyzed data residing within PaySR and LINX.\n\nWe found that the City pays a higher first year salary continuation benefit to non-sworn employees when compared to other California government agencies we surveyed. We also found that employees with the same exact salary could receive widely disparate IOD payments and that employees can easily receive more money (after income tax considerations) while on IOD, as opposed to working. We recognize that changing the current IOD policies would require negotiations with the City’s employee unions and changes to the Administrative Code. However, in light of the City’s budget situation, we believe that now is an opportune time to pursue actions, to make any necessary changes to future labor agreements, considering the significant increase in IOD payments made to employees. Total IOD payments were $12.6 million in 2009. By 2012, these payments had increased by 52% to $19.1 million. It should also be noted that the increase in IOD payments could be attributed to other factors, such as the work environment, that were not part of this review. We also found that City systems do not have adequate controls in place to minimize salary continuation overpayments to employees."
-          }, {
-            "count" : 5,
-            "item" : "The purpose of these surprise cash counts was to ensure that collections and authorized change funds are accounted for properly and adequate controls are in place over these funds, and that Petty Cash Funds' authorized amounts are intact and controls are in place for petty cash expenditures. We also reviewed the financial control procedures related to the Wells Fargo bank account used by Finance for Petty Cash purchases.\n\nOverall, we found that the collections, Change Funds and Petty Cash Funds were properly accounted for. We found no overages or shortages in the five Finance locations that we visited, nor any exceptions for the Petty Cash Fund Bank Account."
-          }, {
-            "count" : 4,
-            "item" : "The primary objective of this audit was to assess the efficiency and effectiveness of the processes for acquiring residential properties through the Neighborhood Stabilization Program (NSP), and whether the processes are adequate to ensure compliance with program requirements, as well as to maximize outcomes. The audit also reviewed related financial processes to ensure that grant funds were used efficiently and in compliance with fiscal guidelines.\n\nThe NSP was established by the U.S. Department of Housing and Urban Development (HUD) to respond to the negative impact of housing foreclosures and blight that was the result of property abandonment in neighborhoods. Through three grant allocations in 2008, 2009 and 2010, HUD awarded the City of Los Angeles a total of $142.7 million to implement the NSP in targeted communities within the City. LAHD is the administrator of NSP funds for the City, and works with the non-profit property holding and development organization, Restore Neighborhoods LA, Inc. (RNLA) to acquire and rehabilitate foreclosed homes and small multi-family properties (fewer than eight units) in targeted geographic areas. The units are subsequently sold or rented to families who meet the income requirements established by HUD. LAHD also works with affordable housing developers to acquire and rehabilitate large apartment complexes, which are categorized as Major Projects.\n\nWhile it appears that the minimum Program goals have been met, there are opportunities for improvement and the program should be enhanced to maximize effectiveness and the number of affordable housing units for City residents within the limited grant funding and timeframes.\n\nSpecifically, we noted deficiencies in the appraisal process used to acquire the foreclosed single family properties, and no maximum limit was established for single-family/small multi-family unit rehab costs, which may have limited available resources for other Program activities.\n\nInitial fiscal monitoring reviews did not always identify personal use items purchased with Program funds or that all discounts were obtained and vendors paid correctly. Lastly, the Department did not formally communicate changes to program goals in sufficient detail to stakeholders that would demonstrate the impact on planned single family purchases, compared to planned large multi-family units (i.e., apartment complexes)."
-          }, {
-            "count" : 3,
-            "item" : "We reviewed two Wells Fargo Bank accounts used to fund expenditures related to the operation and maintenance of two City-owned properties under the management of CB Richard Ellis (CBRE). As of August 31, 2012, the bank balances were $354,351 and $792,925 for the Public Works and Figueroa Plaza building maintenance accounts, respectively.\n\nThe purpose of our review was to evaluate internal controls over GSD's bank accounts and to determine whether GSD used the funds in accordance with their authorized purposes.\n\nThe bank accounts were used in accordance with their authorized purposes; specifically, for the Property Manager (CBRE) to process vendor payments related to the operations and maintenance of the two City-owned properties, subject to the review, approval and signature by GSD.\n\nWhile all check disbursements were supported, we noted minor observations related to GSD's documentary review requirements. However, we question the necessity of GSD maintaining these bank accounts, as the processes for detailed payment review are duplicated between CBRE and GSD. The agreement with CBRE requires they maintain separate and sufficient accounting records to support all disbursements; this function is supported through their monthly management fee. In addition, CBRE is required to manage expenditures within an established budget that has been approved by GSD, and expenditures over a certain dollar limit require GSD's prior written approval.\n\nTo streamline City operations while ensuring appropriate oversight and control of the property management function for these buildings, we recommend that GSD execute a new contract(s) for property management services that simplifies payment processing and eliminates the need for these City bank accounts that are outside the control of the Treasurer's Office. Under the terms of a new contract, CBRE could continue to receive a monthly management fee and be reimbursed for other direct expenditures, in accordance with an established budget."
-          }, {
-            "count" : 2,
-            "item" : "The primary objectives of the audit were to determine if transactions were made in accordance with the specific purposes allowed by applicable policies, laws, regulations, and ordinances and to evaluate the adequacy of internal controls over the financial management of the Fund.\n\nOn June 26, 2003, City ordinance #175327 created the Attorney Conflicts Panel Special Fund. The establishment of the Fund was based upon a continuous need to hire outside counsel to handle conflict of interest matters which preclude the City Attorney's Office from handling. The nature of a conflict varies, and conflict matters range from partial to fully conflicted assignments and include potential conflicts, as determined by the City Attorney's Office.\n\nIn August 2003, the Office of the Controller established Fund #46T (Fund), the Attorney Conflicts Panel Special Fund, to account for monies received from the General Fund and for payments made to outside law firms under contract to perform specified legal services. The City Administrative Officer (CAO) manages the Fund. Fiscal Year (FY) 2012 revenues and expenses were $1,567,000 and $1,018,528, respectively. As of November 30, 2012 the Fund had a cash balance of $9.9 million. However, as of November 30, 2012, the CAO had not yet transferred any of the $1,964,450 FY 2013 adopted budgeted amount from the General Fund to Fund #46T.\n\nOur audit covered expenses made between July 2009 and June 2012. However, for purposes of analyzing overall expenses, sources of funds, and the management of the Fund, our audit period extended back to Fiscal Year 2004."
-          }, {
-            "count" : 1,
-            "item" : "We have examined the proposals of HNTB Corporation and its subcontractors: Earth Mechanics, Inc., MGE Engineering, Inc., V&A Architects and Michael Maltzan, Inc. to provide design and support services relating to the City of Los Angeles’ Sixth Street Viaduct Replacement Project. The objectives of the examination were to (i) assess the reasonableness of the proposed costs, (ii) determine the adequacy of the accounting system in accumulating costs under the proposed contract, (iii) evaluate the financial capability of HNTB and the 4 major subcontractors listed above.\n\nBased on our examination, we found that:\n\n• Costs proposed by HNTB were higher by $2,049,762 than the audit recommended costs. We recommend that the City of Los Angeles Bureau of Engineering (“BOE”) utilize the audited costs in its negotiations with HNTB.\n\nAs discussed in this report, our examination was limited to verification of proposed labor rates, overhead rates, mark-ups and unit costs used for other direct expense items. We did not verify the reasonableness of the proposed hours, mileages, number of copies or similar units of measurement utilized in the proposals. These were utilized in the examination merely to compare the total proposed, audited and recommended costs.\n\n• Documentation supporting the cost proposal was not adequate to determine whether the proposed overhead rates can be sustained by HNTB or its 4 major subcontractors for the 6- year period of contract performance. The City of Los Angeles risks overpaying on the contract if HNTB and its subcontractors’ actual overhead rates become lower during the period of contract performance. We recommend that the BOE consider utilizing a Cost-plus fixed-fee contract with a not-to-exceed amount for this project. In addition, we recommend that BOE consider capping the indirect expense rate to protect the City from unexpected increases in overhead rates.\n\n• Based on our evaluation, we found that HNTB and its 4 major subcontractors accounting and billing systems were adequate to identify, account for, record, and accumulate costs in proper costs pools.\n\n• Based on our analysis of key ratios, we found that HNTB and its 4 majors subcontractors are financially capable to perform on the proposed contract. Our evaluation of financial capability was based solely on the review of the most recent financial statements and not on financial projections. Therefore, certain events may occur during the performance of this 6-year project that might impact the key financial ratios of HNTB or its 4 major subcontractors. BACKGROUND\n\nThe Sixth Street Viaduct Replacement Project (“Project”) of the City of Los Angeles will replace the existing viaduct which was constructed in 1932. In April 2012, the City of Los Angeles BOE issued a Request for Qualifications to begin the process of selecting a design consultant for the Project. In October 2012, the BOE announced the selection of HNTB as the design consultant that will provide comprehensive design and support services through the final design, right-of-way and construction phases. The proposed contract is anticipated to be negotiated as a firm fixed-priced contract with estimated total costs of $27M and the expected period of performance is 6 years. The total estimated cost includes 14 subcontractors totaling $6.6M.\n\nThe objectives of the examination were to (i) assess the reasonableness of the proposed costs, (ii) determine the adequacy of the accounting system in accumulating costs under the proposed contract, (iii) evaluate the financial capability of HNTB and its 4 major subcontractors."
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262715,
+        "id" : 125967414,
         "name" : "Tag 1",
         "dataTypeName" : "text",
         "fieldName" : "tag_1",
@@ -432,77 +171,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037356,
         "width" : 160,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "Business Development",
-          "null" : 0,
-          "largest" : "Transportation",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Revenue"
-          }, {
-            "count" : 19,
-            "item" : "General Government"
-          }, {
-            "count" : 18,
-            "item" : "Law Enforcement"
-          }, {
-            "count" : 17,
-            "item" : "Business Relations"
-          }, {
-            "count" : 16,
-            "item" : "Transportation"
-          }, {
-            "count" : 15,
-            "item" : "Construction and Engineering"
-          }, {
-            "count" : 14,
-            "item" : "Regulation Enforcement"
-          }, {
-            "count" : 13,
-            "item" : "Special Funds"
-          }, {
-            "count" : 12,
-            "item" : "Health"
-          }, {
-            "count" : 11,
-            "item" : "Community Development"
-          }, {
-            "count" : 10,
-            "item" : "Contract Analysis"
-          }, {
-            "count" : 9,
-            "item" : "Investments"
-          }, {
-            "count" : 8,
-            "item" : "Regulation Enforcement and Compliance"
-          }, {
-            "count" : 7,
-            "item" : "Collections"
-          }, {
-            "count" : 6,
-            "item" : "Social Services"
-          }, {
-            "count" : 5,
-            "item" : "Business Development"
-          }, {
-            "count" : 4,
-            "item" : "Fire Prevention and Emergency Preparedness"
-          }, {
-            "count" : 3,
-            "item" : "Environment and Sanitation Programs"
-          }, {
-            "count" : 2,
-            "item" : "Other Capital Projects or Maintenance"
-          }, {
-            "count" : 1,
-            "item" : "Recreation and Parks"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262716,
+        "id" : 125967445,
         "name" : "Tag 2",
         "dataTypeName" : "text",
         "fieldName" : "tag_2",
@@ -510,77 +182,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037357,
         "width" : 160,
-        "cachedContents" : {
-          "non_null" : 335,
-          "smallest" : "Business Development",
-          "null" : 37,
-          "largest" : "Transportation",
-          "top" : [ {
-            "count" : 20,
-            "item" : "General Government"
-          }, {
-            "count" : 19,
-            "item" : "Investments"
-          }, {
-            "count" : 18,
-            "item" : "Social Services"
-          }, {
-            "count" : 17,
-            "item" : "Special Funds"
-          }, {
-            "count" : 16,
-            "item" : "Regulation Enforcement and Compliance"
-          }, {
-            "count" : 15,
-            "item" : "Transportation"
-          }, {
-            "count" : 14,
-            "item" : "Environment and Sanitation Programs"
-          }, {
-            "count" : 13,
-            "item" : "Community Development"
-          }, {
-            "count" : 12,
-            "item" : "Regulation Enforcement"
-          }, {
-            "count" : 11,
-            "item" : "Collections"
-          }, {
-            "count" : 10,
-            "item" : "Contract Analysis"
-          }, {
-            "count" : 9,
-            "item" : "Fire Prevention and Emergency Preparedness"
-          }, {
-            "count" : 8,
-            "item" : "Revenue"
-          }, {
-            "count" : 7,
-            "item" : "Construction and Engineering"
-          }, {
-            "count" : 6,
-            "item" : "Recreation and Parks"
-          }, {
-            "count" : 5,
-            "item" : "Personnel"
-          }, {
-            "count" : 4,
-            "item" : "Other Capital Projects or Maintenance"
-          }, {
-            "count" : 3,
-            "item" : "Health"
-          }, {
-            "count" : 2,
-            "item" : "Law Enforcement"
-          }, {
-            "count" : 1,
-            "item" : "Business Development"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262717,
+        "id" : 125967446,
         "name" : "Tag 3",
         "dataTypeName" : "text",
         "fieldName" : "tag_3",
@@ -588,77 +193,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037358,
         "width" : 160,
-        "cachedContents" : {
-          "non_null" : 152,
-          "smallest" : "Business Development",
-          "null" : 220,
-          "largest" : "Transportation",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Collections"
-          }, {
-            "count" : 19,
-            "item" : "Community Development"
-          }, {
-            "count" : 18,
-            "item" : "Regulation Enforcement and Compliance"
-          }, {
-            "count" : 17,
-            "item" : "Other Capital Projects or Maintenance"
-          }, {
-            "count" : 16,
-            "item" : "Health"
-          }, {
-            "count" : 15,
-            "item" : "Social Services"
-          }, {
-            "count" : 14,
-            "item" : "Personnel"
-          }, {
-            "count" : 13,
-            "item" : "General Government"
-          }, {
-            "count" : 12,
-            "item" : "Business Development"
-          }, {
-            "count" : 11,
-            "item" : "Revenue"
-          }, {
-            "count" : 10,
-            "item" : "Transportation"
-          }, {
-            "count" : 9,
-            "item" : "Construction and Engineering"
-          }, {
-            "count" : 8,
-            "item" : "Special Funds"
-          }, {
-            "count" : 7,
-            "item" : "Contract Analysis"
-          }, {
-            "count" : 6,
-            "item" : "Fire Prevention and Emergency Preparedness"
-          }, {
-            "count" : 5,
-            "item" : "Law Enforcement"
-          }, {
-            "count" : 4,
-            "item" : "Investments"
-          }, {
-            "count" : 3,
-            "item" : "Debt Service"
-          }, {
-            "count" : 2,
-            "item" : "Recreation and Parks"
-          }, {
-            "count" : 1,
-            "item" : "Library"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 108262718,
+        "id" : 125967447,
         "name" : "Link",
         "dataTypeName" : "url",
         "fieldName" : "link",
@@ -666,37 +204,11 @@
         "renderTypeName" : "url",
         "tableColumnId" : 15037359,
         "width" : 235,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008035"
-          },
-          "null" : 0,
-          "largest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_027273"
-          },
-          "top" : [ {
-            "count" : 20,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008297"
-            }
-          }, {
-            "count" : 19,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008296"
-            }
-          }, {
-            "count" : 18,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008295"
-            }
-          } ]
-        },
         "format" : {
         },
         "subColumnTypes" : [ "url", "description" ]
       }, {
-        "id" : 108262719,
+        "id" : 125967448,
         "name" : "Department Response",
         "dataTypeName" : "url",
         "fieldName" : "department_response",
@@ -704,52 +216,11 @@
         "renderTypeName" : "url",
         "tableColumnId" : 15037360,
         "width" : 211,
-        "cachedContents" : {
-          "non_null" : 254,
-          "smallest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_007876"
-          },
-          "null" : 118,
-          "largest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_027384"
-          },
-          "top" : [ {
-            "count" : 20,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008834"
-            }
-          }, {
-            "count" : 19,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008335"
-            }
-          }, {
-            "count" : 18,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008317"
-            }
-          }, {
-            "count" : 17,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008316"
-            }
-          }, {
-            "count" : 16,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008314"
-            }
-          }, {
-            "count" : 15,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008312"
-            }
-          } ]
-        },
         "format" : {
         },
         "subColumnTypes" : [ "url", "description" ]
       }, {
-        "id" : 108262720,
+        "id" : 125967449,
         "name" : "Controller Evaluation",
         "dataTypeName" : "url",
         "fieldName" : "controller_evaluation",
@@ -757,32 +228,11 @@
         "renderTypeName" : "url",
         "tableColumnId" : 15037361,
         "width" : 176,
-        "cachedContents" : {
-          "non_null" : 250,
-          "smallest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_007876"
-          },
-          "null" : 122,
-          "largest" : {
-            "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_027431"
-          },
-          "top" : [ {
-            "count" : 20,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008835"
-            }
-          }, {
-            "count" : 19,
-            "item" : {
-              "url" : "http://controller.lacity.org/Audits_and_Reports/ssLINK/LACITYP_008334"
-            }
-          } ]
-        },
         "format" : {
         },
         "subColumnTypes" : [ "url", "description" ]
       }, {
-        "id" : 108262721,
+        "id" : 125967450,
         "name" : "Sequence Number",
         "dataTypeName" : "text",
         "fieldName" : "sequence_number",
@@ -790,22 +240,6 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15037362,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 372,
-          "smallest" : "00-01",
-          "null" : 0,
-          "largest" : "99-19",
-          "top" : [ {
-            "count" : 20,
-            "item" : "99-07"
-          }, {
-            "count" : 19,
-            "item" : "99-06"
-          }, {
-            "count" : 18,
-            "item" : "99-05"
-          } ]
-        },
         "format" : {
         }
       } ],
@@ -816,17 +250,10 @@
       } ],
       "metadata" : {
         "custom_fields" : {
-          "Department" : {
-            "Controller" : "",
-            "Other" : ""
+          "Data Owner" : {
+            "Data Owner" : "Controller's Office"
           }
-        },
-        "renderTypeConfig" : {
-          "visible" : {
-            "table" : true
-          }
-        },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+        }
       },
       "owner" : {
         "id" : "mnkj-bu52",

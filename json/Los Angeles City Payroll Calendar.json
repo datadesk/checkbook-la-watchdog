@@ -7,22 +7,21 @@
       "createdAt" : 1384368127,
       "description" : "Payroll Calendar for the City of Los Angeles, 2013-2016.",
       "displayType" : "table",
-      "downloadCount" : 180,
-      "indexUpdatedAt" : 1384565589,
+      "downloadCount" : 184,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6406214,
+      "oid" : 6992194,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1384368214,
+      "publicationDate" : 1388447000,
       "publicationGroup" : 1352640,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1384368137,
-      "rowsUpdatedBy" : "mnkj-bu52",
+      "rowsUpdatedAt" : 1388446996,
+      "rowsUpdatedBy" : "vcvp-yass",
       "signed" : false,
-      "tableId" : 1352640,
+      "tableId" : 1420249,
       "totalTimesRated" : 0,
-      "viewCount" : 134,
-      "viewLastModified" : 1384564719,
+      "viewCount" : 139,
+      "viewLastModified" : 1388447000,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -97,7 +96,7 @@
         "format" : {
         }
       }, {
-        "id" : 114826702,
+        "id" : 125967897,
         "name" : "Year",
         "dataTypeName" : "number",
         "fieldName" : "year",
@@ -105,34 +104,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 16249914,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 255,
-          "smallest" : "2013",
-          "sum" : "513697",
-          "null" : 0,
-          "average" : "2014.498039215686",
-          "largest" : "2016",
-          "top" : [ {
-            "count" : 20,
-            "item" : "2013"
-          }, {
-            "count" : 19,
-            "item" : "2014"
-          }, {
-            "count" : 18,
-            "item" : "2015"
-          }, {
-            "count" : 17,
-            "item" : "2016"
-          } ]
-        },
         "format" : {
-          "precisionStyle" : "standard",
-          "noCommas" : "true",
-          "align" : "right"
         }
       }, {
-        "id" : 114826703,
+        "id" : 125967898,
         "name" : "Month",
         "dataTypeName" : "text",
         "fieldName" : "month",
@@ -140,53 +115,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 16249915,
         "width" : 95,
-        "cachedContents" : {
-          "non_null" : 255,
-          "smallest" : "April",
-          "null" : 0,
-          "largest" : "September",
-          "top" : [ {
-            "count" : 20,
-            "item" : "January"
-          }, {
-            "count" : 19,
-            "item" : "February"
-          }, {
-            "count" : 18,
-            "item" : "March"
-          }, {
-            "count" : 17,
-            "item" : "April"
-          }, {
-            "count" : 16,
-            "item" : "May"
-          }, {
-            "count" : 15,
-            "item" : "June"
-          }, {
-            "count" : 14,
-            "item" : "July"
-          }, {
-            "count" : 13,
-            "item" : "August"
-          }, {
-            "count" : 12,
-            "item" : "September"
-          }, {
-            "count" : 11,
-            "item" : "October"
-          }, {
-            "count" : 10,
-            "item" : "November"
-          }, {
-            "count" : 9,
-            "item" : "December"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 114826704,
+        "id" : 125967899,
         "name" : "Month Number",
         "dataTypeName" : "number",
         "fieldName" : "month_number",
@@ -194,55 +126,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 16249916,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 255,
-          "smallest" : "1",
-          "sum" : "1684",
-          "null" : 0,
-          "average" : "6.603921568627451",
-          "largest" : "12",
-          "top" : [ {
-            "count" : 20,
-            "item" : "1"
-          }, {
-            "count" : 19,
-            "item" : "2"
-          }, {
-            "count" : 18,
-            "item" : "3"
-          }, {
-            "count" : 17,
-            "item" : "4"
-          }, {
-            "count" : 16,
-            "item" : "5"
-          }, {
-            "count" : 15,
-            "item" : "6"
-          }, {
-            "count" : 14,
-            "item" : "7"
-          }, {
-            "count" : 13,
-            "item" : "8"
-          }, {
-            "count" : 12,
-            "item" : "9"
-          }, {
-            "count" : 11,
-            "item" : "10"
-          }, {
-            "count" : 10,
-            "item" : "11"
-          }, {
-            "count" : 9,
-            "item" : "12"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 114826705,
+        "id" : 125967900,
         "name" : "Day",
         "dataTypeName" : "number",
         "fieldName" : "day",
@@ -250,79 +137,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 16249917,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 255,
-          "smallest" : "1",
-          "sum" : "4068",
-          "null" : 0,
-          "average" : "15.95294117647059",
-          "largest" : "31",
-          "top" : [ {
-            "count" : 20,
-            "item" : "1"
-          }, {
-            "count" : 19,
-            "item" : "9"
-          }, {
-            "count" : 18,
-            "item" : "12"
-          }, {
-            "count" : 17,
-            "item" : "21"
-          }, {
-            "count" : 16,
-            "item" : "23"
-          }, {
-            "count" : 15,
-            "item" : "26"
-          }, {
-            "count" : 14,
-            "item" : "6"
-          }, {
-            "count" : 13,
-            "item" : "18"
-          }, {
-            "count" : 12,
-            "item" : "20"
-          }, {
-            "count" : 11,
-            "item" : "25"
-          }, {
-            "count" : 10,
-            "item" : "3"
-          }, {
-            "count" : 9,
-            "item" : "17"
-          }, {
-            "count" : 8,
-            "item" : "4"
-          }, {
-            "count" : 7,
-            "item" : "15"
-          }, {
-            "count" : 6,
-            "item" : "27"
-          }, {
-            "count" : 5,
-            "item" : "29"
-          }, {
-            "count" : 4,
-            "item" : "10"
-          }, {
-            "count" : 3,
-            "item" : "13"
-          }, {
-            "count" : 2,
-            "item" : "24"
-          }, {
-            "count" : 1,
-            "item" : "7"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 114826706,
+        "id" : 125967901,
         "name" : "Date",
         "dataTypeName" : "calendar_date",
         "fieldName" : "date",
@@ -330,44 +148,10 @@
         "renderTypeName" : "calendar_date",
         "tableColumnId" : 16249918,
         "width" : 131,
-        "cachedContents" : {
-          "non_null" : 255,
-          "smallest" : "2000-01-11T00:00:00",
-          "null" : 0,
-          "largest" : "2016-12-26T00:00:00",
-          "top" : [ {
-            "count" : 20,
-            "item" : "2016-11-23T00:00:00"
-          }, {
-            "count" : 19,
-            "item" : "2016-11-24T00:00:00"
-          }, {
-            "count" : 18,
-            "item" : "2016-11-25T00:00:00"
-          }, {
-            "count" : 17,
-            "item" : "2016-11-26T00:00:00"
-          }, {
-            "count" : 16,
-            "item" : "2016-12-07T00:00:00"
-          }, {
-            "count" : 15,
-            "item" : "2016-12-10T00:00:00"
-          }, {
-            "count" : 14,
-            "item" : "2016-12-21T00:00:00"
-          }, {
-            "count" : 13,
-            "item" : "2016-12-24T00:00:00"
-          }, {
-            "count" : 12,
-            "item" : "2016-12-26T00:00:00"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 114826707,
+        "id" : 125967902,
         "name" : "Description",
         "dataTypeName" : "text",
         "fieldName" : "description",
@@ -375,28 +159,6 @@
         "renderTypeName" : "text",
         "tableColumnId" : 16249919,
         "width" : 232,
-        "cachedContents" : {
-          "non_null" : 255,
-          "smallest" : "End of Pay Period",
-          "null" : 0,
-          "largest" : "Pay Day",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Holiday"
-          }, {
-            "count" : 19,
-            "item" : "Pay Day"
-          }, {
-            "count" : 18,
-            "item" : "End of Pay Period"
-          }, {
-            "count" : 17,
-            "item" : "Excess Sick Pay"
-          }, {
-            "count" : 16,
-            "item" : "No Deduction Pay"
-          } ]
-        },
         "format" : {
         }
       } ],
@@ -407,17 +169,10 @@
       } ],
       "metadata" : {
         "custom_fields" : {
-          "Department" : {
-            "Controller" : "",
-            "Other" : ""
+          "Data Owner" : {
+            "Data Owner" : "Controller's Office"
           }
-        },
-        "renderTypeConfig" : {
-          "visible" : {
-            "table" : true
-          }
-        },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+        }
       },
       "owner" : {
         "id" : "mnkj-bu52",

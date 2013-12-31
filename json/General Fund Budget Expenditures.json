@@ -9,22 +9,20 @@
       "description" : "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through November 30, 2013",
       "displayType" : "table",
       "downloadCount" : 238,
-      "indexUpdatedAt" : 1387018532,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6783549,
+      "oid" : 6991909,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1386970738,
+      "publicationDate" : 1388446756,
       "publicationGroup" : 1268071,
       "publicationStage" : "published",
-      "rowClass" : "",
-      "rowsUpdatedAt" : 1386869303,
-      "rowsUpdatedBy" : "mnkj-bu52",
+      "rowsUpdatedAt" : 1388446742,
+      "rowsUpdatedBy" : "vcvp-yass",
       "signed" : false,
-      "tableId" : 1396848,
+      "tableId" : 1420243,
       "totalTimesRated" : 0,
       "viewCount" : 384,
-      "viewLastModified" : 1386970738,
+      "viewLastModified" : 1388446756,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -99,7 +97,7 @@
         "format" : {
         }
       }, {
-        "id" : 121999312,
+        "id" : 125963335,
         "name" : "BUDGET FISCAL YEAR",
         "dataTypeName" : "text",
         "fieldName" : "budget_fiscal_year",
@@ -107,26 +105,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407323,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "2012",
-          "null" : 0,
-          "largest" : "2014",
-          "top" : [ {
-            "count" : 20,
-            "item" : "2012"
-          }, {
-            "count" : 19,
-            "item" : "2013"
-          }, {
-            "count" : 18,
-            "item" : "2014"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 121999313,
+        "id" : 125963336,
         "name" : "DEPARTMENT NAME",
         "dataTypeName" : "text",
         "fieldName" : "department_name",
@@ -134,77 +116,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407324,
         "width" : 214,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "AGING",
-          "null" : 0,
-          "largest" : "ZOO",
-          "top" : [ {
-            "count" : 20,
-            "item" : "AGING"
-          }, {
-            "count" : 19,
-            "item" : "ANIMAL SERVICES"
-          }, {
-            "count" : 18,
-            "item" : "BUILDING AND SAFETY"
-          }, {
-            "count" : 17,
-            "item" : "CITY ADMINISTRATIVE OFFICER"
-          }, {
-            "count" : 16,
-            "item" : "CITY ATTORNEY"
-          }, {
-            "count" : 15,
-            "item" : "CITY CLERK"
-          }, {
-            "count" : 14,
-            "item" : "CITY ETHICS COMMISSION"
-          }, {
-            "count" : 13,
-            "item" : "CITY PLANNING AND DEVELOPMENT"
-          }, {
-            "count" : 12,
-            "item" : "CONTROLLER"
-          }, {
-            "count" : 11,
-            "item" : "COUNCIL"
-          }, {
-            "count" : 10,
-            "item" : "CULTURAL AFFAIRS"
-          }, {
-            "count" : 9,
-            "item" : "DISABILITY"
-          }, {
-            "count" : 8,
-            "item" : "ECONOMIC AND WORKFORCE DEVELOPMENT DEPARTMENT"
-          }, {
-            "count" : 7,
-            "item" : "EL PUEBLO DE LOS ANGELES HISTORICAL MONUMENT AUTHORITY"
-          }, {
-            "count" : 6,
-            "item" : "FIRE"
-          }, {
-            "count" : 5,
-            "item" : "GENERAL SERVICES"
-          }, {
-            "count" : 4,
-            "item" : "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT"
-          }, {
-            "count" : 3,
-            "item" : "INFORMATION TECHNOLOGY AGENCY"
-          }, {
-            "count" : 2,
-            "item" : "LOS ANGELES CONVENTION CENTER"
-          }, {
-            "count" : 1,
-            "item" : "MAYOR"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 121999314,
+        "id" : 125963337,
         "name" : "ACCOUNT NAME",
         "dataTypeName" : "text",
         "fieldName" : "account_name",
@@ -212,77 +127,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407327,
         "width" : 223,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "ACCUMULATED OVERTIME",
-          "null" : 0,
-          "largest" : "YOUTH EMPLOYMENT PROGRAM (2)",
-          "top" : [ {
-            "count" : 20,
-            "item" : "SALARIES GENERAL"
-          }, {
-            "count" : 19,
-            "item" : "SALARIES AS NEEDED"
-          }, {
-            "count" : 18,
-            "item" : "PRINTING AND BINDING"
-          }, {
-            "count" : 17,
-            "item" : "TRAVEL"
-          }, {
-            "count" : 16,
-            "item" : "TRANSPORTATION"
-          }, {
-            "count" : 15,
-            "item" : "OFFICE AND ADMINISTRATIVE"
-          }, {
-            "count" : 14,
-            "item" : "OVERTIME GENERAL"
-          }, {
-            "count" : 13,
-            "item" : "CONTRACTUAL SERVICES"
-          }, {
-            "count" : 12,
-            "item" : "OPERATING SUPPLIES"
-          }, {
-            "count" : 11,
-            "item" : "FURNITURE, OFFICE AND TECHNICAL EQUIPMENT"
-          }, {
-            "count" : 10,
-            "item" : "BENEFITS HIRING HALL"
-          }, {
-            "count" : 9,
-            "item" : "HIRING HALL OVERTIME"
-          }, {
-            "count" : 8,
-            "item" : "CONSTRUCTION EXPENSE"
-          }, {
-            "count" : 7,
-            "item" : "FIELD EQUIPMENT EXPENSE"
-          }, {
-            "count" : 6,
-            "item" : "HIRING HALL SALARIES"
-          }, {
-            "count" : 5,
-            "item" : "UNIFORMS"
-          }, {
-            "count" : 4,
-            "item" : "ST. LIGHTING IMPROVEMENTS AND SUPPLIES"
-          }, {
-            "count" : 3,
-            "item" : "UTILITIES EXPENSE PRIVATE COMPANY"
-          }, {
-            "count" : 2,
-            "item" : "INVESTIGATIONS"
-          }, {
-            "count" : 1,
-            "item" : "PAINT AND SIGN MAINTENANCE AND"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 121999315,
+        "id" : 125963338,
         "name" : "ADOPTED BUDGET AMOUNT",
         "dataTypeName" : "money",
         "description" : "Original budget amount adopted by Mayor and Council",
@@ -291,83 +139,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407329,
         "width" : 101,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "16412475188.00",
-          "null" : 0,
-          "average" : "8539269.088449532",
-          "largest" : "994943645.00",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "61200.00"
-          }, {
-            "count" : 18,
-            "item" : "63000.00"
-          }, {
-            "count" : 17,
-            "item" : "1000.00"
-          }, {
-            "count" : 16,
-            "item" : "100000.00"
-          }, {
-            "count" : 15,
-            "item" : "3265177.00"
-          }, {
-            "count" : 14,
-            "item" : "317800.00"
-          }, {
-            "count" : 13,
-            "item" : "127595.00"
-          }, {
-            "count" : 12,
-            "item" : "557875.00"
-          }, {
-            "count" : 11,
-            "item" : "75000.00"
-          }, {
-            "count" : 10,
-            "item" : "14085099.00"
-          }, {
-            "count" : 9,
-            "item" : "1049121.00"
-          }, {
-            "count" : 8,
-            "item" : "51164.00"
-          }, {
-            "count" : 7,
-            "item" : "70000.00"
-          }, {
-            "count" : 6,
-            "item" : "1024400.00"
-          }, {
-            "count" : 5,
-            "item" : "20000.00"
-          }, {
-            "count" : 4,
-            "item" : "529999.00"
-          }, {
-            "count" : 3,
-            "item" : "5001.00"
-          }, {
-            "count" : 2,
-            "item" : "307128.00"
-          }, {
-            "count" : 1,
-            "item" : "779438.00"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999316,
+        "id" : 125963339,
         "name" : "TOTAL EXPENDITURES",
         "dataTypeName" : "money",
         "description" : "Total Budget Fiscal Year amount expended from account to date",
@@ -376,83 +151,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407334,
         "width" : 99,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "12413815819.66",
-          "null" : 0,
-          "average" : "6458801.154869927",
-          "largest" : "961274075.15",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "3097889.82"
-          }, {
-            "count" : 18,
-            "item" : "6014303.79"
-          }, {
-            "count" : 17,
-            "item" : "1942.34"
-          }, {
-            "count" : 16,
-            "item" : "17028.37"
-          }, {
-            "count" : 15,
-            "item" : "3665931.62"
-          }, {
-            "count" : 14,
-            "item" : "51095.13"
-          }, {
-            "count" : 13,
-            "item" : "30842.00"
-          }, {
-            "count" : 12,
-            "item" : "47460.00"
-          }, {
-            "count" : 11,
-            "item" : "5394.39"
-          }, {
-            "count" : 10,
-            "item" : "2096761.92"
-          }, {
-            "count" : 9,
-            "item" : "25974.69"
-          }, {
-            "count" : 8,
-            "item" : "14799.22"
-          }, {
-            "count" : 7,
-            "item" : "102615.74"
-          }, {
-            "count" : 6,
-            "item" : "14950.80"
-          }, {
-            "count" : 5,
-            "item" : "5170608.43"
-          }, {
-            "count" : 4,
-            "item" : "413783.42"
-          }, {
-            "count" : 3,
-            "item" : "41379.27"
-          }, {
-            "count" : 2,
-            "item" : "23531.89"
-          }, {
-            "count" : 1,
-            "item" : "75321.80"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999317,
+        "id" : 125963340,
         "name" : "BUDGET CHANGE AMOUNT",
         "dataTypeName" : "money",
         "description" : "Amendment to the adopted budget amount",
@@ -461,83 +163,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407330,
         "width" : 92,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "-2000000.00",
-          "sum" : "538294254.80",
-          "null" : 0,
-          "average" : "280069.8516129032",
-          "largest" : "23627232.16",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "5155.25"
-          }, {
-            "count" : 18,
-            "item" : "556044.66"
-          }, {
-            "count" : 17,
-            "item" : "241513.25"
-          }, {
-            "count" : 16,
-            "item" : "3631788.66"
-          }, {
-            "count" : 15,
-            "item" : "100000.00"
-          }, {
-            "count" : 14,
-            "item" : "2200.00"
-          }, {
-            "count" : 13,
-            "item" : "1201916.00"
-          }, {
-            "count" : 12,
-            "item" : "-53500.00"
-          }, {
-            "count" : 11,
-            "item" : "241625.68"
-          }, {
-            "count" : 10,
-            "item" : "1000.00"
-          }, {
-            "count" : 9,
-            "item" : "470000.00"
-          }, {
-            "count" : 8,
-            "item" : "122761.00"
-          }, {
-            "count" : 7,
-            "item" : "178000.00"
-          }, {
-            "count" : 6,
-            "item" : "504000.00"
-          }, {
-            "count" : 5,
-            "item" : "403000.00"
-          }, {
-            "count" : 4,
-            "item" : "336845.00"
-          }, {
-            "count" : 3,
-            "item" : "-55862.00"
-          }, {
-            "count" : 2,
-            "item" : "223300.00"
-          }, {
-            "count" : 1,
-            "item" : "-4472.14"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999319,
+        "id" : 125963341,
         "name" : "BUDGET TRANSFER IN AMOUNT",
         "dataTypeName" : "money",
         "description" : "Increase in appropriation to account by transfer in of funds",
@@ -546,83 +175,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407331,
         "width" : 86,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "691494066.43",
-          "null" : 0,
-          "average" : "359778.3904422477",
-          "largest" : "113494140.00",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "90000.00"
-          }, {
-            "count" : 18,
-            "item" : "15000.00"
-          }, {
-            "count" : 17,
-            "item" : "1000.00"
-          }, {
-            "count" : 16,
-            "item" : "20000.00"
-          }, {
-            "count" : 15,
-            "item" : "5000.00"
-          }, {
-            "count" : 14,
-            "item" : "6000.00"
-          }, {
-            "count" : 13,
-            "item" : "54000.00"
-          }, {
-            "count" : 12,
-            "item" : "10000.00"
-          }, {
-            "count" : 11,
-            "item" : "42000.00"
-          }, {
-            "count" : 10,
-            "item" : "625398.00"
-          }, {
-            "count" : 9,
-            "item" : "329190.00"
-          }, {
-            "count" : 8,
-            "item" : "60000.00"
-          }, {
-            "count" : 7,
-            "item" : "310.00"
-          }, {
-            "count" : 6,
-            "item" : "17419.36"
-          }, {
-            "count" : 5,
-            "item" : "5448000.00"
-          }, {
-            "count" : 4,
-            "item" : "700000.00"
-          }, {
-            "count" : 3,
-            "item" : "300000.00"
-          }, {
-            "count" : 2,
-            "item" : "100000.00"
-          }, {
-            "count" : 1,
-            "item" : "8000.00"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999321,
+        "id" : 125963342,
         "name" : "BUDGET TRANSFER OUT AMOUNT",
         "dataTypeName" : "money",
         "description" : "Decrease in appropriation to account by transfer out of funds",
@@ -631,68 +187,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407332,
         "width" : 89,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "691494066.43",
-          "null" : 0,
-          "average" : "359778.3904422477",
-          "largest" : "113494140.00",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "5000.00"
-          }, {
-            "count" : 18,
-            "item" : "16000.00"
-          }, {
-            "count" : 17,
-            "item" : "48000.00"
-          }, {
-            "count" : 16,
-            "item" : "2053.00"
-          }, {
-            "count" : 15,
-            "item" : "1061550.80"
-          }, {
-            "count" : 14,
-            "item" : "8573.00"
-          }, {
-            "count" : 13,
-            "item" : "17419.36"
-          }, {
-            "count" : 12,
-            "item" : "6549000.00"
-          }, {
-            "count" : 11,
-            "item" : "45000.00"
-          }, {
-            "count" : 10,
-            "item" : "45600.36"
-          }, {
-            "count" : 9,
-            "item" : "3548.24"
-          }, {
-            "count" : 8,
-            "item" : "200.00"
-          }, {
-            "count" : 7,
-            "item" : "694000.00"
-          }, {
-            "count" : 6,
-            "item" : "500000.00"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999323,
+        "id" : 125963343,
         "name" : "TOTAL BUDGET",
         "dataTypeName" : "money",
         "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
@@ -701,77 +199,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407333,
         "width" : 96,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "16950769442.80",
-          "null" : 0,
-          "average" : "8819338.940062435",
-          "largest" : "993499689.66",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "1000.00"
-          }, {
-            "count" : 18,
-            "item" : "100000.00"
-          }, {
-            "count" : 17,
-            "item" : "127595.00"
-          }, {
-            "count" : 16,
-            "item" : "557875.00"
-          }, {
-            "count" : 15,
-            "item" : "75000.00"
-          }, {
-            "count" : 14,
-            "item" : "14085099.00"
-          }, {
-            "count" : 13,
-            "item" : "1049121.00"
-          }, {
-            "count" : 12,
-            "item" : "51164.00"
-          }, {
-            "count" : 11,
-            "item" : "70000.00"
-          }, {
-            "count" : 10,
-            "item" : "1114400.00"
-          }, {
-            "count" : 9,
-            "item" : "20000.00"
-          }, {
-            "count" : 8,
-            "item" : "529999.00"
-          }, {
-            "count" : 7,
-            "item" : "5001.00"
-          }, {
-            "count" : 6,
-            "item" : "307128.00"
-          }, {
-            "count" : 5,
-            "item" : "779438.00"
-          }, {
-            "count" : 4,
-            "item" : "184762.00"
-          }, {
-            "count" : 3,
-            "item" : "120000.00"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999325,
+        "id" : 125963344,
         "name" : "ENCUMBRANCE AMOUNT",
         "dataTypeName" : "money",
         "description" : "Obligation or commitment to pay for a good or service",
@@ -780,83 +211,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407335,
         "width" : 90,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "178948443.73",
-          "null" : 0,
-          "average" : "93105.32972424558",
-          "largest" : "14867115.51",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "20000.00"
-          }, {
-            "count" : 18,
-            "item" : "19250.16"
-          }, {
-            "count" : 17,
-            "item" : "9158.00"
-          }, {
-            "count" : 16,
-            "item" : "90.00"
-          }, {
-            "count" : 15,
-            "item" : "55605.61"
-          }, {
-            "count" : 14,
-            "item" : "754264.05"
-          }, {
-            "count" : 13,
-            "item" : "20175.00"
-          }, {
-            "count" : 12,
-            "item" : "6404.86"
-          }, {
-            "count" : 11,
-            "item" : "96319.22"
-          }, {
-            "count" : 10,
-            "item" : "41665.95"
-          }, {
-            "count" : 9,
-            "item" : "26468.11"
-          }, {
-            "count" : 8,
-            "item" : "638852.53"
-          }, {
-            "count" : 7,
-            "item" : "840.52"
-          }, {
-            "count" : 6,
-            "item" : "34707.83"
-          }, {
-            "count" : 5,
-            "item" : "62.36"
-          }, {
-            "count" : 4,
-            "item" : "32110.59"
-          }, {
-            "count" : 3,
-            "item" : "65277.66"
-          }, {
-            "count" : 2,
-            "item" : "4847.49"
-          }, {
-            "count" : 1,
-            "item" : "2264.57"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999327,
+        "id" : 125963345,
         "name" : "PRE-ENCUMBRANCE AMOUNT",
         "dataTypeName" : "money",
         "description" : "Anticipated obligation or commitment to pay for a good or service",
@@ -865,50 +223,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407336,
         "width" : 86,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "1702202.31",
-          "null" : 0,
-          "average" : "885.6411602497399",
-          "largest" : "456429.58",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "3961.88"
-          }, {
-            "count" : 18,
-            "item" : "24045.00"
-          }, {
-            "count" : 17,
-            "item" : "2489.00"
-          }, {
-            "count" : 16,
-            "item" : "3793.52"
-          }, {
-            "count" : 15,
-            "item" : "5421.00"
-          }, {
-            "count" : 14,
-            "item" : "12570.25"
-          }, {
-            "count" : 13,
-            "item" : "3323.00"
-          }, {
-            "count" : 12,
-            "item" : "1421.10"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999329,
+        "id" : 125963346,
         "name" : "BUDGET UNCOMMITTED AMOUNT",
         "dataTypeName" : "money",
         "description" : "Total unused appropriation after expenditures and encumbrances",
@@ -917,83 +235,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407337,
         "width" : 94,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "0.00",
-          "sum" : "4356302977.10",
-          "null" : 0,
-          "average" : "2266546.814308012",
-          "largest" : "955905263.00",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0.00"
-          }, {
-            "count" : 19,
-            "item" : "100000.00"
-          }, {
-            "count" : 18,
-            "item" : "312322.50"
-          }, {
-            "count" : 17,
-            "item" : "199476.48"
-          }, {
-            "count" : 16,
-            "item" : "7247930.85"
-          }, {
-            "count" : 15,
-            "item" : "354890.71"
-          }, {
-            "count" : 14,
-            "item" : "41651.00"
-          }, {
-            "count" : 13,
-            "item" : "100730.00"
-          }, {
-            "count" : 12,
-            "item" : "34000.00"
-          }, {
-            "count" : 11,
-            "item" : "420357.51"
-          }, {
-            "count" : 10,
-            "item" : "667172.13"
-          }, {
-            "count" : 9,
-            "item" : "100969.92"
-          }, {
-            "count" : 8,
-            "item" : "346369.79"
-          }, {
-            "count" : 7,
-            "item" : "18383.25"
-          }, {
-            "count" : 6,
-            "item" : "8914490.57"
-          }, {
-            "count" : 5,
-            "item" : "635337.58"
-          }, {
-            "count" : 4,
-            "item" : "9784.73"
-          }, {
-            "count" : 3,
-            "item" : "20000.00"
-          }, {
-            "count" : 2,
-            "item" : "400225.67"
-          }, {
-            "count" : 1,
-            "item" : "17044.32"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 121999330,
+        "id" : 125963347,
         "name" : "FUND NAME",
         "dataTypeName" : "text",
         "fieldName" : "fund_name",
@@ -1001,20 +246,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407325,
         "width" : 141,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "GENERAL FUND (GENERAL BUDGET)",
-          "null" : 0,
-          "largest" : "GENERAL FUND (GENERAL BUDGET)",
-          "top" : [ {
-            "count" : 20,
-            "item" : "GENERAL FUND (GENERAL BUDGET)"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 121999331,
+        "id" : 125963348,
         "name" : "ACCOUNT GROUP NAME",
         "dataTypeName" : "text",
         "fieldName" : "account_group_name",
@@ -1022,29 +257,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407328,
         "width" : 183,
-        "cachedContents" : {
-          "non_null" : 1920,
-          "smallest" : "EQUIPMENT",
-          "null" : 2,
-          "largest" : "SPECIAL",
-          "top" : [ {
-            "count" : 20,
-            "item" : "SALARIES AND BENEFITS"
-          }, {
-            "count" : 19,
-            "item" : "EXPENSES"
-          }, {
-            "count" : 18,
-            "item" : "EQUIPMENT"
-          }, {
-            "count" : 17,
-            "item" : "SPECIAL"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 121999333,
+        "id" : 125963349,
         "name" : "ACCOUNT",
         "dataTypeName" : "text",
         "fieldName" : "account",
@@ -1052,73 +268,6 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407326,
         "width" : 55,
-        "cachedContents" : {
-          "non_null" : 1922,
-          "smallest" : "00040E",
-          "null" : 0,
-          "largest" : "9910",
-          "top" : [ {
-            "count" : 20,
-            "item" : "1010"
-          }, {
-            "count" : 19,
-            "item" : "1070"
-          }, {
-            "count" : 18,
-            "item" : "1090"
-          }, {
-            "count" : 17,
-            "item" : "2120"
-          }, {
-            "count" : 16,
-            "item" : "2130"
-          }, {
-            "count" : 15,
-            "item" : "3040"
-          }, {
-            "count" : 14,
-            "item" : "3310"
-          }, {
-            "count" : 13,
-            "item" : "6010"
-          }, {
-            "count" : 12,
-            "item" : "8140"
-          }, {
-            "count" : 11,
-            "item" : "6020"
-          }, {
-            "count" : 10,
-            "item" : "7300"
-          }, {
-            "count" : 9,
-            "item" : "1012"
-          }, {
-            "count" : 8,
-            "item" : "1092"
-          }, {
-            "count" : 7,
-            "item" : "1095"
-          }, {
-            "count" : 6,
-            "item" : "3010"
-          }, {
-            "count" : 5,
-            "item" : "3090"
-          }, {
-            "count" : 4,
-            "item" : "3110"
-          }, {
-            "count" : 3,
-            "item" : "3290"
-          }, {
-            "count" : 2,
-            "item" : "4310"
-          }, {
-            "count" : 1,
-            "item" : "4430"
-          } ]
-        },
         "format" : {
         }
       } ],
@@ -1129,48 +278,10 @@
       } ],
       "metadata" : {
         "custom_fields" : {
-          "Department" : {
-            "Controller" : "",
-            "Other" : ""
+          "Data Owner" : {
+            "Data Owner" : "Controller's Office"
           }
-        },
-        "renderTypeConfig" : {
-          "visible" : {
-            "table" : true
-          }
-        },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
-        "rdfSubject" : "0",
-        "filterCondition" : {
-          "value" : "AND",
-          "children" : [ {
-            "value" : "OR",
-            "type" : "operator",
-            "metadata" : {
-              "customValues" : [ [ "2013" ] ],
-              "tableColumnId" : {
-                "1268071" : 15407323
-              },
-              "operator" : "EQUALS"
-            }
-          }, {
-            "value" : "OR",
-            "type" : "operator",
-            "metadata" : {
-              "tableColumnId" : {
-                "1268071" : 15407324
-              },
-              "operator" : "EQUALS"
-            }
-          } ],
-          "type" : "operator",
-          "metadata" : {
-            "unifiedVersion" : 2,
-            "advanced" : true
-          }
-        },
-        "rowIdentifier" : "0",
-        "rdfClass" : ""
+        }
       },
       "owner" : {
         "id" : "73wi-p96d",
@@ -1183,13 +294,13 @@
         "orderBys" : [ {
           "ascending" : false,
           "expression" : {
-            "columnId" : 121999312,
+            "columnId" : 125963335,
             "type" : "column"
           }
         }, {
           "ascending" : true,
           "expression" : {
-            "columnId" : 121999313,
+            "columnId" : 125963336,
             "type" : "column"
           }
         } ]
@@ -1197,10 +308,10 @@
       "rights" : [ "read" ],
       "sortBys" : [ {
         "id" : 0,
-        "viewColumnId" : 121999312
+        "viewColumnId" : 125963335
       }, {
         "id" : 0,
-        "viewColumnId" : 121999313,
+        "viewColumnId" : 125963336,
         "flags" : [ "asc" ]
       } ],
       "tableAuthor" : {

@@ -10,22 +10,20 @@
       "description" : "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013",
       "displayType" : "table",
       "downloadCount" : 227,
-      "indexUpdatedAt" : 1388265093,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6783662,
+      "oid" : 6990491,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1386970738,
+      "publicationDate" : 1388446334,
       "publicationGroup" : 1262039,
       "publicationStage" : "published",
-      "rowClass" : "",
-      "rowsUpdatedAt" : 1386869787,
-      "rowsUpdatedBy" : "mnkj-bu52",
+      "rowsUpdatedAt" : 1388436199,
+      "rowsUpdatedBy" : "vcvp-yass",
       "signed" : false,
-      "tableId" : 1396857,
+      "tableId" : 1420027,
       "totalTimesRated" : 0,
-      "viewCount" : 381,
-      "viewLastModified" : 1386970739,
+      "viewCount" : 387,
+      "viewLastModified" : 1388446334,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -100,7 +98,7 @@
         "format" : {
         }
       }, {
-        "id" : 122001176,
+        "id" : 125927404,
         "name" : "FISCAL YEAR",
         "dataTypeName" : "text",
         "fieldName" : "fiscal_year",
@@ -108,29 +106,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15343431,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "2012",
-          "null" : 0,
-          "largest" : "2014",
-          "top" : [ {
-            "count" : 20,
-            "item" : "2014"
-          }, {
-            "count" : 19,
-            "item" : "2013"
-          }, {
-            "count" : 18,
-            "item" : "2012"
-          } ]
-        },
         "format" : {
-          "precisionStyle" : "standard",
-          "align" : "right",
-          "noCommas" : "false"
         }
       }, {
-        "id" : 122001177,
+        "id" : 125927405,
         "name" : "DEPARTMENT NAME",
         "dataTypeName" : "text",
         "fieldName" : "department_name",
@@ -138,77 +117,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15343432,
         "width" : 149,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "Aging",
-          "null" : 0,
-          "largest" : "Zoo",
-          "top" : [ {
-            "count" : 20,
-            "item" : "Aging"
-          }, {
-            "count" : 19,
-            "item" : "Animal Services"
-          }, {
-            "count" : 18,
-            "item" : "Building and Safety"
-          }, {
-            "count" : 17,
-            "item" : "City Administrative Officer"
-          }, {
-            "count" : 16,
-            "item" : "City Attorney"
-          }, {
-            "count" : 15,
-            "item" : "City Clerk"
-          }, {
-            "count" : 14,
-            "item" : "City Ethics Commission"
-          }, {
-            "count" : 13,
-            "item" : "City Planning and Development"
-          }, {
-            "count" : 12,
-            "item" : "Controller"
-          }, {
-            "count" : 11,
-            "item" : "Council"
-          }, {
-            "count" : 10,
-            "item" : "Cultural Affairs"
-          }, {
-            "count" : 9,
-            "item" : "Economic and Workforce Development Department"
-          }, {
-            "count" : 8,
-            "item" : "El Pueblo De Los Angeles Historical Monument Authority"
-          }, {
-            "count" : 7,
-            "item" : "Emergency Management"
-          }, {
-            "count" : 6,
-            "item" : "Fire"
-          }, {
-            "count" : 5,
-            "item" : "General Services"
-          }, {
-            "count" : 4,
-            "item" : "Housing and Community Investment Department"
-          }, {
-            "count" : 3,
-            "item" : "Information Technology Agency"
-          }, {
-            "count" : 2,
-            "item" : "Los Angeles Convention Center"
-          }, {
-            "count" : 1,
-            "item" : "Mayor"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 122001178,
+        "id" : 125927421,
         "name" : "REVENUE SOURCE NAME",
         "dataTypeName" : "text",
         "fieldName" : "revenue_source_name",
@@ -216,77 +128,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15343436,
         "width" : 241,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "911 EMERGENCY SYSTEM REIMB",
-          "null" : 0,
-          "largest" : "ZOO FACILITIES BOND FUND",
-          "top" : [ {
-            "count" : 20,
-            "item" : "ADDL INTERFD TRANS-OTHER FUNDS"
-          }, {
-            "count" : 19,
-            "item" : "MISCELLANEOUS REVENUE-OTHERS"
-          }, {
-            "count" : 18,
-            "item" : "REIMB FROM OTHER FUNDS"
-          }, {
-            "count" : 17,
-            "item" : "PROP C ANTIGRIDLOCK REL COST"
-          }, {
-            "count" : 16,
-            "item" : "PROPOSITION C PROJECTS"
-          }, {
-            "count" : 15,
-            "item" : "PUBLIC RIGHT OF WAY CONST ENF"
-          }, {
-            "count" : 14,
-            "item" : "REIMB FR OTH FDS-PREF PARKING"
-          }, {
-            "count" : 13,
-            "item" : "REIMB-METRO RAIL PROJECT"
-          }, {
-            "count" : 12,
-            "item" : "REIMB OF RELATED COST-PR YR"
-          }, {
-            "count" : 11,
-            "item" : "REIMBURSEMENT OF EXPENDITURES"
-          }, {
-            "count" : 10,
-            "item" : "RELATED COST REIMB-OTHERS"
-          }, {
-            "count" : 9,
-            "item" : "SALVAGE RECEIPTS"
-          }, {
-            "count" : 8,
-            "item" : "SERVICE TO WATER & POWER"
-          }, {
-            "count" : 7,
-            "item" : "SEWER CONS & MAIN RELATED COST"
-          }, {
-            "count" : 6,
-            "item" : "SPECIAL ENV IMPACT REPORT FEE"
-          }, {
-            "count" : 5,
-            "item" : "SPECIAL PROJECTS"
-          }, {
-            "count" : 4,
-            "item" : "STATE MAINTENANCE AGREEMENT"
-          }, {
-            "count" : 3,
-            "item" : "STREET NAME SIGNS"
-          }, {
-            "count" : 2,
-            "item" : "TEMPORARY TRAFFIC SIGNS"
-          }, {
-            "count" : 1,
-            "item" : "TRAFFIC COUNT FEES"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 122001179,
+        "id" : 125927422,
         "name" : "REVENUE BUDGET",
         "dataTypeName" : "money",
         "fieldName" : "revenue_budget",
@@ -294,83 +139,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15343440,
         "width" : 99,
-        "cachedContents" : {
-          "non_null" : 2289,
-          "smallest" : "20.00",
-          "sum" : "16927681393.20",
-          "null" : 542,
-          "average" : "7395229.966448231",
-          "largest" : "991080000.00",
-          "top" : [ {
-            "count" : 20,
-            "item" : "5000.00"
-          }, {
-            "count" : 19,
-            "item" : "60000.00"
-          }, {
-            "count" : 18,
-            "item" : "1000.00"
-          }, {
-            "count" : 17,
-            "item" : "2000.00"
-          }, {
-            "count" : 16,
-            "item" : "200000.00"
-          }, {
-            "count" : 15,
-            "item" : "100000.00"
-          }, {
-            "count" : 14,
-            "item" : "1000000.00"
-          }, {
-            "count" : 13,
-            "item" : "650000.00"
-          }, {
-            "count" : 12,
-            "item" : "5371073.00"
-          }, {
-            "count" : 11,
-            "item" : "5028781.00"
-          }, {
-            "count" : 10,
-            "item" : "12097719.00"
-          }, {
-            "count" : 9,
-            "item" : "10000.00"
-          }, {
-            "count" : 8,
-            "item" : "1720129.00"
-          }, {
-            "count" : 7,
-            "item" : "1216207.00"
-          }, {
-            "count" : 6,
-            "item" : "1200000.00"
-          }, {
-            "count" : 5,
-            "item" : "300000.00"
-          }, {
-            "count" : 4,
-            "item" : "1077000.00"
-          }, {
-            "count" : 3,
-            "item" : "92014.00"
-          }, {
-            "count" : 2,
-            "item" : "500000.00"
-          }, {
-            "count" : 1,
-            "item" : "1007000.00"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 122001180,
+        "id" : 125927424,
         "name" : "REVENUE COLLECTED",
         "dataTypeName" : "money",
         "fieldName" : "revenue_collected_1",
@@ -378,38 +150,10 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15343442,
         "width" : 98,
-        "cachedContents" : {
-          "non_null" : 2383,
-          "smallest" : "0.00",
-          "sum" : "12413438190.04",
-          "null" : 448,
-          "average" : "5209164.158640369",
-          "largest" : "954889207.67",
-          "top" : [ {
-            "count" : 20,
-            "item" : "303719.91"
-          }, {
-            "count" : 19,
-            "item" : "1451265.2"
-          }, {
-            "count" : 18,
-            "item" : "16667.72"
-          }, {
-            "count" : 17,
-            "item" : "3380"
-          }, {
-            "count" : 16,
-            "item" : "17026515.61"
-          } ]
-        },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       }, {
-        "id" : 122001181,
+        "id" : 125927426,
         "name" : "% REVENUE COLLECTED",
         "dataTypeName" : "percent",
         "fieldName" : "revenue_collected_2",
@@ -417,70 +161,10 @@
         "renderTypeName" : "percent",
         "tableColumnId" : 15343444,
         "width" : 218,
-        "cachedContents" : {
-          "non_null" : 2294,
-          "smallest" : "0",
-          "sum" : "407237.46",
-          "null" : 537,
-          "average" : "177.5228683522232",
-          "largest" : "43591.22",
-          "top" : [ {
-            "count" : 20,
-            "item" : "0"
-          }, {
-            "count" : 19,
-            "item" : "41.67"
-          }, {
-            "count" : 18,
-            "item" : "100"
-          }, {
-            "count" : 17,
-            "item" : "183.95"
-          }, {
-            "count" : 16,
-            "item" : "3214.96"
-          }, {
-            "count" : 15,
-            "item" : "430.66"
-          }, {
-            "count" : 14,
-            "item" : "21.59"
-          }, {
-            "count" : 13,
-            "item" : "149.22"
-          }, {
-            "count" : 12,
-            "item" : "45.59"
-          }, {
-            "count" : 11,
-            "item" : "82.11"
-          }, {
-            "count" : 10,
-            "item" : "144.12"
-          }, {
-            "count" : 9,
-            "item" : "207.29"
-          }, {
-            "count" : 8,
-            "item" : "186.33"
-          }, {
-            "count" : 7,
-            "item" : "193.5"
-          }, {
-            "count" : 6,
-            "item" : "16.67"
-          }, {
-            "count" : 5,
-            "item" : "93.33"
-          } ]
-        },
         "format" : {
-          "view" : "percent_bar_and_text",
-          "noCommas" : "false",
-          "align" : "right"
         }
       }, {
-        "id" : 122001182,
+        "id" : 125927428,
         "name" : "REVENUE CLASS NAME",
         "dataTypeName" : "text",
         "fieldName" : "revenue_class_name",
@@ -488,77 +172,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15343438,
         "width" : 220,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "ADDL INTERFD OPERATING TRANSFER",
-          "null" : 0,
-          "largest" : "ZONING AND SUBDIVISION FEE",
-          "top" : [ {
-            "count" : 20,
-            "item" : "ADDL INTERFD OPERATING TRANSFER"
-          }, {
-            "count" : 19,
-            "item" : "INTERFUND OPERATING TRANSFER"
-          }, {
-            "count" : 18,
-            "item" : "MISCELLANEOUS REVENUES"
-          }, {
-            "count" : 17,
-            "item" : "REIMB FROM OTHER FUNDS"
-          }, {
-            "count" : 16,
-            "item" : "ANIMAL SHELTER FEE & CHARGES"
-          }, {
-            "count" : 15,
-            "item" : "OTHER GEN GOVT SERVICES"
-          }, {
-            "count" : 14,
-            "item" : "ANIMAL LICENSES"
-          }, {
-            "count" : 13,
-            "item" : "OTHER LICENSES & PERMITS"
-          }, {
-            "count" : 12,
-            "item" : "OTHER FINES"
-          }, {
-            "count" : 11,
-            "item" : "ENGR INSPECTION & OTHER CHARGES"
-          }, {
-            "count" : 10,
-            "item" : "OTHER CURRENT SERVICE CHARGES"
-          }, {
-            "count" : 9,
-            "item" : "QUASI-EXTERNAL TRANSACTION"
-          }, {
-            "count" : 8,
-            "item" : "DAMAGE SETTLEMENTS"
-          }, {
-            "count" : 7,
-            "item" : "ZONING AND SUBDIVISION FEE"
-          }, {
-            "count" : 6,
-            "item" : "CULTURAL AFFAIRS REVENUES"
-          }, {
-            "count" : 5,
-            "item" : "FIRE DEPT SERVICES"
-          }, {
-            "count" : 4,
-            "item" : "PLAN CHECKING FEES"
-          }, {
-            "count" : 3,
-            "item" : "REIMB FROM OTHER AGENGIES"
-          }, {
-            "count" : 2,
-            "item" : "RENTS AND CONCESSIONS"
-          }, {
-            "count" : 1,
-            "item" : "INVESTMENT EARNINGS"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 122001183,
+        "id" : 125927429,
         "name" : "FUND",
         "dataTypeName" : "number",
         "fieldName" : "fund",
@@ -566,22 +183,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 15343433,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "100",
-          "sum" : "283100",
-          "null" : 0,
-          "average" : "100",
-          "largest" : "100",
-          "top" : [ {
-            "count" : 20,
-            "item" : "100"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 122001184,
+        "id" : 125927431,
         "name" : "REVENUE SOURCE CODE",
         "dataTypeName" : "text",
         "fieldName" : "revenue_source_code",
@@ -589,80 +194,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15343435,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "3011",
-          "null" : 0,
-          "largest" : "5742",
-          "top" : [ {
-            "count" : 20,
-            "item" : "5693"
-          }, {
-            "count" : 19,
-            "item" : "5188"
-          }, {
-            "count" : 18,
-            "item" : "5301"
-          }, {
-            "count" : 17,
-            "item" : "5340"
-          }, {
-            "count" : 16,
-            "item" : "5314"
-          }, {
-            "count" : 15,
-            "item" : "3293"
-          }, {
-            "count" : 14,
-            "item" : "5310"
-          }, {
-            "count" : 13,
-            "item" : "5311"
-          }, {
-            "count" : 12,
-            "item" : "5331"
-          }, {
-            "count" : 11,
-            "item" : "5161"
-          }, {
-            "count" : 10,
-            "item" : "5361"
-          }, {
-            "count" : 9,
-            "item" : "5142"
-          }, {
-            "count" : 8,
-            "item" : "4596"
-          }, {
-            "count" : 7,
-            "item" : "5328"
-          }, {
-            "count" : 6,
-            "item" : "4240"
-          }, {
-            "count" : 5,
-            "item" : "4291"
-          }, {
-            "count" : 4,
-            "item" : "5302"
-          }, {
-            "count" : 3,
-            "item" : "4294"
-          }, {
-            "count" : 2,
-            "item" : "4293"
-          }, {
-            "count" : 1,
-            "item" : "4654"
-          } ]
-        },
         "format" : {
-          "precisionStyle" : "standard",
-          "align" : "right",
-          "noCommas" : "false"
         }
       }, {
-        "id" : 122001185,
+        "id" : 125927432,
         "name" : "REVENUE CLASS CODE",
         "dataTypeName" : "number",
         "fieldName" : "revenue_class_code",
@@ -670,79 +205,10 @@
         "renderTypeName" : "number",
         "tableColumnId" : 15343437,
         "width" : 50,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "301",
-          "sum" : "1390244",
-          "null" : 0,
-          "average" : "491.0787707523843",
-          "largest" : "574",
-          "top" : [ {
-            "count" : 20,
-            "item" : "569"
-          }, {
-            "count" : 19,
-            "item" : "561"
-          }, {
-            "count" : 18,
-            "item" : "516"
-          }, {
-            "count" : 17,
-            "item" : "530"
-          }, {
-            "count" : 16,
-            "item" : "417"
-          }, {
-            "count" : 15,
-            "item" : "432"
-          }, {
-            "count" : 14,
-            "item" : "320"
-          }, {
-            "count" : 13,
-            "item" : "328"
-          }, {
-            "count" : 12,
-            "item" : "481"
-          }, {
-            "count" : 11,
-            "item" : "420"
-          }, {
-            "count" : 10,
-            "item" : "465"
-          }, {
-            "count" : 9,
-            "item" : "459"
-          }, {
-            "count" : 8,
-            "item" : "512"
-          }, {
-            "count" : 7,
-            "item" : "404"
-          }, {
-            "count" : 6,
-            "item" : "447"
-          }, {
-            "count" : 5,
-            "item" : "411"
-          }, {
-            "count" : 4,
-            "item" : "415"
-          }, {
-            "count" : 3,
-            "item" : "381"
-          }, {
-            "count" : 2,
-            "item" : "493"
-          }, {
-            "count" : 1,
-            "item" : "490"
-          } ]
-        },
         "format" : {
         }
       }, {
-        "id" : 122001186,
+        "id" : 125927449,
         "name" : "FUND NAME",
         "dataTypeName" : "text",
         "fieldName" : "fund_name",
@@ -750,16 +216,6 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15343434,
         "width" : 208,
-        "cachedContents" : {
-          "non_null" : 2831,
-          "smallest" : "General Fund (General Budget)",
-          "null" : 0,
-          "largest" : "General Fund (General Budget)",
-          "top" : [ {
-            "count" : 20,
-            "item" : "General Fund (General Budget)"
-          } ]
-        },
         "format" : {
         }
       } ],
@@ -770,39 +226,10 @@
       } ],
       "metadata" : {
         "custom_fields" : {
-          "Department" : {
-            "Controller" : "",
-            "Other" : ""
+          "Data Owner" : {
+            "Data Owner" : "Controller's Office"
           }
-        },
-        "renderTypeConfig" : {
-          "visible" : {
-            "table" : true
-          }
-        },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
-        "rdfSubject" : "0",
-        "filterCondition" : {
-          "value" : "AND",
-          "children" : [ {
-            "value" : "OR",
-            "type" : "operator",
-            "metadata" : {
-              "customValues" : [ [ "2013" ] ],
-              "tableColumnId" : {
-                "1262039" : 15343431
-              },
-              "operator" : "EQUALS"
-            }
-          } ],
-          "type" : "operator",
-          "metadata" : {
-            "unifiedVersion" : 2,
-            "advanced" : true
-          }
-        },
-        "rowIdentifier" : "0",
-        "rdfClass" : ""
+        }
       },
       "owner" : {
         "id" : "8vyv-xsw4",
