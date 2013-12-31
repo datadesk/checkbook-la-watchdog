@@ -7,7 +7,8 @@
       "category" : "Business & Economic Development",
       "createdAt" : 1388423426,
       "displayType" : "table",
-      "downloadCount" : 0,
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1388478340,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6991928,
@@ -104,6 +105,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270554,
         "width" : 90,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -115,6 +129,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270555,
         "width" : 86,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : false
+          }, {
+            "count" : 19,
+            "item" : true
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -126,6 +153,16 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270556,
         "width" : 115,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : true,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -137,6 +174,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17270557,
         "width" : 92,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -148,6 +189,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270558,
         "width" : 98,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -159,6 +213,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17270559,
         "width" : 92,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -170,6 +228,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270560,
         "width" : 104,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -181,6 +252,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17270561,
         "width" : 82,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -192,6 +267,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270562,
         "width" : 93,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -203,6 +291,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17270563,
         "width" : 83,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -214,6 +306,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270564,
         "width" : 104,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -225,6 +330,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17270565,
         "width" : 92,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -236,6 +345,19 @@
         "renderTypeName" : "checkbox",
         "tableColumnId" : 17270566,
         "width" : 91,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -247,6 +369,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17270567,
         "width" : 88,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       } ],
