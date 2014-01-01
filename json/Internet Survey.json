@@ -8,7 +8,7 @@
       "createdAt" : 1388423426,
       "displayType" : "table",
       "downloadCount" : 2,
-      "indexUpdatedAt" : 1388478340,
+      "indexUpdatedAt" : 1388529318,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6991928,
@@ -21,8 +21,8 @@
       "signed" : false,
       "tableId" : 1420244,
       "totalTimesRated" : 0,
-      "viewCount" : 4,
-      "viewLastModified" : 1388446776,
+      "viewCount" : 13,
+      "viewLastModified" : 1388526193,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -389,11 +389,11 @@
         }
       },
       "owner" : {
-        "id" : "mnkj-bu52",
-        "displayName" : "Controller's Office",
-        "roleName" : "administrator",
-        "screenName" : "Controller's Office",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+        "id" : "ea2j-g9m4",
+        "displayName" : "Information Technology Agency",
+        "roleName" : "publisher",
+        "screenName" : "Information Technology Agency",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
       },
       "query" : {
       },
