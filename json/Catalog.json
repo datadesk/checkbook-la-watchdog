@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 225,
+      "downloadCount" : 229,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "state" : "normal",
       "tableId" : 1181400,
       "totalTimesRated" : 0,
-      "viewCount" : 27,
+      "viewCount" : 28,
       "viewLastModified" : 1382122867,
       "viewType" : "tabular",
       "columns" : [ {
@@ -1173,9 +1173,9 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1388446331 ]
-, [ 35401459089684, "35401459089684", null, 1388430841, "865560", 1388526193, "865560", null, "<div class='typeForm'><div class=\"viewTypeCell\">Form</div></div>", null, [ "Business-Economic-Development/Internet-Survey/83ab-pc4k", "Internet Survey" ], null, null, "0", "Business & Economic Development", "internet, broadband, access, bandwidth", "0", null, null, null, null, "83ab-pc4k", "1420244", null, [ {
-    "id" : 125963843,
-    "name" : "Are you a resident of the City of Los Angeles? - Check if you are a resident",
+, [ 85290922620804, "85290922620804", null, 1388423426, "865560", 1388684540, "865560", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Business-Economic-Development/Internet-Survey/jp9n-9ju4", "Internet Survey" ], null, null, "0", "Business & Economic Development", "internet, broadband, access, bandwidth", "0", null, null, null, null, "jp9n-9ju4", "1423953", null, [ {
+    "id" : 126552028,
+    "name" : "Are you a resident of the City of Los Angeles? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident",
     "position" : 1,
@@ -1183,12 +1183,11 @@
     "tableColumnId" : 17270554,
     "width" : 90,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963844,
-    "name" : "Do you use the Internet? - Check if you use the Internet",
+    "id" : 126552029,
+    "name" : "Are you an Internet user? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "do_you_use_the_internet_check_if_you_use_the_internet",
     "position" : 2,
@@ -1196,12 +1195,11 @@
     "tableColumnId" : 17270555,
     "width" : 86,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963845,
-    "name" : "1.  Does the City have a need for faster broadband internet speeds (up to 1Gbps)?  - Check if your answer is Yes",
+    "id" : 126552030,
+    "name" : "1.  Do you have a need for faster broadband internet speeds (up to 1Gbps)?  - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes",
     "position" : 3,
@@ -1209,12 +1207,11 @@
     "tableColumnId" : 17270556,
     "width" : 115,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963846,
-    "name" : "Reason why you responded to Question #1   ",
+    "id" : 126552031,
+    "name" : "If yes, why do you need faster internet speeds?",
     "dataTypeName" : "text",
     "fieldName" : "reason_why_you_responded_to_question_1",
     "position" : 4,
@@ -1222,10 +1219,11 @@
     "tableColumnId" : 17270557,
     "width" : 92,
     "format" : {
+      "align" : "left"
     }
   }, {
-    "id" : 125963847,
-    "name" : "2.  Is there a need for a free level of broadband (even if only at 1-2Mbps speed)? - Check if your answer is Yes",
+    "id" : 126552032,
+    "name" : "2.  Is there a need for a free level of broadband (even if slower, e.g. 1-2Mbps)? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes",
     "position" : 5,
@@ -1233,12 +1231,11 @@
     "tableColumnId" : 17270558,
     "width" : 98,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963848,
-    "name" : "Reason why you responded to Question #2",
+    "id" : 126552033,
+    "name" : "If yes, why do you feel L.A. needs a free level of broadband (even if slower)?",
     "dataTypeName" : "text",
     "fieldName" : "reason_why_you_responded_to_question_2",
     "position" : 6,
@@ -1246,10 +1243,11 @@
     "tableColumnId" : 17270559,
     "width" : 92,
     "format" : {
+      "align" : "left"
     }
   }, {
-    "id" : 125963858,
-    "name" : "3.  Would you pay $75/month for a 1Gbps broadband connection? - Check if your answer is Yes",
+    "id" : 126552034,
+    "name" : "3.  Would you pay $75/month for a fast broadband connection (e.g. 1 Gbps)? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes",
     "position" : 7,
@@ -1257,12 +1255,11 @@
     "tableColumnId" : 17270560,
     "width" : 104,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963859,
-    "name" : "Reason why you responded to Question #3",
+    "id" : 126552035,
+    "name" : "If yes, why",
     "dataTypeName" : "text",
     "fieldName" : "reason_why_you_responded_to_question_3",
     "position" : 8,
@@ -1270,10 +1267,11 @@
     "tableColumnId" : 17270561,
     "width" : 82,
     "format" : {
+      "align" : "left"
     }
   }, {
-    "id" : 125963860,
-    "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it? - Check if your answer is Yes",
+    "id" : 126552036,
+    "name" : "4.  If free WiFi were limited to a slower speed (e.g. 1-2Mbps), would you use it? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes",
     "position" : 9,
@@ -1281,12 +1279,11 @@
     "tableColumnId" : 17270562,
     "width" : 93,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963861,
-    "name" : "Reason why you responded to Question #4",
+    "id" : 126552037,
+    "name" : "If yes, why would it be useful to you?",
     "dataTypeName" : "text",
     "fieldName" : "reason_why_you_responded_to_question_4",
     "position" : 10,
@@ -1294,10 +1291,11 @@
     "tableColumnId" : 17270563,
     "width" : 83,
     "format" : {
+      "align" : "left"
     }
   }, {
-    "id" : 125963862,
-    "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - Check if your answer is Yes",
+    "id" : 126552038,
+    "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes",
     "position" : 11,
@@ -1305,12 +1303,11 @@
     "tableColumnId" : 17270564,
     "width" : 104,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963863,
-    "name" : "Reason why you responded to Question #5",
+    "id" : 126552039,
+    "name" : "If yes, please explain",
     "dataTypeName" : "text",
     "fieldName" : "reason_why_you_responded_to_question_5",
     "position" : 12,
@@ -1318,10 +1315,11 @@
     "tableColumnId" : 17270565,
     "width" : 92,
     "format" : {
+      "align" : "left"
     }
   }, {
-    "id" : 125963867,
-    "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles? - Check if your answer is Yes",
+    "id" : 126552040,
+    "name" : "6.  Do you think the City of Los Angeles should contract with businesses for this effort? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes",
     "position" : 13,
@@ -1329,12 +1327,11 @@
     "tableColumnId" : 17270566,
     "width" : 91,
     "format" : {
-      "aggregate" : "count",
       "align" : "center"
     }
   }, {
-    "id" : 125963869,
-    "name" : "Reason why you responded to Question #6",
+    "id" : 126552041,
+    "name" : "If yes, why do you feel this is worth it?",
     "dataTypeName" : "text",
     "fieldName" : "reason_why_you_responded_to_question_6",
     "position" : 14,
@@ -1342,175 +1339,16 @@
     "tableColumnId" : 17270567,
     "width" : 88,
     "format" : {
-    }
-  } ], "83ab-pc4k", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, null, 1388430841, 1388526193 ]
-, [ 85290922620804, "85290922620804", null, 1388423426, "865560", 1388526193, "865560", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Business-Economic-Development/Internet-Survey/jp9n-9ju4", "Internet Survey" ], null, null, "0", "Business & Economic Development", "internet, broadband, access, bandwidth", "0", null, null, null, null, "jp9n-9ju4", "1420244", null, [ {
-    "id" : 125963620,
-    "name" : "Are you a resident of the City of Los Angeles? - Check if you are a resident",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident",
-    "position" : 1,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270554,
-    "width" : 90,
-    "format" : {
-    }
-  }, {
-    "id" : 125963625,
-    "name" : "Do you use the Internet? - Check if you use the Internet",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "do_you_use_the_internet_check_if_you_use_the_internet",
-    "position" : 2,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270555,
-    "width" : 86,
-    "format" : {
-    }
-  }, {
-    "id" : 125963637,
-    "name" : "1.  Does the City have a need for faster broadband internet speeds (up to 1Gbps)?  - Check if your answer is Yes",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes",
-    "position" : 3,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270556,
-    "width" : 115,
-    "format" : {
-    }
-  }, {
-    "id" : 125963638,
-    "name" : "Reason why you responded to Question #1   ",
-    "dataTypeName" : "text",
-    "fieldName" : "reason_why_you_responded_to_question_1",
-    "position" : 4,
-    "renderTypeName" : "text",
-    "tableColumnId" : 17270557,
-    "width" : 92,
-    "format" : {
-    }
-  }, {
-    "id" : 125963639,
-    "name" : "2.  Is there a need for a free level of broadband (even if only at 1-2Mbps speed)? - Check if your answer is Yes",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes",
-    "position" : 5,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270558,
-    "width" : 98,
-    "format" : {
-    }
-  }, {
-    "id" : 125963640,
-    "name" : "Reason why you responded to Question #2",
-    "dataTypeName" : "text",
-    "fieldName" : "reason_why_you_responded_to_question_2",
-    "position" : 6,
-    "renderTypeName" : "text",
-    "tableColumnId" : 17270559,
-    "width" : 92,
-    "format" : {
-    }
-  }, {
-    "id" : 125963641,
-    "name" : "3.  Would you pay $75/month for a 1Gbps broadband connection? - Check if your answer is Yes",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes",
-    "position" : 7,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270560,
-    "width" : 104,
-    "format" : {
-    }
-  }, {
-    "id" : 125963642,
-    "name" : "Reason why you responded to Question #3",
-    "dataTypeName" : "text",
-    "fieldName" : "reason_why_you_responded_to_question_3",
-    "position" : 8,
-    "renderTypeName" : "text",
-    "tableColumnId" : 17270561,
-    "width" : 82,
-    "format" : {
-    }
-  }, {
-    "id" : 125963654,
-    "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it? - Check if your answer is Yes",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes",
-    "position" : 9,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270562,
-    "width" : 93,
-    "format" : {
-    }
-  }, {
-    "id" : 125963659,
-    "name" : "Reason why you responded to Question #4",
-    "dataTypeName" : "text",
-    "fieldName" : "reason_why_you_responded_to_question_4",
-    "position" : 10,
-    "renderTypeName" : "text",
-    "tableColumnId" : 17270563,
-    "width" : 83,
-    "format" : {
-    }
-  }, {
-    "id" : 125963660,
-    "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - Check if your answer is Yes",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes",
-    "position" : 11,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270564,
-    "width" : 104,
-    "format" : {
-    }
-  }, {
-    "id" : 125963661,
-    "name" : "Reason why you responded to Question #5",
-    "dataTypeName" : "text",
-    "fieldName" : "reason_why_you_responded_to_question_5",
-    "position" : 12,
-    "renderTypeName" : "text",
-    "tableColumnId" : 17270565,
-    "width" : 92,
-    "format" : {
-    }
-  }, {
-    "id" : 125963662,
-    "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles? - Check if your answer is Yes",
-    "dataTypeName" : "checkbox",
-    "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes",
-    "position" : 13,
-    "renderTypeName" : "checkbox",
-    "tableColumnId" : 17270566,
-    "width" : 91,
-    "format" : {
-    }
-  }, {
-    "id" : 125963663,
-    "name" : "Reason why you responded to Question #6",
-    "dataTypeName" : "text",
-    "fieldName" : "reason_why_you_responded_to_question_6",
-    "position" : 14,
-    "renderTypeName" : "text",
-    "tableColumnId" : 17270567,
-    "width" : 88,
-    "format" : {
+      "align" : "left"
     }
   } ], "jp9n-9ju4", {
     "Data Owner" : {
       "Data Owner" : "Controller's Office"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, null, 1388423426, 1388526193 ]
-, [ 147095454343389, "147095454343389", null, 1388424443, "865560", 1388526164, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Business-Economic-Development/Internet-Survey-Chart/xsxk-ju3t", "Internet Survey Chart" ], null, null, "0", "Business & Economic Development", "internet, broadband, access, bandwidth", "0", null, null, null, null, "xsxk-ju3t", "1420244", null, [ {
-    "id" : 125963829,
-    "name" : "Are you a resident of the City of Los Angeles? - Check if you are a resident",
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, null, 1388423426, 1388684540 ]
+, [ 147095454343389, "147095454343389", null, 1388424443, "865560", 1388684539, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Business-Economic-Development/Internet-Survey-Chart/xsxk-ju3t", "Internet Survey Chart" ], null, null, "0", "Business & Economic Development", "internet, broadband, access, bandwidth", "0", null, null, null, null, "xsxk-ju3t", "1423953", null, [ {
+    "id" : 126555229,
+    "name" : "Are you a resident of the City of Los Angeles? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident",
     "position" : 1,
@@ -1523,8 +1361,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963830,
-    "name" : "Do you use the Internet? - Check if you use the Internet",
+    "id" : 126555230,
+    "name" : "Are you an Internet user? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "do_you_use_the_internet_check_if_you_use_the_internet",
     "position" : 2,
@@ -1537,8 +1375,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963831,
-    "name" : "1.  Does the City have a need for faster broadband internet speeds (up to 1Gbps)?  - Check if your answer is Yes",
+    "id" : 126555231,
+    "name" : "1.  Do you have a need for faster broadband internet speeds (up to 1Gbps)?  - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes",
     "position" : 3,
@@ -1551,8 +1389,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963833,
-    "name" : "2.  Is there a need for a free level of broadband (even if only at 1-2Mbps speed)? - Check if your answer is Yes",
+    "id" : 126555233,
+    "name" : "2.  Is there a need for a free level of broadband (even if slower, e.g. 1-2Mbps)? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes",
     "position" : 4,
@@ -1565,8 +1403,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963835,
-    "name" : "3.  Would you pay $75/month for a 1Gbps broadband connection? - Check if your answer is Yes",
+    "id" : 126555235,
+    "name" : "3.  Would you pay $75/month for a fast broadband connection (e.g. 1 Gbps)? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes",
     "position" : 5,
@@ -1579,8 +1417,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963837,
-    "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it? - Check if your answer is Yes",
+    "id" : 126555237,
+    "name" : "4.  If free WiFi were limited to a slower speed (e.g. 1-2Mbps), would you use it? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes",
     "position" : 6,
@@ -1593,8 +1431,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963839,
-    "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - Check if your answer is Yes",
+    "id" : 126555239,
+    "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes",
     "position" : 7,
@@ -1607,8 +1445,8 @@
       "align" : "center"
     }
   }, {
-    "id" : 125963841,
-    "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles? - Check if your answer is Yes",
+    "id" : 126555241,
+    "name" : "6.  Do you think the City of Los Angeles should contract with businesses for this effort? - If yes, check here:",
     "dataTypeName" : "checkbox",
     "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes",
     "position" : 8,
@@ -1625,7 +1463,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, null, 1388424443, 1388526164 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, null, 1388424443, 1388684539 ]
 , [ 10403608879773, "10403608879773", null, 1382970365, "858342", 1388446853, "858342", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Law-Firms-NAMED/2np7-qmat", "Law Firms - NAMED" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "2np7-qmat", "1420245", null, [ {
     "id" : 125965615,
     "name" : "VENDOR NAME",
@@ -9120,6 +8958,478 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047669, 1385145669 ]
+, [ 66123376117577, "66123376117577", null, 1383870766, "860854", 1388703779, "860854", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures/f2ec-m4t9", "Neighborhood Council Expenditures" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "f2ec-m4t9", "1337464", null, [ {
+    "id" : 113633979,
+    "name" : "BFY",
+    "dataTypeName" : "number",
+    "fieldName" : "bfy",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072705,
+    "width" : 56,
+    "format" : {
+    }
+  }, {
+    "id" : 113633980,
+    "name" : "Appr",
+    "dataTypeName" : "number",
+    "fieldName" : "appr",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072706,
+    "width" : 79,
+    "format" : {
+    }
+  }, {
+    "id" : 113633981,
+    "name" : "Neighborhood Council",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood_council",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072707,
+    "width" : 205,
+    "format" : {
+    }
+  }, {
+    "id" : 113633982,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 16072708,
+    "width" : 93,
+    "format" : {
+    }
+  }, {
+    "id" : 113633983,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072709,
+    "width" : 254,
+    "format" : {
+    }
+  }, {
+    "id" : 113633984,
+    "name" : "Vendor Name",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072710,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 113633985,
+    "name" : "Spending Category",
+    "dataTypeName" : "text",
+    "fieldName" : "spending_category",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072711,
+    "width" : 150,
+    "format" : {
+    }
+  }, {
+    "id" : 113633986,
+    "name" : "Task",
+    "dataTypeName" : "text",
+    "fieldName" : "task",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072712,
+    "width" : 177,
+    "format" : {
+    }
+  }, {
+    "id" : 113633987,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+    }
+  } ], "f2ec-m4t9", {
+    "Data Owner" : {
+      "Data Owner" : "Controller's Office"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ajd3-jp8q", "Sevak Paramazian" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1383870766, 1388703779 ]
+, [ 70652416862288, "70652416862288", null, 1383956085, "860854", 1388700580, "860854", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Pie-Chart/g48c-dqxg", "Pie Chart" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "g48c-dqxg", "1337464", null, [ {
+    "id" : 125967929,
+    "name" : "Neighborhood Council",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood_council",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072707,
+    "width" : 235,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 125967935,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "g48c-dqxg", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ajd3-jp8q", "Sevak Paramazian" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1383956085, 1388700580 ]
+, [ 70922904151008, "70922904151008", null, 1384564400, "860854", 1388700564, "860854", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Bar-Chart/g846-wyfw", "Bar Chart" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "g846-wyfw", "1337464", null, [ {
+    "id" : 125967920,
+    "name" : "Neighborhood Council",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood_council",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072707,
+    "width" : 235,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 125967926,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "g846-wyfw", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ajd3-jp8q", "Sevak Paramazian" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384564400, 1388700564 ]
+, [ 88957581280903, "88957581280903", null, 1384369711, "862308", 1388447008, "862308", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/neighb-council-expend-los-angeles-/kewd-24q7", "neighb council expend \"los angeles\"" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "kewd-24q7", "1337464", null, [ {
+    "id" : 125967954,
+    "name" : "BFY",
+    "dataTypeName" : "number",
+    "fieldName" : "bfy",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072705,
+    "width" : 56,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 125967955,
+    "name" : "Appr",
+    "dataTypeName" : "number",
+    "fieldName" : "appr",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072706,
+    "width" : 79,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 125967956,
+    "name" : "Neighborhood Council",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood_council",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072707,
+    "width" : 205,
+    "format" : {
+    }
+  }, {
+    "id" : 125967957,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 16072708,
+    "width" : 93,
+    "format" : {
+    }
+  }, {
+    "id" : 125967958,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072709,
+    "width" : 254,
+    "format" : {
+    }
+  }, {
+    "id" : 125967959,
+    "name" : "Vendor Name",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072710,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 125967960,
+    "name" : "Spending Category",
+    "dataTypeName" : "text",
+    "fieldName" : "spending_category",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072711,
+    "width" : 150,
+    "format" : {
+    }
+  }, {
+    "id" : 125967961,
+    "name" : "Task",
+    "dataTypeName" : "text",
+    "fieldName" : "task",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072712,
+    "width" : 177,
+    "format" : {
+    }
+  }, {
+    "id" : 125967962,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "kewd-24q7", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/9eac-mkfx", "Sara" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384369711, 1388447008 ]
+, [ 90196647999504, "90196647999504", null, 1386445458, "866040", 1388447005, "866040", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/test/kwyb-avwg", "test" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "kwyb-avwg", "1337464", null, [ {
+    "id" : 125967909,
+    "name" : "BFY",
+    "dataTypeName" : "number",
+    "fieldName" : "bfy",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072705,
+    "width" : 56,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 125967910,
+    "name" : "Appr",
+    "dataTypeName" : "number",
+    "fieldName" : "appr",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 16072706,
+    "width" : 79,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 125967911,
+    "name" : "Neighborhood Council",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood_council",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072707,
+    "width" : 205,
+    "format" : {
+    }
+  }, {
+    "id" : 125967912,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 16072708,
+    "width" : 93,
+    "format" : {
+    }
+  }, {
+    "id" : 125967913,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072709,
+    "width" : 254,
+    "format" : {
+    }
+  }, {
+    "id" : 125967914,
+    "name" : "Vendor Name",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072710,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 125967915,
+    "name" : "Spending Category",
+    "dataTypeName" : "text",
+    "fieldName" : "spending_category",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072711,
+    "width" : 150,
+    "format" : {
+    }
+  }, {
+    "id" : 125967916,
+    "name" : "Task",
+    "dataTypeName" : "text",
+    "fieldName" : "task",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072712,
+    "width" : 177,
+    "format" : {
+    }
+  }, {
+    "id" : 125967917,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "kwyb-avwg", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1386445458, 1388447005 ]
+, [ 123507657950021, "123507657950021", null, 1384887600, "849676", 1388700621, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-by-Task/s5hu-54d5", "Neighborhood Council Expenditures by Task" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "s5hu-54d5", "1337464", null, [ {
+    "id" : 125967943,
+    "name" : "Task",
+    "dataTypeName" : "text",
+    "fieldName" : "task",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16072712,
+    "width" : 207,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 125967944,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "s5hu-54d5", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384887600, 1388700621 ]
+, [ 145980856857886, "145980856857886", null, 1384300096, "849676", 1388700644, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-Over-Time/xcjh-7vku", "Neighborhood Council Expenditures Over Time" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "xcjh-7vku", "1337464", null, [ {
+    "id" : 125967948,
+    "name" : "Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date",
+    "position" : 1,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 16072708,
+    "width" : 123,
+    "format" : {
+      "group_function" : "date_ymd",
+      "drill_down" : "true",
+      "view" : "date"
+    }
+  }, {
+    "id" : 125967953,
+    "name" : "Expenditure",
+    "dataTypeName" : "money",
+    "fieldName" : "expenditure",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 16072713,
+    "width" : 97,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "xcjh-7vku", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "Department of Neighborhood Empowerment"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384300096, 1388700644 ]
 , [ 45589102977546, "45589102977546", null, 1384368127, "849676", 1388447000, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Los-Angeles-City-Payroll-Calendar/anqa-iu8a", "Los Angeles City Payroll Calendar" ], null, "Payroll Calendar for the City of Los Angeles, 2013-2016.", "0", null, "", "0", null, null, null, null, "anqa-iu8a", "1420249", null, [ {
     "id" : 125967897,
     "name" : "Year",

@@ -10,22 +10,22 @@
       "createdAt" : 1383870766,
       "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment",
       "displayType" : "table",
-      "downloadCount" : 9548,
-      "indexUpdatedAt" : 1386464064,
+      "downloadCount" : 9687,
+      "indexUpdatedAt" : 1388466367,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6313733,
+      "oid" : 6331522,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1383946122,
+      "publicationDate" : 1388447010,
       "publicationGroup" : 1333874,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1383871630,
-      "rowsUpdatedBy" : "mnkj-bu52",
+      "rowsUpdatedAt" : 1383955657,
+      "rowsUpdatedBy" : "ajd3-jp8q",
       "signed" : false,
-      "tableId" : 1333914,
+      "tableId" : 1337464,
       "totalTimesRated" : 0,
-      "viewCount" : 274,
-      "viewLastModified" : 1383978382,
+      "viewCount" : 277,
+      "viewLastModified" : 1388703779,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -100,7 +100,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322695,
+        "id" : 113633979,
         "name" : "BFY",
         "dataTypeName" : "number",
         "fieldName" : "bfy",
@@ -127,12 +127,9 @@
           } ]
         },
         "format" : {
-          "precisionStyle" : "standard",
-          "align" : "right",
-          "noCommas" : "true"
         }
       }, {
-        "id" : 113322696,
+        "id" : 113633980,
         "name" : "Appr",
         "dataTypeName" : "number",
         "fieldName" : "appr",
@@ -210,12 +207,9 @@
           } ]
         },
         "format" : {
-          "precisionStyle" : "standard",
-          "align" : "right",
-          "noCommas" : "true"
         }
       }, {
-        "id" : 113322697,
+        "id" : 113633981,
         "name" : "Neighborhood Council",
         "dataTypeName" : "text",
         "fieldName" : "neighborhood_council",
@@ -293,7 +287,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322698,
+        "id" : 113633982,
         "name" : "Date",
         "dataTypeName" : "calendar_date",
         "fieldName" : "date",
@@ -371,7 +365,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322699,
+        "id" : 113633983,
         "name" : "Description",
         "dataTypeName" : "text",
         "fieldName" : "description",
@@ -422,7 +416,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322700,
+        "id" : 113633984,
         "name" : "Vendor Name",
         "dataTypeName" : "text",
         "fieldName" : "vendor_name",
@@ -500,7 +494,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322701,
+        "id" : 113633985,
         "name" : "Spending Category",
         "dataTypeName" : "text",
         "fieldName" : "spending_category",
@@ -530,7 +524,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322702,
+        "id" : 113633986,
         "name" : "Task",
         "dataTypeName" : "text",
         "fieldName" : "task",
@@ -605,7 +599,7 @@
         "format" : {
         }
       }, {
-        "id" : 113322703,
+        "id" : 113633987,
         "name" : "Expenditure",
         "dataTypeName" : "money",
         "fieldName" : "expenditure",
@@ -683,10 +677,6 @@
           } ]
         },
         "format" : {
-          "aggregate" : "sum",
-          "humane" : "false",
-          "currency" : "USD",
-          "align" : "right"
         }
       } ],
       "grants" : [ {
@@ -696,9 +686,8 @@
       } ],
       "metadata" : {
         "custom_fields" : {
-          "Department" : {
-            "Controller" : "",
-            "Other" : "Department of Neighborhood Empowerment"
+          "Data Owner" : {
+            "Data Owner" : "Controller's Office"
           }
         },
         "renderTypeConfig" : {
@@ -706,34 +695,7 @@
             "table" : true
           }
         },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
-        "filterCondition" : {
-          "value" : "AND",
-          "children" : [ {
-            "value" : "OR",
-            "type" : "operator",
-            "metadata" : {
-              "tableColumnId" : {
-                "1333874" : 16072707
-              },
-              "operator" : "EQUALS"
-            }
-          }, {
-            "value" : "OR",
-            "type" : "operator",
-            "metadata" : {
-              "tableColumnId" : {
-                "1333874" : 16072710
-              },
-              "operator" : "CONTAINS"
-            }
-          } ],
-          "type" : "operator",
-          "metadata" : {
-            "unifiedVersion" : 2,
-            "advanced" : true
-          }
-        }
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
       },
       "owner" : {
         "id" : "ajd3-jp8q",

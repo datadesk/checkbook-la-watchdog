@@ -8,21 +8,21 @@
       "createdAt" : 1388423426,
       "displayType" : "table",
       "downloadCount" : 10,
-      "indexUpdatedAt" : 1388529318,
+      "indexUpdatedAt" : 1388685704,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6991928,
+      "oid" : 7023518,
       "publicationAppendEnabled" : true,
-      "publicationDate" : 1388446776,
+      "publicationDate" : 1388684540,
       "publicationGroup" : 1419809,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1388446768,
-      "rowsUpdatedBy" : "vcvp-yass",
+      "rowsUpdatedAt" : 1388684042,
+      "rowsUpdatedBy" : "ea2j-g9m4",
       "signed" : false,
-      "tableId" : 1420244,
+      "tableId" : 1423953,
       "totalTimesRated" : 0,
       "viewCount" : 15,
-      "viewLastModified" : 1388526193,
+      "viewLastModified" : 1388684540,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -97,8 +97,8 @@
         "format" : {
         }
       }, {
-        "id" : 125963620,
-        "name" : "Are you a resident of the City of Los Angeles? - Check if you are a resident",
+        "id" : 126552028,
+        "name" : "Are you a resident of the City of Los Angeles? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident",
         "position" : 1,
@@ -119,10 +119,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963625,
-        "name" : "Do you use the Internet? - Check if you use the Internet",
+        "id" : 126552029,
+        "name" : "Are you an Internet user? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "do_you_use_the_internet_check_if_you_use_the_internet",
         "position" : 2,
@@ -143,10 +144,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963637,
-        "name" : "1.  Does the City have a need for faster broadband internet speeds (up to 1Gbps)?  - Check if your answer is Yes",
+        "id" : 126552030,
+        "name" : "1.  Do you have a need for faster broadband internet speeds (up to 1Gbps)?  - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes",
         "position" : 3,
@@ -164,10 +166,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963638,
-        "name" : "Reason why you responded to Question #1   ",
+        "id" : 126552031,
+        "name" : "If yes, why do you need faster internet speeds?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_1",
         "position" : 4,
@@ -179,10 +182,11 @@
           "null" : 7
         },
         "format" : {
+          "align" : "left"
         }
       }, {
-        "id" : 125963639,
-        "name" : "2.  Is there a need for a free level of broadband (even if only at 1-2Mbps speed)? - Check if your answer is Yes",
+        "id" : 126552032,
+        "name" : "2.  Is there a need for a free level of broadband (even if slower, e.g. 1-2Mbps)? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes",
         "position" : 5,
@@ -203,10 +207,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963640,
-        "name" : "Reason why you responded to Question #2",
+        "id" : 126552033,
+        "name" : "If yes, why do you feel L.A. needs a free level of broadband (even if slower)?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_2",
         "position" : 6,
@@ -218,10 +223,11 @@
           "null" : 7
         },
         "format" : {
+          "align" : "left"
         }
       }, {
-        "id" : 125963641,
-        "name" : "3.  Would you pay $75/month for a 1Gbps broadband connection? - Check if your answer is Yes",
+        "id" : 126552034,
+        "name" : "3.  Would you pay $75/month for a fast broadband connection (e.g. 1 Gbps)? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes",
         "position" : 7,
@@ -242,10 +248,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963642,
-        "name" : "Reason why you responded to Question #3",
+        "id" : 126552035,
+        "name" : "If yes, why",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_3",
         "position" : 8,
@@ -257,10 +264,11 @@
           "null" : 7
         },
         "format" : {
+          "align" : "left"
         }
       }, {
-        "id" : 125963654,
-        "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it? - Check if your answer is Yes",
+        "id" : 126552036,
+        "name" : "4.  If free WiFi were limited to a slower speed (e.g. 1-2Mbps), would you use it? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes",
         "position" : 9,
@@ -281,10 +289,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963659,
-        "name" : "Reason why you responded to Question #4",
+        "id" : 126552037,
+        "name" : "If yes, why would it be useful to you?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_4",
         "position" : 10,
@@ -296,10 +305,11 @@
           "null" : 7
         },
         "format" : {
+          "align" : "left"
         }
       }, {
-        "id" : 125963660,
-        "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - Check if your answer is Yes",
+        "id" : 126552038,
+        "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes",
         "position" : 11,
@@ -320,10 +330,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963661,
-        "name" : "Reason why you responded to Question #5",
+        "id" : 126552039,
+        "name" : "If yes, please explain",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_5",
         "position" : 12,
@@ -335,10 +346,11 @@
           "null" : 7
         },
         "format" : {
+          "align" : "left"
         }
       }, {
-        "id" : 125963662,
-        "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles? - Check if your answer is Yes",
+        "id" : 126552040,
+        "name" : "6.  Do you think the City of Los Angeles should contract with businesses for this effort? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes",
         "position" : 13,
@@ -359,10 +371,11 @@
           } ]
         },
         "format" : {
+          "align" : "center"
         }
       }, {
-        "id" : 125963663,
-        "name" : "Reason why you responded to Question #6",
+        "id" : 126552041,
+        "name" : "If yes, why do you feel this is worth it?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_6",
         "position" : 14,
@@ -374,6 +387,7 @@
           "null" : 7
         },
         "format" : {
+          "align" : "left"
         }
       } ],
       "grants" : [ {
@@ -386,7 +400,13 @@
           "Data Owner" : {
             "Data Owner" : "Controller's Office"
           }
-        }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
       },
       "owner" : {
         "id" : "ea2j-g9m4",
@@ -399,11 +419,11 @@
       },
       "rights" : [ "read" ],
       "tableAuthor" : {
-        "id" : "mnkj-bu52",
-        "displayName" : "Controller's Office",
-        "roleName" : "administrator",
-        "screenName" : "Controller's Office",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+        "id" : "ea2j-g9m4",
+        "displayName" : "Information Technology Agency",
+        "roleName" : "publisher",
+        "screenName" : "Information Technology Agency",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
       },
       "tags" : [ "internet", "broadband", "access", "bandwidth" ],
       "flags" : [ "default" ]
