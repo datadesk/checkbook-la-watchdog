@@ -1,0 +1,410 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "pbtq-bfnm",
+      "name" : "Broadband Internet Survey",
+      "attribution" : "Individual",
+      "averageRating" : 0,
+      "category" : "Internal",
+      "createdAt" : 1388772812,
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1388791601,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7036450,
+      "publicationAppendEnabled" : true,
+      "publicationDate" : 1388791154,
+      "publicationGroup" : 1425617,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1388791045,
+      "rowsUpdatedBy" : "ea2j-g9m4",
+      "signed" : false,
+      "tableId" : 1425902,
+      "totalTimesRated" : 0,
+      "viewCount" : 10,
+      "viewLastModified" : 1388791154,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 126784627,
+        "name" : "Are you a resident of the City of Los Angeles?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+        "position" : 1,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358746,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "9dkq-njvw",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "4zwu-q9v7",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784628,
+        "name" : "Do you use the Internet?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "do_you_use_the_internet",
+        "position" : 2,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358747,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "gurs-tw72",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "mx6c-q3y9",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784629,
+        "name" : "1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_speeds_up_to_1gbps",
+        "position" : 3,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358776,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "5anu-ux4v",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "bmx7-eq3e",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784630,
+        "name" : "Reason Question #1",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_why_you_responded_to_question_1",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17358803,
+        "width" : 100,
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784631,
+        "name" : "2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_1_2mbps",
+        "position" : 5,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358787,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "386a-hq2e",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "gehu-buk6",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784632,
+        "name" : "Reason Question #2",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_why_you_responded_to_question_2",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17358804,
+        "width" : 100,
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784633,
+        "name" : "3.  Would you Pay $75/month for a 1Gbps broadband connection?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection",
+        "position" : 7,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358832,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "cift-k5y7",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "nikk-zyqa",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784634,
+        "name" : "Reason Question #3",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_why_you_responded_to_question_3",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17358833,
+        "width" : 100,
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784635,
+        "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it",
+        "position" : 9,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358856,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "crvk-jtjv",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "n2vm-x4wm",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784636,
+        "name" : "Reason Question #4",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_why_you_responded_to_question_4",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17358857,
+        "width" : 100,
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784637,
+        "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month",
+        "position" : 11,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358858,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "k7vc-dup2",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "xds3-uvz5",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784638,
+        "name" : "Reason Question #5",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_why_you_responded_to_question_5",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17358859,
+        "width" : 100,
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784639,
+        "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?",
+        "dataTypeName" : "drop_down_list",
+        "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles",
+        "position" : 13,
+        "renderTypeName" : "drop_down_list",
+        "tableColumnId" : 17358860,
+        "width" : 100,
+        "dropDown" : {
+          "values" : [ {
+            "id" : "kpc7-w65g",
+            "deleted" : false,
+            "description" : "Yes"
+          }, {
+            "id" : "vcr2-iqs2",
+            "deleted" : false,
+            "description" : "No"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 126784640,
+        "name" : "Reason Question #6",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_why_you_responded_to_question_6",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17358861,
+        "width" : 100,
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : "ITA"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "ea2j-g9m4",
+        "displayName" : "Information Technology Agency",
+        "roleName" : "publisher",
+        "screenName" : "Information Technology Agency",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ea2j-g9m4",
+        "displayName" : "Information Technology Agency",
+        "roleName" : "publisher",
+        "screenName" : "Information Technology Agency",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "tags" : [ "broadband", "internet", "survey" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E6A896CD-B0C8-46FF-BFDD-701708A829FC", 1, 1388773485, "865560", 1388773485, "865560", null, "9dkq-njvw", "gurs-tw72", "5anu-ux4v", "Response #1", "386a-hq2e", "Response #1", "cift-k5y7", "Response #1", "crvk-jtjv", "Response #1", "k7vc-dup2", "Response #1", "kpc7-w65g", "Response #1" ]
+, [ 2, "D633DDF4-BB74-4F34-B289-2D041FFD3694", 2, 1388773536, "865560", 1388773536, "865560", null, "4zwu-q9v7", "mx6c-q3y9", "bmx7-eq3e", "Response #2", "gehu-buk6", "Response #2", "nikk-zyqa", "Response #2", "n2vm-x4wm", "Response #2", "xds3-uvz5", "Response #2", "vcr2-iqs2", "Response #2" ]
+, [ 3, "5CF227ED-5D3F-4F57-BC8D-F22AF8F98A10", 3, 1388773591, "865560", 1388773591, "865560", null, "9dkq-njvw", "mx6c-q3y9", "5anu-ux4v", "Response #3", "gehu-buk6", "Response #3", "cift-k5y7", "Response #3", "n2vm-x4wm", "Response #3", "k7vc-dup2", "Response #3", "vcr2-iqs2", "Response #3" ]
+, [ 4, "8470729E-44E4-4182-9584-0CA06D304BDC", 4, 1388773651, "865560", 1388773651, "865560", null, "9dkq-njvw", "gurs-tw72", "bmx7-eq3e", "Response #4", "gehu-buk6", "Response #3", "cift-k5y7", "Response #3", "crvk-jtjv", "Response #3", "xds3-uvz5", "Response #3", "vcr2-iqs2", "Response #3" ]
+ ]
+}

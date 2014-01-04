@@ -8,21 +8,21 @@
       "createdAt" : 1388423426,
       "displayType" : "table",
       "downloadCount" : 14,
-      "indexUpdatedAt" : 1388685704,
+      "indexUpdatedAt" : 1388769760,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 7023518,
+      "oid" : 7033810,
       "publicationAppendEnabled" : true,
-      "publicationDate" : 1388684540,
+      "publicationDate" : 1388768093,
       "publicationGroup" : 1419809,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1388684042,
+      "rowsUpdatedAt" : 1388767618,
       "rowsUpdatedBy" : "ea2j-g9m4",
       "signed" : false,
-      "tableId" : 1423953,
+      "tableId" : 1425464,
       "totalTimesRated" : 0,
-      "viewCount" : 15,
-      "viewLastModified" : 1388684540,
+      "viewCount" : 23,
+      "viewLastModified" : 1388768093,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -97,7 +97,7 @@
         "format" : {
         }
       }, {
-        "id" : 126552028,
+        "id" : 126744774,
         "name" : "Are you a resident of the City of Los Angeles? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident",
@@ -122,7 +122,7 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552029,
+        "id" : 126744775,
         "name" : "Are you an Internet user? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "do_you_use_the_internet_check_if_you_use_the_internet",
@@ -147,8 +147,8 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552030,
-        "name" : "1.  Do you have a need for faster broadband internet speeds (up to 1Gbps)?  - If yes, check here:",
+        "id" : 126744776,
+        "name" : "1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?  - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes",
         "position" : 3,
@@ -169,8 +169,8 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552031,
-        "name" : "If yes, why do you need faster internet speeds?",
+        "id" : 126744777,
+        "name" : "If yes, why do you feel the City needs faster broadband speeds?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_1",
         "position" : 4,
@@ -185,8 +185,8 @@
           "align" : "left"
         }
       }, {
-        "id" : 126552032,
-        "name" : "2.  Is there a need for a free level of broadband (even if slower, e.g. 1-2Mbps)? - If yes, check here:",
+        "id" : 126744778,
+        "name" : "2.  Is there a need for a free level of broadband (even if only 1-2Mbps)? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes",
         "position" : 5,
@@ -210,8 +210,8 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552033,
-        "name" : "If yes, why do you feel L.A. needs a free level of broadband (even if slower)?",
+        "id" : 126744779,
+        "name" : "If yes, why do you feel there is a need for a free level of broadband?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_2",
         "position" : 6,
@@ -226,8 +226,8 @@
           "align" : "left"
         }
       }, {
-        "id" : 126552034,
-        "name" : "3.  Would you pay $75/month for a fast broadband connection (e.g. 1 Gbps)? - If yes, check here:",
+        "id" : 126744780,
+        "name" : "3.  Would you pay $75/month for a 1 Gbps broadband connection? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes",
         "position" : 7,
@@ -251,8 +251,8 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552035,
-        "name" : "If yes, why",
+        "id" : 126744781,
+        "name" : "If yes, why?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_3",
         "position" : 8,
@@ -267,8 +267,8 @@
           "align" : "left"
         }
       }, {
-        "id" : 126552036,
-        "name" : "4.  If free WiFi were limited to a slower speed (e.g. 1-2Mbps), would you use it? - If yes, check here:",
+        "id" : 126744782,
+        "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes",
         "position" : 9,
@@ -292,8 +292,8 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552037,
-        "name" : "If yes, why would it be useful to you?",
+        "id" : 126744783,
+        "name" : "If yes, why and how would you use it?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_4",
         "position" : 10,
@@ -308,7 +308,7 @@
           "align" : "left"
         }
       }, {
-        "id" : 126552038,
+        "id" : 126744784,
         "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes",
@@ -333,7 +333,7 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552039,
+        "id" : 126744785,
         "name" : "If yes, please explain",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_5",
@@ -349,8 +349,8 @@
           "align" : "left"
         }
       }, {
-        "id" : 126552040,
-        "name" : "6.  Do you think the City of Los Angeles should contract with businesses for this effort? - If yes, check here:",
+        "id" : 126744786,
+        "name" : "6.  Do you think the City of Los Angeles should go out to bid to see if here is a vendor that can deliver this project for the City of Los Angeles?  - If yes, check here:",
         "dataTypeName" : "checkbox",
         "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes",
         "position" : 13,
@@ -374,8 +374,8 @@
           "align" : "center"
         }
       }, {
-        "id" : 126552041,
-        "name" : "If yes, why do you feel this is worth it?",
+        "id" : 126744787,
+        "name" : "If yes, why do you feel the City should go out to bid?",
         "dataTypeName" : "text",
         "fieldName" : "reason_why_you_responded_to_question_6",
         "position" : 14,
