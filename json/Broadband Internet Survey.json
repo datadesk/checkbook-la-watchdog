@@ -106,6 +106,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358746,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "4zwu-q9v7",
+          "null" : 0,
+          "largest" : "9dkq-njvw",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9dkq-njvw"
+          }, {
+            "count" : 19,
+            "item" : "4zwu-q9v7"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "9dkq-njvw",
@@ -130,6 +143,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358747,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "mx6c-q3y9",
+          "null" : 0,
+          "largest" : "gurs-tw72",
+          "top" : [ {
+            "count" : 20,
+            "item" : "gurs-tw72"
+          }, {
+            "count" : 19,
+            "item" : "mx6c-q3y9"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "gurs-tw72",
@@ -154,6 +180,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358776,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "bmx7-eq3e",
+          "null" : 0,
+          "largest" : "5anu-ux4v",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5anu-ux4v"
+          }, {
+            "count" : 19,
+            "item" : "bmx7-eq3e"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "5anu-ux4v",
@@ -178,6 +217,25 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17358803,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Response #1",
+          "null" : 0,
+          "largest" : "Response #4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Response #1"
+          }, {
+            "count" : 19,
+            "item" : "Response #2"
+          }, {
+            "count" : 18,
+            "item" : "Response #3"
+          }, {
+            "count" : 17,
+            "item" : "Response #4"
+          } ]
+        },
         "format" : {
           "align" : "left"
         }
@@ -190,6 +248,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358787,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "gehu-buk6",
+          "null" : 0,
+          "largest" : "386a-hq2e",
+          "top" : [ {
+            "count" : 20,
+            "item" : "386a-hq2e"
+          }, {
+            "count" : 19,
+            "item" : "gehu-buk6"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "386a-hq2e",
@@ -214,6 +285,22 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17358804,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Response #1",
+          "null" : 0,
+          "largest" : "Response #3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Response #1"
+          }, {
+            "count" : 19,
+            "item" : "Response #2"
+          }, {
+            "count" : 18,
+            "item" : "Response #3"
+          } ]
+        },
         "format" : {
           "align" : "left"
         }
@@ -226,6 +313,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358832,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "nikk-zyqa",
+          "null" : 0,
+          "largest" : "cift-k5y7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "cift-k5y7"
+          }, {
+            "count" : 19,
+            "item" : "nikk-zyqa"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "cift-k5y7",
@@ -250,6 +350,22 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17358833,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Response #1",
+          "null" : 0,
+          "largest" : "Response #3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Response #1"
+          }, {
+            "count" : 19,
+            "item" : "Response #2"
+          }, {
+            "count" : 18,
+            "item" : "Response #3"
+          } ]
+        },
         "format" : {
           "align" : "left"
         }
@@ -262,6 +378,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358856,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "n2vm-x4wm",
+          "null" : 0,
+          "largest" : "crvk-jtjv",
+          "top" : [ {
+            "count" : 20,
+            "item" : "crvk-jtjv"
+          }, {
+            "count" : 19,
+            "item" : "n2vm-x4wm"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "crvk-jtjv",
@@ -286,6 +415,22 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17358857,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Response #1",
+          "null" : 0,
+          "largest" : "Response #3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Response #1"
+          }, {
+            "count" : 19,
+            "item" : "Response #2"
+          }, {
+            "count" : 18,
+            "item" : "Response #3"
+          } ]
+        },
         "format" : {
           "align" : "left"
         }
@@ -298,6 +443,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358858,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "xds3-uvz5",
+          "null" : 0,
+          "largest" : "k7vc-dup2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "k7vc-dup2"
+          }, {
+            "count" : 19,
+            "item" : "xds3-uvz5"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "k7vc-dup2",
@@ -322,6 +480,22 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17358859,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Response #1",
+          "null" : 0,
+          "largest" : "Response #3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Response #1"
+          }, {
+            "count" : 19,
+            "item" : "Response #2"
+          }, {
+            "count" : 18,
+            "item" : "Response #3"
+          } ]
+        },
         "format" : {
           "align" : "left"
         }
@@ -334,6 +508,19 @@
         "renderTypeName" : "drop_down_list",
         "tableColumnId" : 17358860,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "vcr2-iqs2",
+          "null" : 0,
+          "largest" : "kpc7-w65g",
+          "top" : [ {
+            "count" : 20,
+            "item" : "kpc7-w65g"
+          }, {
+            "count" : 19,
+            "item" : "vcr2-iqs2"
+          } ]
+        },
         "dropDown" : {
           "values" : [ {
             "id" : "kpc7-w65g",
@@ -358,6 +545,22 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17358861,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Response #1",
+          "null" : 0,
+          "largest" : "Response #3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Response #1"
+          }, {
+            "count" : 19,
+            "item" : "Response #2"
+          }, {
+            "count" : 18,
+            "item" : "Response #3"
+          } ]
+        },
         "format" : {
           "align" : "left"
         }
