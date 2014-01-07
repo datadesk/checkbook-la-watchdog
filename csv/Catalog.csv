@@ -138,6 +138,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",ncxv-mvpg,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 09:43:48 PM +0000,12/30/2013 11:32:11 PM +0000
+"<div class='typeMap'><div class=""viewTypeCell"">Map</div></div>",,Council District 3 (dataset/Council-District-3/a7nx-5ege),,CD3 Boundary,0,,,0,,,,,a7nx-5ege,1429429,,,a7nx-5ege,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,01/07/2014 01:32:02 AM +0000,01/07/2014 01:32:33 AM +0000
 "<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,Broadband Internet Survey (Internal/Broadband-Internet-Survey/bndh-934p),,,0,Internal,"broadband, internet, survey",0,,,,,bndh-934p,1425902,,"[{
   ""id"" : 126784675,
   ""name"" : ""Are you a resident of the City of Los Angeles?"",

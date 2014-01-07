@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 241,
+      "downloadCount" : 245,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -1173,6 +1173,12 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1388446331 ]
+, [ 44486752527374, "44486752527374", null, 1389058322, "849676", 1389058353, "849676", null, "<div class='typeMap'><div class=\"viewTypeCell\">Map</div></div>", null, [ "dataset/Council-District-3/a7nx-5ege", "Council District 3" ], null, "CD3 Boundary", "0", null, "", "0", null, null, null, null, "a7nx-5ege", "1429429", null, null, "a7nx-5ege", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1389058322, 1389058353 ]
 , [ 49973305815321, "49973305815321", null, 1388773433, "865560", 1388791151, "865560", null, "<div class='typeForm'><div class=\"viewTypeCell\">Form</div></div>", null, [ "Internal/Broadband-Internet-Survey/bndh-934p", "Broadband Internet Survey" ], null, null, "0", "Internal", "broadband, internet, survey", "0", null, null, null, null, "bndh-934p", "1425902", null, [ {
     "id" : 126784675,
     "name" : "Are you a resident of the City of Los Angeles?",
