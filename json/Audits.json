@@ -8,8 +8,8 @@
       "createdAt" : 1381279851,
       "description" : "Audits Released by the City Controller, 1999-Present",
       "displayType" : "table",
-      "downloadCount" : 227,
-      "indexUpdatedAt" : 1388665305,
+      "downloadCount" : 231,
+      "indexUpdatedAt" : 1389107233,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 6992158,
@@ -824,6 +824,9 @@
       "owner" : {
         "id" : "mnkj-bu52",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -834,6 +837,9 @@
       "tableAuthor" : {
         "id" : "mnkj-bu52",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

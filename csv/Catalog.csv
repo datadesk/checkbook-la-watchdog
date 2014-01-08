@@ -138,7 +138,394 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",ncxv-mvpg,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 09:43:48 PM +0000,12/30/2013 11:32:11 PM +0000
+"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Broadband Initiative Survey (dataset/Broadband-Initiative-Survey/96t2-dvap),,,0,,"broadband, internet, survey",0,,,,,96t2-dvap,1430833,,"[{
+  ""id"" : 127612616,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127612645,
+  ""name"" : ""Do you use the Internet?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""do_you_use_the_internet"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440384,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613167,
+  ""name"" : ""1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_1_does_the_city_have_a_need_for_faster_broadband_speeds_up_to_1gbps"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440555,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613168,
+  ""name"" : ""Reason Question #1"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440556,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613177,
+  ""name"" : ""2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_1_2mbps"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440557,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613178,
+  ""name"" : ""Reason Question #2"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_2"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440558,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613179,
+  ""name"" : ""3.  Would you Pay $75/month for a 1Gbps broadband connection?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_3_would_you_pay_75_month_for_a_1gbps_broadband_connection"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440559,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613180,
+  ""name"" : ""Reason Question #3"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_3"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440560,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613197,
+  ""name"" : ""4.  If free WiFi were limited to 1-2Mbps, would you use it?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440577,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613230,
+  ""name"" : ""Reason Question #4"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_4"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440578,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613231,
+  ""name"" : ""5.  Would you switch your internet service provider if you found a higher speed service for less money per month?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440579,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613233,
+  ""name"" : ""Reason Question #5"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_5"",
+  ""position"" : 12,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440581,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613247,
+  ""name"" : ""6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles"",
+  ""position"" : 13,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440595,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613264,
+  ""name"" : ""Reason Question #6"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_6"",
+  ""position"" : 14,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440612,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}]",96t2-dvap,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/07/2014 11:00:14 PM +0000,01/07/2014 11:36:58 PM +0000
+"<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,Broadband Initiative Survey (dataset/Broadband-Initiative-Survey/syxe-pte5),,,0,,"broadband, internet, survey",0,,,,,syxe-pte5,1430833,,"[{
+  ""id"" : 127613281,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613282,
+  ""name"" : ""Do you use the Internet?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""do_you_use_the_internet"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440384,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613283,
+  ""name"" : ""1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_1_does_the_city_have_a_need_for_faster_broadband_speeds_up_to_1gbps"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440555,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613284,
+  ""name"" : ""Reason Question #1"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_1"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440556,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613285,
+  ""name"" : ""2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_1_2mbps"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440557,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613286,
+  ""name"" : ""Reason Question #2"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_2"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440558,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613287,
+  ""name"" : ""3.  Would you Pay $75/month for a 1Gbps broadband connection?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_3_would_you_pay_75_month_for_a_1gbps_broadband_connection"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440559,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613288,
+  ""name"" : ""Reason Question #3"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_3"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440560,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613289,
+  ""name"" : ""4.  If free WiFi were limited to 1-2Mbps, would you use it?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440577,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613290,
+  ""name"" : ""Reason Question #4"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_4"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440578,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613291,
+  ""name"" : ""5.  Would you switch your internet service provider if you found a higher speed service for less money per month?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440579,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613292,
+  ""name"" : ""Reason Question #5"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_5"",
+  ""position"" : 12,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440581,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 127613293,
+  ""name"" : ""6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles"",
+  ""position"" : 13,
+  ""renderTypeName"" : ""dataset_link"",
+  ""tableColumnId"" : 17440595,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127613294,
+  ""name"" : ""Reason Question #6"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""reason_question_6"",
+  ""position"" : 14,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17440612,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}]",syxe-pte5,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/07/2014 11:28:55 PM +0000,01/07/2014 11:36:58 PM +0000
 "<div class='typeMap'><div class=""viewTypeCell"">Map</div></div>",,Council District 3 (dataset/Council-District-3/a7nx-5ege),,CD3 Boundary,0,,,0,,,,,a7nx-5ege,1429429,,,a7nx-5ege,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,01/07/2014 01:32:02 AM +0000,01/07/2014 01:32:33 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Chart: $75/month for 1Gbps Broadband? (Internal/Chart-75-month-for-1Gbps-Broadband-/4qn4-rpsj),,,0,Internal,"broadband, internet, survey",0,,,,,4qn4-rpsj,1425902,,"[{
+  ""id"" : 127618309,
+  ""name"" : ""3.  Would you Pay $75/month for a 1Gbps broadband connection?"",
+  ""dataTypeName"" : ""drop_down_list"",
+  ""fieldName"" : ""_3_would_you_pay_75_month_for_a_1gbps_broadband_connection"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""drop_down_list"",
+  ""tableColumnId"" : 17358832,
+  ""width"" : 130,
+  ""format"" : {
+    ""aggregate"" : ""count"",
+    ""drill_down"" : ""true"",
+    ""align"" : ""left""
+  }
+}, {
+  ""id"" : 127618318,
+  ""name"" : ""4.  If free WiFi were limited to 1-2Mbps, would you use it?"",
+  ""dataTypeName"" : ""drop_down_list"",
+  ""fieldName"" : ""_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17358856,
+  ""width"" : 100,
+  ""format"" : {
+    ""aggregate"" : ""count"",
+    ""grouping_aggregate"" : ""count"",
+    ""align"" : ""left""
+  }
+}]",4qn4-rpsj,"{Department={Controller=, Other=ITA}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,01/08/2014 12:22:18 AM +0000,01/08/2014 12:22:18 AM +0000
 "<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,Broadband Internet Survey (Internal/Broadband-Internet-Survey/bndh-934p),,,0,Internal,"broadband, internet, survey",0,,,,,bndh-934p,1425902,,"[{
   ""id"" : 126784675,
   ""name"" : ""Are you a resident of the City of Los Angeles?"",
@@ -620,288 +1007,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""labelColumn"" : ""yes_no""
   }
 }]",r58u-sb45,"{Department={Controller=, Other=}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,01/03/2014 05:01:21 PM +0000,01/03/2014 05:12:48 PM +0000
-"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Internet Survey (Business-Economic-Development/Internet-Survey/jp9n-9ju4),,,0,Business & Economic Development,"internet, broadband, access, bandwidth",0,,,,,jp9n-9ju4,1425464,,"[{
-  ""id"" : 126744774,
-  ""name"" : ""Are you a resident of the City of Los Angeles? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270554,
-  ""width"" : 90,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744775,
-  ""name"" : ""Are you an Internet user? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""do_you_use_the_internet_check_if_you_use_the_internet"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270555,
-  ""width"" : 86,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744776,
-  ""name"" : ""1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?  - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270556,
-  ""width"" : 115,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744777,
-  ""name"" : ""If yes, why do you feel the City needs faster broadband speeds?"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""reason_why_you_responded_to_question_1"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 17270557,
-  ""width"" : 92,
-  ""format"" : {
-    ""align"" : ""left""
-  }
-}, {
-  ""id"" : 126744778,
-  ""name"" : ""2.  Is there a need for a free level of broadband (even if only 1-2Mbps)? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270558,
-  ""width"" : 98,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744779,
-  ""name"" : ""If yes, why do you feel there is a need for a free level of broadband?"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""reason_why_you_responded_to_question_2"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 17270559,
-  ""width"" : 92,
-  ""format"" : {
-    ""align"" : ""left""
-  }
-}, {
-  ""id"" : 126744780,
-  ""name"" : ""3.  Would you pay $75/month for a 1 Gbps broadband connection? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270560,
-  ""width"" : 104,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744781,
-  ""name"" : ""If yes, why?"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""reason_why_you_responded_to_question_3"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 17270561,
-  ""width"" : 82,
-  ""format"" : {
-    ""align"" : ""left""
-  }
-}, {
-  ""id"" : 126744782,
-  ""name"" : ""4.  If free WiFi were limited to 1-2Mbps, would you use it? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes"",
-  ""position"" : 9,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270562,
-  ""width"" : 93,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744783,
-  ""name"" : ""If yes, why and how would you use it?"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""reason_why_you_responded_to_question_4"",
-  ""position"" : 10,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 17270563,
-  ""width"" : 83,
-  ""format"" : {
-    ""align"" : ""left""
-  }
-}, {
-  ""id"" : 126744784,
-  ""name"" : ""5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes"",
-  ""position"" : 11,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270564,
-  ""width"" : 104,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744785,
-  ""name"" : ""If yes, please explain"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""reason_why_you_responded_to_question_5"",
-  ""position"" : 12,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 17270565,
-  ""width"" : 92,
-  ""format"" : {
-    ""align"" : ""left""
-  }
-}, {
-  ""id"" : 126744786,
-  ""name"" : ""6.  Do you think the City of Los Angeles should go out to bid to see if here is a vendor that can deliver this project for the City of Los Angeles?  - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes"",
-  ""position"" : 13,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270566,
-  ""width"" : 91,
-  ""format"" : {
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744787,
-  ""name"" : ""If yes, why do you feel the City should go out to bid?"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""reason_why_you_responded_to_question_6"",
-  ""position"" : 14,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 17270567,
-  ""width"" : 88,
-  ""format"" : {
-    ""align"" : ""left""
-  }
-}]",jp9n-9ju4,{Data Owner={Data Owner=Controller's Office}},,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,12/30/2013 05:10:26 PM +0000,01/03/2014 04:54:53 PM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Internet Survey Chart (Business-Economic-Development/Internet-Survey-Chart/xsxk-ju3t),,,0,Business & Economic Development,"internet, broadband, access, bandwidth",0,,,,,xsxk-ju3t,1425464,,"[{
-  ""id"" : 126744929,
-  ""name"" : ""Are you a resident of the City of Los Angeles? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles_check_if_you_are_a_resident"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""checkbox"",
-  ""tableColumnId"" : 17270554,
-  ""width"" : 120,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""drill_down"" : ""true"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744930,
-  ""name"" : ""Are you an Internet user? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""do_you_use_the_internet_check_if_you_use_the_internet"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270555,
-  ""width"" : 86,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744931,
-  ""name"" : ""1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?  - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_1_does_the_city_have_a_need_for_faster_broadband_internet_speeds_up_to_1gbps_check_if_your_answer_is_yes"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270556,
-  ""width"" : 115,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744933,
-  ""name"" : ""2.  Is there a need for a free level of broadband (even if only 1-2Mbps)? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_at_1_2mbps_speed_check_if_your_answer_is_yes"",
-  ""position"" : 4,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270558,
-  ""width"" : 98,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744935,
-  ""name"" : ""3.  Would you pay $75/month for a 1 Gbps broadband connection? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_3_would_you_pay_75_month_for_a_1gbps_broadband_connection_check_if_your_answer_is_yes"",
-  ""position"" : 5,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270560,
-  ""width"" : 104,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744937,
-  ""name"" : ""4.  If free WiFi were limited to 1-2Mbps, would you use it? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it_check_if_your_answer_is_yes"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270562,
-  ""width"" : 93,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744939,
-  ""name"" : ""5.  Would you switch your internet service provider if you found a higher speed service for less money per month? - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month_check_if_your_answer_is_yes"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270564,
-  ""width"" : 104,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}, {
-  ""id"" : 126744941,
-  ""name"" : ""6.  Do you think the City of Los Angeles should go out to bid to see if here is a vendor that can deliver this project for the City of Los Angeles?  - If yes, check here:"",
-  ""dataTypeName"" : ""checkbox"",
-  ""fieldName"" : ""_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles_check_if_your_answer_is_yes"",
-  ""position"" : 8,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 17270566,
-  ""width"" : 91,
-  ""format"" : {
-    ""aggregate"" : ""count"",
-    ""grouping_aggregate"" : ""count"",
-    ""align"" : ""center""
-  }
-}]",xsxk-ju3t,"{Department={Controller=, Other=}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,12/30/2013 05:27:23 PM +0000,01/03/2014 04:54:52 PM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Law Firms - NAMED (Finance/Law-Firms-NAMED/2np7-qmat),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,2np7-qmat,1420245,,"[{
   ""id"" : 125965615,
   ""name"" : ""VENDOR NAME"",

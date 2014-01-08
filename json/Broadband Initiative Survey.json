@@ -1,0 +1,323 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "96t2-dvap",
+      "name" : "Broadband Initiative Survey",
+      "attribution" : "Individual",
+      "averageRating" : 0,
+      "createdAt" : 1389135614,
+      "displayType" : "table",
+      "downloadCount" : 0,
+      "indexUpdatedAt" : 1389148151,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7081022,
+      "publicationAppendEnabled" : true,
+      "publicationDate" : 1389137311,
+      "publicationGroup" : 1430833,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1389137818,
+      "rowsUpdatedBy" : "ea2j-g9m4",
+      "signed" : false,
+      "tableId" : 1430833,
+      "totalTimesRated" : 0,
+      "viewCount" : 6,
+      "viewLastModified" : 1389137335,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 127612616,
+        "name" : "Are you a resident of the City of Los Angeles?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+        "position" : 1,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440383,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127612645,
+        "name" : "Do you use the Internet?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "do_you_use_the_internet",
+        "position" : 2,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440384,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613167,
+        "name" : "1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_speeds_up_to_1gbps",
+        "position" : 3,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440555,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613168,
+        "name" : "Reason Question #1",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_question_1",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17440556,
+        "width" : 100,
+        "format" : {
+        }
+      }, {
+        "id" : 127613177,
+        "name" : "2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_1_2mbps",
+        "position" : 5,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440557,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613178,
+        "name" : "Reason Question #2",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_question_2",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17440558,
+        "width" : 100,
+        "format" : {
+        }
+      }, {
+        "id" : 127613179,
+        "name" : "3.  Would you Pay $75/month for a 1Gbps broadband connection?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection",
+        "position" : 7,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440559,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613180,
+        "name" : "Reason Question #3",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_question_3",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17440560,
+        "width" : 100,
+        "format" : {
+        }
+      }, {
+        "id" : 127613197,
+        "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it",
+        "position" : 9,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440577,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613230,
+        "name" : "Reason Question #4",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_question_4",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17440578,
+        "width" : 100,
+        "format" : {
+        }
+      }, {
+        "id" : 127613231,
+        "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month",
+        "position" : 11,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440579,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613233,
+        "name" : "Reason Question #5",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_question_5",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17440581,
+        "width" : 100,
+        "format" : {
+        }
+      }, {
+        "id" : 127613247,
+        "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?",
+        "dataTypeName" : "dataset_link",
+        "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles",
+        "position" : 13,
+        "renderTypeName" : "dataset_link",
+        "tableColumnId" : 17440595,
+        "width" : 100,
+        "format" : {
+          "linkedDataset" : "u83d-tx5i",
+          "keyColumn" : "yes_no",
+          "labelColumn" : "yes_no"
+        }
+      }, {
+        "id" : 127613264,
+        "name" : "Reason Question #6",
+        "dataTypeName" : "text",
+        "fieldName" : "reason_question_6",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17440612,
+        "width" : 100,
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : "ITA"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "ea2j-g9m4",
+        "displayName" : "Information Technology Agency",
+        "roleName" : "publisher",
+        "screenName" : "Information Technology Agency",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ea2j-g9m4",
+        "displayName" : "Information Technology Agency",
+        "roleName" : "publisher",
+        "screenName" : "Information Technology Agency",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "tags" : [ "broadband", "internet", "survey" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "CEFC3D85-7555-420C-9DB0-94950DA39BA2", 1, 1389137455, "865560", 1389137455, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null ]
+, [ 2, "84A7B828-E703-4E31-B483-E3EF9D0191CE", 2, 1389137508, "865560", 1389137508, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null ]
+, [ 3, "4238CD88-A2F2-47FE-9249-90AABA4D0C3D", 3, 1389137774, "865560", 1389137774, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null ]
+, [ 4, "B493909B-0602-4CA6-AF53-0C2DB41CC527", 4, 1389137818, "865560", 1389137818, "865560", null, "Yes", "Yes", "No", null, "No", null, "No", null, "No", null, "No", null, "No", null ]
+ ]
+}
