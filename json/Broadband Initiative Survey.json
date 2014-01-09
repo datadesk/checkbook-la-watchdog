@@ -7,7 +7,7 @@
       "averageRating" : 0,
       "createdAt" : 1389135614,
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 6,
       "indexUpdatedAt" : 1389196370,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -147,6 +147,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17440556,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -172,6 +176,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17440558,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -197,6 +205,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17440560,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -222,6 +234,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17440578,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -247,6 +263,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17440581,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       }, {
@@ -272,6 +292,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17440612,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 7
+        },
         "format" : {
         }
       } ],
