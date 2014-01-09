@@ -138,6 +138,39 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",ncxv-mvpg,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 09:43:48 PM +0000,12/30/2013 11:32:11 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,2.  Is there a need for a free level of broadband (even if only 1-2Mbps)? (dataset/2-Is-there-a-need-for-a-free-level-of-broadband-ev/4rv9-b76a),,,0,,"broadband, internet, survey",0,,,,,4rv9-b76a,1430833,,"[{
+  ""id"" : 127777269,
+  ""name"" : ""2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_1_2mbps"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440557,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127777270,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}]",4rv9-b76a,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/08/2014 03:27:23 PM +0000,01/08/2014 03:45:22 PM +0000
 "<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Broadband Initiative Survey (dataset/Broadband-Initiative-Survey/96t2-dvap),,,0,,"broadband, internet, survey",0,,,,,96t2-dvap,1430833,,"[{
   ""id"" : 127612616,
   ""name"" : ""Are you a resident of the City of Los Angeles?"",
@@ -316,7 +349,139 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 100,
   ""format"" : {
   }
-}]",96t2-dvap,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/07/2014 11:00:14 PM +0000,01/07/2014 11:36:58 PM +0000
+}]",96t2-dvap,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/07/2014 11:00:14 PM +0000,01/08/2014 03:40:55 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles? (dataset/6-Do-you-think-the-City-should-go-out-to-bid-to-se/b2zw-pfcp),,,0,,"broadband, internet, survey",0,,,,,b2zw-pfcp,1430833,,"[{
+  ""id"" : 127777754,
+  ""name"" : ""6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440595,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127777755,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}]",b2zw-pfcp,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/08/2014 03:37:17 PM +0000,01/08/2014 08:40:24 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,3.  Would you Pay $75/month for a 1Gbps broadband connection? (dataset/3-Would-you-Pay-75-month-for-a-1Gbps-broadband-con/bmek-uutj),,,0,,"broadband, internet, survey",0,,,,,bmek-uutj,1430833,,"[{
+  ""id"" : 127777364,
+  ""name"" : ""3.  Would you Pay $75/month for a 1Gbps broadband connection?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_3_would_you_pay_75_month_for_a_1gbps_broadband_connection"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440559,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127777365,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}]",bmek-uutj,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/08/2014 03:30:07 PM +0000,01/08/2014 03:46:08 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,"4.  If free WiFi were limited to 1-2Mbps, would you use it?3.  Would you Pay $75/month for a 1Gbps broadband connection? (dataset/4-If-free-WiFi-were-limited-to-1-2Mbps-would-you-u/nrx6-akpr)",,,0,,"broadband, internet, survey",0,,,,,nrx6-akpr,1430833,,"[{
+  ""id"" : 127777528,
+  ""name"" : ""4.  If free WiFi were limited to 1-2Mbps, would you use it?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440577,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127777529,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}]",nrx6-akpr,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/08/2014 03:32:44 PM +0000,01/08/2014 03:46:53 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,5.  Would you switch your internet service provider if you found a higher speed service for less money per month? (dataset/5-Would-you-switch-your-internet-service-provider-/sjf4-9npq),,,0,,"broadband, internet, survey",0,,,,,sjf4-9npq,1430833,,"[{
+  ""id"" : 127777677,
+  ""name"" : ""5.  Would you switch your internet service provider if you found a higher speed service for less money per month?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440579,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127777678,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""grouping_aggregate"" : ""count"",
+    ""labelColumn"" : ""yes_no""
+  }
+}]",sjf4-9npq,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/08/2014 03:35:16 PM +0000,01/08/2014 03:47:40 PM +0000
 "<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,Broadband Initiative Survey (dataset/Broadband-Initiative-Survey/syxe-pte5),,,0,,"broadband, internet, survey",0,,,,,syxe-pte5,1430833,,"[{
   ""id"" : 127613281,
   ""name"" : ""Are you a resident of the City of Los Angeles?"",
@@ -495,7 +660,40 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 100,
   ""format"" : {
   }
-}]",syxe-pte5,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/07/2014 11:28:55 PM +0000,01/07/2014 11:36:58 PM +0000
+}]",syxe-pte5,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/07/2014 11:28:55 PM +0000,01/08/2014 03:40:55 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,1.  Does the City have a need for faster broadband speeds (up to 1Gbps)? (dataset/1-Does-the-City-have-a-need-for-faster-broadband-s/w8mz-nbjs),,,0,,"broadband, internet, survey",0,,,,,w8mz-nbjs,1430833,,"[{
+  ""id"" : 127777150,
+  ""name"" : ""1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""_1_does_the_city_have_a_need_for_faster_broadband_speeds_up_to_1gbps"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440555,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""count"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}, {
+  ""id"" : 127777151,
+  ""name"" : ""Are you a resident of the City of Los Angeles?"",
+  ""dataTypeName"" : ""dataset_link"",
+  ""fieldName"" : ""are_you_a_resident_of_the_city_of_los_angeles"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17440383,
+  ""width"" : 100,
+  ""format"" : {
+    ""keyColumn"" : ""yes_no"",
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""count"",
+    ""linkedDataset"" : ""u83d-tx5i"",
+    ""labelColumn"" : ""yes_no""
+  }
+}]",w8mz-nbjs,"{Department={Controller=, Other=ITA}}",,,,Information Technology Agency (http://controllerdata.lacity.org/api/users/ea2j-g9m4),public,,,01/08/2014 03:22:58 PM +0000,01/08/2014 03:44:24 PM +0000
 "<div class='typeMap'><div class=""viewTypeCell"">Map</div></div>",,Council District 3 (dataset/Council-District-3/a7nx-5ege),,CD3 Boundary,0,,,0,,,,,a7nx-5ege,1429429,,,a7nx-5ege,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,01/07/2014 01:32:02 AM +0000,01/07/2014 01:32:33 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Chart: $75/month for 1Gbps Broadband? (Internal/Chart-75-month-for-1Gbps-Broadband-/4qn4-rpsj),,,0,Internal,"broadband, internet, survey",0,,,,,4qn4-rpsj,1425902,,"[{
   ""id"" : 127618309,

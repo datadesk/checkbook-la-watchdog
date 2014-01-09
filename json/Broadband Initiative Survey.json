@@ -8,7 +8,7 @@
       "createdAt" : 1389135614,
       "displayType" : "table",
       "downloadCount" : 2,
-      "indexUpdatedAt" : 1389148151,
+      "indexUpdatedAt" : 1389196370,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 7081022,
@@ -16,12 +16,12 @@
       "publicationDate" : 1389137311,
       "publicationGroup" : 1430833,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1389137818,
+      "rowsUpdatedAt" : 1389195655,
       "rowsUpdatedBy" : "ea2j-g9m4",
       "signed" : false,
       "tableId" : 1430833,
       "totalTimesRated" : 0,
-      "viewCount" : 6,
+      "viewCount" : 22,
       "viewLastModified" : 1389137335,
       "viewType" : "tabular",
       "columns" : [ {
@@ -299,7 +299,7 @@
         "displayName" : "Information Technology Agency",
         "roleName" : "publisher",
         "screenName" : "Information Technology Agency",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
       },
       "query" : {
       },
@@ -309,7 +309,7 @@
         "displayName" : "Information Technology Agency",
         "roleName" : "publisher",
         "screenName" : "Information Technology Agency",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
       },
       "tags" : [ "broadband", "internet", "survey" ],
       "flags" : [ "default" ]
@@ -319,5 +319,8 @@
 , [ 2, "84A7B828-E703-4E31-B483-E3EF9D0191CE", 2, 1389137508, "865560", 1389137508, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null ]
 , [ 3, "4238CD88-A2F2-47FE-9249-90AABA4D0C3D", 3, 1389137774, "865560", 1389137774, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null, "Yes", null ]
 , [ 4, "B493909B-0602-4CA6-AF53-0C2DB41CC527", 4, 1389137818, "865560", 1389137818, "865560", null, "Yes", "Yes", "No", null, "No", null, "No", null, "No", null, "No", null, "No", null ]
+, [ 5, "43E19F30-D951-4260-87D3-EB998530920C", 5, 1389195494, "865560", 1389195494, "865560", null, "Yes", "Yes", "Yes", null, "No", null, "No", null, "Yes", null, "Yes", null, "Yes", null ]
+, [ 6, "AA5E8D34-8BCD-4CE5-948A-1244D829E362", 6, 1389195589, "865560", 1389195589, "865560", null, null, "Yes", "Yes", null, "No", null, "No", null, "Yes", null, "Yes", null, "Yes", null ]
+, [ 7, "6A57EBA9-B28F-460B-955E-3831AC65AD0B", 7, 1389195655, "865560", 1389195655, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "No", null, "Yes", null, "Yes", null, "No", null ]
  ]
 }

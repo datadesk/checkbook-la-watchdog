@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 249,
+      "downloadCount" : 253,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -1173,6 +1173,44 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1388446331 ]
+, [ 19481051820426, "19481051820426", null, 1389194843, "865560", 1389195922, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/2-Is-there-a-need-for-a-free-level-of-broadband-ev/4rv9-b76a", "2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "4rv9-b76a", "1430833", null, [ {
+    "id" : 127777269,
+    "name" : "2.  Is there a need for a free level of broadband (even if only 1-2Mbps)?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_2_is_there_a_need_for_a_free_level_of_broadband_even_if_only_1_2mbps",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440557,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777270,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  } ], "4rv9-b76a", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389194843, 1389195922 ]
 , [ 40025911063193, "40025911063193", null, 1389135614, "865560", 1389137335, "865560", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Broadband-Initiative-Survey/96t2-dvap", "Broadband Initiative Survey" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "96t2-dvap", "1430833", null, [ {
     "id" : 127612616,
     "name" : "Are you a resident of the City of Los Angeles?",
@@ -1356,7 +1394,159 @@
       "Controller" : "",
       "Other" : "ITA"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389135614, 1389137818 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389135614, 1389195655 ]
+, [ 48554075026201, "48554075026201", null, 1389195437, "865560", 1389213624, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/6-Do-you-think-the-City-should-go-out-to-bid-to-se/b2zw-pfcp", "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "b2zw-pfcp", "1430833", null, [ {
+    "id" : 127777754,
+    "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440595,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777755,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  } ], "b2zw-pfcp", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389195437, 1389213624 ]
+, [ 49905716029267, "49905716029267", null, 1389195007, "865560", 1389195968, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/3-Would-you-Pay-75-month-for-a-1Gbps-broadband-con/bmek-uutj", "3.  Would you Pay $75/month for a 1Gbps broadband connection?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "bmek-uutj", "1430833", null, [ {
+    "id" : 127777364,
+    "name" : "3.  Would you Pay $75/month for a 1Gbps broadband connection?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_3_would_you_pay_75_month_for_a_1gbps_broadband_connection",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440559,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777365,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  } ], "bmek-uutj", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389195007, 1389195968 ]
+, [ 103046032475739, "103046032475739", null, 1389195164, "865560", 1389196013, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/4-If-free-WiFi-were-limited-to-1-2Mbps-would-you-u/nrx6-akpr", "4.  If free WiFi were limited to 1-2Mbps, would you use it?3.  Would you Pay $75/month for a 1Gbps broadband connection?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "nrx6-akpr", "1430833", null, [ {
+    "id" : 127777528,
+    "name" : "4.  If free WiFi were limited to 1-2Mbps, would you use it?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_4_if_free_wifi_were_limited_to_1_2mbps_would_you_use_it",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440577,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777529,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  } ], "nrx6-akpr", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389195164, 1389196013 ]
+, [ 124467148060250, "124467148060250", null, 1389195316, "865560", 1389196060, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/5-Would-you-switch-your-internet-service-provider-/sjf4-9npq", "5.  Would you switch your internet service provider if you found a higher speed service for less money per month?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "sjf4-9npq", "1430833", null, [ {
+    "id" : 127777677,
+    "name" : "5.  Would you switch your internet service provider if you found a higher speed service for less money per month?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_5_would_you_switch_your_internet_service_provider_if_you_found_a_higher_speed_service_for_less_money_per_month",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440579,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777678,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  } ], "sjf4-9npq", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389195316, 1389196060 ]
 , [ 125517439554437, "125517439554437", null, 1389137335, "865560", 1389137335, "865560", null, "<div class='typeForm'><div class=\"viewTypeCell\">Form</div></div>", null, [ "dataset/Broadband-Initiative-Survey/syxe-pte5", "Broadband Initiative Survey" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "syxe-pte5", "1430833", null, [ {
     "id" : 127613281,
     "name" : "Are you a resident of the City of Los Angeles?",
@@ -1540,7 +1730,45 @@
       "Controller" : "",
       "Other" : "ITA"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389137335, 1389137818 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389137335, 1389195655 ]
+, [ 141311459767516, "141311459767516", null, 1389194578, "865560", 1389195864, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/1-Does-the-City-have-a-need-for-faster-broadband-s/w8mz-nbjs", "1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "w8mz-nbjs", "1430833", null, [ {
+    "id" : 127777150,
+    "name" : "1.  Does the City have a need for faster broadband speeds (up to 1Gbps)?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_1_does_the_city_have_a_need_for_faster_broadband_speeds_up_to_1gbps",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440555,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "grouping_aggregate" : "count",
+      "linkedDataset" : "u83d-tx5i",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777151,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "grouping_aggregate" : "count",
+      "linkedDataset" : "u83d-tx5i",
+      "labelColumn" : "yes_no"
+    }
+  } ], "w8mz-nbjs", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389194578, 1389195864 ]
 , [ 44486752527374, "44486752527374", null, 1389058322, "849676", 1389058353, "849676", null, "<div class='typeMap'><div class=\"viewTypeCell\">Map</div></div>", null, [ "dataset/Council-District-3/a7nx-5ege", "Council District 3" ], null, "CD3 Boundary", "0", null, "", "0", null, null, null, null, "a7nx-5ege", "1429429", null, null, "a7nx-5ege", {
     "Department" : {
       "Controller" : "",

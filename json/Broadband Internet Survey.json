@@ -8,7 +8,7 @@
       "category" : "Internal",
       "createdAt" : 1388772812,
       "displayType" : "table",
-      "downloadCount" : 17,
+      "downloadCount" : 21,
       "indexUpdatedAt" : 1389148151,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "signed" : false,
       "tableId" : 1425902,
       "totalTimesRated" : 0,
-      "viewCount" : 17,
+      "viewCount" : 24,
       "viewLastModified" : 1388791154,
       "viewType" : "tabular",
       "columns" : [ {
@@ -589,7 +589,7 @@
         "displayName" : "Information Technology Agency",
         "roleName" : "publisher",
         "screenName" : "Information Technology Agency",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
       },
       "query" : {
       },
@@ -599,7 +599,7 @@
         "displayName" : "Information Technology Agency",
         "roleName" : "publisher",
         "screenName" : "Information Technology Agency",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
       },
       "tags" : [ "broadband", "internet", "survey" ],
       "flags" : [ "default" ]
