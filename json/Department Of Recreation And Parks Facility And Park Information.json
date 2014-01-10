@@ -8,7 +8,8 @@
       "createdAt" : 1389301884,
       "description" : "Facility and Park information for the Department of Recreation and Parks",
       "displayType" : "table",
-      "downloadCount" : 0,
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1389321655,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 7103748,
@@ -104,6 +105,73 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482331,
         "width" : 134,
+        "cachedContents" : {
+          "non_null" : 915,
+          "smallest" : "Beaches",
+          "null" : 0,
+          "largest" : "Universally Accessible Playgrounds",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Beaches"
+          }, {
+            "count" : 19,
+            "item" : "Camps"
+          }, {
+            "count" : 18,
+            "item" : "Dog Parks"
+          }, {
+            "count" : 17,
+            "item" : "Equestrian Centers"
+          }, {
+            "count" : 16,
+            "item" : "Gardens"
+          }, {
+            "count" : 15,
+            "item" : "Golf Courses"
+          }, {
+            "count" : 14,
+            "item" : "Hiking Trails"
+          }, {
+            "count" : 13,
+            "item" : "Lakes"
+          }, {
+            "count" : 12,
+            "item" : "Museums"
+          }, {
+            "count" : 11,
+            "item" : "Outdoor Fitness Equipment"
+          }, {
+            "count" : 10,
+            "item" : "Parks"
+          }, {
+            "count" : 9,
+            "item" : "Public Computer Centers"
+          }, {
+            "count" : 8,
+            "item" : "Recreation Centers"
+          }, {
+            "count" : 7,
+            "item" : "Rental Facilities"
+          }, {
+            "count" : 6,
+            "item" : "Senior Centers"
+          }, {
+            "count" : 5,
+            "item" : "Skate Parks"
+          }, {
+            "count" : 4,
+            "item" : "Swimming Pools - Summer"
+          }, {
+            "count" : 3,
+            "item" : "Swimming Pools - Year Round"
+          }, {
+            "count" : 2,
+            "item" : "Tennis Courts"
+          }, {
+            "count" : 1,
+            "item" : "Theatre"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -115,6 +183,52 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482332,
         "width" : 233,
+        "cachedContents" : {
+          "non_null" : 915,
+          "smallest" : "105th Street Park",
+          "null" : 0,
+          "largest" : "Zelzah Park",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Martin Luther King Jr. Recreation Center"
+          }, {
+            "count" : 19,
+            "item" : "Orthopaedic Hospital Universal Access Playground"
+          }, {
+            "count" : 18,
+            "item" : "Pan Pacific Park - Renee's Place"
+          }, {
+            "count" : 17,
+            "item" : "Rosecrans Park"
+          }, {
+            "count" : 16,
+            "item" : "Shadow Ranch Park"
+          }, {
+            "count" : 15,
+            "item" : "South Park Recreation Center"
+          }, {
+            "count" : 14,
+            "item" : "Stoner Park"
+          }, {
+            "count" : 13,
+            "item" : "Sycamore Grove Park"
+          }, {
+            "count" : 12,
+            "item" : "Valley Glen Community Park"
+          }, {
+            "count" : 11,
+            "item" : "Van Nuys  Sherman Oaks Recreation Center"
+          }, {
+            "count" : 10,
+            "item" : "Westside Neighborhood Park"
+          }, {
+            "count" : 9,
+            "item" : "Westwood Park - Aidan's Place"
+          }, {
+            "count" : 8,
+            "item" : "Wilshire Crest Elementary School Universal Access Playground"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -126,6 +240,75 @@
         "renderTypeName" : "number",
         "tableColumnId" : 17482333,
         "width" : 53,
+        "cachedContents" : {
+          "non_null" : 853,
+          "smallest" : "20",
+          "sum" : "5196565",
+          "null" : 62,
+          "average" : "6092.104337631887",
+          "largest" : "25820",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11430"
+          }, {
+            "count" : 19,
+            "item" : "14301"
+          }, {
+            "count" : 18,
+            "item" : "14201"
+          }, {
+            "count" : 17,
+            "item" : "11117"
+          }, {
+            "count" : 16,
+            "item" : "7000"
+          }, {
+            "count" : 15,
+            "item" : "1350"
+          }, {
+            "count" : 14,
+            "item" : "5858"
+          }, {
+            "count" : 13,
+            "item" : "1840"
+          }, {
+            "count" : 12,
+            "item" : "2700"
+          }, {
+            "count" : 11,
+            "item" : "3990"
+          }, {
+            "count" : 10,
+            "item" : "6200"
+          }, {
+            "count" : 9,
+            "item" : "6300"
+          }, {
+            "count" : 8,
+            "item" : "2413"
+          }, {
+            "count" : 7,
+            "item" : "17141"
+          }, {
+            "count" : 6,
+            "item" : "4601"
+          }, {
+            "count" : 5,
+            "item" : "4730"
+          }, {
+            "count" : 4,
+            "item" : "11770"
+          }, {
+            "count" : 3,
+            "item" : "2230"
+          }, {
+            "count" : 2,
+            "item" : "25820"
+          }, {
+            "count" : 1,
+            "item" : "227"
+          } ]
+        },
         "format" : {
           "precisionStyle" : "standard",
           "noCommas" : "true",
@@ -140,6 +323,16 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482334,
         "width" : 62,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "2-Jan",
+          "null" : 914,
+          "largest" : "2-Jan",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2-Jan"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -151,6 +344,25 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482335,
         "width" : 50,
+        "cachedContents" : {
+          "non_null" : 302,
+          "smallest" : "E",
+          "null" : 613,
+          "largest" : "W",
+          "top" : [ {
+            "count" : 20,
+            "item" : "N"
+          }, {
+            "count" : 19,
+            "item" : "S"
+          }, {
+            "count" : 18,
+            "item" : "W"
+          }, {
+            "count" : 17,
+            "item" : "E"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -162,6 +374,46 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482336,
         "width" : 160,
+        "cachedContents" : {
+          "non_null" : 915,
+          "smallest" : "104th",
+          "null" : 0,
+          "largest" : "Zoo",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Foothill"
+          }, {
+            "count" : 19,
+            "item" : "Victory"
+          }, {
+            "count" : 18,
+            "item" : "51st"
+          }, {
+            "count" : 17,
+            "item" : "Stoner"
+          }, {
+            "count" : 16,
+            "item" : "Figueroa"
+          }, {
+            "count" : 15,
+            "item" : "2nd"
+          }, {
+            "count" : 14,
+            "item" : "Vanowen"
+          }, {
+            "count" : 13,
+            "item" : "Huston"
+          }, {
+            "count" : 12,
+            "item" : "Sepulveda"
+          }, {
+            "count" : 11,
+            "item" : "Vermont"
+          }, {
+            "count" : 10,
+            "item" : "Balboa"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -173,6 +425,73 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482337,
         "width" : 188,
+        "cachedContents" : {
+          "non_null" : 853,
+          "smallest" : "1000 Hanley",
+          "null" : 62,
+          "largest" : "9901 Dronfield",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5720 2nd"
+          }, {
+            "count" : 19,
+            "item" : "14301 Vanowen"
+          }, {
+            "count" : 18,
+            "item" : "14201 Huston"
+          }, {
+            "count" : 17,
+            "item" : "11117 Victory"
+          }, {
+            "count" : 16,
+            "item" : "7000 Manchester"
+          }, {
+            "count" : 15,
+            "item" : "1350 Sepulveda"
+          }, {
+            "count" : 14,
+            "item" : "5858 Shoup"
+          }, {
+            "count" : 13,
+            "item" : "1840 Yosemite"
+          }, {
+            "count" : 12,
+            "item" : "2700 Vermont"
+          }, {
+            "count" : 11,
+            "item" : "3990 Bill Robertson"
+          }, {
+            "count" : 10,
+            "item" : "6200 Balboa"
+          }, {
+            "count" : 9,
+            "item" : "6300 Balboa"
+          }, {
+            "count" : 8,
+            "item" : "2413 2nd"
+          }, {
+            "count" : 7,
+            "item" : "17141 Nordhoff"
+          }, {
+            "count" : 6,
+            "item" : "4601 Alla"
+          }, {
+            "count" : 5,
+            "item" : "4730 Crystal Springs"
+          }, {
+            "count" : 4,
+            "item" : "11770 Foothill"
+          }, {
+            "count" : 3,
+            "item" : "2230 Norfolk"
+          }, {
+            "count" : 2,
+            "item" : "25820 Vermont"
+          }, {
+            "count" : 1,
+            "item" : "227 Lake"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -184,6 +503,64 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482338,
         "width" : 68,
+        "cachedContents" : {
+          "non_null" : 880,
+          "smallest" : "Ave",
+          "null" : 35,
+          "largest" : "Way",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Dr"
+          }, {
+            "count" : 19,
+            "item" : "Walk"
+          }, {
+            "count" : 18,
+            "item" : "Blvd"
+          }, {
+            "count" : 17,
+            "item" : "Ave"
+          }, {
+            "count" : 16,
+            "item" : "Hwy"
+          }, {
+            "count" : 15,
+            "item" : "St"
+          }, {
+            "count" : 14,
+            "item" : "Rd"
+          }, {
+            "count" : 13,
+            "item" : "Pl"
+          }, {
+            "count" : 12,
+            "item" : "Ct"
+          }, {
+            "count" : 11,
+            "item" : "Vis"
+          }, {
+            "count" : 10,
+            "item" : "Way"
+          }, {
+            "count" : 9,
+            "item" : "Ter"
+          }, {
+            "count" : 8,
+            "item" : "Cir"
+          }, {
+            "count" : 7,
+            "item" : "Park"
+          }, {
+            "count" : 6,
+            "item" : "Ln"
+          }, {
+            "count" : 5,
+            "item" : "Sq"
+          }, {
+            "count" : 4,
+            "item" : "Cyn"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -195,6 +572,16 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482339,
         "width" : 68,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "W",
+          "null" : 914,
+          "largest" : "W",
+          "top" : [ {
+            "count" : 20,
+            "item" : "W"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -206,6 +593,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482340,
         "width" : 68,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 915
+        },
         "format" : {
         }
       }, {
@@ -217,6 +608,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482341,
         "width" : 64,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 915
+        },
         "format" : {
         }
       }, {
@@ -228,6 +623,61 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482342,
         "width" : 59,
+        "cachedContents" : {
+          "non_null" : 60,
+          "smallest" : "37th",
+          "null" : 855,
+          "largest" : "Zoo",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Rinaldi"
+          }, {
+            "count" : 19,
+            "item" : "Zoo"
+          }, {
+            "count" : 18,
+            "item" : "Gladys"
+          }, {
+            "count" : 17,
+            "item" : "Judson"
+          }, {
+            "count" : 16,
+            "item" : "Palisades Highlands"
+          }, {
+            "count" : 15,
+            "item" : "Marr"
+          }, {
+            "count" : 14,
+            "item" : "Chicago"
+          }, {
+            "count" : 13,
+            "item" : "Ethel"
+          }, {
+            "count" : 12,
+            "item" : "Hollywood"
+          }, {
+            "count" : 11,
+            "item" : "Nau"
+          }, {
+            "count" : 10,
+            "item" : "Western"
+          }, {
+            "count" : 9,
+            "item" : "Van Owen"
+          }, {
+            "count" : 8,
+            "item" : "I"
+          }, {
+            "count" : 7,
+            "item" : "Elmer"
+          }, {
+            "count" : 6,
+            "item" : "Arlington"
+          }, {
+            "count" : 5,
+            "item" : "Willis"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -239,6 +689,34 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482343,
         "width" : 50,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "Ave",
+          "null" : 871,
+          "largest" : "Ter",
+          "top" : [ {
+            "count" : 20,
+            "item" : "St"
+          }, {
+            "count" : 19,
+            "item" : "Dr"
+          }, {
+            "count" : 18,
+            "item" : "Ave"
+          }, {
+            "count" : 17,
+            "item" : "Ter"
+          }, {
+            "count" : 16,
+            "item" : "Ct"
+          }, {
+            "count" : 15,
+            "item" : "Rd"
+          }, {
+            "count" : 14,
+            "item" : "Blvd"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -250,6 +728,10 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482344,
         "width" : 50,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 915
+        },
         "format" : {
         }
       }, {
@@ -261,6 +743,40 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482345,
         "width" : 184,
+        "cachedContents" : {
+          "non_null" : 853,
+          "smallest" : "http://disclaimer.lacity.org/disclaim.cfm?goto=http://www.autrynationalcenter.org",
+          "null" : 62,
+          "largest" : "http://www.sanpedro.com/SP_POINT/ptfmlths.htm",
+          "top" : [ {
+            "count" : 20,
+            "item" : "http://www.laparks.org/btop/lynda.htm"
+          }, {
+            "count" : 19,
+            "item" : "http://www.laparks.org/dos/reccenter/facility/southPkRC.htm"
+          }, {
+            "count" : 18,
+            "item" : "http://www.laparks.org/dos/reccenter/facility/stonerRC.htm"
+          }, {
+            "count" : 17,
+            "item" : "http://www.laparks.org/dos/parks/facility/sycamorePk.htm"
+          }, {
+            "count" : 16,
+            "item" : "http://www.laparks.org/dos/parks/facility/valleyGlenPk.htm"
+          }, {
+            "count" : 15,
+            "item" : "http://www.laparks.org/dos/reccenter/facility/vanNuysSORC.htm"
+          }, {
+            "count" : 14,
+            "item" : "http://www.laparks.org/dos/parks/facility/westsideNeighborhoodPk.htm"
+          }, {
+            "count" : 13,
+            "item" : "http://www.laparks.org/dos/playground/facility/westwoodUAPRC.htm"
+          }, {
+            "count" : 12,
+            "item" : "http://www.laparks.org/dos/playground/facility/wilshireUAPk.htm"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -272,6 +788,73 @@
         "renderTypeName" : "text",
         "tableColumnId" : 17482346,
         "width" : 92,
+        "cachedContents" : {
+          "non_null" : 914,
+          "smallest" : "(213) 207-2196",
+          "null" : 1,
+          "largest" : "(818) 998-6377",
+          "top" : [ {
+            "count" : 20,
+            "item" : "(310) 548-7675"
+          }, {
+            "count" : 19,
+            "item" : "(323) 257-1644"
+          }, {
+            "count" : 18,
+            "item" : "(323) 665-5857"
+          }, {
+            "count" : 17,
+            "item" : "(213) 764-0114"
+          }, {
+            "count" : 16,
+            "item" : "(818) 756-9743"
+          }, {
+            "count" : 15,
+            "item" : "(323) 373-9483"
+          }, {
+            "count" : 14,
+            "item" : "(818) 363-3556"
+          }, {
+            "count" : 13,
+            "item" : "(310) 396-1615"
+          }, {
+            "count" : 12,
+            "item" : "(323) 913-4688"
+          }, {
+            "count" : 11,
+            "item" : "(818) 899-6016"
+          }, {
+            "count" : 10,
+            "item" : "(213) 485-6839"
+          }, {
+            "count" : 9,
+            "item" : "(310) 548-7529"
+          }, {
+            "count" : 8,
+            "item" : "(213) 207-2196"
+          }, {
+            "count" : 7,
+            "item" : "(213) 847-1726"
+          }, {
+            "count" : 6,
+            "item" : "(213) 847-0878"
+          }, {
+            "count" : 5,
+            "item" : "(323) 939-8874"
+          }, {
+            "count" : 4,
+            "item" : "(310) 327-3653"
+          }, {
+            "count" : 3,
+            "item" : "(818) 883-3637"
+          }, {
+            "count" : 2,
+            "item" : "(213) 847-6746"
+          }, {
+            "count" : 1,
+            "item" : "(310) 479-7200"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -283,6 +866,63 @@
         "renderTypeName" : "number",
         "tableColumnId" : 17482347,
         "width" : 50,
+        "cachedContents" : {
+          "non_null" : 915,
+          "smallest" : "0",
+          "sum" : "7711",
+          "null" : 0,
+          "average" : "8.427322404371585",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15"
+          }, {
+            "count" : 19,
+            "item" : "11"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "7"
+          }, {
+            "count" : 15,
+            "item" : "14"
+          }, {
+            "count" : 14,
+            "item" : "6"
+          }, {
+            "count" : 13,
+            "item" : "13"
+          }, {
+            "count" : 12,
+            "item" : "2"
+          }, {
+            "count" : 11,
+            "item" : "12"
+          }, {
+            "count" : 10,
+            "item" : "9"
+          }, {
+            "count" : 9,
+            "item" : "5"
+          }, {
+            "count" : 8,
+            "item" : "10"
+          }, {
+            "count" : 7,
+            "item" : "3"
+          }, {
+            "count" : 6,
+            "item" : "8"
+          }, {
+            "count" : 5,
+            "item" : "0"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -294,6 +934,54 @@
         "renderTypeName" : "number",
         "tableColumnId" : 17482350,
         "width" : 75,
+        "cachedContents" : {
+          "non_null" : 915,
+          "smallest" : "33.705524",
+          "sum" : "31182.98400494",
+          "null" : 0,
+          "average" : "34.07976393982514",
+          "largest" : "34.324324",
+          "top" : [ {
+            "count" : 20,
+            "item" : "34.01394464"
+          }, {
+            "count" : 19,
+            "item" : "34.027994"
+          }, {
+            "count" : 18,
+            "item" : "34.07487935"
+          }, {
+            "count" : 17,
+            "item" : "33.8967552"
+          }, {
+            "count" : 16,
+            "item" : "34.19390248"
+          }, {
+            "count" : 15,
+            "item" : "33.997417"
+          }, {
+            "count" : 14,
+            "item" : "34.03844736"
+          }, {
+            "count" : 13,
+            "item" : "34.10049206"
+          }, {
+            "count" : 12,
+            "item" : "34.182953"
+          }, {
+            "count" : 11,
+            "item" : "34.15952933"
+          }, {
+            "count" : 10,
+            "item" : "34.029093"
+          }, {
+            "count" : 9,
+            "item" : "34.052676"
+          }, {
+            "count" : 8,
+            "item" : "34.057987"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -305,6 +993,112 @@
         "renderTypeName" : "location",
         "tableColumnId" : 17482351,
         "width" : 220,
+        "cachedContents" : {
+          "non_null" : 915,
+          "smallest" : {
+            "longitude" : "-118.317609",
+            "latitude" : "34.156427",
+            "human_address" : "{\"address\":\"\",\"city\":\"Burbank, CA 91506 (34.17097355700048, -118.32250881799968)\",\"state\":\"CA\",\"zip\":\"91506\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.3748623",
+            "latitude" : "34.24945616",
+            "human_address" : "{\"address\":\"9901 Dronfield\",\"city\":\"Sun Valley, CA 91352 (34.22552075700048, -118.37652592499973)\",\"state\":\"CA\",\"zip\":\"91352\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.3087893",
+              "latitude" : "34.01394464",
+              "human_address" : "{\"address\":\"3916 Western\",\"city\":\"Los Angeles, CA 90062 (34.003773401000444, -118.3085396249997)\",\"state\":\"CA\",\"zip\":\"90062\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.273605",
+              "latitude" : "34.027994",
+              "human_address" : "{\"address\":\"2400 Flower\",\"city\":\"Los Angeles, CA 90007 (34.02833137200048, -118.28507659499968)\",\"state\":\"CA\",\"zip\":\"90007\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.3549473",
+              "latitude" : "34.07487935",
+              "human_address" : "{\"address\":\"7600 Beverly\",\"city\":\"Los Angeles, CA 90036 (34.06840101300048, -118.3511293689997)\",\"state\":\"CA\",\"zip\":\"90036\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.29132",
+              "latitude" : "33.8967552",
+              "human_address" : "{\"address\":\"840 149th\",\"city\":\"Gardena, CA 90247 (33.89190254500045, -118.29850700699967)\",\"state\":\"CA\",\"zip\":\"90247\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.6197081",
+              "latitude" : "34.19390248",
+              "human_address" : "{\"address\":\"22633 Vanowen\",\"city\":\"West Hills, CA 91307 (34.19781265600045, -118.63801704699972)\",\"state\":\"CA\",\"zip\":\"91307\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.267651",
+              "latitude" : "33.997417",
+              "human_address" : "{\"address\":\"345 51st\",\"city\":\"Los Angeles, CA 90011 (34.00790115600046, -118.25904566699973)\",\"state\":\"CA\",\"zip\":\"90011\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.4532902",
+              "latitude" : "34.03844736",
+              "human_address" : "{\"address\":\"1835 Stoner\",\"city\":\"Los Angeles, CA 90025 (34.04518130300045, -118.45026935899972)\",\"state\":\"CA\",\"zip\":\"90025\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.2036404",
+              "latitude" : "34.10049206",
+              "human_address" : "{\"address\":\"4702 Figueroa\",\"city\":\"Los Angeles, CA 90042 (34.11333271500047, -118.19142869099971)\",\"state\":\"CA\",\"zip\":\"90042\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.418285",
+              "latitude" : "34.182953",
+              "human_address" : "{\"address\":\"\",\"city\":\"Van Nuys, CA 91436 (34.15384120100049, -118.4873366009997)\",\"state\":\"CA\",\"zip\":\"91436\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.4425227",
+              "latitude" : "34.15952933",
+              "human_address" : "{\"address\":\"14201 Huston\",\"city\":\"Sherman Oaks, CA 91423 (34.15307213500046, -118.43296754699969)\",\"state\":\"CA\",\"zip\":\"91423\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.36998",
+              "latitude" : "34.029093",
+              "human_address" : "{\"address\":\"3085 Clyde\",\"city\":\"Los Angeles, CA 90016 (34.02889187800048, -118.35308896599969)\",\"state\":\"CA\",\"zip\":\"90016\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.448107",
+              "latitude" : "34.052676",
+              "human_address" : "{\"address\":\"1350 Sepulveda\",\"city\":\"Los Angeles, CA 90025 (34.04518130300045, -118.45026935899972)\",\"state\":\"CA\",\"zip\":\"90025\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.343595",
+              "latitude" : "34.057987",
+              "human_address" : "{\"address\":\"5241 Olympic\",\"city\":\"Los Angeles, CA 90036 (34.06840101300048, -118.3511293689997)\",\"state\":\"CA\",\"zip\":\"90036\"}"
+            }
+          } ]
+        },
         "format" : {
         },
         "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
