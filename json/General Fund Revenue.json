@@ -10,20 +10,20 @@
       "description" : "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013",
       "displayType" : "table",
       "downloadCount" : 271,
-      "indexUpdatedAt" : 1389362699,
+      "indexUpdatedAt" : 1389404254,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6990491,
+      "oid" : 7110643,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1388446334,
+      "publicationDate" : 1389380389,
       "publicationGroup" : 1262039,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1388436199,
-      "rowsUpdatedBy" : "vcvp-yass",
-      "tableId" : 1420027,
+      "rowsUpdatedAt" : 1389380282,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "tableId" : 1435012,
       "totalTimesRated" : 0,
       "viewCount" : 420,
-      "viewLastModified" : 1388446334,
+      "viewLastModified" : 1389380390,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -98,7 +98,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927404,
+        "id" : 128171865,
         "name" : "FISCAL YEAR",
         "dataTypeName" : "text",
         "fieldName" : "fiscal_year",
@@ -125,7 +125,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927405,
+        "id" : 128171866,
         "name" : "DEPARTMENT NAME",
         "dataTypeName" : "text",
         "fieldName" : "department_name",
@@ -203,7 +203,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927421,
+        "id" : 128171867,
         "name" : "REVENUE SOURCE NAME",
         "dataTypeName" : "text",
         "fieldName" : "revenue_source_name",
@@ -281,7 +281,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927422,
+        "id" : 128171868,
         "name" : "REVENUE BUDGET",
         "dataTypeName" : "money",
         "fieldName" : "revenue_budget",
@@ -359,9 +359,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125927424,
+        "id" : 128171869,
         "name" : "REVENUE COLLECTED",
         "dataTypeName" : "money",
         "fieldName" : "revenue_collected_1",
@@ -394,9 +398,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125927426,
+        "id" : 128171870,
         "name" : "% REVENUE COLLECTED",
         "dataTypeName" : "percent",
         "fieldName" : "revenue_collected_2",
@@ -464,7 +472,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927428,
+        "id" : 128171871,
         "name" : "REVENUE CLASS NAME",
         "dataTypeName" : "text",
         "fieldName" : "revenue_class_name",
@@ -542,7 +550,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927429,
+        "id" : 128171872,
         "name" : "FUND",
         "dataTypeName" : "number",
         "fieldName" : "fund",
@@ -565,7 +573,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927431,
+        "id" : 128171873,
         "name" : "REVENUE SOURCE CODE",
         "dataTypeName" : "text",
         "fieldName" : "revenue_source_code",
@@ -643,7 +651,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927432,
+        "id" : 128171874,
         "name" : "REVENUE CLASS CODE",
         "dataTypeName" : "number",
         "fieldName" : "revenue_class_code",
@@ -723,7 +731,7 @@
         "format" : {
         }
       }, {
-        "id" : 125927449,
+        "id" : 128171876,
         "name" : "FUND NAME",
         "dataTypeName" : "text",
         "fieldName" : "fund_name",

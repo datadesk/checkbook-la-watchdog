@@ -8,21 +8,21 @@
       "createdAt" : 1382254769,
       "description" : "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through November 30, 2013",
       "displayType" : "table",
-      "downloadCount" : 305,
-      "indexUpdatedAt" : 1389362733,
+      "downloadCount" : 309,
+      "indexUpdatedAt" : 1389404301,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6991909,
+      "oid" : 7110641,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1388446756,
+      "publicationDate" : 1389380559,
       "publicationGroup" : 1268071,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1388446742,
-      "rowsUpdatedBy" : "vcvp-yass",
-      "tableId" : 1420243,
+      "rowsUpdatedAt" : 1389380278,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "tableId" : 1435010,
       "totalTimesRated" : 0,
-      "viewCount" : 485,
-      "viewLastModified" : 1388446756,
+      "viewCount" : 487,
+      "viewLastModified" : 1389380559,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -97,7 +97,7 @@
         "format" : {
         }
       }, {
-        "id" : 125963335,
+        "id" : 128171841,
         "name" : "BUDGET FISCAL YEAR",
         "dataTypeName" : "text",
         "fieldName" : "budget_fiscal_year",
@@ -124,7 +124,7 @@
         "format" : {
         }
       }, {
-        "id" : 125963336,
+        "id" : 128171842,
         "name" : "DEPARTMENT NAME",
         "dataTypeName" : "text",
         "fieldName" : "department_name",
@@ -202,7 +202,7 @@
         "format" : {
         }
       }, {
-        "id" : 125963337,
+        "id" : 128171843,
         "name" : "ACCOUNT NAME",
         "dataTypeName" : "text",
         "fieldName" : "account_name",
@@ -280,7 +280,7 @@
         "format" : {
         }
       }, {
-        "id" : 125963338,
+        "id" : 128171844,
         "name" : "ADOPTED BUDGET AMOUNT",
         "dataTypeName" : "money",
         "description" : "Original budget amount adopted by Mayor and Council",
@@ -359,9 +359,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963339,
+        "id" : 128171845,
         "name" : "TOTAL EXPENDITURES",
         "dataTypeName" : "money",
         "description" : "Total Budget Fiscal Year amount expended from account to date",
@@ -440,9 +444,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963340,
+        "id" : 128171846,
         "name" : "BUDGET CHANGE AMOUNT",
         "dataTypeName" : "money",
         "description" : "Amendment to the adopted budget amount",
@@ -521,9 +529,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963341,
+        "id" : 128171847,
         "name" : "BUDGET TRANSFER IN AMOUNT",
         "dataTypeName" : "money",
         "description" : "Increase in appropriation to account by transfer in of funds",
@@ -602,9 +614,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963342,
+        "id" : 128171848,
         "name" : "BUDGET TRANSFER OUT AMOUNT",
         "dataTypeName" : "money",
         "description" : "Decrease in appropriation to account by transfer out of funds",
@@ -668,9 +684,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963343,
+        "id" : 128171849,
         "name" : "TOTAL BUDGET",
         "dataTypeName" : "money",
         "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
@@ -743,9 +763,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963344,
+        "id" : 128171850,
         "name" : "ENCUMBRANCE AMOUNT",
         "dataTypeName" : "money",
         "description" : "Obligation or commitment to pay for a good or service",
@@ -824,9 +848,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963345,
+        "id" : 128171851,
         "name" : "PRE-ENCUMBRANCE AMOUNT",
         "dataTypeName" : "money",
         "description" : "Anticipated obligation or commitment to pay for a good or service",
@@ -872,9 +900,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963346,
+        "id" : 128171852,
         "name" : "BUDGET UNCOMMITTED AMOUNT",
         "dataTypeName" : "money",
         "description" : "Total unused appropriation after expenditures and encumbrances",
@@ -953,9 +985,13 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       }, {
-        "id" : 125963347,
+        "id" : 128171853,
         "name" : "FUND NAME",
         "dataTypeName" : "text",
         "fieldName" : "fund_name",
@@ -976,7 +1012,7 @@
         "format" : {
         }
       }, {
-        "id" : 125963348,
+        "id" : 128171854,
         "name" : "ACCOUNT GROUP NAME",
         "dataTypeName" : "text",
         "fieldName" : "account_group_name",
@@ -1006,7 +1042,7 @@
         "format" : {
         }
       }, {
-        "id" : 125963349,
+        "id" : 128171855,
         "name" : "ACCOUNT",
         "dataTypeName" : "text",
         "fieldName" : "account",
@@ -1107,13 +1143,13 @@
         "orderBys" : [ {
           "ascending" : false,
           "expression" : {
-            "columnId" : 125963335,
+            "columnId" : 128171841,
             "type" : "column"
           }
         }, {
           "ascending" : true,
           "expression" : {
-            "columnId" : 125963336,
+            "columnId" : 128171842,
             "type" : "column"
           }
         } ]
@@ -1121,10 +1157,10 @@
       "rights" : [ "read" ],
       "sortBys" : [ {
         "id" : 0,
-        "viewColumnId" : 125963335
+        "viewColumnId" : 128171841
       }, {
         "id" : 0,
-        "viewColumnId" : 125963336,
+        "viewColumnId" : 128171842,
         "flags" : [ "asc" ]
       } ],
       "tableAuthor" : {

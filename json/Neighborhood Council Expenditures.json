@@ -10,21 +10,21 @@
       "createdAt" : 1383870766,
       "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment",
       "displayType" : "table",
-      "downloadCount" : 9717,
-      "indexUpdatedAt" : 1389362733,
+      "downloadCount" : 9721,
+      "indexUpdatedAt" : 1389404269,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 6331522,
+      "oid" : 7110642,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1388447010,
+      "publicationDate" : 1389380459,
       "publicationGroup" : 1333874,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1383955657,
-      "rowsUpdatedBy" : "ajd3-jp8q",
-      "tableId" : 1337464,
+      "rowsUpdatedAt" : 1389380279,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "tableId" : 1435011,
       "totalTimesRated" : 0,
-      "viewCount" : 318,
-      "viewLastModified" : 1388703779,
+      "viewCount" : 322,
+      "viewLastModified" : 1389380459,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -99,7 +99,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633979,
+        "id" : 128171856,
         "name" : "BFY",
         "dataTypeName" : "number",
         "fieldName" : "bfy",
@@ -126,9 +126,12 @@
           } ]
         },
         "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
         }
       }, {
-        "id" : 113633980,
+        "id" : 128171857,
         "name" : "Appr",
         "dataTypeName" : "number",
         "fieldName" : "appr",
@@ -206,9 +209,12 @@
           } ]
         },
         "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
         }
       }, {
-        "id" : 113633981,
+        "id" : 128171858,
         "name" : "Neighborhood Council",
         "dataTypeName" : "text",
         "fieldName" : "neighborhood_council",
@@ -286,7 +292,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633982,
+        "id" : 128171859,
         "name" : "Date",
         "dataTypeName" : "calendar_date",
         "fieldName" : "date",
@@ -364,7 +370,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633983,
+        "id" : 128171860,
         "name" : "Description",
         "dataTypeName" : "text",
         "fieldName" : "description",
@@ -415,7 +421,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633984,
+        "id" : 128171861,
         "name" : "Vendor Name",
         "dataTypeName" : "text",
         "fieldName" : "vendor_name",
@@ -493,7 +499,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633985,
+        "id" : 128171862,
         "name" : "Spending Category",
         "dataTypeName" : "text",
         "fieldName" : "spending_category",
@@ -523,7 +529,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633986,
+        "id" : 128171863,
         "name" : "Task",
         "dataTypeName" : "text",
         "fieldName" : "task",
@@ -598,7 +604,7 @@
         "format" : {
         }
       }, {
-        "id" : 113633987,
+        "id" : 128171864,
         "name" : "Expenditure",
         "dataTypeName" : "money",
         "fieldName" : "expenditure",
@@ -676,6 +682,10 @@
           } ]
         },
         "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
         }
       } ],
       "grants" : [ {
