@@ -8,7 +8,7 @@
       "createdAt" : 1389135614,
       "displayType" : "table",
       "downloadCount" : 30,
-      "indexUpdatedAt" : 1389654023,
+      "indexUpdatedAt" : 1389839037,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 7081022,
@@ -16,8 +16,7 @@
       "publicationDate" : 1389137311,
       "publicationGroup" : 1430833,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1389195655,
-      "rowsUpdatedBy" : "ea2j-g9m4",
+      "rowsUpdatedAt" : 1389830554,
       "tableId" : 1430833,
       "totalTimesRated" : 0,
       "viewCount" : 25,
@@ -345,5 +344,6 @@
 , [ 5, "43E19F30-D951-4260-87D3-EB998530920C", 5, 1389195494, "865560", 1389195494, "865560", null, "Yes", "Yes", "Yes", null, "No", null, "No", null, "Yes", null, "Yes", null, "Yes", null ]
 , [ 6, "AA5E8D34-8BCD-4CE5-948A-1244D829E362", 6, 1389195589, "865560", 1389195589, "865560", null, null, "Yes", "Yes", null, "No", null, "No", null, "Yes", null, "Yes", null, "Yes", null ]
 , [ 7, "6A57EBA9-B28F-460B-955E-3831AC65AD0B", 7, 1389195655, "865560", 1389195655, "865560", null, "Yes", "Yes", "Yes", null, "Yes", null, "No", null, "Yes", null, "Yes", null, "No", null ]
+, [ 8, "EF7E4A46-B835-476E-B9AF-BE31D2490412", 8, 1389830553, "anonymous", 1389830553, "anonymous", null, "Yes", "Yes", "Yes", null, "Yes", null, "No", null, "Yes", null, "Yes", null, "Yes", null ]
  ]
 }
