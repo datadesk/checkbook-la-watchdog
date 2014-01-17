@@ -8,8 +8,8 @@
       "createdAt" : 1382254769,
       "description" : "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through December 31, 2013",
       "displayType" : "table",
-      "downloadCount" : 330,
-      "indexUpdatedAt" : 1389809154,
+      "downloadCount" : 334,
+      "indexUpdatedAt" : 1389906478,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 7157627,
@@ -106,6 +106,22 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407323,
         "width" : 50,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "2012",
+          "null" : 0,
+          "largest" : "2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2012"
+          }, {
+            "count" : 19,
+            "item" : "2013"
+          }, {
+            "count" : 18,
+            "item" : "2014"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -117,6 +133,73 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407324,
         "width" : 214,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "AGING",
+          "null" : 0,
+          "largest" : "ZOO",
+          "top" : [ {
+            "count" : 20,
+            "item" : "AGING"
+          }, {
+            "count" : 19,
+            "item" : "ANIMAL SERVICES"
+          }, {
+            "count" : 18,
+            "item" : "BUILDING AND SAFETY"
+          }, {
+            "count" : 17,
+            "item" : "CITY ADMINISTRATIVE OFFICER"
+          }, {
+            "count" : 16,
+            "item" : "CITY ATTORNEY"
+          }, {
+            "count" : 15,
+            "item" : "CITY CLERK"
+          }, {
+            "count" : 14,
+            "item" : "CITY ETHICS COMMISSION"
+          }, {
+            "count" : 13,
+            "item" : "CITY PLANNING AND DEVELOPMENT"
+          }, {
+            "count" : 12,
+            "item" : "CONTROLLER"
+          }, {
+            "count" : 11,
+            "item" : "COUNCIL"
+          }, {
+            "count" : 10,
+            "item" : "CULTURAL AFFAIRS"
+          }, {
+            "count" : 9,
+            "item" : "DISABILITY"
+          }, {
+            "count" : 8,
+            "item" : "ECONOMIC AND WORKFORCE DEVELOPMENT DEPARTMENT"
+          }, {
+            "count" : 7,
+            "item" : "EL PUEBLO DE LOS ANGELES HISTORICAL MONUMENT AUTHORITY"
+          }, {
+            "count" : 6,
+            "item" : "FIRE"
+          }, {
+            "count" : 5,
+            "item" : "GENERAL SERVICES"
+          }, {
+            "count" : 4,
+            "item" : "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT"
+          }, {
+            "count" : 3,
+            "item" : "INFORMATION TECHNOLOGY AGENCY"
+          }, {
+            "count" : 2,
+            "item" : "LOS ANGELES CONVENTION CENTER"
+          }, {
+            "count" : 1,
+            "item" : "MAYOR"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -128,6 +211,73 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407327,
         "width" : 223,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "ACCUMULATED OVERTIME",
+          "null" : 0,
+          "largest" : "YOUTH EMPLOYMENT PROGRAM (2)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SALARIES GENERAL"
+          }, {
+            "count" : 19,
+            "item" : "SALARIES AS NEEDED"
+          }, {
+            "count" : 18,
+            "item" : "PRINTING AND BINDING"
+          }, {
+            "count" : 17,
+            "item" : "TRAVEL"
+          }, {
+            "count" : 16,
+            "item" : "TRANSPORTATION"
+          }, {
+            "count" : 15,
+            "item" : "OFFICE AND ADMINISTRATIVE"
+          }, {
+            "count" : 14,
+            "item" : "OVERTIME GENERAL"
+          }, {
+            "count" : 13,
+            "item" : "CONTRACTUAL SERVICES"
+          }, {
+            "count" : 12,
+            "item" : "OPERATING SUPPLIES"
+          }, {
+            "count" : 11,
+            "item" : "FURNITURE, OFFICE AND TECHNICAL EQUIPMENT"
+          }, {
+            "count" : 10,
+            "item" : "HIRING HALL SALARIES"
+          }, {
+            "count" : 9,
+            "item" : "BENEFITS HIRING HALL"
+          }, {
+            "count" : 8,
+            "item" : "HIRING HALL OVERTIME"
+          }, {
+            "count" : 7,
+            "item" : "CONSTRUCTION EXPENSE"
+          }, {
+            "count" : 6,
+            "item" : "FIELD EQUIPMENT EXPENSE"
+          }, {
+            "count" : 5,
+            "item" : "UNIFORMS"
+          }, {
+            "count" : 4,
+            "item" : "ST. LIGHTING IMPROVEMENTS AND SUPPLIES"
+          }, {
+            "count" : 3,
+            "item" : "UTILITIES EXPENSE PRIVATE COMPANY"
+          }, {
+            "count" : 2,
+            "item" : "INVESTIGATIONS"
+          }, {
+            "count" : 1,
+            "item" : "PAINT AND SIGN MAINTENANCE AND"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -140,6 +290,75 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407329,
         "width" : 101,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "16412475188.00",
+          "null" : 0,
+          "average" : "8534828.490899636",
+          "largest" : "994943645.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "61200.00"
+          }, {
+            "count" : 18,
+            "item" : "63000.00"
+          }, {
+            "count" : 17,
+            "item" : "1000.00"
+          }, {
+            "count" : 16,
+            "item" : "100000.00"
+          }, {
+            "count" : 15,
+            "item" : "3265177.00"
+          }, {
+            "count" : 14,
+            "item" : "317800.00"
+          }, {
+            "count" : 13,
+            "item" : "127595.00"
+          }, {
+            "count" : 12,
+            "item" : "557875.00"
+          }, {
+            "count" : 11,
+            "item" : "75000.00"
+          }, {
+            "count" : 10,
+            "item" : "14085099.00"
+          }, {
+            "count" : 9,
+            "item" : "1049121.00"
+          }, {
+            "count" : 8,
+            "item" : "51164.00"
+          }, {
+            "count" : 7,
+            "item" : "70000.00"
+          }, {
+            "count" : 6,
+            "item" : "1024400.00"
+          }, {
+            "count" : 5,
+            "item" : "20000.00"
+          }, {
+            "count" : 4,
+            "item" : "529999.00"
+          }, {
+            "count" : 3,
+            "item" : "5001.00"
+          }, {
+            "count" : 2,
+            "item" : "307128.00"
+          }, {
+            "count" : 1,
+            "item" : "779438.00"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -156,6 +375,36 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407334,
         "width" : 99,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "12782968478.33",
+          "null" : 0,
+          "average" : "6647409.505111804",
+          "largest" : "961274075.15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "194321.72"
+          }, {
+            "count" : 18,
+            "item" : "196.16"
+          }, {
+            "count" : 17,
+            "item" : "122907.21"
+          }, {
+            "count" : 16,
+            "item" : "346531.73"
+          }, {
+            "count" : 15,
+            "item" : "48820.32"
+          }, {
+            "count" : 14,
+            "item" : "45188.28"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -172,6 +421,24 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407330,
         "width" : 92,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "-33209846.00",
+          "sum" : "543600258.65",
+          "null" : 0,
+          "average" : "282683.4418356734",
+          "largest" : "31592368.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "10000.00"
+          }, {
+            "count" : 18,
+            "item" : "-1998.00"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -188,6 +455,57 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407331,
         "width" : 86,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "699709227.53",
+          "null" : 0,
+          "average" : "363863.3528497140",
+          "largest" : "113494140.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "90000.00"
+          }, {
+            "count" : 18,
+            "item" : "20000.00"
+          }, {
+            "count" : 17,
+            "item" : "5000.00"
+          }, {
+            "count" : 16,
+            "item" : "1000.00"
+          }, {
+            "count" : 15,
+            "item" : "8000.00"
+          }, {
+            "count" : 14,
+            "item" : "37000.00"
+          }, {
+            "count" : 13,
+            "item" : "40000.00"
+          }, {
+            "count" : 12,
+            "item" : "168.36"
+          }, {
+            "count" : 11,
+            "item" : "200.00"
+          }, {
+            "count" : 10,
+            "item" : "7096.48"
+          }, {
+            "count" : 9,
+            "item" : "123000.00"
+          }, {
+            "count" : 8,
+            "item" : "1194000.00"
+          }, {
+            "count" : 7,
+            "item" : "10000.00"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -204,6 +522,75 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407332,
         "width" : 89,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "699709227.53",
+          "null" : 0,
+          "average" : "363863.3528497140",
+          "largest" : "113494140.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "5000.00"
+          }, {
+            "count" : 18,
+            "item" : "500000.00"
+          }, {
+            "count" : 17,
+            "item" : "3860633.00"
+          }, {
+            "count" : 16,
+            "item" : "250000.00"
+          }, {
+            "count" : 15,
+            "item" : "2351.00"
+          }, {
+            "count" : 14,
+            "item" : "6000.00"
+          }, {
+            "count" : 13,
+            "item" : "2657.00"
+          }, {
+            "count" : 12,
+            "item" : "2000000.00"
+          }, {
+            "count" : 11,
+            "item" : "3800000.00"
+          }, {
+            "count" : 10,
+            "item" : "258000.00"
+          }, {
+            "count" : 9,
+            "item" : "16000.00"
+          }, {
+            "count" : 8,
+            "item" : "48000.00"
+          }, {
+            "count" : 7,
+            "item" : "4353.11"
+          }, {
+            "count" : 6,
+            "item" : "2053.00"
+          }, {
+            "count" : 5,
+            "item" : "1061550.80"
+          }, {
+            "count" : 4,
+            "item" : "8573.00"
+          }, {
+            "count" : 3,
+            "item" : "17419.36"
+          }, {
+            "count" : 2,
+            "item" : "6549000.00"
+          }, {
+            "count" : 1,
+            "item" : "45000.00"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -220,6 +607,69 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407333,
         "width" : 96,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "16956075446.65",
+          "null" : 0,
+          "average" : "8817511.932735309",
+          "largest" : "993499689.66",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "1000.00"
+          }, {
+            "count" : 18,
+            "item" : "100000.00"
+          }, {
+            "count" : 17,
+            "item" : "127595.00"
+          }, {
+            "count" : 16,
+            "item" : "557875.00"
+          }, {
+            "count" : 15,
+            "item" : "75000.00"
+          }, {
+            "count" : 14,
+            "item" : "14085099.00"
+          }, {
+            "count" : 13,
+            "item" : "1049121.00"
+          }, {
+            "count" : 12,
+            "item" : "51164.00"
+          }, {
+            "count" : 11,
+            "item" : "70000.00"
+          }, {
+            "count" : 10,
+            "item" : "1114400.00"
+          }, {
+            "count" : 9,
+            "item" : "20000.00"
+          }, {
+            "count" : 8,
+            "item" : "529999.00"
+          }, {
+            "count" : 7,
+            "item" : "5001.00"
+          }, {
+            "count" : 6,
+            "item" : "307128.00"
+          }, {
+            "count" : 5,
+            "item" : "779438.00"
+          }, {
+            "count" : 4,
+            "item" : "184762.00"
+          }, {
+            "count" : 3,
+            "item" : "120000.00"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -236,6 +686,69 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407335,
         "width" : 90,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "-10907.94",
+          "sum" : "173512812.14",
+          "null" : 0,
+          "average" : "90230.27152366095",
+          "largest" : "14211888.19",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "40387.00"
+          }, {
+            "count" : 18,
+            "item" : "90.00"
+          }, {
+            "count" : 17,
+            "item" : "40275.24"
+          }, {
+            "count" : 16,
+            "item" : "200184.95"
+          }, {
+            "count" : 15,
+            "item" : "21985.84"
+          }, {
+            "count" : 14,
+            "item" : "6404.86"
+          }, {
+            "count" : 13,
+            "item" : "119740.20"
+          }, {
+            "count" : 12,
+            "item" : "37571.60"
+          }, {
+            "count" : 11,
+            "item" : "26468.11"
+          }, {
+            "count" : 10,
+            "item" : "540288.47"
+          }, {
+            "count" : 9,
+            "item" : "2304.38"
+          }, {
+            "count" : 8,
+            "item" : "34393.65"
+          }, {
+            "count" : 7,
+            "item" : "237.50"
+          }, {
+            "count" : 6,
+            "item" : "27763.48"
+          }, {
+            "count" : 5,
+            "item" : "42185.69"
+          }, {
+            "count" : 4,
+            "item" : "13694.45"
+          }, {
+            "count" : 3,
+            "item" : "620.31"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -252,6 +765,48 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407336,
         "width" : 86,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "2177921.92",
+          "null" : 0,
+          "average" : "1132.564700988040",
+          "largest" : "815000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "13750.00"
+          }, {
+            "count" : 18,
+            "item" : "50.00"
+          }, {
+            "count" : 17,
+            "item" : "1169.43"
+          }, {
+            "count" : 16,
+            "item" : "7095.00"
+          }, {
+            "count" : 15,
+            "item" : "8763.00"
+          }, {
+            "count" : 14,
+            "item" : "299.00"
+          }, {
+            "count" : 13,
+            "item" : "3793.52"
+          }, {
+            "count" : 12,
+            "item" : "5421.00"
+          }, {
+            "count" : 11,
+            "item" : "3399.25"
+          }, {
+            "count" : 10,
+            "item" : "1421.10"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -268,6 +823,75 @@
         "renderTypeName" : "money",
         "tableColumnId" : 15407337,
         "width" : 94,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "0.00",
+          "sum" : "3997416234.26",
+          "null" : 0,
+          "average" : "2078739.591398856",
+          "largest" : "955905263.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "100000.00"
+          }, {
+            "count" : 18,
+            "item" : "312322.50"
+          }, {
+            "count" : 17,
+            "item" : "182560.83"
+          }, {
+            "count" : 16,
+            "item" : "7119325.27"
+          }, {
+            "count" : 15,
+            "item" : "340208.86"
+          }, {
+            "count" : 14,
+            "item" : "1651.00"
+          }, {
+            "count" : 13,
+            "item" : "92254.40"
+          }, {
+            "count" : 12,
+            "item" : "34000.00"
+          }, {
+            "count" : 11,
+            "item" : "324024.24"
+          }, {
+            "count" : 10,
+            "item" : "662733.53"
+          }, {
+            "count" : 9,
+            "item" : "99923.10"
+          }, {
+            "count" : 8,
+            "item" : "267899.01"
+          }, {
+            "count" : 7,
+            "item" : "18383.25"
+          }, {
+            "count" : 6,
+            "item" : "7883176.95"
+          }, {
+            "count" : 5,
+            "item" : "556656.84"
+          }, {
+            "count" : 4,
+            "item" : "6982.67"
+          }, {
+            "count" : 3,
+            "item" : "20000.00"
+          }, {
+            "count" : 2,
+            "item" : "393796.73"
+          }, {
+            "count" : 1,
+            "item" : "15581.74"
+          } ]
+        },
         "format" : {
           "aggregate" : "sum",
           "humane" : "false",
@@ -283,6 +907,16 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407325,
         "width" : 141,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "GENERAL FUND (GENERAL BUDGET)",
+          "null" : 0,
+          "largest" : "GENERAL FUND (GENERAL BUDGET)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "GENERAL FUND (GENERAL BUDGET)"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -294,6 +928,25 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407328,
         "width" : 183,
+        "cachedContents" : {
+          "non_null" : 1921,
+          "smallest" : "EQUIPMENT",
+          "null" : 2,
+          "largest" : "SPECIAL",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SALARIES AND BENEFITS"
+          }, {
+            "count" : 19,
+            "item" : "EXPENSES"
+          }, {
+            "count" : 18,
+            "item" : "EQUIPMENT"
+          }, {
+            "count" : 17,
+            "item" : "SPECIAL"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -305,6 +958,73 @@
         "renderTypeName" : "text",
         "tableColumnId" : 15407326,
         "width" : 55,
+        "cachedContents" : {
+          "non_null" : 1923,
+          "smallest" : "00040E",
+          "null" : 0,
+          "largest" : "9910",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1010"
+          }, {
+            "count" : 19,
+            "item" : "1070"
+          }, {
+            "count" : 18,
+            "item" : "1090"
+          }, {
+            "count" : 17,
+            "item" : "2120"
+          }, {
+            "count" : 16,
+            "item" : "2130"
+          }, {
+            "count" : 15,
+            "item" : "3040"
+          }, {
+            "count" : 14,
+            "item" : "3310"
+          }, {
+            "count" : 13,
+            "item" : "6010"
+          }, {
+            "count" : 12,
+            "item" : "8140"
+          }, {
+            "count" : 11,
+            "item" : "6020"
+          }, {
+            "count" : 10,
+            "item" : "7300"
+          }, {
+            "count" : 9,
+            "item" : "9600"
+          }, {
+            "count" : 8,
+            "item" : "1012"
+          }, {
+            "count" : 7,
+            "item" : "1092"
+          }, {
+            "count" : 6,
+            "item" : "1095"
+          }, {
+            "count" : 5,
+            "item" : "3010"
+          }, {
+            "count" : 4,
+            "item" : "3090"
+          }, {
+            "count" : 3,
+            "item" : "3110"
+          }, {
+            "count" : 2,
+            "item" : "3290"
+          }, {
+            "count" : 1,
+            "item" : "4310"
+          } ]
+        },
         "format" : {
         }
       } ],

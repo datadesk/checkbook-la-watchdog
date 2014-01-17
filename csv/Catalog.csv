@@ -3812,6 +3812,217 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }]",ek3x-e9j4,"{Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,11/16/2013 03:07:46 AM +0000,01/15/2014 05:41:26 PM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,LA budget (Finance/LA-budget/g292-en5r),,"General Fund Budget, Adjustments and Expenditures from July 1, 2011 through December 31, 2013",0,Finance,"general fund, budget, expenditure, appropriation, account, expenditures",0,,,,,g292-en5r,1441258,,"[{
+  ""id"" : 129329285,
+  ""name"" : ""BUDGET FISCAL YEAR"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""budget_fiscal_year"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407323,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 129329286,
+  ""name"" : ""DEPARTMENT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_name"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407324,
+  ""width"" : 214,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 129329287,
+  ""name"" : ""ACCOUNT NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""account_name"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407327,
+  ""width"" : 223,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 129329288,
+  ""name"" : ""ADOPTED BUDGET AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Original budget amount adopted by Mayor and Council"",
+  ""fieldName"" : ""adopted_budget_amount"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407329,
+  ""width"" : 101,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329289,
+  ""name"" : ""TOTAL EXPENDITURES"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Total Budget Fiscal Year amount expended from account to date"",
+  ""fieldName"" : ""total_expenditures"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407334,
+  ""width"" : 99,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329290,
+  ""name"" : ""BUDGET CHANGE AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Amendment to the adopted budget amount"",
+  ""fieldName"" : ""budget_change_amount"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407330,
+  ""width"" : 92,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329291,
+  ""name"" : ""BUDGET TRANSFER IN AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Increase in appropriation to account by transfer in of funds"",
+  ""fieldName"" : ""budget_transfer_in_amount"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407331,
+  ""width"" : 86,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329292,
+  ""name"" : ""BUDGET TRANSFER OUT AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Decrease in appropriation to account by transfer out of funds"",
+  ""fieldName"" : ""budget_transfer_out_amount"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407332,
+  ""width"" : 89,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329293,
+  ""name"" : ""TOTAL BUDGET"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Appropriation account amount net of changes and transfers to/from the original budgeted amount"",
+  ""fieldName"" : ""total_budget"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407333,
+  ""width"" : 96,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329294,
+  ""name"" : ""ENCUMBRANCE AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Obligation or commitment to pay for a good or service"",
+  ""fieldName"" : ""encumbrance_amount"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407335,
+  ""width"" : 90,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329295,
+  ""name"" : ""PRE-ENCUMBRANCE AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Anticipated obligation or commitment to pay for a good or service"",
+  ""fieldName"" : ""pre_encumbrance_amount"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407336,
+  ""width"" : 86,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329296,
+  ""name"" : ""BUDGET UNCOMMITTED AMOUNT"",
+  ""dataTypeName"" : ""money"",
+  ""description"" : ""Total unused appropriation after expenditures and encumbrances"",
+  ""fieldName"" : ""budget_uncommitted_amount"",
+  ""position"" : 12,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15407337,
+  ""width"" : 94,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}, {
+  ""id"" : 129329297,
+  ""name"" : ""FUND NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""fund_name"",
+  ""position"" : 13,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407325,
+  ""width"" : 141,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 129329298,
+  ""name"" : ""ACCOUNT GROUP NAME"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""account_group_name"",
+  ""position"" : 14,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407328,
+  ""width"" : 183,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 129329299,
+  ""name"" : ""ACCOUNT"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""account"",
+  ""position"" : 15,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15407326,
+  ""width"" : 55,
+  ""format"" : {
+  }
+}]",g292-en5r,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,scottleighton (http://controllerdata.lacity.org/api/users/2jmg-ngni),public,,,01/16/2014 08:40:44 PM +0000,01/16/2014 08:40:44 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Total Budget v Total Expenditures by Department (Finance/FY2013-General-Fund-Total-Budget-v-Total-Expenditu/hrhm-8u54),,"General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014",0,Finance,"general fund, budget, expenditure, appropriation, account",0,,,,,hrhm-8u54,1441258,,"[{
   ""id"" : 129092422,
   ""name"" : ""DEPARTMENT NAME"",
