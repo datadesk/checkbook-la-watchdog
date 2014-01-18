@@ -8872,6 +8872,35 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""percent_bar_and_text""
   }
 }]",747u-qhne,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 03:00:39 AM +0000,01/10/2014 07:04:01 PM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,City Departments by Total Payroll (Finance/City-Departments-by-Total-Payroll/7e64-u7nc),,"City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,7e64-u7nc,1435013,,"[{
+  ""id"" : 129467618,
+  ""name"" : ""Department Title"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""department_title"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 15401981,
+  ""width"" : 216,
+  ""format"" : {
+    ""drill_down"" : ""true""
+  }
+}, {
+  ""id"" : 129467619,
+  ""name"" : ""Actual Earnings"",
+  ""dataTypeName"" : ""money"",
+  ""fieldName"" : ""actual_earnings"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""money"",
+  ""tableColumnId"" : 15401991,
+  ""width"" : 100,
+  ""format"" : {
+    ""aggregate"" : ""sum"",
+    ""grouping_aggregate"" : ""sum"",
+    ""humane"" : ""false"",
+    ""align"" : ""right"",
+    ""currency"" : ""USD""
+  }
+}]",7e64-u7nc,{Data Owner={Data Owner=Controller's Office}},,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,01/17/2014 06:34:57 PM +0000,01/17/2014 06:34:57 PM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Harbor and Airports Payroll by Year (Finance/Harbor-and-Airports-Payroll-by-Year/7s9y-g9cv),,"City of Los Angeles Payroll, 2011 - June 30, 2013",0,Finance,"payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo",0,,,,,7s9y-g9cv,1435013,,"[{
   ""id"" : 128172956,
   ""name"" : ""Department Title"",

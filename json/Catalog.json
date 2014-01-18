@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 285,
+      "downloadCount" : 289,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -10311,6 +10311,39 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382238039, 1389380641 ]
+, [ 31754915706316, "31754915706316", null, 1389983697, "849676", 1389983697, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/City-Departments-by-Total-Payroll/7e64-u7nc", "City Departments by Total Payroll" ], null, "City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "7e64-u7nc", "1435013", null, [ {
+    "id" : 129467618,
+    "name" : "Department Title",
+    "dataTypeName" : "text",
+    "fieldName" : "department_title",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15401981,
+    "width" : 216,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 129467619,
+    "name" : "Actual Earnings",
+    "dataTypeName" : "money",
+    "fieldName" : "actual_earnings",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15401991,
+    "width" : 100,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "7e64-u7nc", {
+    "Data Owner" : {
+      "Data Owner" : "Controller's Office"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1389983697, 1389983697 ]
 , [ 32720709260063, "32720709260063", null, 1382339295, "849676", 1389380630, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Harbor-and-Airports-Payroll-by-Year/7s9y-g9cv", "Harbor and Airports Payroll by Year" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "7s9y-g9cv", "1435013", null, [ {
     "id" : 128172956,
     "name" : "Department Title",
