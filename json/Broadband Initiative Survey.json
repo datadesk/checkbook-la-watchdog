@@ -7,7 +7,7 @@
       "averageRating" : 0,
       "createdAt" : 1389135614,
       "displayType" : "table",
-      "downloadCount" : 52,
+      "downloadCount" : 60,
       "indexUpdatedAt" : 1389839037,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -19,7 +19,7 @@
       "rowsUpdatedAt" : 1389830554,
       "tableId" : 1430833,
       "totalTimesRated" : 0,
-      "viewCount" : 31,
+      "viewCount" : 33,
       "viewLastModified" : 1389137335,
       "viewType" : "tabular",
       "columns" : [ {
