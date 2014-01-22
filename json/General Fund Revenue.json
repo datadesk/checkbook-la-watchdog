@@ -10,7 +10,7 @@
       "description" : "General Fund Budget versus Collected Revenue from July 1, 2011 through December 31, 2013",
       "displayType" : "table",
       "downloadCount" : 320,
-      "indexUpdatedAt" : 1390146405,
+      "indexUpdatedAt" : 1390373477,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 7158230,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1441344,
       "totalTimesRated" : 0,
-      "viewCount" : 482,
+      "viewCount" : 489,
       "viewLastModified" : 1389808006,
       "viewType" : "tabular",
       "columns" : [ {
