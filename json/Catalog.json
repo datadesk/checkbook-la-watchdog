@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 325,
+      "downloadCount" : 329,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "state" : "normal",
       "tableId" : 1181400,
       "totalTimesRated" : 0,
-      "viewCount" : 42,
+      "viewCount" : 45,
       "viewLastModified" : 1382122867,
       "viewType" : "tabular",
       "columns" : [ {
