@@ -1028,7 +1028,45 @@
       "flags" : [ "default" ]
     }
   },
-  "data" : [ [ 84055150105891, "84055150105891", null, 1384893729, "849710", 1389380638, "849710", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY-2013-3rd-Quarter-City-Employees-Earning-over-25/j7at-nhkz", "FY 2013 3rd Quarter City Employees Earning over $25k" ], null, "City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "j7at-nhkz", "1435013", null, [ {
+  "data" : [ [ 48554075026201, "48554075026201", null, 1389195437, "865560", 1389213624, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/6-Do-you-think-the-City-should-go-out-to-bid-to-se/b2zw-pfcp", "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "b2zw-pfcp", "1430833", null, [ {
+    "id" : 127777754,
+    "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440595,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  }, {
+    "id" : 127777755,
+    "name" : "Are you a resident of the City of Los Angeles?",
+    "dataTypeName" : "dataset_link",
+    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 17440383,
+    "width" : 100,
+    "format" : {
+      "keyColumn" : "yes_no",
+      "aggregate" : "sum",
+      "linkedDataset" : "u83d-tx5i",
+      "grouping_aggregate" : "count",
+      "labelColumn" : "yes_no"
+    }
+  } ], "b2zw-pfcp", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : "ITA"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389195437, 1389830554 ]
+, [ 84055150105891, "84055150105891", null, 1384893729, "849710", 1389380638, "849710", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY-2013-3rd-Quarter-City-Employees-Earning-over-25/j7at-nhkz", "FY 2013 3rd Quarter City Employees Earning over $25k" ], null, "City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "j7at-nhkz", "1435013", null, [ {
     "id" : 128173158,
     "name" : "Year",
     "dataTypeName" : "number",
@@ -1226,13 +1264,13 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/yikh-b4h5", "Controller's Office" ], "public", null, null, 1384893729, 1389380638 ]
-, [ 102015662945872, "102015662945872", null, 1386107028, "865607", 1389807961, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/BOE-Goal/ncxv-mvpg", "BOE Goal" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ncxv-mvpg", "1441344", null, [ {
-    "id" : 129092677,
+, [ 102015662945872, "102015662945872", null, 1386107028, "865607", 1390846857, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/BOE-Goal/ncxv-mvpg", "BOE Goal" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ncxv-mvpg", "1456283", null, [ {
+    "id" : 130831036,
     "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
+    "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
     "position" : 1,
-    "renderTypeName" : "text",
+    "renderTypeName" : "number",
     "tableColumnId" : 15343431,
     "width" : 50,
     "format" : {
@@ -1241,7 +1279,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 129092678,
+    "id" : 130831037,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -1252,7 +1290,7 @@
     "format" : {
     }
   }, {
-    "id" : 129092679,
+    "id" : 130831038,
     "name" : "REVENUE SOURCE NAME",
     "dataTypeName" : "text",
     "fieldName" : "revenue_source_name",
@@ -1263,7 +1301,7 @@
     "format" : {
     }
   }, {
-    "id" : 129092680,
+    "id" : 130831039,
     "name" : "REVENUE BUDGET",
     "dataTypeName" : "money",
     "fieldName" : "revenue_budget",
@@ -1278,7 +1316,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 129092681,
+    "id" : 130831040,
     "name" : "REVENUE COLLECTED",
     "dataTypeName" : "money",
     "fieldName" : "revenue_collected_1",
@@ -1293,7 +1331,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 129092682,
+    "id" : 130831041,
     "name" : "% REVENUE COLLECTED",
     "dataTypeName" : "percent",
     "fieldName" : "revenue_collected_2",
@@ -1307,7 +1345,7 @@
       "view" : "percent_bar_and_text"
     }
   }, {
-    "id" : 129092683,
+    "id" : 130831042,
     "name" : "REVENUE CLASS NAME",
     "dataTypeName" : "text",
     "fieldName" : "revenue_class_name",
@@ -1318,7 +1356,7 @@
     "format" : {
     }
   }, {
-    "id" : 129092684,
+    "id" : 130831043,
     "name" : "FUND",
     "dataTypeName" : "number",
     "fieldName" : "fund",
@@ -1329,7 +1367,7 @@
     "format" : {
     }
   }, {
-    "id" : 129092685,
+    "id" : 130831044,
     "name" : "REVENUE SOURCE CODE",
     "dataTypeName" : "text",
     "fieldName" : "revenue_source_code",
@@ -1343,7 +1381,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 129092686,
+    "id" : 130831045,
     "name" : "REVENUE CLASS CODE",
     "dataTypeName" : "number",
     "fieldName" : "revenue_class_code",
@@ -1354,7 +1392,7 @@
     "format" : {
     }
   }, {
-    "id" : 129092687,
+    "id" : 130831046,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -1369,7 +1407,2280 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1389807961 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1390846857 ]
+, [ 27722071266706, "27722071266706", null, 1382301759, "849676", 1390846860, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi", "FY2013 General Fund Revenue Budget v Collected Revenue" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6jqc-dtmi", "1456283", null, [ {
+    "id" : 130831158,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 248,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831157,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831160,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831161,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831162,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831159,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343436,
+    "width" : 267,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831163,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831167,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "6jqc-dtmi", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301759, 1390846860 ]
+, [ 28807958643843, "28807958643843", null, 1383761150, "849004", 1390846859, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines/6zdw-94i3", "Revenue from Fines" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6zdw-94i3", "1456283", null, [ {
+    "id" : 130831115,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831113,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831116,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831117,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831118,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "grouping_aggregate" : "count",
+      "align" : "right",
+      "noCommas" : "false",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831119,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831120,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831121,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "grouping_aggregate" : "count",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831122,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831123,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "6zdw-94i3", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383761150, 1390846859 ]
+, [ 36094218392012, "36094218392012", null, 1382069286, "402253", 1390846861, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/General-Fund-Revenue/8dfn-4d7c", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "8dfn-4d7c", "1456283", null, [ {
+    "id" : 130831223,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831224,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 218,
+    "format" : {
+    }
+  }, {
+    "id" : 130831225,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 267,
+    "format" : {
+    }
+  }, {
+    "id" : 130831226,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831227,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831228,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 6,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "align" : "right",
+      "noCommas" : "false",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831229,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+    }
+  }, {
+    "id" : 130831230,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831231,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831232,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831233,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+    }
+  } ], "revenue", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1390846861 ]
+, [ 36178979518435, "36178979518435", null, 1382301557, "849676", 1390846860, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Revenue-Source/8euj-efvz", "FY2013 General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "8euj-efvz", "1456283", null, [ {
+    "id" : 130831181,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831179,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831182,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831183,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831184,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831180,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343432,
+    "width" : 218,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831185,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831189,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "8euj-efvz", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301557, 1390846860 ]
+, [ 57888962908636, "57888962908636", null, 1387005215, "847801", 1390846860, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-Collected-by-Revenue-Class-up-to-Nov2013/dapj-4x7s", "Revenue Collected by Revenue Class up to Nov2013" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "dapj-4x7s", "1456283", null, [ {
+    "id" : 130831170,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 271,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831171,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831172,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "dapj-4x7s", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, [ null, "Controller's Office" ], 1387005215, 1390846860 ]
+, [ 62410662146595, "62410662146595", null, 1383686985, "849004", 1390846859, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines-Fees/ecct-mf8z", "Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ecct-mf8z", "1456283", null, [ {
+    "id" : 130831104,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831102,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831105,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831106,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831107,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "grouping_aggregate" : "count",
+      "align" : "right",
+      "noCommas" : "false",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831108,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831109,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831110,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "grouping_aggregate" : "count",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831111,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831112,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "ecct-mf8z", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383686985, 1390846859 ]
+, [ 66756732282324, "66756732282324", null, 1382301604, "849676", 1390846862, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Revenue-Class/fbs3-k6nk", "FY2013 General Fund Revenues by Revenue Class" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "fbs3-k6nk", "1456283", null, [ {
+    "id" : 130831240,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343438,
+    "width" : 286,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831234,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831237,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831238,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831239,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831235,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343432,
+    "width" : 218,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831236,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343436,
+    "width" : 207,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831244,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 146,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "fbs3-k6nk", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301604, 1390846862 ]
+, [ 70746201244378, "70746201244378", null, 1386614376, "862121", 1390846858, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue1/g5vy-csbq", "Revenue1" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "g5vy-csbq", "1456283", null, [ {
+    "id" : 130831080,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831081,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 179,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831084,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "g5vy-csbq", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, [ null, "Controller's Office" ], 1386614376, 1390846858 ]
+, [ 71080082192031, "71080082192031", null, 1389804580, "862121", 1390846857, "862121", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Internal/General-Fund-Revenue_EA/gamv-3bqv", "General Fund Revenue_EA" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Internal", "revenue, general fund, revenues", "0", null, null, null, null, "gamv-3bqv", "1456283", null, [ {
+    "id" : 130831047,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831048,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 149,
+    "format" : {
+    }
+  }, {
+    "id" : 130831049,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 235,
+    "format" : {
+    }
+  }, {
+    "id" : 130831050,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831051,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831052,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 6,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 218,
+    "format" : {
+    }
+  }, {
+    "id" : 130831053,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343438,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 130831054,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831055,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831056,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831057,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+    }
+  } ], "gamv-3bqv", {
+    "Data Owner" : {
+      "Data Owner" : "Controller's Office"
+    },
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, [ null, "Controller's Office" ], 1389804580, 1390846857 ]
+, [ 75830267502921, "75830267502921", null, 1382069286, "855880", 1390846863, "855880", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Revenue/hfus-a659", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through December 31, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "hfus-a659", "1456283", null, [ {
+    "id" : 130830951,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "left",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 130830952,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 149,
+    "format" : {
+    }
+  }, {
+    "id" : 130830953,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 241,
+    "format" : {
+    }
+  }, {
+    "id" : 130830954,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130830955,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130830956,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 6,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 218,
+    "format" : {
+    }
+  }, {
+    "id" : 130830957,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343438,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 130830958,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130830959,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130830960,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130830961,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+    }
+  } ], "hfus-a659", {
+    "Data Owner" : {
+      "Data Owner" : "Controller's Office"
+    },
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1390846863 ]
+, [ 80486815851795, "80486815851795", null, 1386112926, "865607", 1390846858, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Public-Works-Engineering/ijfc-4mkj", "Public Works - Engineering" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ijfc-4mkj", "1456283", null, [ {
+    "id" : 130831058,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831059,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 149,
+    "format" : {
+    }
+  }, {
+    "id" : 130831060,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 241,
+    "format" : {
+    }
+  }, {
+    "id" : 130831061,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831062,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831063,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 6,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 218,
+    "format" : {
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831064,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343438,
+    "width" : 220,
+    "format" : {
+    }
+  }, {
+    "id" : 130831065,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831066,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831067,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+    }
+  }, {
+    "id" : 130831068,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+    }
+  } ], "ijfc-4mkj", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386112926, 1390846858 ]
+, [ 84332223964359, "84332223964359", null, 1382301357, "849676", 1390846858, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Class/jbcw-gaj7", "General Fund Revenues by Revenue Class" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "jbcw-gaj7", "1456283", null, [ {
+    "id" : 130831075,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343438,
+    "width" : 286,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831069,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831072,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831073,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831074,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831070,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343432,
+    "width" : 218,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831071,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343436,
+    "width" : 207,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831079,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 146,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "jbcw-gaj7", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301357, 1390846858 ]
+, [ 115899059246351, "115899059246351", null, 1389656066, "849676", 1390846861, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Stormwater-Revenues/qmzq-gpkf", "Stormwater Revenues" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "qmzq-gpkf", "1456283", null, [ {
+    "id" : 130831192,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 271,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831190,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831193,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 99,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831194,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831200,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "qmzq-gpkf", {
+    "Data Owner" : {
+      "Data Owner" : "Controller's Office"
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1389656066, 1390846861 ]
+, [ 123301054265186, "123301054265186", null, 1382597933, "849676", 1390846861, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Fees-Fines-and-Penalti/s2h3-yzty", "FY2013 General Fund Revenue - Fees, Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "s2h3-yzty", "1456283", null, [ {
+    "id" : 130831203,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831201,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831204,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831205,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831206,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "grouping_aggregate" : "count",
+      "align" : "right",
+      "noCommas" : "false",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831207,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831208,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831209,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "grouping_aggregate" : "count",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831210,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831211,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "s2h3-yzty", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382597933, 1390846861 ]
+, [ 129065143523296, "129065143523296", null, 1382300904, "849676", 1390846859, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Department/tm9i-25vw", "General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tm9i-25vw", "1456283", null, [ {
+    "id" : 130831136,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 248,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831135,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831138,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831139,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831140,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831137,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343436,
+    "width" : 267,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831141,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831145,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "tm9i-25vw", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300904, 1390846859 ]
+, [ 129161550144666, "129161550144666", null, 1382595084, "849676", 1390846861, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Source/tnz4-kaiq", "General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tnz4-kaiq", "1456283", null, [ {
+    "id" : 130831214,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831212,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831215,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831216,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831217,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "align" : "right",
+      "noCommas" : "false",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831213,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343432,
+    "width" : 218,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831218,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831222,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "tnz4-kaiq", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382595084, 1390846861 ]
+, [ 141171851638546, "141171851638546", null, 1383687423, "849004", 1390846858, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/2013-Revenue-from-Fines-Fees/w6ky-4rsi", "2013 Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "w6ky-4rsi", "1456283", null, [ {
+    "id" : 130831093,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831091,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831094,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831095,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831096,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "grouping_aggregate" : "count",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831097,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831098,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831099,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "grouping_aggregate" : "count",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831100,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831101,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "w6ky-4rsi", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687423, 1390846858 ]
+, [ 146661441557789, "146661441557789", null, 1383687128, "855880", 1390846859, "855880", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Fees-Fines-and-Penalties/xmd7-85kt", "Fees Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "xmd7-85kt", "1456283", null, [ {
+    "id" : 130831148,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343436,
+    "width" : 297,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831146,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831149,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831150,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831151,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "grouping_aggregate" : "count",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831152,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831153,
+    "name" : "FUND",
+    "dataTypeName" : "number",
+    "fieldName" : "fund",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343433,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831154,
+    "name" : "REVENUE SOURCE CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343435,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "grouping_aggregate" : "count",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 130831155,
+    "name" : "REVENUE CLASS CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "revenue_class_code",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343437,
+    "width" : 50,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831156,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "xmd7-85kt", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687128, 1390846859 ]
+, [ 151057800381332, "151057800381332", null, 1382300986, "849676", 1390846859, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Department/ymby-y4ek", "FY2013 General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ymby-y4ek", "1456283", null, [ {
+    "id" : 130831125,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15343432,
+    "width" : 248,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 130831124,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343431,
+    "width" : 80,
+    "format" : {
+      "precisionStyle" : "standard",
+      "drill_down" : "true",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 130831126,
+    "name" : "REVENUE SOURCE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_source_name",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343436,
+    "width" : 267,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831127,
+    "name" : "REVENUE BUDGET",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_budget",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343440,
+    "width" : 111,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831128,
+    "name" : "REVENUE COLLECTED",
+    "dataTypeName" : "money",
+    "fieldName" : "revenue_collected_1",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15343442,
+    "width" : 116,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 130831129,
+    "name" : "% REVENUE COLLECTED",
+    "dataTypeName" : "percent",
+    "fieldName" : "revenue_collected_2",
+    "position" : 6,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 15343444,
+    "width" : 252,
+    "format" : {
+      "precision" : "2",
+      "grouping_aggregate" : "average",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 130831130,
+    "name" : "REVENUE CLASS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "revenue_class_name",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343438,
+    "width" : 256,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  }, {
+    "id" : 130831134,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15343434,
+    "width" : 208,
+    "format" : {
+      "grouping_aggregate" : "count"
+    }
+  } ], "ymby-y4ek", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300986, 1390846859 ]
 , [ 10403608879773, "10403608879773", null, 1382970365, "858342", 1390800315, "858342", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Law-Firms-NAMED/2np7-qmat", "Law Firms - NAMED" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "2np7-qmat", "1455398", null, [ {
     "id" : 130726049,
     "name" : "VENDOR NAME",
@@ -4745,44 +7056,6 @@
       "Other" : "ITA"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389135614, 1389830554 ]
-, [ 48554075026201, "48554075026201", null, 1389195437, "865560", 1389213624, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/6-Do-you-think-the-City-should-go-out-to-bid-to-se/b2zw-pfcp", "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "b2zw-pfcp", "1430833", null, [ {
-    "id" : 127777754,
-    "name" : "6.  Do you think the City should go out to bid to see if there is a vendor that can deliver this project for the City of Los Angeles?",
-    "dataTypeName" : "dataset_link",
-    "fieldName" : "_6_do_you_think_the_city_should_go_out_to_bid_to_see_if_there_is_a_vendor_that_can_deliver_this_project_for_the_city_of_los_angeles",
-    "position" : 1,
-    "renderTypeName" : "number",
-    "tableColumnId" : 17440595,
-    "width" : 100,
-    "format" : {
-      "keyColumn" : "yes_no",
-      "aggregate" : "sum",
-      "linkedDataset" : "u83d-tx5i",
-      "grouping_aggregate" : "count",
-      "labelColumn" : "yes_no"
-    }
-  }, {
-    "id" : 127777755,
-    "name" : "Are you a resident of the City of Los Angeles?",
-    "dataTypeName" : "dataset_link",
-    "fieldName" : "are_you_a_resident_of_the_city_of_los_angeles",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 17440383,
-    "width" : 100,
-    "format" : {
-      "keyColumn" : "yes_no",
-      "aggregate" : "sum",
-      "linkedDataset" : "u83d-tx5i",
-      "grouping_aggregate" : "count",
-      "labelColumn" : "yes_no"
-    }
-  } ], "b2zw-pfcp", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : "ITA"
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389195437, 1389830554 ]
 , [ 49905716029267, "49905716029267", null, 1389195007, "865560", 1389303274, "865560", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "dataset/3-Would-you-Pay-75-month-for-a-1Gbps-broadband-con/bmek-uutj", "3.  Would you Pay $75/month for a 1Gbps broadband connection?" ], null, null, "0", null, "broadband, internet, survey", "0", null, null, null, null, "bmek-uutj", "1430833", null, [ {
     "id" : 127777364,
     "name" : "3.  Would you Pay $75/month for a 1Gbps broadband connection?",
@@ -5119,2276 +7392,6 @@
       "Other" : "ITA"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389194578, 1389830554 ]
-, [ 27722071266706, "27722071266706", null, 1382301759, "849676", 1389807955, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi", "FY2013 General Fund Revenue Budget v Collected Revenue" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6jqc-dtmi", "1441344", null, [ {
-    "id" : 129092567,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 248,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092566,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092569,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092570,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092571,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092568,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 267,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092572,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092576,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "6jqc-dtmi", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301759, 1389807955 ]
-, [ 28807958643843, "28807958643843", null, 1383761150, "849004", 1389807957, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines/6zdw-94i3", "Revenue from Fines" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6zdw-94i3", "1441344", null, [ {
-    "id" : 129092579,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092577,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092580,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092581,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092582,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "grouping_aggregate" : "count",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092583,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092584,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092585,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "grouping_aggregate" : "count",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092586,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 9,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092587,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "6zdw-94i3", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383761150, 1389807957 ]
-, [ 36094218392012, "36094218392012", null, 1382069286, "402253", 1389807962, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/General-Fund-Revenue/8dfn-4d7c", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "8dfn-4d7c", "1441344", null, [ {
-    "id" : 129092710,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092711,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 218,
-    "format" : {
-    }
-  }, {
-    "id" : 129092712,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 267,
-    "format" : {
-    }
-  }, {
-    "id" : 129092713,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092714,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092715,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092716,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-    }
-  }, {
-    "id" : 129092717,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092718,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092719,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092720,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 11,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-    }
-  } ], "revenue", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1389807962 ]
-, [ 36178979518435, "36178979518435", null, 1382301557, "849676", 1389807959, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Revenue-Source/8euj-efvz", "FY2013 General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "8euj-efvz", "1441344", null, [ {
-    "id" : 129092624,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092622,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092625,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092626,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092627,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092623,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343432,
-    "width" : 218,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092628,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092632,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "8euj-efvz", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301557, 1389807959 ]
-, [ 57888962908636, "57888962908636", null, 1387005215, "847801", 1389807959, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-Collected-by-Revenue-Class-up-to-Nov2013/dapj-4x7s", "Revenue Collected by Revenue Class up to Nov2013" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "dapj-4x7s", "1441344", null, [ {
-    "id" : 129092635,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 271,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092636,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092637,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "dapj-4x7s", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, [ null, "Controller's Office" ], 1387005215, 1389807959 ]
-, [ 62410662146595, "62410662146595", null, 1383686985, "849004", 1389807958, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue-from-Fines-Fees/ecct-mf8z", "Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ecct-mf8z", "1441344", null, [ {
-    "id" : 129092602,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092600,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092603,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092604,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092605,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "grouping_aggregate" : "count",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092606,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092607,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092608,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "grouping_aggregate" : "count",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092609,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 9,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092610,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "ecct-mf8z", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383686985, 1389807958 ]
-, [ 66756732282324, "66756732282324", null, 1382301604, "849676", 1389807963, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Revenue-Class/fbs3-k6nk", "FY2013 General Fund Revenues by Revenue Class" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "fbs3-k6nk", "1441344", null, [ {
-    "id" : 129092727,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343438,
-    "width" : 286,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092721,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092724,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092725,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092726,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092722,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343432,
-    "width" : 218,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092723,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 207,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092731,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 146,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "fbs3-k6nk", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301604, 1389807963 ]
-, [ 70746201244378, "70746201244378", null, 1386614376, "862121", 1389807957, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Revenue1/g5vy-csbq", "Revenue1" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "g5vy-csbq", "1441344", null, [ {
-    "id" : 129092589,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092590,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 179,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092593,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "g5vy-csbq", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, [ null, "Controller's Office" ], 1386614376, 1389807957 ]
-, [ 71080082192031, "71080082192031", null, 1389804580, "862121", 1389807960, "862121", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Internal/General-Fund-Revenue_EA/gamv-3bqv", "General Fund Revenue_EA" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Internal", "revenue, general fund, revenues", "0", null, null, null, null, "gamv-3bqv", "1441344", null, [ {
-    "id" : 129092666,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092667,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 149,
-    "format" : {
-    }
-  }, {
-    "id" : 129092668,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 235,
-    "format" : {
-    }
-  }, {
-    "id" : 129092669,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092670,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092671,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 218,
-    "format" : {
-    }
-  }, {
-    "id" : 129092672,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343438,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 129092673,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092674,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092675,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092676,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 11,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-    }
-  } ], "gamv-3bqv", {
-    "Data Owner" : {
-      "Data Owner" : "Controller's Office"
-    },
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, [ null, "Controller's Office" ], 1389804580, 1389807960 ]
-, [ 75830267502921, "75830267502921", null, 1382069286, "855880", 1389808006, "855880", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Revenue/hfus-a659", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through December 31, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "hfus-a659", "1441344", null, [ {
-    "id" : 129088038,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129088039,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 149,
-    "format" : {
-    }
-  }, {
-    "id" : 129088040,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 241,
-    "format" : {
-    }
-  }, {
-    "id" : 129088041,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129088042,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129088043,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 218,
-    "format" : {
-    }
-  }, {
-    "id" : 129088044,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343438,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 129088045,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129088046,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129088047,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129088048,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 11,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-    }
-  } ], "hfus-a659", {
-    "Data Owner" : {
-      "Data Owner" : "Controller's Office"
-    },
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1389808006 ]
-, [ 80486815851795, "80486815851795", null, 1386112926, "865607", 1389807958, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Public-Works-Engineering/ijfc-4mkj", "Public Works - Engineering" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ijfc-4mkj", "1441344", null, [ {
-    "id" : 129092611,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092612,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 149,
-    "format" : {
-    }
-  }, {
-    "id" : 129092613,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 241,
-    "format" : {
-    }
-  }, {
-    "id" : 129092614,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092615,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092616,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 218,
-    "format" : {
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092617,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343438,
-    "width" : 220,
-    "format" : {
-    }
-  }, {
-    "id" : 129092618,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092619,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092620,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 129092621,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 11,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-    }
-  } ], "ijfc-4mkj", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386112926, 1389807958 ]
-, [ 84332223964359, "84332223964359", null, 1382301357, "849676", 1389807963, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Class/jbcw-gaj7", "General Fund Revenues by Revenue Class" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "jbcw-gaj7", "1441344", null, [ {
-    "id" : 129092738,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343438,
-    "width" : 286,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092732,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092735,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092736,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092737,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092733,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343432,
-    "width" : 218,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092734,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 207,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092742,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 146,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "jbcw-gaj7", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382301357, 1389807963 ]
-, [ 115899059246351, "115899059246351", null, 1389656066, "849676", 1389807962, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Stormwater-Revenues/qmzq-gpkf", "Stormwater Revenues" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through November 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "qmzq-gpkf", "1441344", null, [ {
-    "id" : 129092701,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 271,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092699,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092702,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092703,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092709,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "qmzq-gpkf", {
-    "Data Owner" : {
-      "Data Owner" : "Controller's Office"
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1389656066, 1389807962 ]
-, [ 123301054265186, "123301054265186", null, 1382597933, "849676", 1389807961, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Fees-Fines-and-Penalti/s2h3-yzty", "FY2013 General Fund Revenue - Fees, Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "s2h3-yzty", "1441344", null, [ {
-    "id" : 129092690,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092688,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092691,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092692,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092693,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "grouping_aggregate" : "count",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092694,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092695,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092696,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "grouping_aggregate" : "count",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092697,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 9,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092698,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "s2h3-yzty", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382597933, 1389807961 ]
-, [ 129065143523296, "129065143523296", null, 1382300904, "849676", 1389807964, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Department/tm9i-25vw", "General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tm9i-25vw", "1441344", null, [ {
-    "id" : 129092766,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 248,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092765,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092768,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092769,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092770,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092767,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 267,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092771,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092775,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "tm9i-25vw", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300904, 1389807964 ]
-, [ 129161550144666, "129161550144666", null, 1382595084, "849676", 1389807964, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Source/tnz4-kaiq", "General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tnz4-kaiq", "1441344", null, [ {
-    "id" : 129092745,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092743,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092746,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092747,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092748,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092744,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343432,
-    "width" : 218,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092749,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092753,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "tnz4-kaiq", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382595084, 1389807964 ]
-, [ 141171851638546, "141171851638546", null, 1383687423, "849004", 1389807960, "849004", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/2013-Revenue-from-Fines-Fees/w6ky-4rsi", "2013 Revenue from Fines & Fees" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "w6ky-4rsi", "1441344", null, [ {
-    "id" : 129092646,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092644,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092647,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092648,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092649,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "grouping_aggregate" : "count",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092650,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092651,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092652,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "grouping_aggregate" : "count",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092653,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 9,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092654,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "w6ky-4rsi", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kwhu-yksr", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687423, 1389807960 ]
-, [ 146661441557789, "146661441557789", null, 1383687128, "855880", 1389807960, "855880", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Fees-Fines-and-Penalties/xmd7-85kt", "Fees Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "xmd7-85kt", "1441344", null, [ {
-    "id" : 129092657,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092655,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092658,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092659,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092660,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "grouping_aggregate" : "count",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092661,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092662,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092663,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "grouping_aggregate" : "count",
-      "align" : "right",
-      "noCommas" : "false"
-    }
-  }, {
-    "id" : 129092664,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 9,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092665,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "xmd7-85kt", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687128, 1389807960 ]
-, [ 151057800381332, "151057800381332", null, 1382300986, "849676", 1389807964, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Department/ymby-y4ek", "FY2013 General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ymby-y4ek", "1441344", null, [ {
-    "id" : 129092755,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 248,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129092754,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 129092756,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 3,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 267,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092757,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092758,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 129092759,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 129092760,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 129092764,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "ymby-y4ek", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300986, 1389807964 ]
 , [ 9700243285779, "9700243285779", null, 1382289805, "849676", 1389807689, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures-by-Account-Group-/2da3-zysj", "General Fund Budget Expenditures by Account Group Name" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "2da3-zysj", "1441258", null, [ {
     "id" : 129092389,
     "name" : "ACCOUNT GROUP NAME",
