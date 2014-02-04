@@ -364,6 +364,51 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",ncxv-mvpg,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 09:43:48 PM +0000,01/27/2014 06:20:57 PM +0000
+"<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,ControlPanel LA Survey (dataset/ControlPanel-LA-Survey/twip-eai6),,We want to hear from you - how can we improve ControlPanel LA?,0,,"form, survey, response",0,,,,,twip-eai6,1373511,,"[{
+  ""id"" : 117970480,
+  ""name"" : ""Name"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""name"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16491365,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 117970481,
+  ""name"" : ""Recommendation"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""recommendation"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 16491378,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 117970483,
+  ""name"" : ""Zip Code"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""zip_code"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 16491395,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 117970484,
+  ""name"" : ""Email"",
+  ""dataTypeName"" : ""email"",
+  ""fieldName"" : ""email"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""email"",
+  ""tableColumnId"" : 16491425,
+  ""width"" : 100,
+  ""format"" : {
+  }
+}]",twip-eai6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/22/2013 06:25:52 PM +0000,02/03/2014 07:33:21 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenue Budget v Collected Revenue (Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,6jqc-dtmi,1456283,,"[{
   ""id"" : 130831158,
   ""name"" : ""DEPARTMENT NAME"",
@@ -13380,6 +13425,220 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
     ""currency"" : ""USD""
   }
 }]",xcjh-7vku,"{Department={Controller=, Other=Department of Neighborhood Empowerment}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/12/2013 11:48:16 PM +0000,01/10/2014 07:00:55 PM +0000
+"<div class='typeMap'><div class=""viewTypeCell"">Map</div></div>",,CD9 Rec and Parks Facilities (Public-Works/CD9-Rec-and-Parks-Facilities/jmxf-pnfa),,Facility and Park information for the Department of Recreation and Parks,0,Public Works,"parks, recreation, facilities",0,,,,,jmxf-pnfa,1433789,,"[{
+  ""id"" : 131804124,
+  ""name"" : ""LocationType"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""locationtype"",
+  ""position"" : 1,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482331,
+  ""width"" : 134,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804125,
+  ""name"" : ""Location Name"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""location_name"",
+  ""position"" : 2,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482332,
+  ""width"" : 233,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804126,
+  ""name"" : ""StNumber"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""stnumber"",
+  ""position"" : 3,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17482333,
+  ""width"" : 53,
+  ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""align"" : ""right"",
+    ""noCommas"" : ""true""
+  }
+}, {
+  ""id"" : 131804127,
+  ""name"" : ""StNumberFraction"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""stnumberfraction"",
+  ""position"" : 4,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482334,
+  ""width"" : 62,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804128,
+  ""name"" : ""StDirection"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""stdirection"",
+  ""position"" : 5,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482335,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804129,
+  ""name"" : ""StName"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""stname"",
+  ""position"" : 6,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482336,
+  ""width"" : 160,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804130,
+  ""name"" : ""StAddress"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""staddress"",
+  ""position"" : 7,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482337,
+  ""width"" : 188,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804131,
+  ""name"" : ""StSuffix"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""stsuffix"",
+  ""position"" : 8,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482338,
+  ""width"" : 68,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804132,
+  ""name"" : ""StSuffixDirection"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""stsuffixdirection"",
+  ""position"" : 9,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482339,
+  ""width"" : 68,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804133,
+  ""name"" : ""AddressTypeValue"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""addresstypevalue"",
+  ""position"" : 10,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482340,
+  ""width"" : 68,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804134,
+  ""name"" : ""CrossStDirection"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""crossstdirection"",
+  ""position"" : 11,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482341,
+  ""width"" : 64,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804135,
+  ""name"" : ""CrossStName"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""crossstname"",
+  ""position"" : 12,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482342,
+  ""width"" : 59,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804136,
+  ""name"" : ""CrossStSuffix"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""crossstsuffix"",
+  ""position"" : 13,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482343,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804137,
+  ""name"" : ""CrossStSuffixDirection"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""crossstsuffixdirection"",
+  ""position"" : 14,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482344,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804138,
+  ""name"" : ""Website"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""website"",
+  ""position"" : 15,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482345,
+  ""width"" : 184,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804139,
+  ""name"" : ""Phone"",
+  ""dataTypeName"" : ""text"",
+  ""fieldName"" : ""phone"",
+  ""position"" : 16,
+  ""renderTypeName"" : ""text"",
+  ""tableColumnId"" : 17482346,
+  ""width"" : 92,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804140,
+  ""name"" : ""CouncilDistrict"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""councildistrict"",
+  ""position"" : 17,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17482347,
+  ""width"" : 50,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804141,
+  ""name"" : ""GeoLat"",
+  ""dataTypeName"" : ""number"",
+  ""fieldName"" : ""geolat"",
+  ""position"" : 18,
+  ""renderTypeName"" : ""number"",
+  ""tableColumnId"" : 17482350,
+  ""width"" : 75,
+  ""format"" : {
+  }
+}, {
+  ""id"" : 131804142,
+  ""name"" : ""Location 1"",
+  ""dataTypeName"" : ""location"",
+  ""fieldName"" : ""location_1"",
+  ""position"" : 19,
+  ""renderTypeName"" : ""location"",
+  ""tableColumnId"" : 17482351,
+  ""width"" : 220,
+  ""format"" : {
+  },
+  ""subColumnTypes"" : [ ""human_address"", ""latitude"", ""longitude"", ""machine_address"", ""needs_recoding"" ]
+}]",jmxf-pnfa,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,02/03/2014 04:26:44 PM +0000,02/03/2014 04:26:44 PM +0000
 "<div class='typeMap'><div class=""viewTypeCell"">Map</div></div>",,CD3 Parks Map (Public-Works/CD3-Parks-Map/k6rq-pyr9),,Facility and Park information for the Department of Recreation and Parks,0,Public Works,"parks, recreation, facilities",0,,,,,k6rq-pyr9,1433789,,"[{
   ""id"" : 128023115,
   ""name"" : ""LocationType"",
@@ -13842,51 +14101,6 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
     ""labelColumn"" : ""yes_no""
   }
 }]",r58u-sb45,"{Department={Controller=, Other=}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,01/03/2014 05:01:21 PM +0000,01/03/2014 05:12:48 PM +0000
-"<div class='typeForm'><div class=""viewTypeCell"">Form</div></div>",,ControlPanel LA Survey (dataset/ControlPanel-LA-Survey/twip-eai6),,We want to hear from you - how can we improve ControlPanel LA?,0,,"form, survey, response",0,,,,,twip-eai6,1373511,,"[{
-  ""id"" : 117970480,
-  ""name"" : ""Name"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16491365,
-  ""width"" : 100,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 117970481,
-  ""name"" : ""Recommendation"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""recommendation"",
-  ""position"" : 3,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 16491378,
-  ""width"" : 100,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 117970483,
-  ""name"" : ""Zip Code"",
-  ""dataTypeName"" : ""number"",
-  ""fieldName"" : ""zip_code"",
-  ""position"" : 6,
-  ""renderTypeName"" : ""number"",
-  ""tableColumnId"" : 16491395,
-  ""width"" : 100,
-  ""format"" : {
-  }
-}, {
-  ""id"" : 117970484,
-  ""name"" : ""Email"",
-  ""dataTypeName"" : ""email"",
-  ""fieldName"" : ""email"",
-  ""position"" : 7,
-  ""renderTypeName"" : ""email"",
-  ""tableColumnId"" : 16491425,
-  ""width"" : 100,
-  ""format"" : {
-  }
-}]",twip-eai6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/22/2013 06:25:52 PM +0000,12/04/2013 12:15:12 AM +0000
 "<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Home Page Stories (Internal/Home-Page-Stories/uuhh-hvvk),,,0,Internal,,0,,,,,uuhh-hvvk,1368222,,"[{
   ""id"" : 117354945,
   ""name"" : ""Sort"",
