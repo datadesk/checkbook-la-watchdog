@@ -4602,6 +4602,43 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961110, 1390800314 ]
+, [ 31555214443998, "31555214443998", null, 1391534787, "862121", 1391534787, "862121", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/vendor_totals/7bc5-mgnu", "vendor_totals" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - December 31, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7bc5-mgnu", "1455398", null, [ {
+    "id" : 131947902,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 262,
+    "format" : {
+      "drill_down" : "true"
+    }
+  }, {
+    "id" : 131947903,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  } ], "7bc5-mgnu", {
+    "Data Owner" : {
+      "Data Owner" : "Controller's Office"
+    },
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1391534787, 1391534787 ]
 , [ 31627520553168, "31627520553168", null, 1381960296, "710611", 1390800314, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Vendor-count/7cfr-8b3g", "Vendor count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7cfr-8b3g", "1455398", null, [ {
     "id" : 130725947,
     "name" : "DOLLAR AMOUNT",
