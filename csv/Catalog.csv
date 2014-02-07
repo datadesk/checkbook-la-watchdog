@@ -1066,6 +1066,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""tableColumnId"" : 15343431,
   ""width"" : 50,
   ""format"" : {
+    ""precisionStyle"" : ""standard"",
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
   }
 }, {
   ""id"" : 130831048,
