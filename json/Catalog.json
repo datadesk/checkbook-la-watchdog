@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 383,
+      "downloadCount" : 387,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -14585,7 +14585,7 @@
       "Other" : "Department of Neighborhood Empowerment"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384300096, 1389380455 ]
-, [ 85110403986378, "85110403986378", null, 1391444804, "849676", 1391444804, "849676", null, "<div class='typeMap'><div class=\"viewTypeCell\">Map</div></div>", null, [ "Public-Works/CD9-Rec-and-Parks-Facilities/jmxf-pnfa", "CD9 Rec and Parks Facilities" ], null, "Facility and Park information for the Department of Recreation and Parks", "0", "Public Works", "parks, recreation, facilities", "0", null, null, null, null, "jmxf-pnfa", "1433789", null, [ {
+, [ 85110403986378, "85110403986378", null, 1391444804, "849676", 1392169074, "849676", null, "<div class='typeMap'><div class=\"viewTypeCell\">Map</div></div>", null, [ "Public-Works/CD9-Rec-and-Parks-Facilities/jmxf-pnfa", "CD9 Rec and Parks Facilities" ], null, "Facility and Park information for the Department of Recreation and Parks", "0", "Public Works", "parks, recreation, facilities", "0", null, null, null, null, "jmxf-pnfa", "1433789", null, [ {
     "id" : 131804124,
     "name" : "LocationType",
     "dataTypeName" : "text",
@@ -14618,8 +14618,8 @@
     "width" : 53,
     "format" : {
       "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "true"
+      "noCommas" : "true",
+      "align" : "right"
     }
   }, {
     "id" : 131804127,
@@ -14803,7 +14803,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1391444804, 1391444804 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1391444804, 1392169074 ]
 , [ 88402681013961, "88402681013961", null, 1389302672, "849676", 1389302731, "849676", null, "<div class='typeMap'><div class=\"viewTypeCell\">Map</div></div>", null, [ "Public-Works/CD3-Parks-Map/k6rq-pyr9", "CD3 Parks Map" ], null, "Facility and Park information for the Department of Recreation and Parks", "0", "Public Works", "parks, recreation, facilities", "0", null, null, null, null, "k6rq-pyr9", "1433789", null, [ {
     "id" : 128023115,
     "name" : "LocationType",
