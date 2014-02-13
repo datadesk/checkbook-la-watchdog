@@ -171,8 +171,8 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }]",ncxv-mvpg,"{Department={Controller=, Other=}}",,,,Randy (http://controllerdata.lacity.org/api/users/sa72-xm7q),public,,,12/03/2013 09:43:48 PM +0000,02/07/2014 04:55:05 PM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Police (Finance/Police/284b-dhaq),,"Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,284b-dhaq,1474750,,"[{
-  ""id"" : 133225169,
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Police (Finance/Police/284b-dhaq),,"Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,284b-dhaq,1474833,,"[{
+  ""id"" : 133245683,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -186,7 +186,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225170,
+  ""id"" : 133245684,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -200,7 +200,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225171,
+  ""id"" : 133245685,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -211,7 +211,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225172,
+  ""id"" : 133245686,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -222,7 +222,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225174,
+  ""id"" : 133245687,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -235,7 +235,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225175,
+  ""id"" : 133245688,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -250,7 +250,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225177,
+  ""id"" : 133245689,
   ""name"" : ""AUTHORITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""authority"",
@@ -261,7 +261,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225179,
+  ""id"" : 133245690,
   ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""business_tax_registration_certificate"",
@@ -275,7 +275,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225180,
+  ""id"" : 133245691,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -286,7 +286,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225181,
+  ""id"" : 133245692,
   ""name"" : ""FUND GROUP NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_group_name"",
@@ -297,7 +297,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225182,
+  ""id"" : 133245693,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -308,7 +308,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225183,
+  ""id"" : 133245694,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -319,7 +319,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225184,
+  ""id"" : 133245695,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -330,7 +330,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225185,
+  ""id"" : 133245696,
   ""name"" : ""ACCOUNT CODE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_code"",
@@ -341,7 +341,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225186,
+  ""id"" : 133245697,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -352,7 +352,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225187,
+  ""id"" : 133245698,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -363,7 +363,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225188,
+  ""id"" : 133245699,
   ""name"" : ""SETTLEMENT/JUDGMENT"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""settlement_judgment"",
@@ -374,7 +374,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225189,
+  ""id"" : 133245700,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -385,7 +385,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225190,
+  ""id"" : 133245701,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -396,7 +396,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225191,
+  ""id"" : 133245702,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -407,7 +407,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225192,
+  ""id"" : 133245703,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -418,7 +418,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225193,
+  ""id"" : 133245704,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -429,7 +429,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225194,
+  ""id"" : 133245705,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -440,7 +440,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225196,
+  ""id"" : 133245706,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -451,7 +451,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225197,
+  ""id"" : 133245707,
   ""name"" : ""CONTRACT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""contract_name"",
@@ -462,7 +462,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225198,
+  ""id"" : 133245708,
   ""name"" : ""CONTRACT LINK"",
   ""dataTypeName"" : ""url"",
   ""fieldName"" : ""contract_link"",
@@ -473,9 +473,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   },
   ""subColumnTypes"" : [ ""url"", ""description"" ]
-}]",284b-dhaq,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,David (http://controllerdata.lacity.org/api/users/777y-v2sp),public,,,02/12/2014 09:47:27 PM +0000,02/13/2014 12:48:09 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Law Firms - NAMED (Finance/Law-Firms-NAMED/2np7-qmat),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,2np7-qmat,1474750,,"[{
-  ""id"" : 133225688,
+}]",284b-dhaq,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,David (http://controllerdata.lacity.org/api/users/777y-v2sp),public,,,02/12/2014 09:47:27 PM +0000,02/13/2014 03:14:54 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Law Firms - NAMED (Finance/Law-Firms-NAMED/2np7-qmat),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,2np7-qmat,1474833,,"[{
+  ""id"" : 133245374,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -487,7 +487,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225690,
+  ""id"" : 133245376,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -498,9 +498,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""sum""
   }
-}]",2np7-qmat,"{Department={Controller=, Other=}}",,,,jlow (http://controllerdata.lacity.org/api/users/26c2-wn3b),public,,,10/28/2013 02:26:05 PM +0000,02/13/2014 12:48:29 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Split Payments (Finance/Split-Payments/4f6i-5w4z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,4f6i-5w4z,1474750,,"[{
-  ""id"" : 133225011,
+}]",2np7-qmat,"{Department={Controller=, Other=}}",,,,jlow (http://controllerdata.lacity.org/api/users/26c2-wn3b),public,,,10/28/2013 02:26:05 PM +0000,02/13/2014 03:14:48 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Split Payments (Finance/Split-Payments/4f6i-5w4z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,4f6i-5w4z,1474833,,"[{
+  ""id"" : 133245865,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -511,7 +511,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225012,
+  ""id"" : 133245866,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -525,7 +525,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225013,
+  ""id"" : 133245867,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -536,7 +536,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225014,
+  ""id"" : 133245868,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -547,7 +547,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225015,
+  ""id"" : 133245869,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -560,7 +560,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225016,
+  ""id"" : 133245870,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -575,7 +575,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225022,
+  ""id"" : 133245876,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -586,7 +586,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225021,
+  ""id"" : 133245875,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -597,7 +597,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225025,
+  ""id"" : 133245879,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -608,7 +608,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225026,
+  ""id"" : 133245880,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -619,7 +619,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225019,
+  ""id"" : 133245873,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -630,7 +630,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225028,
+  ""id"" : 133245882,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -641,7 +641,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225029,
+  ""id"" : 133245883,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -652,7 +652,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225030,
+  ""id"" : 133245884,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -663,7 +663,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225031,
+  ""id"" : 133245885,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -677,7 +677,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""false""
   }
 }, {
-  ""id"" : 133225032,
+  ""id"" : 133245886,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -688,7 +688,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225033,
+  ""id"" : 133245887,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -699,7 +699,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225034,
+  ""id"" : 133245888,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -709,9 +709,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",4f6i-5w4z,"{Department={Controller=, Other=}}",,,,rcampbell (http://controllerdata.lacity.org/api/users/qb48-gpvr),public,,,10/24/2013 08:01:09 PM +0000,02/13/2014 12:48:05 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook department pie chart (Finance/Checkbook-department-pie-chart/5g8d-u36b),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,5g8d-u36b,1474750,,"[{
-  ""id"" : 133225349,
+}]",4f6i-5w4z,"{Department={Controller=, Other=}}",,,,rcampbell (http://controllerdata.lacity.org/api/users/qb48-gpvr),public,,,10/24/2013 08:01:09 PM +0000,02/13/2014 03:14:57 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook department pie chart (Finance/Checkbook-department-pie-chart/5g8d-u36b),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,5g8d-u36b,1474833,,"[{
+  ""id"" : 133245841,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -723,7 +723,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225352,
+  ""id"" : 133245844,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -734,9 +734,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""sum""
   }
-}]",5g8d-u36b,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:08:31 PM +0000,02/13/2014 12:48:13 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,External Vendor Payments Authorized by Contract (Finance/External-Vendor-Payments-Authorized-by-Contract/5tpi-ega7),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,5tpi-ega7,1474750,,"[{
-  ""id"" : 133225961,
+}]",5g8d-u36b,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:08:31 PM +0000,02/13/2014 03:14:56 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,External Vendor Payments Authorized by Contract (Finance/External-Vendor-Payments-Authorized-by-Contract/5tpi-ega7),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,5tpi-ega7,1474833,,"[{
+  ""id"" : 133246099,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -750,7 +750,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225962,
+  ""id"" : 133246100,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -764,7 +764,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225966,
+  ""id"" : 133246101,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -775,7 +775,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225967,
+  ""id"" : 133246102,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -786,7 +786,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225968,
+  ""id"" : 133246103,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -799,7 +799,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225969,
+  ""id"" : 133246104,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -814,7 +814,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225970,
+  ""id"" : 133246105,
   ""name"" : ""AUTHORITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""authority"",
@@ -825,7 +825,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225971,
+  ""id"" : 133246106,
   ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""business_tax_registration_certificate"",
@@ -839,7 +839,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225972,
+  ""id"" : 133246107,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -850,7 +850,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225975,
+  ""id"" : 133246109,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -861,7 +861,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225976,
+  ""id"" : 133246110,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -872,7 +872,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225977,
+  ""id"" : 133246111,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -883,7 +883,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225978,
+  ""id"" : 133246112,
   ""name"" : ""ACCOUNT CODE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_code"",
@@ -894,7 +894,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225979,
+  ""id"" : 133246113,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -905,7 +905,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225980,
+  ""id"" : 133246114,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -916,7 +916,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225981,
+  ""id"" : 133246115,
   ""name"" : ""SETTLEMENT/JUDGMENT"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""settlement_judgment"",
@@ -927,7 +927,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225982,
+  ""id"" : 133246116,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -938,7 +938,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225983,
+  ""id"" : 133246117,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -949,7 +949,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225985,
+  ""id"" : 133246118,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -960,7 +960,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225986,
+  ""id"" : 133246119,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -974,7 +974,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""false""
   }
 }, {
-  ""id"" : 133225987,
+  ""id"" : 133246120,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -985,7 +985,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225988,
+  ""id"" : 133246121,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -996,7 +996,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225989,
+  ""id"" : 133246122,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -1006,9 +1006,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",5tpi-ega7,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/16/2013 06:56:01 PM +0000,02/13/2014 12:48:34 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,testing (Finance/testing/64tf-qk55),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,64tf-qk55,1474750,,"[{
-  ""id"" : 133225246,
+}]",5tpi-ega7,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/16/2013 06:56:01 PM +0000,02/13/2014 03:15:00 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,testing (Finance/testing/64tf-qk55),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,64tf-qk55,1474833,,"[{
+  ""id"" : 133245738,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1019,7 +1019,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225248,
+  ""id"" : 133245740,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1033,9 +1033,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",64tf-qk55,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 06:36:57 AM +0000,02/13/2014 12:48:10 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,fire (Finance/fire/6rcq-jw35),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,6rcq-jw35,1474750,,"[{
-  ""id"" : 133225297,
+}]",64tf-qk55,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 06:36:57 AM +0000,02/13/2014 03:14:54 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,fire (Finance/fire/6rcq-jw35),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,6rcq-jw35,1474833,,"[{
+  ""id"" : 133245789,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -1046,7 +1046,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225295,
+  ""id"" : 133245787,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -1060,7 +1060,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225300,
+  ""id"" : 133245792,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1075,7 +1075,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225296,
+  ""id"" : 133245788,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -1089,7 +1089,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225298,
+  ""id"" : 133245790,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1100,7 +1100,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225299,
+  ""id"" : 133245791,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -1113,7 +1113,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225301,
+  ""id"" : 133245793,
   ""name"" : ""AUTHORITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""authority"",
@@ -1124,7 +1124,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225302,
+  ""id"" : 133245794,
   ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""business_tax_registration_certificate"",
@@ -1138,7 +1138,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225303,
+  ""id"" : 133245795,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -1149,7 +1149,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225305,
+  ""id"" : 133245797,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -1160,7 +1160,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225306,
+  ""id"" : 133245798,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -1171,7 +1171,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225307,
+  ""id"" : 133245799,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -1182,7 +1182,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225308,
+  ""id"" : 133245800,
   ""name"" : ""ACCOUNT CODE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_code"",
@@ -1193,7 +1193,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225309,
+  ""id"" : 133245801,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -1204,7 +1204,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225310,
+  ""id"" : 133245802,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -1215,7 +1215,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225311,
+  ""id"" : 133245803,
   ""name"" : ""SETTLEMENT/JUDGMENT"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""settlement_judgment"",
@@ -1226,7 +1226,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225315,
+  ""id"" : 133245807,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -1240,7 +1240,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""false""
   }
 }, {
-  ""id"" : 133225317,
+  ""id"" : 133245809,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -1251,7 +1251,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225318,
+  ""id"" : 133245810,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -1262,7 +1262,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225319,
+  ""id"" : 133245811,
   ""name"" : ""CONTRACT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""contract_name"",
@@ -1273,7 +1273,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225320,
+  ""id"" : 133245812,
   ""name"" : ""CONTRACT LINK"",
   ""dataTypeName"" : ""url"",
   ""fieldName"" : ""contract_link"",
@@ -1284,9 +1284,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   },
   ""subColumnTypes"" : [ ""url"", ""description"" ]
-}]",6rcq-jw35,"{Department={Controller=, Other=}}",,,,FF Willis (http://controllerdata.lacity.org/api/users/sifk-smve),public,,,11/01/2013 04:43:31 PM +0000,02/13/2014 12:48:12 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook vendor search (Finance/Checkbook-vendor-search/7bbq-8b9r),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7bbq-8b9r,1474750,,"[{
-  ""id"" : 133225610,
+}]",6rcq-jw35,"{Department={Controller=, Other=}}",,,,FF Willis (http://controllerdata.lacity.org/api/users/sifk-smve),public,,,11/01/2013 04:43:31 PM +0000,02/13/2014 03:14:55 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook vendor search (Finance/Checkbook-vendor-search/7bbq-8b9r),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7bbq-8b9r,1474833,,"[{
+  ""id"" : 133245244,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1298,7 +1298,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225612,
+  ""id"" : 133245246,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1309,9 +1309,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""sum""
   }
-}]",7bbq-8b9r,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:05:10 PM +0000,02/13/2014 12:48:27 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,vendor_totals (Finance/vendor_totals/7bc5-mgnu),,"Financial Data for the Checkbook Explorer. Data from June 2011 - December 31, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7bc5-mgnu,1474750,,"[{
-  ""id"" : 133225714,
+}]",7bbq-8b9r,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:05:10 PM +0000,02/13/2014 03:14:46 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,vendor_totals (Finance/vendor_totals/7bc5-mgnu),,"Financial Data for the Checkbook Explorer. Data from June 2011 - December 31, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7bc5-mgnu,1474833,,"[{
+  ""id"" : 133245348,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1323,7 +1323,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225716,
+  ""id"" : 133245350,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1338,9 +1338,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",7bc5-mgnu,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,02/04/2014 05:26:27 PM +0000,02/13/2014 12:48:30 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Vendor count (Finance/Vendor-count/7cfr-8b3g),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7cfr-8b3g,1474750,,"[{
-  ""id"" : 133225586,
+}]",7bc5-mgnu,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,02/04/2014 05:26:27 PM +0000,02/13/2014 03:14:48 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Vendor count (Finance/Vendor-count/7cfr-8b3g),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,7cfr-8b3g,1474833,,"[{
+  ""id"" : 133245272,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1352,7 +1352,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225584,
+  ""id"" : 133245270,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1363,9 +1363,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""drill_down"" : ""true""
   }
-}]",7cfr-8b3g,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:51:36 PM +0000,02/13/2014 12:48:27 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,testing (Finance/testing/86ei-yxcs),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,86ei-yxcs,1474750,,"[{
-  ""id"" : 133225454,
+}]",7cfr-8b3g,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:51:36 PM +0000,02/13/2014 03:14:46 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,testing (Finance/testing/86ei-yxcs),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,86ei-yxcs,1474833,,"[{
+  ""id"" : 133245530,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1376,7 +1376,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225456,
+  ""id"" : 133245532,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1390,9 +1390,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",86ei-yxcs,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 06:38:17 AM +0000,02/13/2014 12:48:20 AM +0000
-"<div class='typeApi'><div class=""viewTypeCell"">API</div></div>",,Checkbook Data (Finance/Checkbook-Data/94ba-dd2p),,LA Financial Expenditures Data,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,94ba-dd2p,1474750,,"[{
-  ""id"" : 133225529,
+}]",86ei-yxcs,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 06:38:17 AM +0000,02/13/2014 03:14:51 AM +0000
+"<div class='typeApi'><div class=""viewTypeCell"">API</div></div>",,Checkbook Data (Finance/Checkbook-Data/94ba-dd2p),,LA Financial Expenditures Data,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,94ba-dd2p,1474833,,"[{
+  ""id"" : 133245605,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -1403,7 +1403,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225530,
+  ""id"" : 133245606,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -1417,7 +1417,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225531,
+  ""id"" : 133245607,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -1428,7 +1428,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225532,
+  ""id"" : 133245608,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1439,7 +1439,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225533,
+  ""id"" : 133245609,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -1452,7 +1452,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225534,
+  ""id"" : 133245610,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1467,7 +1467,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225540,
+  ""id"" : 133245616,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -1478,7 +1478,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225539,
+  ""id"" : 133245615,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -1489,7 +1489,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225543,
+  ""id"" : 133245619,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -1500,7 +1500,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225544,
+  ""id"" : 133245620,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -1511,7 +1511,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225537,
+  ""id"" : 133245613,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -1522,7 +1522,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225546,
+  ""id"" : 133245622,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -1533,7 +1533,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225547,
+  ""id"" : 133245623,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -1544,7 +1544,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225548,
+  ""id"" : 133245624,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -1555,7 +1555,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225549,
+  ""id"" : 133245625,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -1569,7 +1569,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225550,
+  ""id"" : 133245626,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -1580,7 +1580,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225551,
+  ""id"" : 133245627,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -1591,7 +1591,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225552,
+  ""id"" : 133245628,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -1601,9 +1601,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",checkbook,"{Department={Controller=, Other=}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,10/16/2013 04:27:00 PM +0000,02/13/2014 12:48:23 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,CD 2 Neighborhood Council Expenditures (Finance/CD-2-Neighborhood-Council-Expenditures/a5z4-wf55),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,a5z4-wf55,1474750,,"[{
-  ""id"" : 133225567,
+}]",checkbook,"{Department={Controller=, Other=}}",,,,Jordan Gilbertson (http://controllerdata.lacity.org/api/users/b5e4-d7x8),public,,,10/16/2013 04:27:00 PM +0000,02/13/2014 03:14:52 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,CD 2 Neighborhood Council Expenditures (Finance/CD-2-Neighborhood-Council-Expenditures/a5z4-wf55),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,a5z4-wf55,1474833,,"[{
+  ""id"" : 133245643,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -1615,7 +1615,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225556,
+  ""id"" : 133245632,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -1630,7 +1630,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225560,
+  ""id"" : 133245636,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1645,9 +1645,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",a5z4-wf55,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,02/13/2014 12:37:16 AM +0000,02/13/2014 01:53:47 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Neighborhood Empowerment Expenditures (Finance/Neighborhood-Empowerment-Expenditures/e6t2-k5i6),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,e6t2-k5i6,1474750,,"[{
-  ""id"" : 133225373,
+}]",a5z4-wf55,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,02/13/2014 12:37:16 AM +0000,02/13/2014 03:14:53 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Neighborhood Empowerment Expenditures (Finance/Neighborhood-Empowerment-Expenditures/e6t2-k5i6),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,e6t2-k5i6,1474833,,"[{
+  ""id"" : 133245449,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -1661,7 +1661,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225374,
+  ""id"" : 133245450,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -1675,7 +1675,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225375,
+  ""id"" : 133245451,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -1686,7 +1686,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225385,
+  ""id"" : 133245461,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -1697,7 +1697,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225376,
+  ""id"" : 133245452,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -1708,7 +1708,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225377,
+  ""id"" : 133245453,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -1721,7 +1721,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225378,
+  ""id"" : 133245454,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1736,7 +1736,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225379,
+  ""id"" : 133245455,
   ""name"" : ""AUTHORITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""authority"",
@@ -1747,7 +1747,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225380,
+  ""id"" : 133245456,
   ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""business_tax_registration_certificate"",
@@ -1761,7 +1761,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225381,
+  ""id"" : 133245457,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -1772,7 +1772,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225383,
+  ""id"" : 133245459,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -1783,7 +1783,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225384,
+  ""id"" : 133245460,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -1794,7 +1794,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225386,
+  ""id"" : 133245462,
   ""name"" : ""ACCOUNT CODE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_code"",
@@ -1805,7 +1805,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225387,
+  ""id"" : 133245463,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -1816,7 +1816,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225388,
+  ""id"" : 133245464,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -1827,7 +1827,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225389,
+  ""id"" : 133245465,
   ""name"" : ""SETTLEMENT/JUDGMENT"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""settlement_judgment"",
@@ -1838,7 +1838,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225390,
+  ""id"" : 133245466,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -1849,7 +1849,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225391,
+  ""id"" : 133245467,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -1860,7 +1860,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225392,
+  ""id"" : 133245468,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -1871,7 +1871,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225393,
+  ""id"" : 133245469,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -1885,7 +1885,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225394,
+  ""id"" : 133245470,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -1896,7 +1896,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225395,
+  ""id"" : 133245471,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -1907,7 +1907,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225396,
+  ""id"" : 133245472,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -1918,7 +1918,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225397,
+  ""id"" : 133245473,
   ""name"" : ""CONTRACT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""contract_name"",
@@ -1929,7 +1929,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225398,
+  ""id"" : 133245474,
   ""name"" : ""CONTRACT LINK"",
   ""dataTypeName"" : ""url"",
   ""fieldName"" : ""contract_link"",
@@ -1940,9 +1940,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   },
   ""subColumnTypes"" : [ ""url"", ""description"" ]
-}]",e6t2-k5i6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/12/2013 05:26:43 PM +0000,02/13/2014 12:48:16 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,City Vendor Payments over Time (Finance/City-Vendor-Payments-over-Time/faa7-vc8r),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,faa7-vc8r,1474750,,"[{
-  ""id"" : 133225121,
+}]",e6t2-k5i6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/12/2013 05:26:43 PM +0000,02/13/2014 03:14:50 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,City Vendor Payments over Time (Finance/City-Vendor-Payments-over-Time/faa7-vc8r),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,faa7-vc8r,1474833,,"[{
+  ""id"" : 133245973,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -1957,7 +1957,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225122,
+  ""id"" : 133245974,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1972,9 +1972,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",faa7-vc8r,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/18/2013 09:53:17 PM +0000,02/13/2014 12:48:08 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook expenditure pie chart (Finance/Checkbook-expenditure-pie-chart/fz9c-7c3j),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,fz9c-7c3j,1474750,,"[{
-  ""id"" : 133226008,
+}]",faa7-vc8r,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/18/2013 09:53:17 PM +0000,02/13/2014 03:14:58 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook expenditure pie chart (Finance/Checkbook-expenditure-pie-chart/fz9c-7c3j),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,fz9c-7c3j,1474833,,"[{
+  ""id"" : 133246036,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -1986,7 +1986,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225998,
+  ""id"" : 133246026,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -1998,7 +1998,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }, {
-  ""id"" : 133225995,
+  ""id"" : 133246023,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2009,9 +2009,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""drill_down"" : ""true""
   }
-}]",fz9c-7c3j,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:26:38 PM +0000,02/13/2014 12:48:35 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,FY2013 External Vendor Payments by Department (Finance/FY2013-External-Vendor-Payments-by-Department/gdqz-y3t2),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,gdqz-y3t2,1474750,,"[{
-  ""id"" : 133225930,
+}]",fz9c-7c3j,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:26:38 PM +0000,02/13/2014 03:14:59 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,FY2013 External Vendor Payments by Department (Finance/FY2013-External-Vendor-Payments-by-Department/gdqz-y3t2),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,gdqz-y3t2,1474833,,"[{
+  ""id"" : 133246075,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2023,7 +2023,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225933,
+  ""id"" : 133246078,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2039,7 +2039,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225931,
+  ""id"" : 133246076,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2051,7 +2051,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225932,
+  ""id"" : 133246077,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -2065,7 +2065,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225939,
+  ""id"" : 133246084,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -2077,7 +2077,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225938,
+  ""id"" : 133246083,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -2089,7 +2089,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225943,
+  ""id"" : 133246088,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -2101,7 +2101,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225936,
+  ""id"" : 133246081,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -2112,9 +2112,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""count""
   }
-}]",gdqz-y3t2,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 06:39:11 PM +0000,02/13/2014 12:48:34 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Expenditure count (Finance/Expenditure-count/gfxh-ds7t),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,gfxh-ds7t,1474750,,"[{
-  ""id"" : 133225638,
+}]",gdqz-y3t2,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/20/2013 06:39:11 PM +0000,02/13/2014 03:15:00 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Expenditure count (Finance/Expenditure-count/gfxh-ds7t),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,gfxh-ds7t,1474833,,"[{
+  ""id"" : 133245324,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2126,7 +2126,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225648,
+  ""id"" : 133245334,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -2137,9 +2137,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""drill_down"" : ""true""
   }
-}]",gfxh-ds7t,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:52:25 PM +0000,02/13/2014 12:48:28 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,ihatesosql (Finance/ihatesosql/gycc-wbis),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,gycc-wbis,1474750,,"[{
-  ""id"" : 133225506,
+}]",gfxh-ds7t,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:52:25 PM +0000,02/13/2014 03:14:47 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,ihatesosql (Finance/ihatesosql/gycc-wbis),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,gycc-wbis,1474833,,"[{
+  ""id"" : 133245582,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2150,7 +2150,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225508,
+  ""id"" : 133245584,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2164,9 +2164,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",gycc-wbis,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 06:39:47 AM +0000,02/13/2014 12:48:22 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,My View (Finance/My-View/hw3x-k3iq),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,hw3x-k3iq,1474750,,"[{
-  ""id"" : 133225271,
+}]",gycc-wbis,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 06:39:47 AM +0000,02/13/2014 03:14:52 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,My View (Finance/My-View/hw3x-k3iq),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,hw3x-k3iq,1474833,,"[{
+  ""id"" : 133245763,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2178,7 +2178,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225274,
+  ""id"" : 133245766,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2193,9 +2193,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",hw3x-k3iq,"{Department={Controller=, Other=}}",,,,Darrell Cabales (http://controllerdata.lacity.org/api/users/zs8p-j3v5),public,,,12/16/2013 07:25:55 AM +0000,02/13/2014 12:48:11 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Department Count (Finance/Department-Count/ifuf-j5ts),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ifuf-j5ts,1474750,,"[{
-  ""id"" : 133225093,
+}]",hw3x-k3iq,"{Department={Controller=, Other=}}",,,,Darrell Cabales (http://controllerdata.lacity.org/api/users/zs8p-j3v5),public,,,12/16/2013 07:25:55 AM +0000,02/13/2014 03:14:55 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Department Count (Finance/Department-Count/ifuf-j5ts),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ifuf-j5ts,1474833,,"[{
+  ""id"" : 133245997,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2207,7 +2207,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225096,
+  ""id"" : 133246000,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2218,9 +2218,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""count""
   }
-}]",ifuf-j5ts,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:50:51 PM +0000,02/13/2014 12:48:07 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,"FY2013 City of LA, All External Vendors with Total Payment > $10,000 (Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc)",,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ji6b-ancc,1474750,,"[{
-  ""id"" : 133225480,
+}]",ifuf-j5ts,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 09:50:51 PM +0000,02/13/2014 03:14:59 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,"FY2013 City of LA, All External Vendors with Total Payment > $10,000 (Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc)",,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ji6b-ancc,1474833,,"[{
+  ""id"" : 133245556,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2232,7 +2232,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225478,
+  ""id"" : 133245554,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -2247,7 +2247,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225482,
+  ""id"" : 133245558,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2262,9 +2262,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",ji6b-ancc,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/06/2013 08:22:39 AM +0000,02/13/2014 12:48:21 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top Vendors by Year (Finance/Top-Vendors-by-Year/ke7f-4ign),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ke7f-4ign,1474750,,"[{
-  ""id"" : 133225905,
+}]",ji6b-ancc,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/06/2013 08:22:39 AM +0000,02/13/2014 03:14:51 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top Vendors by Year (Finance/Top-Vendors-by-Year/ke7f-4ign),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ke7f-4ign,1474833,,"[{
+  ""id"" : 133245218,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2276,7 +2276,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225903,
+  ""id"" : 133245216,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -2292,7 +2292,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225907,
+  ""id"" : 133245220,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2307,9 +2307,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",ke7f-4ign,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/17/2013 12:44:19 AM +0000,02/13/2014 12:48:33 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,My Chart (Finance/My-Chart/m5bh-azjp),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,m5bh-azjp,1474750,,"[{
-  ""id"" : 133225767,
+}]",ke7f-4ign,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,12/17/2013 12:44:19 AM +0000,02/13/2014 03:14:46 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,My Chart (Finance/My-Chart/m5bh-azjp),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,m5bh-azjp,1474833,,"[{
+  ""id"" : 133245399,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2321,7 +2321,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225772,
+  ""id"" : 133245402,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2336,9 +2336,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",m5bh-azjp,"{Department={Controller=, Other=}}",,,,Darrell Cabales (http://controllerdata.lacity.org/api/users/zs8p-j3v5),public,,,12/16/2013 07:31:17 AM +0000,02/13/2014 12:48:31 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook agency search (Finance/Checkbook-agency-search/m9u2-wis6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,m9u2-wis6,1474750,,"[{
-  ""id"" : 133225661,
+}]",m5bh-azjp,"{Department={Controller=, Other=}}",,,,Darrell Cabales (http://controllerdata.lacity.org/api/users/zs8p-j3v5),public,,,12/16/2013 07:31:17 AM +0000,02/13/2014 03:14:49 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook agency search (Finance/Checkbook-agency-search/m9u2-wis6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,m9u2-wis6,1474833,,"[{
+  ""id"" : 133245295,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2350,7 +2350,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225664,
+  ""id"" : 133245298,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2361,9 +2361,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""sum""
   }
-}]",m9u2-wis6,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:04:19 PM +0000,02/13/2014 12:48:29 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook expenditure pie chart (Finance/Checkbook-expenditure-pie-chart/nhzb-ghu6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,nhzb-ghu6,1474750,,"[{
-  ""id"" : 133225069,
+}]",m9u2-wis6,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:04:19 PM +0000,02/13/2014 03:14:47 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook expenditure pie chart (Finance/Checkbook-expenditure-pie-chart/nhzb-ghu6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,nhzb-ghu6,1474833,,"[{
+  ""id"" : 133245948,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2375,7 +2375,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }, {
-  ""id"" : 133225079,
+  ""id"" : 133245958,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -2386,9 +2386,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""drill_down"" : ""true""
   }
-}]",nhzb-ghu6,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 11:09:12 PM +0000,02/13/2014 12:48:06 AM +0000
-"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,eCheckbook Data (Finance/eCheckbook-Data/pggv-e4fn),,"Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,pggv-e4fn,1474750,,"[{
-  ""id"" : 133211904,
+}]",nhzb-ghu6,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 11:09:12 PM +0000,02/13/2014 03:14:58 AM +0000
+"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,eCheckbook Data (Finance/eCheckbook-Data/pggv-e4fn),,"Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,pggv-e4fn,1474833,,"[{
+  ""id"" : 133242477,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -2398,11 +2398,11 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
     ""precisionStyle"" : ""standard"",
-    ""noCommas"" : ""true"",
-    ""align"" : ""right""
+    ""align"" : ""right"",
+    ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133211905,
+  ""id"" : 133242478,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -2412,11 +2412,11 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
     ""precisionStyle"" : ""standard"",
-    ""noCommas"" : ""true"",
-    ""align"" : ""right""
+    ""align"" : ""right"",
+    ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133212038,
+  ""id"" : 133242479,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2427,7 +2427,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212039,
+  ""id"" : 133242480,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2438,7 +2438,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212040,
+  ""id"" : 133242481,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -2451,7 +2451,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133212041,
+  ""id"" : 133242482,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2466,7 +2466,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133212042,
+  ""id"" : 133242483,
   ""name"" : ""AUTHORITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""authority"",
@@ -2477,7 +2477,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212043,
+  ""id"" : 133242484,
   ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""business_tax_registration_certificate"",
@@ -2487,11 +2487,11 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 100,
   ""format"" : {
     ""precisionStyle"" : ""standard"",
-    ""align"" : ""right"",
-    ""noCommas"" : ""true""
+    ""noCommas"" : ""true"",
+    ""align"" : ""right""
   }
 }, {
-  ""id"" : 133212176,
+  ""id"" : 133242485,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -2502,7 +2502,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212177,
+  ""id"" : 133242486,
   ""name"" : ""FUND GROUP NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_group_name"",
@@ -2513,7 +2513,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212178,
+  ""id"" : 133242487,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -2524,7 +2524,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212179,
+  ""id"" : 133242488,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -2535,7 +2535,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212180,
+  ""id"" : 133242489,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -2546,7 +2546,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212181,
+  ""id"" : 133242490,
   ""name"" : ""ACCOUNT CODE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_code"",
@@ -2557,7 +2557,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212182,
+  ""id"" : 133242491,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -2568,7 +2568,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212183,
+  ""id"" : 133242492,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -2579,7 +2579,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212184,
+  ""id"" : 133242493,
   ""name"" : ""SETTLEMENT/JUDGMENT"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""settlement_judgment"",
@@ -2590,7 +2590,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212185,
+  ""id"" : 133242494,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -2601,7 +2601,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212186,
+  ""id"" : 133242495,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -2612,7 +2612,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212187,
+  ""id"" : 133242496,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -2623,7 +2623,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212188,
+  ""id"" : 133242497,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -2634,7 +2634,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212189,
+  ""id"" : 133242498,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -2645,7 +2645,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212190,
+  ""id"" : 133242499,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -2656,7 +2656,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212191,
+  ""id"" : 133242500,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -2667,7 +2667,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133212192,
+  ""id"" : 133242501,
   ""name"" : ""CONTRACT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""contract_name"",
@@ -2679,7 +2679,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""left""
   }
 }, {
-  ""id"" : 133212193,
+  ""id"" : 133242502,
   ""name"" : ""CONTRACT LINK"",
   ""dataTypeName"" : ""url"",
   ""fieldName"" : ""contract_link"",
@@ -2691,9 +2691,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""left""
   },
   ""subColumnTypes"" : [ ""url"", ""description"" ]
-}]",pggv-e4fn,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/16/2013 04:27:00 PM +0000,02/13/2014 12:48:46 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook total column (Finance/Checkbook-total-column/pmb4-n24k),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,pmb4-n24k,1474750,,"[{
-  ""id"" : 133224989,
+}]",pggv-e4fn,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/16/2013 04:27:00 PM +0000,02/13/2014 03:15:04 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook total column (Finance/Checkbook-total-column/pmb4-n24k),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,pmb4-n24k,1474833,,"[{
+  ""id"" : 133245895,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -2708,7 +2708,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date_y""
   }
 }, {
-  ""id"" : 133225005,
+  ""id"" : 133245911,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""actual_month_number"",
@@ -2720,7 +2720,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133224990,
+  ""id"" : 133245896,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2732,7 +2732,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }, {
-  ""id"" : 133225006,
+  ""id"" : 133245912,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -2743,9 +2743,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""drill_down"" : ""true""
   }
-}]",pmb4-n24k,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 07:10:55 PM +0000,02/13/2014 12:48:04 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Vendors over $50 million (Finance/Vendors-over-50-million/q368-s8vv),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,q368-s8vv,1474750,,"[{
-  ""id"" : 133225878,
+}]",pmb4-n24k,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 07:10:55 PM +0000,02/13/2014 03:14:57 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Vendors over $50 million (Finance/Vendors-over-50-million/q368-s8vv),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,q368-s8vv,1474833,,"[{
+  ""id"" : 133245192,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2757,7 +2757,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225880,
+  ""id"" : 133245194,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2772,9 +2772,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",q368-s8vv,"{Department={Controller=, Other=}}",,,,magustin (http://controllerdata.lacity.org/api/users/6vkd-j24i),public,,,11/05/2013 10:32:10 PM +0000,02/13/2014 12:48:33 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,eCheckBook Expenditure by Department (Finance/eCheckBook-Expenditure-by-Department/qxd2-tn83),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,qxd2-tn83,1474750,,"[{
-  ""id"" : 133225739,
+}]",q368-s8vv,"{Department={Controller=, Other=}}",,,,magustin (http://controllerdata.lacity.org/api/users/6vkd-j24i),public,,,11/05/2013 10:32:10 PM +0000,02/13/2014 03:14:45 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,eCheckBook Expenditure by Department (Finance/eCheckBook-Expenditure-by-Department/qxd2-tn83),,"Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,qxd2-tn83,1474833,,"[{
+  ""id"" : 133245425,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2786,7 +2786,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225742,
+  ""id"" : 133245428,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2801,9 +2801,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",qxd2-tn83,"{Department={Controller=, Other=}}",,,,D. Chen (http://controllerdata.lacity.org/api/users/k42r-k4hk),public,,,12/14/2013 05:24:32 AM +0000,02/13/2014 12:48:31 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook total pie (Finance/Checkbook-total-pie/qy6d-um74),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,qy6d-um74,1474750,,"[{
-  ""id"" : 133226024,
+}]",qxd2-tn83,"{Department={Controller=, Other=}}",,,,D. Chen (http://controllerdata.lacity.org/api/users/k42r-k4hk),public,,,12/14/2013 05:24:32 AM +0000,02/13/2014 03:14:49 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Checkbook total pie (Finance/Checkbook-total-pie/qy6d-um74),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,qy6d-um74,1474833,,"[{
+  ""id"" : 133246052,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2815,7 +2815,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""sum""
   }
 }, {
-  ""id"" : 133226027,
+  ""id"" : 133246055,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -2826,9 +2826,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""drill_down"" : ""true""
   }
-}]",qy6d-um74,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 07:02:52 PM +0000,02/13/2014 12:48:36 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Girardi (Finance/Girardi/rqjh-rw3k),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,rqjh-rw3k,1474750,,"[{
-  ""id"" : 133225402,
+}]",qy6d-um74,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 07:02:52 PM +0000,02/13/2014 03:15:00 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Girardi (Finance/Girardi/rqjh-rw3k),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,rqjh-rw3k,1474833,,"[{
+  ""id"" : 133245478,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2839,7 +2839,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225404,
+  ""id"" : 133245480,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2853,9 +2853,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",rqjh-rw3k,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 05:20:59 AM +0000,02/13/2014 12:48:19 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top External Vendors (Finance/Top-External-Vendors/t5z8-f2k6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,t5z8-f2k6,1474750,,"[{
-  ""id"" : 133225146,
+}]",rqjh-rw3k,"{Department={Controller=, Other=}}",,,,bsbonus (http://controllerdata.lacity.org/api/users/t5r4-mie9),public,,,12/08/2013 05:20:59 AM +0000,02/13/2014 03:14:50 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top External Vendors (Finance/Top-External-Vendors/t5z8-f2k6),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,t5z8-f2k6,1474833,,"[{
+  ""id"" : 133245660,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -2867,7 +2867,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225144,
+  ""id"" : 133245658,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -2882,7 +2882,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225145,
+  ""id"" : 133245659,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2894,7 +2894,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225148,
+  ""id"" : 133245662,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -2910,7 +2910,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225154,
+  ""id"" : 133245668,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -2922,7 +2922,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225153,
+  ""id"" : 133245667,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -2934,7 +2934,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225158,
+  ""id"" : 133245672,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -2946,7 +2946,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""grouping_aggregate"" : ""count""
   }
 }, {
-  ""id"" : 133225151,
+  ""id"" : 133245665,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -2957,9 +2957,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""count""
   }
-}]",t5z8-f2k6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 01:25:08 AM +0000,02/13/2014 12:48:08 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,"Better T C, Inc. (Finance/Better-T-C-Inc-/ty4d-miep)",,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ty4d-miep,1474750,,"[{
-  ""id"" : 133225819,
+}]",t5z8-f2k6,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/24/2013 01:25:08 AM +0000,02/13/2014 03:14:53 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,"Better T C, Inc. (Finance/Better-T-C-Inc-/ty4d-miep)",,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,ty4d-miep,1474833,,"[{
+  ""id"" : 133245163,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -2970,7 +2970,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225820,
+  ""id"" : 133245164,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -2984,7 +2984,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225821,
+  ""id"" : 133245165,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -2995,7 +2995,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225822,
+  ""id"" : 133245166,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -3006,7 +3006,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225823,
+  ""id"" : 133245167,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -3019,7 +3019,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225824,
+  ""id"" : 133245168,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -3034,7 +3034,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225830,
+  ""id"" : 133245174,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -3045,7 +3045,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225829,
+  ""id"" : 133245173,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -3056,7 +3056,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225833,
+  ""id"" : 133245177,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -3067,7 +3067,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225834,
+  ""id"" : 133245178,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -3078,7 +3078,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225827,
+  ""id"" : 133245171,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -3089,7 +3089,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225836,
+  ""id"" : 133245180,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -3100,7 +3100,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225837,
+  ""id"" : 133245181,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -3111,7 +3111,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225838,
+  ""id"" : 133245182,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -3122,7 +3122,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225839,
+  ""id"" : 133245183,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -3136,7 +3136,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""false""
   }
 }, {
-  ""id"" : 133225840,
+  ""id"" : 133245184,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -3147,7 +3147,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225841,
+  ""id"" : 133245185,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -3158,7 +3158,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225842,
+  ""id"" : 133245186,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -3168,9 +3168,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",ty4d-miep,"{Department={Controller=, Other=}}",,,,vaipage (http://controllerdata.lacity.org/api/users/kbiq-yj4q),public,,,11/05/2013 04:58:10 PM +0000,02/13/2014 12:48:32 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook expenditure search (Finance/Checkbook-expenditure-search/tz7n-sj8z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,tz7n-sj8z,1474750,,"[{
-  ""id"" : 133225336,
+}]",ty4d-miep,"{Department={Controller=, Other=}}",,,,vaipage (http://controllerdata.lacity.org/api/users/kbiq-yj4q),public,,,11/05/2013 04:58:10 PM +0000,02/13/2014 03:14:45 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Checkbook expenditure search (Finance/Checkbook-expenditure-search/tz7n-sj8z),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,tz7n-sj8z,1474833,,"[{
+  ""id"" : 133245828,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -3182,7 +3182,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225326,
+  ""id"" : 133245818,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -3193,9 +3193,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
     ""grouping_aggregate"" : ""sum""
   }
-}]",tz7n-sj8z,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:05:59 PM +0000,02/13/2014 12:48:13 AM +0000
-"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top 50 Contracts by Total Dollar Value (Finance/Top-50-Contracts-by-Total-Dollar-Value/vgir-dakc),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,vgir-dakc,1474750,,"[{
-  ""id"" : 133225449,
+}]",tz7n-sj8z,"{Department={Controller=, Other=}}",,,,Dylan (http://controllerdata.lacity.org/api/users/vcvp-yass),public,,,10/16/2013 10:05:59 PM +0000,02/13/2014 03:14:56 AM +0000
+"<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Top 50 Contracts by Total Dollar Value (Finance/Top-50-Contracts-by-Total-Dollar-Value/vgir-dakc),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,vgir-dakc,1474833,,"[{
+  ""id"" : 133245525,
   ""name"" : ""CONTRACT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""contract_name"",
@@ -3207,7 +3207,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225430,
+  ""id"" : 133245506,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -3222,9 +3222,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",vgir-dakc,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/19/2013 06:39:45 PM +0000,02/13/2014 12:48:20 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Vendors over $25 million (Finance/Vendors-over-25-million/xg6g-wy8e),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,xg6g-wy8e,1474750,,"[{
-  ""id"" : 133225216,
+}]",vgir-dakc,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/19/2013 06:39:45 PM +0000,02/13/2014 03:14:50 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Vendors over $25 million (Finance/Vendors-over-25-million/xg6g-wy8e),,Financial Data for the Checkbook Explorer,0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,xg6g-wy8e,1474833,,"[{
+  ""id"" : 133245712,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -3236,7 +3236,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""drill_down"" : ""true""
   }
 }, {
-  ""id"" : 133225218,
+  ""id"" : 133245714,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -3251,9 +3251,9 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",xg6g-wy8e,"{Department={Controller=, Other=}}",,,,magustin (http://controllerdata.lacity.org/api/users/6vkd-j24i),public,,,11/05/2013 10:14:38 PM +0000,02/13/2014 12:48:10 AM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Settlements/Judgement Vendor Transactions (Finance/Settlements-Judgement-Vendor-Transactions/yesj-2zgi),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,yesj-2zgi,1474750,,"[{
-  ""id"" : 133225037,
+}]",xg6g-wy8e,"{Department={Controller=, Other=}}",,,,magustin (http://controllerdata.lacity.org/api/users/6vkd-j24i),public,,,11/05/2013 10:14:38 PM +0000,02/13/2014 03:14:54 AM +0000
+"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Settlements/Judgement Vendor Transactions (Finance/Settlements-Judgement-Vendor-Transactions/yesj-2zgi),,"Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.",0,Finance,"checkbook, echeckbook, expenditures, vendors, agencies",0,,,,,yesj-2zgi,1474833,,"[{
+  ""id"" : 133245917,
   ""name"" : ""ID NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""id_number"",
@@ -3267,7 +3267,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""true""
   }
 }, {
-  ""id"" : 133225038,
+  ""id"" : 133245918,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_year"",
@@ -3281,7 +3281,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225039,
+  ""id"" : 133245919,
   ""name"" : ""DEPARTMENT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""department_name"",
@@ -3292,7 +3292,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225040,
+  ""id"" : 133245920,
   ""name"" : ""VENDOR NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""vendor_name"",
@@ -3303,7 +3303,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225041,
+  ""id"" : 133245921,
   ""name"" : ""TRANSACTION DATE"",
   ""dataTypeName"" : ""calendar_date"",
   ""fieldName"" : ""transaction_date"",
@@ -3316,7 +3316,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""view"" : ""date""
   }
 }, {
-  ""id"" : 133225042,
+  ""id"" : 133245922,
   ""name"" : ""DOLLAR AMOUNT"",
   ""dataTypeName"" : ""money"",
   ""fieldName"" : ""dollar_amount"",
@@ -3331,7 +3331,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }, {
-  ""id"" : 133225043,
+  ""id"" : 133245923,
   ""name"" : ""AUTHORITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""authority"",
@@ -3342,7 +3342,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225044,
+  ""id"" : 133245924,
   ""name"" : ""BUSINESS TAX REGISTRATION CERTIFICATE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""business_tax_registration_certificate"",
@@ -3356,7 +3356,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""align"" : ""right""
   }
 }, {
-  ""id"" : 133225045,
+  ""id"" : 133245925,
   ""name"" : ""GOVERNMENT ACTIVITY"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""government_activity"",
@@ -3367,7 +3367,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225047,
+  ""id"" : 133245927,
   ""name"" : ""FUND TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_type"",
@@ -3378,7 +3378,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225048,
+  ""id"" : 133245928,
   ""name"" : ""FUND NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fund_name"",
@@ -3389,7 +3389,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225049,
+  ""id"" : 133245929,
   ""name"" : ""ACCOUNT NAME"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_name"",
@@ -3400,7 +3400,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225050,
+  ""id"" : 133245930,
   ""name"" : ""ACCOUNT CODE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""account_code"",
@@ -3411,7 +3411,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225051,
+  ""id"" : 133245931,
   ""name"" : ""TRANSACTION ID"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""transaction_id"",
@@ -3422,7 +3422,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225052,
+  ""id"" : 133245932,
   ""name"" : ""EXPENDITURE TYPE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""expenditure_type"",
@@ -3433,7 +3433,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225053,
+  ""id"" : 133245933,
   ""name"" : ""SETTLEMENT/JUDGMENT"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""settlement_judgment"",
@@ -3444,7 +3444,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225054,
+  ""id"" : 133245934,
   ""name"" : ""FISCAL MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""fiscal_month_number"",
@@ -3455,7 +3455,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225055,
+  ""id"" : 133245935,
   ""name"" : ""FISCAL YEAR-MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_month"",
@@ -3466,7 +3466,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225056,
+  ""id"" : 133245936,
   ""name"" : ""FISCAL YEAR-QUARTER"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""fiscal_year_quarter"",
@@ -3477,7 +3477,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225057,
+  ""id"" : 133245937,
   ""name"" : ""CALENDAR MONTH NUMBER"",
   ""dataTypeName"" : ""number"",
   ""fieldName"" : ""calendar_month_number"",
@@ -3491,7 +3491,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""noCommas"" : ""false""
   }
 }, {
-  ""id"" : 133225058,
+  ""id"" : 133245938,
   ""name"" : ""CALENDAR MONTH/YEAR"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month_year"",
@@ -3502,7 +3502,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225059,
+  ""id"" : 133245939,
   ""name"" : ""CALENDAR MONTH"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""calendar_month"",
@@ -3513,7 +3513,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""format"" : {
   }
 }, {
-  ""id"" : 133225060,
+  ""id"" : 133245940,
   ""name"" : ""DATA SOURCE"",
   ""dataTypeName"" : ""text"",
   ""fieldName"" : ""data_source"",
@@ -3523,7 +3523,7 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
   ""width"" : 50,
   ""format"" : {
   }
-}]",yesj-2zgi,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/18/2013 07:02:16 PM +0000,02/13/2014 12:48:06 AM +0000
+}]",yesj-2zgi,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,11/18/2013 07:02:16 PM +0000,02/13/2014 03:14:57 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Revenue Budget v Collected Revenue (Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi),,General Fund Budget versus Collected Revenue in Fiscal Year 2013,0,Finance,revenue,0,,,,,6jqc-dtmi,1469088,,"[{
   ""id"" : 132337139,
   ""name"" : ""DEPARTMENT NAME"",

@@ -21,7 +21,7 @@
       "state" : "normal",
       "tableId" : 1181400,
       "totalTimesRated" : 0,
-      "viewCount" : 51,
+      "viewCount" : 52,
       "viewLastModified" : 1382122867,
       "viewType" : "tabular",
       "columns" : [ {
@@ -1210,8 +1210,8 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1391792105 ]
-, [ 9350331830938, "9350331830938", null, 1392241647, "875368", 1392252489, "875368", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Police/284b-dhaq", "Police" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "284b-dhaq", "1474750", null, [ {
-    "id" : 133225169,
+, [ 9350331830938, "9350331830938", null, 1392241647, "875368", 1392261294, "875368", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Police/284b-dhaq", "Police" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "284b-dhaq", "1474833", null, [ {
+    "id" : 133245683,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -1225,7 +1225,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225170,
+    "id" : 133245684,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -1239,7 +1239,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225171,
+    "id" : 133245685,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -1250,7 +1250,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225172,
+    "id" : 133245686,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -1261,7 +1261,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225174,
+    "id" : 133245687,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -1274,7 +1274,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225175,
+    "id" : 133245688,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -1289,7 +1289,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225177,
+    "id" : 133245689,
     "name" : "AUTHORITY",
     "dataTypeName" : "text",
     "fieldName" : "authority",
@@ -1300,7 +1300,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225179,
+    "id" : 133245690,
     "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
     "dataTypeName" : "text",
     "fieldName" : "business_tax_registration_certificate",
@@ -1314,7 +1314,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225180,
+    "id" : 133245691,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -1325,7 +1325,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225181,
+    "id" : 133245692,
     "name" : "FUND GROUP NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_group_name",
@@ -1336,7 +1336,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225182,
+    "id" : 133245693,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -1347,7 +1347,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225183,
+    "id" : 133245694,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -1358,7 +1358,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225184,
+    "id" : 133245695,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -1369,7 +1369,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225185,
+    "id" : 133245696,
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
@@ -1380,7 +1380,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225186,
+    "id" : 133245697,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -1391,7 +1391,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225187,
+    "id" : 133245698,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -1402,7 +1402,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225188,
+    "id" : 133245699,
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
@@ -1413,7 +1413,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225189,
+    "id" : 133245700,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -1424,7 +1424,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225190,
+    "id" : 133245701,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -1435,7 +1435,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225191,
+    "id" : 133245702,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -1446,7 +1446,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225192,
+    "id" : 133245703,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -1457,7 +1457,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225193,
+    "id" : 133245704,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -1468,7 +1468,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225194,
+    "id" : 133245705,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -1479,7 +1479,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225196,
+    "id" : 133245706,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -1490,7 +1490,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225197,
+    "id" : 133245707,
     "name" : "CONTRACT NAME",
     "dataTypeName" : "text",
     "fieldName" : "contract_name",
@@ -1501,7 +1501,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225198,
+    "id" : 133245708,
     "name" : "CONTRACT LINK",
     "dataTypeName" : "url",
     "fieldName" : "contract_link",
@@ -1520,9 +1520,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/777y-v2sp", "David" ], "public", null, null, 1392241647, 1392252489 ]
-, [ 10403608879773, "10403608879773", null, 1382970365, "858342", 1392252509, "858342", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Law-Firms-NAMED/2np7-qmat", "Law Firms - NAMED" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "2np7-qmat", "1474750", null, [ {
-    "id" : 133225688,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/777y-v2sp", "David" ], "public", null, null, 1392241647, 1392261294 ]
+, [ 10403608879773, "10403608879773", null, 1382970365, "858342", 1392261288, "858342", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Law-Firms-NAMED/2np7-qmat", "Law Firms - NAMED" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "2np7-qmat", "1474833", null, [ {
+    "id" : 133245374,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -1534,7 +1534,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225690,
+    "id" : 133245376,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -1550,9 +1550,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/26c2-wn3b", "jlow" ], "public", null, null, 1382970365, 1392252509 ]
-, [ 18629724078371, "18629724078371", null, 1382644869, "857770", 1392252485, "857770", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Split-Payments/4f6i-5w4z", "Split Payments" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "4f6i-5w4z", "1474750", null, [ {
-    "id" : 133225011,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/26c2-wn3b", "jlow" ], "public", null, null, 1382970365, 1392261288 ]
+, [ 18629724078371, "18629724078371", null, 1382644869, "857770", 1392261297, "857770", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Split-Payments/4f6i-5w4z", "Split Payments" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "4f6i-5w4z", "1474833", null, [ {
+    "id" : 133245865,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -1563,7 +1563,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225012,
+    "id" : 133245866,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -1577,7 +1577,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225013,
+    "id" : 133245867,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -1588,7 +1588,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225014,
+    "id" : 133245868,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -1599,7 +1599,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225015,
+    "id" : 133245869,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -1612,7 +1612,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225016,
+    "id" : 133245870,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -1627,7 +1627,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225022,
+    "id" : 133245876,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -1638,7 +1638,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225021,
+    "id" : 133245875,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -1649,7 +1649,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225025,
+    "id" : 133245879,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -1660,7 +1660,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225026,
+    "id" : 133245880,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -1671,7 +1671,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225019,
+    "id" : 133245873,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -1682,7 +1682,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225028,
+    "id" : 133245882,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -1693,7 +1693,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225029,
+    "id" : 133245883,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -1704,7 +1704,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225030,
+    "id" : 133245884,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -1715,7 +1715,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225031,
+    "id" : 133245885,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -1729,7 +1729,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 133225032,
+    "id" : 133245886,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -1740,7 +1740,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225033,
+    "id" : 133245887,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -1751,7 +1751,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225034,
+    "id" : 133245888,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -1766,9 +1766,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/qb48-gpvr", "rcampbell" ], "public", null, null, 1382644869, 1392252485 ]
-, [ 23098560098699, "23098560098699", null, 1381961311, "710611", 1392252493, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-department-pie-chart/5g8d-u36b", "Checkbook department pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "5g8d-u36b", "1474750", null, [ {
-    "id" : 133225349,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/qb48-gpvr", "rcampbell" ], "public", null, null, 1382644869, 1392261297 ]
+, [ 23098560098699, "23098560098699", null, 1381961311, "710611", 1392261296, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-department-pie-chart/5g8d-u36b", "Checkbook department pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "5g8d-u36b", "1474833", null, [ {
+    "id" : 133245841,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -1780,7 +1780,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225352,
+    "id" : 133245844,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -1796,9 +1796,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961311, 1392252493 ]
-, [ 24010246652551, "24010246652551", null, 1384628161, "849676", 1392252514, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/External-Vendor-Payments-Authorized-by-Contract/5tpi-ega7", "External Vendor Payments Authorized by Contract" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "5tpi-ega7", "1474750", null, [ {
-    "id" : 133225961,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961311, 1392261296 ]
+, [ 24010246652551, "24010246652551", null, 1384628161, "849676", 1392261300, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/External-Vendor-Payments-Authorized-by-Contract/5tpi-ega7", "External Vendor Payments Authorized by Contract" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "5tpi-ega7", "1474833", null, [ {
+    "id" : 133246099,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -1812,7 +1812,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225962,
+    "id" : 133246100,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -1826,7 +1826,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225966,
+    "id" : 133246101,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -1837,7 +1837,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225967,
+    "id" : 133246102,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -1848,7 +1848,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225968,
+    "id" : 133246103,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -1861,7 +1861,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225969,
+    "id" : 133246104,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -1876,7 +1876,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225970,
+    "id" : 133246105,
     "name" : "AUTHORITY",
     "dataTypeName" : "text",
     "fieldName" : "authority",
@@ -1887,7 +1887,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225971,
+    "id" : 133246106,
     "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
     "dataTypeName" : "text",
     "fieldName" : "business_tax_registration_certificate",
@@ -1901,7 +1901,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225972,
+    "id" : 133246107,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -1912,7 +1912,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225975,
+    "id" : 133246109,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -1923,7 +1923,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225976,
+    "id" : 133246110,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -1934,7 +1934,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225977,
+    "id" : 133246111,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -1945,7 +1945,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225978,
+    "id" : 133246112,
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
@@ -1956,7 +1956,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225979,
+    "id" : 133246113,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -1967,7 +1967,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225980,
+    "id" : 133246114,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -1978,7 +1978,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225981,
+    "id" : 133246115,
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
@@ -1989,7 +1989,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225982,
+    "id" : 133246116,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -2000,7 +2000,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225983,
+    "id" : 133246117,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -2011,7 +2011,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225985,
+    "id" : 133246118,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -2022,7 +2022,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225986,
+    "id" : 133246119,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -2036,7 +2036,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 133225987,
+    "id" : 133246120,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -2047,7 +2047,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225988,
+    "id" : 133246121,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -2058,7 +2058,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225989,
+    "id" : 133246122,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -2073,9 +2073,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384628161, 1392252514 ]
-, [ 26694554042693, "26694554042693", null, 1386484617, "866040", 1392252490, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/64tf-qk55", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "64tf-qk55", "1474750", null, [ {
-    "id" : 133225246,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384628161, 1392261300 ]
+, [ 26694554042693, "26694554042693", null, 1386484617, "866040", 1392261294, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/64tf-qk55", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "64tf-qk55", "1474833", null, [ {
+    "id" : 133245738,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2086,7 +2086,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225248,
+    "id" : 133245740,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2105,9 +2105,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484617, 1392252490 ]
-, [ 28257031160005, "28257031160005", null, 1383324211, "859162", 1392252492, "859162", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/fire/6rcq-jw35", "fire" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "6rcq-jw35", "1474750", null, [ {
-    "id" : 133225297,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484617, 1392261294 ]
+, [ 28257031160005, "28257031160005", null, 1383324211, "859162", 1392261295, "859162", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/fire/6rcq-jw35", "fire" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "6rcq-jw35", "1474833", null, [ {
+    "id" : 133245789,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -2118,7 +2118,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225295,
+    "id" : 133245787,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -2132,7 +2132,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225300,
+    "id" : 133245792,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2147,7 +2147,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225296,
+    "id" : 133245788,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -2161,7 +2161,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225298,
+    "id" : 133245790,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2172,7 +2172,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225299,
+    "id" : 133245791,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -2185,7 +2185,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225301,
+    "id" : 133245793,
     "name" : "AUTHORITY",
     "dataTypeName" : "text",
     "fieldName" : "authority",
@@ -2196,7 +2196,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225302,
+    "id" : 133245794,
     "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
     "dataTypeName" : "text",
     "fieldName" : "business_tax_registration_certificate",
@@ -2210,7 +2210,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225303,
+    "id" : 133245795,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -2221,7 +2221,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225305,
+    "id" : 133245797,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -2232,7 +2232,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225306,
+    "id" : 133245798,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -2243,7 +2243,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225307,
+    "id" : 133245799,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -2254,7 +2254,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225308,
+    "id" : 133245800,
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
@@ -2265,7 +2265,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225309,
+    "id" : 133245801,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -2276,7 +2276,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225310,
+    "id" : 133245802,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -2287,7 +2287,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225311,
+    "id" : 133245803,
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
@@ -2298,7 +2298,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225315,
+    "id" : 133245807,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -2312,7 +2312,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 133225317,
+    "id" : 133245809,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -2323,7 +2323,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225318,
+    "id" : 133245810,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -2334,7 +2334,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225319,
+    "id" : 133245811,
     "name" : "CONTRACT NAME",
     "dataTypeName" : "text",
     "fieldName" : "contract_name",
@@ -2345,7 +2345,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225320,
+    "id" : 133245812,
     "name" : "CONTRACT LINK",
     "dataTypeName" : "url",
     "fieldName" : "contract_link",
@@ -2361,9 +2361,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sifk-smve", "FF Willis" ], "public", null, null, 1383324211, 1392252492 ]
-, [ 31554489332315, "31554489332315", null, 1381961110, "710611", 1392252507, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-vendor-search/7bbq-8b9r", "Checkbook vendor search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7bbq-8b9r", "1474750", null, [ {
-    "id" : 133225610,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sifk-smve", "FF Willis" ], "public", null, null, 1383324211, 1392261295 ]
+, [ 31554489332315, "31554489332315", null, 1381961110, "710611", 1392261286, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-vendor-search/7bbq-8b9r", "Checkbook vendor search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7bbq-8b9r", "1474833", null, [ {
+    "id" : 133245244,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2375,7 +2375,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225612,
+    "id" : 133245246,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2391,9 +2391,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961110, 1392252507 ]
-, [ 31555214443998, "31555214443998", null, 1391534787, "862121", 1392252510, "862121", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/vendor_totals/7bc5-mgnu", "vendor_totals" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - December 31, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7bc5-mgnu", "1474750", null, [ {
-    "id" : 133225714,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961110, 1392261286 ]
+, [ 31555214443998, "31555214443998", null, 1391534787, "862121", 1392261288, "862121", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/vendor_totals/7bc5-mgnu", "vendor_totals" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - December 31, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7bc5-mgnu", "1474833", null, [ {
+    "id" : 133245348,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2405,7 +2405,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225716,
+    "id" : 133245350,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2428,9 +2428,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1391534787, 1392252510 ]
-, [ 31627520553168, "31627520553168", null, 1381960296, "710611", 1392252507, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Vendor-count/7cfr-8b3g", "Vendor count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7cfr-8b3g", "1474750", null, [ {
-    "id" : 133225586,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1391534787, 1392261288 ]
+, [ 31627520553168, "31627520553168", null, 1381960296, "710611", 1392261286, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Vendor-count/7cfr-8b3g", "Vendor count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "7cfr-8b3g", "1474833", null, [ {
+    "id" : 133245272,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2442,7 +2442,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225584,
+    "id" : 133245270,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2458,9 +2458,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960296, 1392252507 ]
-, [ 35612032373532, "35612032373532", null, 1386484697, "866040", 1392252500, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/86ei-yxcs", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "86ei-yxcs", "1474750", null, [ {
-    "id" : 133225454,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960296, 1392261286 ]
+, [ 35612032373532, "35612032373532", null, 1386484697, "866040", 1392261291, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/86ei-yxcs", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "86ei-yxcs", "1474833", null, [ {
+    "id" : 133245530,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2471,7 +2471,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225456,
+    "id" : 133245532,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2490,9 +2490,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484697, 1392252500 ]
-, [ 39869278900377, "39869278900377", null, 1381940820, "402253", 1392252503, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/Checkbook-Data/94ba-dd2p", "Checkbook Data" ], null, "LA Financial Expenditures Data", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "94ba-dd2p", "1474750", null, [ {
-    "id" : 133225529,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484697, 1392261291 ]
+, [ 39869278900377, "39869278900377", null, 1381940820, "402253", 1392261292, "402253", null, "<div class='typeApi'><div class=\"viewTypeCell\">API</div></div>", null, [ "Finance/Checkbook-Data/94ba-dd2p", "Checkbook Data" ], null, "LA Financial Expenditures Data", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "94ba-dd2p", "1474833", null, [ {
+    "id" : 133245605,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -2503,7 +2503,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225530,
+    "id" : 133245606,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -2517,7 +2517,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225531,
+    "id" : 133245607,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -2528,7 +2528,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225532,
+    "id" : 133245608,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2539,7 +2539,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225533,
+    "id" : 133245609,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -2552,7 +2552,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225534,
+    "id" : 133245610,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2567,7 +2567,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225540,
+    "id" : 133245616,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -2578,7 +2578,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225539,
+    "id" : 133245615,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -2589,7 +2589,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225543,
+    "id" : 133245619,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -2600,7 +2600,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225544,
+    "id" : 133245620,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -2611,7 +2611,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225537,
+    "id" : 133245613,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -2622,7 +2622,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225546,
+    "id" : 133245622,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -2633,7 +2633,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225547,
+    "id" : 133245623,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -2644,7 +2644,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225548,
+    "id" : 133245624,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -2655,7 +2655,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225549,
+    "id" : 133245625,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -2669,7 +2669,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225550,
+    "id" : 133245626,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -2680,7 +2680,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225551,
+    "id" : 133245627,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -2691,7 +2691,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225552,
+    "id" : 133245628,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -2706,9 +2706,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, null, 1381940820, 1392252503 ]
-, [ 44361719017797, "44361719017797", null, 1392251836, "849676", 1392256427, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/CD-2-Neighborhood-Council-Expenditures/a5z4-wf55", "CD 2 Neighborhood Council Expenditures" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "a5z4-wf55", "1474750", null, [ {
-    "id" : 133225567,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, null, 1381940820, 1392261292 ]
+, [ 44361719017797, "44361719017797", null, 1392251836, "849676", 1392261293, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/CD-2-Neighborhood-Council-Expenditures/a5z4-wf55", "CD 2 Neighborhood Council Expenditures" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "a5z4-wf55", "1474833", null, [ {
+    "id" : 133245643,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -2720,7 +2720,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225556,
+    "id" : 133245632,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -2735,7 +2735,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225560,
+    "id" : 133245636,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2755,9 +2755,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1392251836, 1392256427 ]
-, [ 62016145347718, "62016145347718", null, 1386869203, "849676", 1392252496, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Neighborhood-Empowerment-Expenditures/e6t2-k5i6", "Neighborhood Empowerment Expenditures" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "e6t2-k5i6", "1474750", null, [ {
-    "id" : 133225373,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1392251836, 1392261293 ]
+, [ 62016145347718, "62016145347718", null, 1386869203, "849676", 1392261290, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Neighborhood-Empowerment-Expenditures/e6t2-k5i6", "Neighborhood Empowerment Expenditures" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "e6t2-k5i6", "1474833", null, [ {
+    "id" : 133245449,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -2771,7 +2771,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225374,
+    "id" : 133245450,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -2785,7 +2785,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225375,
+    "id" : 133245451,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -2796,7 +2796,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225385,
+    "id" : 133245461,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -2807,7 +2807,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225376,
+    "id" : 133245452,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -2818,7 +2818,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225377,
+    "id" : 133245453,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -2831,7 +2831,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225378,
+    "id" : 133245454,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -2846,7 +2846,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225379,
+    "id" : 133245455,
     "name" : "AUTHORITY",
     "dataTypeName" : "text",
     "fieldName" : "authority",
@@ -2857,7 +2857,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225380,
+    "id" : 133245456,
     "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
     "dataTypeName" : "text",
     "fieldName" : "business_tax_registration_certificate",
@@ -2871,7 +2871,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225381,
+    "id" : 133245457,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -2882,7 +2882,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225383,
+    "id" : 133245459,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -2893,7 +2893,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225384,
+    "id" : 133245460,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -2904,7 +2904,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225386,
+    "id" : 133245462,
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
@@ -2915,7 +2915,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225387,
+    "id" : 133245463,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -2926,7 +2926,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225388,
+    "id" : 133245464,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -2937,7 +2937,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225389,
+    "id" : 133245465,
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
@@ -2948,7 +2948,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225390,
+    "id" : 133245466,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -2959,7 +2959,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225391,
+    "id" : 133245467,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -2970,7 +2970,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225392,
+    "id" : 133245468,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -2981,7 +2981,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225393,
+    "id" : 133245469,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -2995,7 +2995,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225394,
+    "id" : 133245470,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -3006,7 +3006,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225395,
+    "id" : 133245471,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -3017,7 +3017,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225396,
+    "id" : 133245472,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -3028,7 +3028,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225397,
+    "id" : 133245473,
     "name" : "CONTRACT NAME",
     "dataTypeName" : "text",
     "fieldName" : "contract_name",
@@ -3039,7 +3039,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225398,
+    "id" : 133245474,
     "name" : "CONTRACT LINK",
     "dataTypeName" : "url",
     "fieldName" : "contract_link",
@@ -3055,9 +3055,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386869203, 1392252496 ]
-, [ 66668755468827, "66668755468827", null, 1384811597, "849676", 1392252488, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/City-Vendor-Payments-over-Time/faa7-vc8r", "City Vendor Payments over Time" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "faa7-vc8r", "1474750", null, [ {
-    "id" : 133225121,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386869203, 1392261290 ]
+, [ 66668755468827, "66668755468827", null, 1384811597, "849676", 1392261298, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/City-Vendor-Payments-over-Time/faa7-vc8r", "City Vendor Payments over Time" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "faa7-vc8r", "1474833", null, [ {
+    "id" : 133245973,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -3072,7 +3072,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225122,
+    "id" : 133245974,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3092,9 +3092,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384811597, 1392252488 ]
-, [ 68385746239699, "68385746239699", null, 1381962398, "710611", 1392252515, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-expenditure-pie-chart/fz9c-7c3j", "Checkbook expenditure pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "fz9c-7c3j", "1474750", null, [ {
-    "id" : 133226008,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384811597, 1392261298 ]
+, [ 68385746239699, "68385746239699", null, 1381962398, "710611", 1392261299, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-expenditure-pie-chart/fz9c-7c3j", "Checkbook expenditure pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "fz9c-7c3j", "1474833", null, [ {
+    "id" : 133246036,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -3106,7 +3106,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225998,
+    "id" : 133246026,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3118,7 +3118,7 @@
       "grouping_aggregate" : "sum"
     }
   }, {
-    "id" : 133225995,
+    "id" : 133246023,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3134,9 +3134,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381962398, 1392252515 ]
-, [ 71290610792258, "71290610792258", null, 1382294351, "849676", 1392252514, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/FY2013-External-Vendor-Payments-by-Department/gdqz-y3t2", "FY2013 External Vendor Payments by Department" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gdqz-y3t2", "1474750", null, [ {
-    "id" : 133225930,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381962398, 1392261299 ]
+, [ 71290610792258, "71290610792258", null, 1382294351, "849676", 1392261300, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/FY2013-External-Vendor-Payments-by-Department/gdqz-y3t2", "FY2013 External Vendor Payments by Department" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gdqz-y3t2", "1474833", null, [ {
+    "id" : 133246075,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3148,7 +3148,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225933,
+    "id" : 133246078,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3164,7 +3164,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225931,
+    "id" : 133246076,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -3176,7 +3176,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225932,
+    "id" : 133246077,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -3190,7 +3190,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225939,
+    "id" : 133246084,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -3202,7 +3202,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225938,
+    "id" : 133246083,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -3214,7 +3214,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225943,
+    "id" : 133246088,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -3226,7 +3226,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225936,
+    "id" : 133246081,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -3242,9 +3242,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382294351, 1392252514 ]
-, [ 71435258544605, "71435258544605", null, 1381960345, "710611", 1392252508, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Expenditure-count/gfxh-ds7t", "Expenditure count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gfxh-ds7t", "1474750", null, [ {
-    "id" : 133225638,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382294351, 1392261300 ]
+, [ 71435258544605, "71435258544605", null, 1381960345, "710611", 1392261287, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Expenditure-count/gfxh-ds7t", "Expenditure count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gfxh-ds7t", "1474833", null, [ {
+    "id" : 133245324,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3256,7 +3256,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225648,
+    "id" : 133245334,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -3272,9 +3272,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960345, 1392252508 ]
-, [ 72718301050012, "72718301050012", null, 1386484787, "866040", 1392252502, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/ihatesosql/gycc-wbis", "ihatesosql" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gycc-wbis", "1474750", null, [ {
-    "id" : 133225506,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960345, 1392261287 ]
+, [ 72718301050012, "72718301050012", null, 1386484787, "866040", 1392261292, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/ihatesosql/gycc-wbis", "ihatesosql" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "gycc-wbis", "1474833", null, [ {
+    "id" : 133245582,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -3285,7 +3285,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225508,
+    "id" : 133245584,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3304,9 +3304,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484787, 1392252502 ]
-, [ 76969594074266, "76969594074266", null, 1387178755, "404935", 1392252491, "404935", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/My-View/hw3x-k3iq", "My View" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "hw3x-k3iq", "1474750", null, [ {
-    "id" : 133225271,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484787, 1392261292 ]
+, [ 76969594074266, "76969594074266", null, 1387178755, "404935", 1392261295, "404935", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/My-View/hw3x-k3iq", "My View" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "hw3x-k3iq", "1474833", null, [ {
+    "id" : 133245763,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3318,7 +3318,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225274,
+    "id" : 133245766,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3338,9 +3338,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/zs8p-j3v5", "Darrell Cabales" ], "public", null, null, 1387178755, 1392252491 ]
-, [ 80228098266972, "80228098266972", null, 1381960251, "710611", 1392252487, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Department-Count/ifuf-j5ts", "Department Count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ifuf-j5ts", "1474750", null, [ {
-    "id" : 133225093,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/zs8p-j3v5", "Darrell Cabales" ], "public", null, null, 1387178755, 1392261295 ]
+, [ 80228098266972, "80228098266972", null, 1381960251, "710611", 1392261299, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Department-Count/ifuf-j5ts", "Department Count" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ifuf-j5ts", "1474833", null, [ {
+    "id" : 133245997,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3352,7 +3352,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225096,
+    "id" : 133246000,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3368,9 +3368,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960251, 1392252487 ]
-, [ 84806464008972, "84806464008972", null, 1386318159, "849676", 1392252501, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc", "FY2013 City of LA, All External Vendors with Total Payment > $10,000" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ji6b-ancc", "1474750", null, [ {
-    "id" : 133225480,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960251, 1392261299 ]
+, [ 84806464008972, "84806464008972", null, 1386318159, "849676", 1392261291, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc", "FY2013 City of LA, All External Vendors with Total Payment > $10,000" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ji6b-ancc", "1474833", null, [ {
+    "id" : 133245556,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -3382,7 +3382,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225478,
+    "id" : 133245554,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -3397,7 +3397,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225482,
+    "id" : 133245558,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3417,9 +3417,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386318159, 1392252501 ]
-, [ 88930771870743, "88930771870743", null, 1387241059, "849676", 1392252513, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-Vendors-by-Year/ke7f-4ign", "Top Vendors by Year" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ke7f-4ign", "1474750", null, [ {
-    "id" : 133225905,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386318159, 1392261291 ]
+, [ 88930771870743, "88930771870743", null, 1387241059, "849676", 1392261286, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-Vendors-by-Year/ke7f-4ign", "Top Vendors by Year" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ke7f-4ign", "1474833", null, [ {
+    "id" : 133245218,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -3431,7 +3431,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225903,
+    "id" : 133245216,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -3447,7 +3447,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225907,
+    "id" : 133245220,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3467,9 +3467,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1387241059, 1392252513 ]
-, [ 97112719766745, "97112719766745", null, 1387179077, "404935", 1392252511, "404935", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/My-Chart/m5bh-azjp", "My Chart" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m5bh-azjp", "1474750", null, [ {
-    "id" : 133225767,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1387241059, 1392261286 ]
+, [ 97112719766745, "97112719766745", null, 1387179077, "404935", 1392261289, "404935", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/My-Chart/m5bh-azjp", "My Chart" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m5bh-azjp", "1474833", null, [ {
+    "id" : 133245399,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3481,7 +3481,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225772,
+    "id" : 133245402,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3501,9 +3501,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/zs8p-j3v5", "Darrell Cabales" ], "public", null, null, 1387179077, 1392252511 ]
-, [ 97407752808198, "97407752808198", null, 1381961059, "710611", 1392252509, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-agency-search/m9u2-wis6", "Checkbook agency search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m9u2-wis6", "1474750", null, [ {
-    "id" : 133225661,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/zs8p-j3v5", "Darrell Cabales" ], "public", null, null, 1387179077, 1392261289 ]
+, [ 97407752808198, "97407752808198", null, 1381961059, "710611", 1392261287, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-agency-search/m9u2-wis6", "Checkbook agency search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "m9u2-wis6", "1474833", null, [ {
+    "id" : 133245295,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3515,7 +3515,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225664,
+    "id" : 133245298,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3531,9 +3531,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961059, 1392252509 ]
-, [ 102361070638982, "102361070638982", null, 1381964952, "710611", 1392252486, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-expenditure-pie-chart/nhzb-ghu6", "Checkbook expenditure pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "nhzb-ghu6", "1474750", null, [ {
-    "id" : 133225069,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961059, 1392261287 ]
+, [ 102361070638982, "102361070638982", null, 1381964952, "710611", 1392261298, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-expenditure-pie-chart/nhzb-ghu6", "Checkbook expenditure pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "nhzb-ghu6", "1474833", null, [ {
+    "id" : 133245948,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3545,7 +3545,7 @@
       "grouping_aggregate" : "sum"
     }
   }, {
-    "id" : 133225079,
+    "id" : 133245958,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -3561,9 +3561,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381964952, 1392252486 ]
-, [ 111068378055639, "111068378055639", null, 1381940820, "849676", 1392252526, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/eCheckbook-Data/pggv-e4fn", "eCheckbook Data" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "pggv-e4fn", "1474750", null, [ {
-    "id" : 133211904,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381964952, 1392261298 ]
+, [ 111068378055639, "111068378055639", null, 1381940820, "849676", 1392261304, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/eCheckbook-Data/pggv-e4fn", "eCheckbook Data" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "pggv-e4fn", "1474833", null, [ {
+    "id" : 133242477,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -3573,11 +3573,11 @@
     "width" : 50,
     "format" : {
       "precisionStyle" : "standard",
-      "noCommas" : "true",
-      "align" : "right"
+      "align" : "right",
+      "noCommas" : "true"
     }
   }, {
-    "id" : 133211905,
+    "id" : 133242478,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -3587,11 +3587,11 @@
     "width" : 50,
     "format" : {
       "precisionStyle" : "standard",
-      "noCommas" : "true",
-      "align" : "right"
+      "align" : "right",
+      "noCommas" : "true"
     }
   }, {
-    "id" : 133212038,
+    "id" : 133242479,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3602,7 +3602,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212039,
+    "id" : 133242480,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -3613,7 +3613,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212040,
+    "id" : 133242481,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -3626,7 +3626,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133212041,
+    "id" : 133242482,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3641,7 +3641,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133212042,
+    "id" : 133242483,
     "name" : "AUTHORITY",
     "dataTypeName" : "text",
     "fieldName" : "authority",
@@ -3652,7 +3652,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212043,
+    "id" : 133242484,
     "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
     "dataTypeName" : "text",
     "fieldName" : "business_tax_registration_certificate",
@@ -3662,11 +3662,11 @@
     "width" : 100,
     "format" : {
       "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "true"
+      "noCommas" : "true",
+      "align" : "right"
     }
   }, {
-    "id" : 133212176,
+    "id" : 133242485,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -3677,7 +3677,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212177,
+    "id" : 133242486,
     "name" : "FUND GROUP NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_group_name",
@@ -3688,7 +3688,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212178,
+    "id" : 133242487,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -3699,7 +3699,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212179,
+    "id" : 133242488,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -3710,7 +3710,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212180,
+    "id" : 133242489,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -3721,7 +3721,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212181,
+    "id" : 133242490,
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
@@ -3732,7 +3732,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212182,
+    "id" : 133242491,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -3743,7 +3743,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212183,
+    "id" : 133242492,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -3754,7 +3754,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212184,
+    "id" : 133242493,
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
@@ -3765,7 +3765,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212185,
+    "id" : 133242494,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -3776,7 +3776,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212186,
+    "id" : 133242495,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -3787,7 +3787,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212187,
+    "id" : 133242496,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -3798,7 +3798,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212188,
+    "id" : 133242497,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -3809,7 +3809,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212189,
+    "id" : 133242498,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -3820,7 +3820,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212190,
+    "id" : 133242499,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -3831,7 +3831,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212191,
+    "id" : 133242500,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -3842,7 +3842,7 @@
     "format" : {
     }
   }, {
-    "id" : 133212192,
+    "id" : 133242501,
     "name" : "CONTRACT NAME",
     "dataTypeName" : "text",
     "fieldName" : "contract_name",
@@ -3854,7 +3854,7 @@
       "align" : "left"
     }
   }, {
-    "id" : 133212193,
+    "id" : 133242502,
     "name" : "CONTRACT LINK",
     "dataTypeName" : "url",
     "fieldName" : "contract_link",
@@ -3874,9 +3874,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381940820, 1392252526 ]
-, [ 111474875572500, "111474875572500", null, 1381950655, "710611", 1392252484, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-total-column/pmb4-n24k", "Checkbook total column" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "pmb4-n24k", "1474750", null, [ {
-    "id" : 133224989,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381940820, 1392261304 ]
+, [ 111474875572500, "111474875572500", null, 1381950655, "710611", 1392261297, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-total-column/pmb4-n24k", "Checkbook total column" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "pmb4-n24k", "1474833", null, [ {
+    "id" : 133245895,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -3891,7 +3891,7 @@
       "view" : "date_y"
     }
   }, {
-    "id" : 133225005,
+    "id" : 133245911,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "actual_month_number",
@@ -3903,7 +3903,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133224990,
+    "id" : 133245896,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3915,7 +3915,7 @@
       "grouping_aggregate" : "sum"
     }
   }, {
-    "id" : 133225006,
+    "id" : 133245912,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -3931,9 +3931,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381950655, 1392252484 ]
-, [ 114561951762399, "114561951762399", null, 1383690730, "859807", 1392252513, "859807", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Vendors-over-50-million/q368-s8vv", "Vendors over $50 million" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "q368-s8vv", "1474750", null, [ {
-    "id" : 133225878,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381950655, 1392261297 ]
+, [ 114561951762399, "114561951762399", null, 1383690730, "859807", 1392261285, "859807", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Vendors-over-50-million/q368-s8vv", "Vendors over $50 million" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "q368-s8vv", "1474833", null, [ {
+    "id" : 133245192,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -3945,7 +3945,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225880,
+    "id" : 133245194,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3965,9 +3965,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/6vkd-j24i", "magustin" ], "public", null, null, 1383690730, 1392252513 ]
-, [ 116630951916035, "116630951916035", null, 1386998672, "847801", 1392252511, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/eCheckBook-Expenditure-by-Department/qxd2-tn83", "eCheckBook Expenditure by Department" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "qxd2-tn83", "1474750", null, [ {
-    "id" : 133225739,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/6vkd-j24i", "magustin" ], "public", null, null, 1383690730, 1392261285 ]
+, [ 116630951916035, "116630951916035", null, 1386998672, "847801", 1392261289, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/eCheckBook-Expenditure-by-Department/qxd2-tn83", "eCheckBook Expenditure by Department" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "qxd2-tn83", "1474833", null, [ {
+    "id" : 133245425,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -3979,7 +3979,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225742,
+    "id" : 133245428,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -3999,9 +3999,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1386998672, 1392252511 ]
-, [ 116692340007364, "116692340007364", null, 1381950172, "710611", 1392252516, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-total-pie/qy6d-um74", "Checkbook total pie" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "qy6d-um74", "1474750", null, [ {
-    "id" : 133226024,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1386998672, 1392261289 ]
+, [ 116692340007364, "116692340007364", null, 1381950172, "710611", 1392261300, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-total-pie/qy6d-um74", "Checkbook total pie" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "qy6d-um74", "1474833", null, [ {
+    "id" : 133246052,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4013,7 +4013,7 @@
       "grouping_aggregate" : "sum"
     }
   }, {
-    "id" : 133226027,
+    "id" : 133246055,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -4029,9 +4029,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381950172, 1392252516 ]
-, [ 120554655711444, "120554655711444", null, 1386480059, "866040", 1392252499, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Girardi/rqjh-rw3k", "Girardi" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "rqjh-rw3k", "1474750", null, [ {
-    "id" : 133225402,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381950172, 1392261300 ]
+, [ 120554655711444, "120554655711444", null, 1386480059, "866040", 1392261290, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Girardi/rqjh-rw3k", "Girardi" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "rqjh-rw3k", "1474833", null, [ {
+    "id" : 133245478,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -4042,7 +4042,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225404,
+    "id" : 133245480,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4061,9 +4061,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386480059, 1392252499 ]
-, [ 127924665328902, "127924665328902", null, 1382577908, "849676", 1392252488, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-External-Vendors/t5z8-f2k6", "Top External Vendors" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "t5z8-f2k6", "1474750", null, [ {
-    "id" : 133225146,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386480059, 1392261290 ]
+, [ 127924665328902, "127924665328902", null, 1382577908, "849676", 1392261293, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-External-Vendors/t5z8-f2k6", "Top External Vendors" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "t5z8-f2k6", "1474833", null, [ {
+    "id" : 133245660,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -4075,7 +4075,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225144,
+    "id" : 133245658,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -4090,7 +4090,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225145,
+    "id" : 133245659,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -4102,7 +4102,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225148,
+    "id" : 133245662,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4118,7 +4118,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225154,
+    "id" : 133245668,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -4130,7 +4130,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225153,
+    "id" : 133245667,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -4142,7 +4142,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225158,
+    "id" : 133245672,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -4154,7 +4154,7 @@
       "grouping_aggregate" : "count"
     }
   }, {
-    "id" : 133225151,
+    "id" : 133245665,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -4170,9 +4170,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382577908, 1392252488 ]
-, [ 129884329943961, "129884329943961", null, 1383670690, "859748", 1392252512, "859748", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Better-T-C-Inc-/ty4d-miep", "Better T C, Inc." ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ty4d-miep", "1474750", null, [ {
-    "id" : 133225819,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382577908, 1392261293 ]
+, [ 129884329943961, "129884329943961", null, 1383670690, "859748", 1392261285, "859748", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Better-T-C-Inc-/ty4d-miep", "Better T C, Inc." ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ty4d-miep", "1474833", null, [ {
+    "id" : 133245163,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -4183,7 +4183,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225820,
+    "id" : 133245164,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -4197,7 +4197,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225821,
+    "id" : 133245165,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -4208,7 +4208,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225822,
+    "id" : 133245166,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -4219,7 +4219,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225823,
+    "id" : 133245167,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -4232,7 +4232,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225824,
+    "id" : 133245168,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4247,7 +4247,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225830,
+    "id" : 133245174,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -4258,7 +4258,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225829,
+    "id" : 133245173,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -4269,7 +4269,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225833,
+    "id" : 133245177,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -4280,7 +4280,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225834,
+    "id" : 133245178,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -4291,7 +4291,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225827,
+    "id" : 133245171,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -4302,7 +4302,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225836,
+    "id" : 133245180,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -4313,7 +4313,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225837,
+    "id" : 133245181,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -4324,7 +4324,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225838,
+    "id" : 133245182,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -4335,7 +4335,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225839,
+    "id" : 133245183,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -4349,7 +4349,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 133225840,
+    "id" : 133245184,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -4360,7 +4360,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225841,
+    "id" : 133245185,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -4371,7 +4371,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225842,
+    "id" : 133245186,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -4386,9 +4386,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kbiq-yj4q", "vaipage" ], "public", null, null, 1383670690, 1392252512 ]
-, [ 129956439994915, "129956439994915", null, 1381961159, "710611", 1392252493, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-expenditure-search/tz7n-sj8z", "Checkbook expenditure search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "tz7n-sj8z", "1474750", null, [ {
-    "id" : 133225336,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/kbiq-yj4q", "vaipage" ], "public", null, null, 1383670690, 1392261285 ]
+, [ 129956439994915, "129956439994915", null, 1381961159, "710611", 1392261296, "710611", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Checkbook-expenditure-search/tz7n-sj8z", "Checkbook expenditure search" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "tz7n-sj8z", "1474833", null, [ {
+    "id" : 133245828,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -4400,7 +4400,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225326,
+    "id" : 133245818,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4416,9 +4416,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961159, 1392252493 ]
-, [ 137458737259788, "137458737259788", null, 1384886385, "849676", 1392252500, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-50-Contracts-by-Total-Dollar-Value/vgir-dakc", "Top 50 Contracts by Total Dollar Value" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "vgir-dakc", "1474750", null, [ {
-    "id" : 133225449,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381961159, 1392261296 ]
+, [ 137458737259788, "137458737259788", null, 1384886385, "849676", 1392261290, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-50-Contracts-by-Total-Dollar-Value/vgir-dakc", "Top 50 Contracts by Total Dollar Value" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "vgir-dakc", "1474833", null, [ {
+    "id" : 133245525,
     "name" : "CONTRACT NAME",
     "dataTypeName" : "text",
     "fieldName" : "contract_name",
@@ -4430,7 +4430,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225430,
+    "id" : 133245506,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4450,9 +4450,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384886385, 1392252500 ]
-, [ 146241765909006, "146241765909006", null, 1383689678, "859807", 1392252490, "859807", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Vendors-over-25-million/xg6g-wy8e", "Vendors over $25 million" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "xg6g-wy8e", "1474750", null, [ {
-    "id" : 133225216,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384886385, 1392261290 ]
+, [ 146241765909006, "146241765909006", null, 1383689678, "859807", 1392261294, "859807", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Vendors-over-25-million/xg6g-wy8e", "Vendors over $25 million" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "xg6g-wy8e", "1474833", null, [ {
+    "id" : 133245712,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -4464,7 +4464,7 @@
       "drill_down" : "true"
     }
   }, {
-    "id" : 133225218,
+    "id" : 133245714,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4484,9 +4484,9 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/6vkd-j24i", "magustin" ], "public", null, null, 1383689678, 1392252490 ]
-, [ 150526038258706, "150526038258706", null, 1384801336, "849676", 1392252486, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgement-Vendor-Transactions/yesj-2zgi", "Settlements/Judgement Vendor Transactions" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "yesj-2zgi", "1474750", null, [ {
-    "id" : 133225037,
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/6vkd-j24i", "magustin" ], "public", null, null, 1383689678, 1392261294 ]
+, [ 150526038258706, "150526038258706", null, 1384801336, "849676", 1392261297, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgement-Vendor-Transactions/yesj-2zgi", "Settlements/Judgement Vendor Transactions" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "yesj-2zgi", "1474833", null, [ {
+    "id" : 133245917,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "id_number",
@@ -4500,7 +4500,7 @@
       "noCommas" : "true"
     }
   }, {
-    "id" : 133225038,
+    "id" : 133245918,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_year",
@@ -4514,7 +4514,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225039,
+    "id" : 133245919,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
     "fieldName" : "department_name",
@@ -4525,7 +4525,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225040,
+    "id" : 133245920,
     "name" : "VENDOR NAME",
     "dataTypeName" : "text",
     "fieldName" : "vendor_name",
@@ -4536,7 +4536,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225041,
+    "id" : 133245921,
     "name" : "TRANSACTION DATE",
     "dataTypeName" : "calendar_date",
     "fieldName" : "transaction_date",
@@ -4549,7 +4549,7 @@
       "view" : "date"
     }
   }, {
-    "id" : 133225042,
+    "id" : 133245922,
     "name" : "DOLLAR AMOUNT",
     "dataTypeName" : "money",
     "fieldName" : "dollar_amount",
@@ -4564,7 +4564,7 @@
       "currency" : "USD"
     }
   }, {
-    "id" : 133225043,
+    "id" : 133245923,
     "name" : "AUTHORITY",
     "dataTypeName" : "text",
     "fieldName" : "authority",
@@ -4575,7 +4575,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225044,
+    "id" : 133245924,
     "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
     "dataTypeName" : "text",
     "fieldName" : "business_tax_registration_certificate",
@@ -4589,7 +4589,7 @@
       "align" : "right"
     }
   }, {
-    "id" : 133225045,
+    "id" : 133245925,
     "name" : "GOVERNMENT ACTIVITY",
     "dataTypeName" : "text",
     "fieldName" : "government_activity",
@@ -4600,7 +4600,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225047,
+    "id" : 133245927,
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
@@ -4611,7 +4611,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225048,
+    "id" : 133245928,
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
@@ -4622,7 +4622,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225049,
+    "id" : 133245929,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
@@ -4633,7 +4633,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225050,
+    "id" : 133245930,
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
@@ -4644,7 +4644,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225051,
+    "id" : 133245931,
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
@@ -4655,7 +4655,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225052,
+    "id" : 133245932,
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
@@ -4666,7 +4666,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225053,
+    "id" : 133245933,
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
@@ -4677,7 +4677,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225054,
+    "id" : 133245934,
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
@@ -4688,7 +4688,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225055,
+    "id" : 133245935,
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
@@ -4699,7 +4699,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225056,
+    "id" : 133245936,
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
@@ -4710,7 +4710,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225057,
+    "id" : 133245937,
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
@@ -4724,7 +4724,7 @@
       "noCommas" : "false"
     }
   }, {
-    "id" : 133225058,
+    "id" : 133245938,
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
@@ -4735,7 +4735,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225059,
+    "id" : 133245939,
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
@@ -4746,7 +4746,7 @@
     "format" : {
     }
   }, {
-    "id" : 133225060,
+    "id" : 133245940,
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
@@ -4761,7 +4761,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384801336, 1392252486 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384801336, 1392261297 ]
 , [ 27722071266706, "27722071266706", null, 1382301759, "849676", 1391792101, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi", "FY2013 General Fund Revenue Budget v Collected Revenue" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6jqc-dtmi", "1469088", null, [ {
     "id" : 132337139,
     "name" : "DEPARTMENT NAME",
