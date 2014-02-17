@@ -3056,43 +3056,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386869203, 1392308739 ]
-, [ 66668755468827, "66668755468827", null, 1384811597, "849676", 1392308748, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/City-Vendor-Payments-over-Time/faa7-vc8r", "City Vendor Payments over Time" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "faa7-vc8r", "1475517", null, [ {
-    "id" : 133431817,
-    "name" : "TRANSACTION DATE",
-    "dataTypeName" : "calendar_date",
-    "fieldName" : "transaction_date",
-    "position" : 1,
-    "renderTypeName" : "calendar_date",
-    "tableColumnId" : 15294633,
-    "width" : 142,
-    "format" : {
-      "group_function" : "date_ymd",
-      "drill_down" : "true",
-      "align" : "left",
-      "view" : "date"
-    }
-  }, {
-    "id" : 133431818,
-    "name" : "DOLLAR AMOUNT",
-    "dataTypeName" : "money",
-    "fieldName" : "dollar_amount",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15294645,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "faa7-vc8r", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384811597, 1392308748 ]
 , [ 68385746239699, "68385746239699", null, 1381962398, "710611", 1392308747, "710611", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Checkbook-expenditure-pie-chart/fz9c-7c3j", "Checkbook expenditure pie chart" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "fz9c-7c3j", "1475517", null, [ {
     "id" : 133431776,
     "name" : "EXPENDITURE TYPE",
@@ -3369,55 +3332,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1381960251, 1392308748 ]
-, [ 84806464008972, "84806464008972", null, 1386318159, "849676", 1392308741, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-City-of-LA-All-External-Vendors-with-Total-/ji6b-ancc", "FY2013 City of LA, All External Vendors with Total Payment > $10,000" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ji6b-ancc", "1475517", null, [ {
-    "id" : 133431420,
-    "name" : "VENDOR NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "vendor_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15294631,
-    "width" : 262,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 133431418,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "number",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15294627,
-    "width" : 110,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "true",
-      "align" : "right"
-    }
-  }, {
-    "id" : 133431422,
-    "name" : "DOLLAR AMOUNT",
-    "dataTypeName" : "money",
-    "fieldName" : "dollar_amount",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15294645,
-    "width" : 98,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "ji6b-ancc", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1386318159, 1392308741 ]
 , [ 88930771870743, "88930771870743", null, 1387241059, "849676", 1392308733, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-Vendors-by-Year/ke7f-4ign", "Top Vendors by Year" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "ke7f-4ign", "1475517", null, [ {
     "id" : 133431108,
     "name" : "VENDOR NAME",
@@ -6258,266 +6172,6 @@
       "Data Owner" : "Controller's Office"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1389656066, 1391792100 ]
-, [ 123301054265186, "123301054265186", null, 1382597933, "849676", 1391792102, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Fees-Fines-and-Penalti/s2h3-yzty", "FY2013 General Fund Revenue - Fees, Fines and Penalties" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "s2h3-yzty", "1469088", null, [ {
-    "id" : 132337184,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343436,
-    "width" : 297,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132337182,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "number",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 132337185,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132337186,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132337187,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "grouping_aggregate" : "count",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 132337188,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337189,
-    "name" : "FUND",
-    "dataTypeName" : "number",
-    "fieldName" : "fund",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343433,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337190,
-    "name" : "REVENUE SOURCE CODE",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_code",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343435,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "grouping_aggregate" : "count",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 132337191,
-    "name" : "REVENUE CLASS CODE",
-    "dataTypeName" : "number",
-    "fieldName" : "revenue_class_code",
-    "position" : 9,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343437,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337192,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "s2h3-yzty", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382597933, 1391792102 ]
-, [ 129065143523296, "129065143523296", null, 1382300904, "849676", 1391792104, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Department/tm9i-25vw", "General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through September 30, 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tm9i-25vw", "1469088", null, [ {
-    "id" : 132337238,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 248,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132337237,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "number",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 132337240,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132337241,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132337242,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 5,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 132337239,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 6,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 267,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337243,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337247,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "tm9i-25vw", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300904, 1391792104 ]
 , [ 129161550144666, "129161550144666", null, 1382595084, "849676", 1391792102, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Revenues-by-Revenue-Source/tnz4-kaiq", "General Fund Revenues by Revenue Source" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "tnz4-kaiq", "1469088", null, [ {
     "id" : 132337173,
     "name" : "REVENUE SOURCE NAME",
@@ -6921,331 +6575,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1383687128, 1391792104 ]
-, [ 151057800381332, "151057800381332", null, 1382300986, "849676", 1391792105, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenues-by-Department/ymby-y4ek", "FY2013 General Fund Revenues by Department" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "ymby-y4ek", "1469088", null, [ {
-    "id" : 132337271,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15343432,
-    "width" : 248,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132337270,
-    "name" : "FISCAL YEAR",
-    "dataTypeName" : "number",
-    "fieldName" : "fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343431,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "false",
-      "align" : "right"
-    }
-  }, {
-    "id" : 132337272,
-    "name" : "REVENUE SOURCE NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_source_name",
-    "position" : 3,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343436,
-    "width" : 267,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337273,
-    "name" : "REVENUE BUDGET",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_budget",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343440,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132337274,
-    "name" : "REVENUE COLLECTED",
-    "dataTypeName" : "money",
-    "fieldName" : "revenue_collected_1",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15343442,
-    "width" : 116,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132337275,
-    "name" : "% REVENUE COLLECTED",
-    "dataTypeName" : "percent",
-    "fieldName" : "revenue_collected_2",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15343444,
-    "width" : 252,
-    "format" : {
-      "precision" : "2",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 132337276,
-    "name" : "REVENUE CLASS NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "revenue_class_name",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343438,
-    "width" : 256,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132337280,
-    "name" : "FUND NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "fund_name",
-    "position" : 8,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15343434,
-    "width" : 208,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "ymby-y4ek", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ null, "Controller's Office" ], 1382300986, 1391792105 ]
-, [ 9700243285779, "9700243285779", null, 1382289805, "849676", 1391790498, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures-by-Account-Group-/2da3-zysj", "General Fund Budget Expenditures by Account Group Name" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "2da3-zysj", "1469051", null, [ {
-    "id" : 132334720,
-    "name" : "ACCOUNT GROUP NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "account_group_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407328,
-    "width" : 264,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334707,
-    "name" : "BUDGET FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "budget_fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407323,
-    "width" : 80,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334710,
-    "name" : "ADOPTED BUDGET AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Original budget amount adopted by Mayor and Council",
-    "fieldName" : "adopted_budget_amount",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407329,
-    "width" : 117,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334712,
-    "name" : "BUDGET CHANGE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Amendment to the adopted budget amount",
-    "fieldName" : "budget_change_amount",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407330,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334713,
-    "name" : "BUDGET TRANSFER IN AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Increase in appropriation to account by transfer in of funds",
-    "fieldName" : "budget_transfer_in_amount",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407331,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334714,
-    "name" : "BUDGET TRANSFER OUT AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Decrease in appropriation to account by transfer out of funds",
-    "fieldName" : "budget_transfer_out_amount",
-    "position" : 6,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407332,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334715,
-    "name" : "TOTAL BUDGET",
-    "dataTypeName" : "money",
-    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
-    "fieldName" : "total_budget",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407333,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334711,
-    "name" : "TOTAL EXPENDITURES",
-    "dataTypeName" : "money",
-    "description" : "Total Budget Fiscal Year amount expended from account to date",
-    "fieldName" : "total_expenditures",
-    "position" : 8,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407334,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334716,
-    "name" : "ENCUMBRANCE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Obligation or commitment to pay for a good or service",
-    "fieldName" : "encumbrance_amount",
-    "position" : 9,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407335,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334717,
-    "name" : "PRE-ENCUMBRANCE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Anticipated obligation or commitment to pay for a good or service",
-    "fieldName" : "pre_encumbrance_amount",
-    "position" : 10,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407336,
-    "width" : 81,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334718,
-    "name" : "BUDGET UNCOMMITTED AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Total unused appropriation after expenditures and encumbrances",
-    "fieldName" : "budget_uncommitted_amount",
-    "position" : 11,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407337,
-    "width" : 126,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334708,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 12,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15407324,
-    "width" : 239,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132334709,
-    "name" : "ACCOUNT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "account_name",
-    "position" : 13,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15407327,
-    "width" : 285,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "2da3-zysj", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382289805, 1391790498 ]
-, [ 49297069224202, "49297069224202", null, 1382289317, "849676", 1391790500, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures-by-Account-Name/bdnu-jb4a", "General Fund Budget Expenditures by Account Name" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "bdnu-jb4a", "1469051", null, [ {
+, [ 49297069224202, "49297069224202", null, 1382289317, "849676", 1392629769, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures-by-Account-Name/bdnu-jb4a", "General Fund Budget Expenditures by Account Name" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "bdnu-jb4a", "1469051", null, [ {
     "id" : 132334799,
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
@@ -7270,12 +6600,29 @@
       "drill_down" : "true"
     }
   }, {
+    "id" : 132334805,
+    "name" : "TOTAL BUDGET",
+    "dataTypeName" : "money",
+    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
+    "fieldName" : "total_budget",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15407333,
+    "width" : 113,
+    "format" : {
+      "aggregate" : "sum",
+      "grouping_aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
     "id" : 132334800,
     "name" : "ADOPTED BUDGET AMOUNT",
     "dataTypeName" : "money",
     "description" : "Original budget amount adopted by Mayor and Council",
     "fieldName" : "adopted_budget_amount",
-    "position" : 3,
+    "position" : 4,
     "renderTypeName" : "money",
     "tableColumnId" : 15407329,
     "width" : 117,
@@ -7292,7 +6639,7 @@
     "dataTypeName" : "money",
     "description" : "Amendment to the adopted budget amount",
     "fieldName" : "budget_change_amount",
-    "position" : 4,
+    "position" : 5,
     "renderTypeName" : "money",
     "tableColumnId" : 15407330,
     "width" : 100,
@@ -7309,7 +6656,7 @@
     "dataTypeName" : "money",
     "description" : "Increase in appropriation to account by transfer in of funds",
     "fieldName" : "budget_transfer_in_amount",
-    "position" : 5,
+    "position" : 6,
     "renderTypeName" : "money",
     "tableColumnId" : 15407331,
     "width" : 100,
@@ -7326,27 +6673,10 @@
     "dataTypeName" : "money",
     "description" : "Decrease in appropriation to account by transfer out of funds",
     "fieldName" : "budget_transfer_out_amount",
-    "position" : 6,
+    "position" : 7,
     "renderTypeName" : "money",
     "tableColumnId" : 15407332,
     "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334805,
-    "name" : "TOTAL BUDGET",
-    "dataTypeName" : "money",
-    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
-    "fieldName" : "total_budget",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407333,
-    "width" : 113,
     "format" : {
       "aggregate" : "sum",
       "grouping_aggregate" : "sum",
@@ -7451,8 +6781,8 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382289317, 1391790500 ]
-, [ 54187492128350, "54187492128350", null, 1386615060, "862121", 1391790498, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditures1/cky2-e3pu", "Expenditures1" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through October 30, 2013", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "cky2-e3pu", "1469051", null, [ {
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382289317, 1392629769 ]
+, [ 54187492128350, "54187492128350", null, 1386615060, "862121", 1392630470, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/General-Fund-Expenditures-by-Account/cky2-e3pu", "General Fund Expenditures by Account" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through October 30, 2013", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "cky2-e3pu", "1469051", null, [ {
     "id" : 132334737,
     "name" : "BUDGET FISCAL YEAR",
     "dataTypeName" : "text",
@@ -7667,7 +6997,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1386615060, 1391790498 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1386615060, 1392630470 ]
 , [ 54371441561991, "54371441561991", null, 1387006696, "847801", 1391790498, "847801", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditure-Budget-by-Dept/cndm-tt67", "Expenditure&Budget by Dept" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through November 30, 2013", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "cndm-tt67", "1469051", null, [ {
     "id" : 132334723,
     "name" : "DEPARTMENT NAME",
@@ -8037,214 +7367,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/2jmg-ngni", "scottleighton" ], "public", null, null, 1389904844, 1391790499 ]
-, [ 76640841490756, "76640841490756", null, 1382290574, "849676", 1391790497, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Total-Budget-v-Total-Expenditu/hrhm-8u54", "FY2013 General Fund Total Budget v Total Expenditures by Department" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "hrhm-8u54", "1469051", null, [ {
-    "id" : 132334648,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407324,
-    "width" : 269,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334647,
-    "name" : "BUDGET FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "budget_fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407323,
-    "width" : 80,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334650,
-    "name" : "ADOPTED BUDGET AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Original budget amount adopted by Mayor and Council",
-    "fieldName" : "adopted_budget_amount",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407329,
-    "width" : 117,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334652,
-    "name" : "BUDGET CHANGE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Amendment to the adopted budget amount",
-    "fieldName" : "budget_change_amount",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407330,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334653,
-    "name" : "BUDGET TRANSFER IN AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Increase in appropriation to account by transfer in of funds",
-    "fieldName" : "budget_transfer_in_amount",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407331,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334654,
-    "name" : "BUDGET TRANSFER OUT AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Decrease in appropriation to account by transfer out of funds",
-    "fieldName" : "budget_transfer_out_amount",
-    "position" : 6,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407332,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334655,
-    "name" : "TOTAL BUDGET",
-    "dataTypeName" : "money",
-    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
-    "fieldName" : "total_budget",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407333,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334651,
-    "name" : "TOTAL EXPENDITURES",
-    "dataTypeName" : "money",
-    "description" : "Total Budget Fiscal Year amount expended from account to date",
-    "fieldName" : "total_expenditures",
-    "position" : 8,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407334,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334656,
-    "name" : "ENCUMBRANCE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Obligation or commitment to pay for a good or service",
-    "fieldName" : "encumbrance_amount",
-    "position" : 9,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407335,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334657,
-    "name" : "PRE-ENCUMBRANCE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Anticipated obligation or commitment to pay for a good or service",
-    "fieldName" : "pre_encumbrance_amount",
-    "position" : 10,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407336,
-    "width" : 81,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334658,
-    "name" : "BUDGET UNCOMMITTED AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Total unused appropriation after expenditures and encumbrances",
-    "fieldName" : "budget_uncommitted_amount",
-    "position" : 11,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407337,
-    "width" : 126,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334649,
-    "name" : "ACCOUNT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "account_name",
-    "position" : 12,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15407327,
-    "width" : 223,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132334660,
-    "name" : "ACCOUNT GROUP NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "account_group_name",
-    "position" : 14,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15407328,
-    "width" : 234,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "hrhm-8u54", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382290574, 1391790497 ]
-, [ 84952394051870, "84952394051870", null, 1382289020, "849676", 1391790499, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-Total-General-Fund-Budget-Expenditures-by-D/jke5-hj4u", "FY2013 Total General Fund Budget Expenditures by Department" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "jke5-hj4u", "1469051", null, [ {
+, [ 84952394051870, "84952394051870", null, 1382289020, "849676", 1392629615, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-Total-General-Fund-Expenditures-by-Departme/jke5-hj4u", "FY2013 Total General Fund Expenditures by Department" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "jke5-hj4u", "1469051", null, [ {
     "id" : 132334753,
     "name" : "DEPARTMENT NAME",
     "dataTypeName" : "text",
@@ -8450,214 +7573,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382289020, 1391790499 ]
-, [ 88597157144198, "88597157144198", null, 1382291014, "849676", 1391790497, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2014-Departments-by-Budget-Uncommitted-Amount/k9gy-56q6", "FY2014 Departments by Budget Uncommitted Amount" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "k9gy-56q6", "1469051", null, [ {
-    "id" : 132334663,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407324,
-    "width" : 269,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334662,
-    "name" : "BUDGET FISCAL YEAR",
-    "dataTypeName" : "text",
-    "fieldName" : "budget_fiscal_year",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407323,
-    "width" : 80,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334665,
-    "name" : "ADOPTED BUDGET AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Original budget amount adopted by Mayor and Council",
-    "fieldName" : "adopted_budget_amount",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407329,
-    "width" : 117,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334667,
-    "name" : "BUDGET CHANGE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Amendment to the adopted budget amount",
-    "fieldName" : "budget_change_amount",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407330,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334668,
-    "name" : "BUDGET TRANSFER IN AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Increase in appropriation to account by transfer in of funds",
-    "fieldName" : "budget_transfer_in_amount",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407331,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334669,
-    "name" : "BUDGET TRANSFER OUT AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Decrease in appropriation to account by transfer out of funds",
-    "fieldName" : "budget_transfer_out_amount",
-    "position" : 6,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407332,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334670,
-    "name" : "TOTAL BUDGET",
-    "dataTypeName" : "money",
-    "description" : "Appropriation account amount net of changes and transfers to/from the original budgeted amount",
-    "fieldName" : "total_budget",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407333,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334666,
-    "name" : "TOTAL EXPENDITURES",
-    "dataTypeName" : "money",
-    "description" : "Total Budget Fiscal Year amount expended from account to date",
-    "fieldName" : "total_expenditures",
-    "position" : 8,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407334,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334671,
-    "name" : "ENCUMBRANCE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Obligation or commitment to pay for a good or service",
-    "fieldName" : "encumbrance_amount",
-    "position" : 9,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407335,
-    "width" : 111,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334672,
-    "name" : "PRE-ENCUMBRANCE AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Anticipated obligation or commitment to pay for a good or service",
-    "fieldName" : "pre_encumbrance_amount",
-    "position" : 10,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407336,
-    "width" : 81,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334673,
-    "name" : "BUDGET UNCOMMITTED AMOUNT",
-    "dataTypeName" : "money",
-    "description" : "Total unused appropriation after expenditures and encumbrances",
-    "fieldName" : "budget_uncommitted_amount",
-    "position" : 11,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407337,
-    "width" : 126,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 132334664,
-    "name" : "ACCOUNT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "account_name",
-    "position" : 12,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15407327,
-    "width" : 285,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 132334675,
-    "name" : "ACCOUNT GROUP NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "account_group_name",
-    "position" : 13,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15407328,
-    "width" : 234,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "k9gy-56q6", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382291014, 1391790497 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382289020, 1392629615 ]
 , [ 103528345912205, "103528345912205", null, 1382288718, "849676", 1391790498, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures-by-Department/nyyi-i4ed", "General Fund Budget Expenditures by Department" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "nyyi-i4ed", "1469051", null, [ {
     "id" : 132334693,
     "name" : "DEPARTMENT NAME",
@@ -10106,182 +9022,6 @@
       "Other" : "ITA"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389194578, 1389830554 ]
-, [ 9996744632547, "9996744632547", null, 1382239534, "849676", 1389380635, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/2013-Relative-Payroll-of-Council-Controlled-Depart/2huc-qqzz", "2013 Relative Payroll of Council Controlled Departments" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "2huc-qqzz", "1435013", null, [ {
-    "id" : 128173075,
-    "name" : "Department Title",
-    "dataTypeName" : "text",
-    "fieldName" : "department_title",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15401981,
-    "width" : 216,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 128173074,
-    "name" : "Year",
-    "dataTypeName" : "number",
-    "fieldName" : "year",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401980,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "align" : "right",
-      "noCommas" : "true"
-    }
-  }, {
-    "id" : 128173077,
-    "name" : "Regular Pay",
-    "dataTypeName" : "money",
-    "fieldName" : "regular_pay",
-    "position" : 3,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401986,
-    "width" : 109,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173078,
-    "name" : "Q1 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q1_earnings",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401987,
-    "width" : 108,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173079,
-    "name" : "Q2 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q2_earnings",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401988,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173080,
-    "name" : "Q3 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q3_earnings",
-    "position" : 6,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401989,
-    "width" : 104,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173081,
-    "name" : "Q4 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q4_earnings",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401990,
-    "width" : 107,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173082,
-    "name" : "Actual Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "actual_earnings",
-    "position" : 8,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401991,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173083,
-    "name" : "Earnings over Regular Pay",
-    "dataTypeName" : "money",
-    "description" : "Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay",
-    "fieldName" : "earnings_over_regular_pay",
-    "position" : 9,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401992,
-    "width" : 94,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173084,
-    "name" : "% Over Regular",
-    "dataTypeName" : "percent",
-    "description" : "Earnings Over Regular as a percentage of Regular Pay. For 2013, Earnings over Regular as a percentage of 1/2 Regular Pay.",
-    "fieldName" : "over_regular",
-    "position" : 10,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15401993,
-    "width" : 72,
-    "format" : {
-      "aggregate" : "average",
-      "precision" : "3",
-      "grouping_aggregate" : "average",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 128173076,
-    "name" : "Job Class Title",
-    "dataTypeName" : "text",
-    "fieldName" : "job_class_title",
-    "position" : 11,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401984,
-    "width" : 184,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "2huc-qqzz", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382239534, 1389380635 ]
 , [ 15052945814548, "15052945814548", null, 1383125428, "858742", 1389380634, "858742", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/TOP-EARNERS-2012/3r39-vfgk", "TOP EARNERS 2012" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "3r39-vfgk", "1435013", null, [ {
     "id" : 128173060,
     "name" : "Year",
@@ -10585,227 +9325,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382238039, 1389380641 ]
-, [ 31754915706316, "31754915706316", null, 1389983697, "849676", 1389983697, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/City-Departments-by-Total-Payroll/7e64-u7nc", "City Departments by Total Payroll" ], null, "City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "7e64-u7nc", "1435013", null, [ {
-    "id" : 129467618,
-    "name" : "Department Title",
-    "dataTypeName" : "text",
-    "fieldName" : "department_title",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15401981,
-    "width" : 216,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 129467619,
-    "name" : "Actual Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "actual_earnings",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401991,
-    "width" : 100,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "7e64-u7nc", {
-    "Data Owner" : {
-      "Data Owner" : "Controller's Office"
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1389983697, 1389983697 ]
-, [ 32720709260063, "32720709260063", null, 1382339295, "849676", 1389380630, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Harbor-and-Airports-Payroll-by-Year/7s9y-g9cv", "Harbor and Airports Payroll by Year" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "7s9y-g9cv", "1435013", null, [ {
-    "id" : 128172956,
-    "name" : "Department Title",
-    "dataTypeName" : "text",
-    "fieldName" : "department_title",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15401981,
-    "width" : 216,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 128172955,
-    "name" : "Year",
-    "dataTypeName" : "number",
-    "fieldName" : "year",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401980,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "true",
-      "align" : "right"
-    }
-  }, {
-    "id" : 128172957,
-    "name" : "Job Class Title",
-    "dataTypeName" : "text",
-    "fieldName" : "job_class_title",
-    "position" : 3,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401984,
-    "width" : 184,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 128172958,
-    "name" : "Regular Pay",
-    "dataTypeName" : "money",
-    "fieldName" : "regular_pay",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401986,
-    "width" : 109,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172959,
-    "name" : "Q1 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q1_earnings",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401987,
-    "width" : 108,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172960,
-    "name" : "Q2 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q2_earnings",
-    "position" : 6,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401988,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172961,
-    "name" : "Q3 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q3_earnings",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401989,
-    "width" : 104,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172962,
-    "name" : "Q4 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q4_earnings",
-    "position" : 8,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401990,
-    "width" : 107,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172963,
-    "name" : "Actual Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "actual_earnings",
-    "position" : 9,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401991,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172964,
-    "name" : "Earnings over Regular Pay",
-    "dataTypeName" : "money",
-    "description" : "Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay",
-    "fieldName" : "earnings_over_regular_pay",
-    "position" : 10,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401992,
-    "width" : 94,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128172965,
-    "name" : "% Over Regular",
-    "dataTypeName" : "percent",
-    "description" : "Earnings Over Regular as a percentage of Regular Pay. For 2013, Earnings over Regular as a percentage of 1/2 Regular Pay.",
-    "fieldName" : "over_regular",
-    "position" : 11,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15401993,
-    "width" : 72,
-    "format" : {
-      "aggregate" : "average",
-      "precision" : "3",
-      "grouping_aggregate" : "average",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 128172966,
-    "name" : "MOU",
-    "dataTypeName" : "number",
-    "fieldName" : "mou",
-    "position" : 12,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401985,
-    "width" : 50,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "7s9y-g9cv", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382339295, 1389380630 ]
 , [ 36219964686750, "36219964686750", null, 1382566585, "857448", 1389380638, "857448", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/city-atty-III-salary/8f4u-8g6u", "city atty III salary" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "8f4u-8g6u", "1435013", null, [ {
     "id" : 128173172,
     "name" : "Year",
@@ -11400,204 +9919,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382242592, 1389380636 ]
-, [ 58310842679895, "58310842679895", null, 1382238169, "849676", 1389380637, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/2011-Q2-2013-Payroll-for-Council-Controlled-Depart/dgyd-489n", "2011 - Q2 2013 Payroll for Council Controlled Departments" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "dgyd-489n", "1435013", null, [ {
-    "id" : 128173144,
-    "name" : "Year",
-    "dataTypeName" : "number",
-    "fieldName" : "year",
-    "position" : 1,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401980,
-    "width" : 50,
-    "format" : {
-      "precisionStyle" : "standard",
-      "align" : "right",
-      "noCommas" : "true"
-    }
-  }, {
-    "id" : 128173145,
-    "name" : "Department Title",
-    "dataTypeName" : "text",
-    "fieldName" : "department_title",
-    "position" : 2,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15401981,
-    "width" : 186,
-    "format" : {
-    }
-  }, {
-    "id" : 128173146,
-    "name" : "Job Class Title",
-    "dataTypeName" : "text",
-    "fieldName" : "job_class_title",
-    "position" : 3,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15401984,
-    "width" : 184,
-    "format" : {
-    }
-  }, {
-    "id" : 128173147,
-    "name" : "Regular Pay",
-    "dataTypeName" : "money",
-    "fieldName" : "regular_pay",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401986,
-    "width" : 109,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173148,
-    "name" : "Q1 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q1_earnings",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401987,
-    "width" : 108,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173149,
-    "name" : "Q2 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q2_earnings",
-    "position" : 6,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401988,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173150,
-    "name" : "Q3 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q3_earnings",
-    "position" : 7,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401989,
-    "width" : 104,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173151,
-    "name" : "Q4 Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "q4_earnings",
-    "position" : 8,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401990,
-    "width" : 107,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173152,
-    "name" : "Actual Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "actual_earnings",
-    "position" : 9,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401991,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173153,
-    "name" : "Earnings over Regular Pay",
-    "dataTypeName" : "money",
-    "description" : "Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay",
-    "fieldName" : "earnings_over_regular_pay",
-    "position" : 10,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401992,
-    "width" : 94,
-    "format" : {
-      "aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173154,
-    "name" : "% Over Regular",
-    "dataTypeName" : "percent",
-    "description" : "Earnings Over Regular as a percentage of Regular Pay. For 2013, Earnings over Regular as a percentage of 1/2 Regular Pay.",
-    "fieldName" : "over_regular",
-    "position" : 11,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15401993,
-    "width" : 72,
-    "format" : {
-      "aggregate" : "average",
-      "precision" : "3",
-      "noCommas" : "false",
-      "align" : "right",
-      "view" : "percent_bar_and_text"
-    }
-  }, {
-    "id" : 128173155,
-    "name" : "MOU",
-    "dataTypeName" : "number",
-    "fieldName" : "mou",
-    "position" : 12,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401985,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 128173156,
-    "name" : "DIV #",
-    "dataTypeName" : "number",
-    "fieldName" : "div",
-    "position" : 13,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401983,
-    "width" : 50,
-    "format" : {
-    }
-  }, {
-    "id" : 128173157,
-    "name" : "Department #",
-    "dataTypeName" : "number",
-    "fieldName" : "department",
-    "position" : 14,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401982,
-    "width" : 50,
-    "format" : {
-    }
-  } ], "dgyd-489n", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382238169, 1389380637 ]
 , [ 59259964930120, "59259964930120", null, 1382468696, "849676", 1389380636, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/2012-City-Earners-over-250-000/dum9-abx8", "2012 City Earners over $250,000" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "dum9-abx8", "1435013", null, [ {
     "id" : 128173116,
     "name" : "Year",
@@ -13535,106 +11856,6 @@
       "Data Owner" : "Controller's Office"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382233994, 1389380644 ]
-, [ 124684159811715, "124684159811715", null, 1382303358, "849676", 1389380635, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/DWP-Payroll-by-Year/smpb-3w23", "DWP Payroll by Year" ], null, "City of Los Angeles Payroll, 2011 - June 30, 2013", "0", "Finance", "payroll, personnel", "0", null, null, null, null, "smpb-3w23", "1435013", null, [ {
-    "id" : 128173088,
-    "name" : "Year",
-    "dataTypeName" : "number",
-    "fieldName" : "year",
-    "position" : 1,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401980,
-    "width" : 80,
-    "format" : {
-      "precisionStyle" : "standard",
-      "drill_down" : "true",
-      "noCommas" : "true",
-      "align" : "right"
-    }
-  }, {
-    "id" : 128173091,
-    "name" : "Regular Pay",
-    "dataTypeName" : "money",
-    "fieldName" : "regular_pay",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401986,
-    "width" : 109,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173090,
-    "name" : "Job Class Title",
-    "dataTypeName" : "text",
-    "fieldName" : "job_class_title",
-    "position" : 3,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15401984,
-    "width" : 235,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 128173096,
-    "name" : "Actual Earnings",
-    "dataTypeName" : "money",
-    "fieldName" : "actual_earnings",
-    "position" : 4,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401991,
-    "width" : 113,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173097,
-    "name" : "Earnings over Regular Pay",
-    "dataTypeName" : "money",
-    "description" : "Actual Earnings - Regular Pay. For 2013, Actual Earnings - 1/2 of Regular Pay",
-    "fieldName" : "earnings_over_regular_pay",
-    "position" : 5,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15401992,
-    "width" : 94,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  }, {
-    "id" : 128173098,
-    "name" : "% Over Regular",
-    "dataTypeName" : "percent",
-    "description" : "Earnings Over Regular as a percentage of Regular Pay. For 2013, Earnings over Regular as a percentage of 1/2 Regular Pay.",
-    "fieldName" : "over_regular",
-    "position" : 6,
-    "renderTypeName" : "percent",
-    "tableColumnId" : 15401993,
-    "width" : 107,
-    "format" : {
-      "aggregate" : "average",
-      "precision" : "3",
-      "grouping_aggregate" : "average",
-      "align" : "right",
-      "noCommas" : "false",
-      "view" : "percent_bar_and_text"
-    }
-  } ], "smpb-3w23", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382303358, 1389380635 ]
 , [ 136828447990366, "136828447990366", null, 1384802627, "849676", 1389380639, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Top-Q3-Earners/v77r-2q9u", "Top Q3 Earners" ], null, "City of Los Angeles, all Departments Payroll, Jan 1, 2011 - September 30, 2013", "0", "Finance", "payroll, personnel, aging, airports, animal services, building and safety, city administrative officer, city attorney, city clerk, city employees retirement system, city ethics commission, city planning and development, controller, council district 01, council district 02, council district 03, council district 04, council district 05, council district 06, council district 07, council district 08, council district 09, council district 10, council district 11, council district 12, council district 13, council district 14, council district 15, cultural affairs, disability, economic development department, el pueblo de los angeles historical monument authority, emergency management, employee relations board, fire, general services, harbor, housing and community investment department, information technology agency, library, los angeles convention center, mayor, neighborhood empowerment, office of finance, office of the chief legislative analyst, pension, police, public works - board of public works, public works - contract administration, public works - engineering, public works - sanitation, public works - street lighting, public works - street services, recreation and parks, transportation, water and power, zoo", "0", null, null, null, null, "v77r-2q9u", "1435013", null, [ {
     "id" : 128173186,
     "name" : "Year",
@@ -14839,76 +13060,6 @@
       "Other" : "Department of Neighborhood Empowerment"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1386445458, 1389380456 ]
-, [ 123507657950021, "123507657950021", null, 1384887600, "849676", 1389380458, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-by-Task/s5hu-54d5", "Neighborhood Council Expenditures by Task" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "s5hu-54d5", "1435011", null, [ {
-    "id" : 128172530,
-    "name" : "Task",
-    "dataTypeName" : "text",
-    "fieldName" : "task",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 16072712,
-    "width" : 207,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 128172531,
-    "name" : "Expenditure",
-    "dataTypeName" : "money",
-    "fieldName" : "expenditure",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 16072713,
-    "width" : 97,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "s5hu-54d5", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : "Department of Neighborhood Empowerment"
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384887600, 1389380458 ]
-, [ 145980856857886, "145980856857886", null, 1384300096, "849676", 1389380455, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures-Over-Time/xcjh-7vku", "Neighborhood Council Expenditures Over Time" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "xcjh-7vku", "1435011", null, [ {
-    "id" : 128172481,
-    "name" : "Date",
-    "dataTypeName" : "calendar_date",
-    "fieldName" : "date",
-    "position" : 1,
-    "renderTypeName" : "calendar_date",
-    "tableColumnId" : 16072708,
-    "width" : 123,
-    "format" : {
-      "group_function" : "date_ymd",
-      "drill_down" : "true",
-      "view" : "date"
-    }
-  }, {
-    "id" : 128172486,
-    "name" : "Expenditure",
-    "dataTypeName" : "money",
-    "fieldName" : "expenditure",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 16072713,
-    "width" : 97,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "xcjh-7vku", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : "Department of Neighborhood Empowerment"
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1384300096, 1389380455 ]
 , [ 18169246606042, "18169246606042", null, 1392331582, "849676", 1392342904, "849676", null, "<div class='typeMap'><div class=\"viewTypeCell\">Map</div></div>", null, [ "Public-Works/CD2-Parks-Map/48pr-vmbq", "CD2 Parks Map" ], null, "Facility and Park information for the Department of Recreation and Parks", "0", "Public Works", "parks, recreation, facilities", "0", null, null, null, null, "48pr-vmbq", "1433789", null, [ {
     "id" : 133452599,
     "name" : "LocationType",
@@ -16211,48 +14362,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/b5e4-d7x8", "Jordan Gilbertson" ], "public", null, null, 1381279851, 1388446924 ]
-, [ 101327093900578, "101327093900578", null, 1382292317, "849676", 1388446928, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Audits-by-Department/n2wd-s2ky", "Audits by Department" ], null, "Audits Released by the City Controller, 1999-Present. Click the magnifying lens next to the department name to see all audits performed on that department.", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "n2wd-s2ky", "1420248", null, [ {
-    "id" : 125967543,
-    "name" : "Department",
-    "dataTypeName" : "text",
-    "fieldName" : "department",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15037353,
-    "width" : 190,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 125967540,
-    "name" : "Audit Name",
-    "dataTypeName" : "text",
-    "fieldName" : "audit_name",
-    "position" : 2,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037350,
-    "width" : 757,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  }, {
-    "id" : 125967549,
-    "name" : "Link",
-    "dataTypeName" : "url",
-    "fieldName" : "link",
-    "position" : 3,
-    "renderTypeName" : "number",
-    "tableColumnId" : 15037359,
-    "width" : 376,
-    "format" : {
-      "grouping_aggregate" : "count"
-    }
-  } ], "n2wd-s2ky", {
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382292317, 1388446928 ]
 , [ 101574351049296, "101574351049296", null, 1381279851, "849676", 1388446929, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Audits/n66v-7d9g", "Audits" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "n66v-7d9g", "1420248", null, [ {
     "id" : 125967392,
     "name" : "1",
@@ -16656,6 +14765,292 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047725, 1382299195 ]
+, [ 76520547230021, "76520547230021", null, 1380047395, "710611", 1382122867, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Catalog/hpxk-2i55", "Catalog" ], null, null, "0", null, "", "0", null, null, null, null, "hpxk-2i55", "1181400", null, [ {
+    "id" : 101151735,
+    "name" : "Type",
+    "dataTypeName" : "html",
+    "fieldName" : "type",
+    "position" : 2,
+    "renderTypeName" : "html",
+    "tableColumnId" : 14514139,
+    "format" : {
+    }
+  }, {
+    "id" : 101151736,
+    "name" : "Domain",
+    "dataTypeName" : "html",
+    "fieldName" : "domain",
+    "position" : 3,
+    "renderTypeName" : "html",
+    "tableColumnId" : 14514140,
+    "format" : {
+    }
+  }, {
+    "id" : 101151737,
+    "name" : "Name",
+    "dataTypeName" : "url",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "url",
+    "tableColumnId" : 14514141,
+    "format" : {
+      "baseUrl" : "http://la.demo.socrata.com/"
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 101151738,
+    "name" : "Popularity",
+    "dataTypeName" : "number",
+    "fieldName" : "popularity",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514142,
+    "format" : {
+    }
+  }, {
+    "id" : 101151739,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514143,
+    "format" : {
+    }
+  }, {
+    "id" : 101151740,
+    "name" : "Rating",
+    "dataTypeName" : "number",
+    "fieldName" : "rating",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514144,
+    "format" : {
+    }
+  }, {
+    "id" : 101151741,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514145,
+    "format" : {
+    }
+  }, {
+    "id" : 101151742,
+    "name" : "Keywords",
+    "dataTypeName" : "text",
+    "fieldName" : "keywords",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514146,
+    "format" : {
+    }
+  }, {
+    "id" : 101151743,
+    "name" : "Comments",
+    "dataTypeName" : "number",
+    "fieldName" : "comments",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514147,
+    "format" : {
+    }
+  }, {
+    "id" : 101151744,
+    "name" : "Relevance",
+    "dataTypeName" : "number",
+    "fieldName" : "relevance",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514148,
+    "format" : {
+    }
+  }, {
+    "id" : 101151745,
+    "name" : "Access this Week",
+    "dataTypeName" : "number",
+    "fieldName" : "access_this_week",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514149,
+    "format" : {
+    }
+  }, {
+    "id" : 101151746,
+    "name" : "Access this Month",
+    "dataTypeName" : "number",
+    "fieldName" : "access_this_month",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514150,
+    "format" : {
+    }
+  }, {
+    "id" : 101151747,
+    "name" : "Access this year",
+    "dataTypeName" : "number",
+    "fieldName" : "access_this_year",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514151,
+    "format" : {
+    }
+  }, {
+    "id" : 101151748,
+    "name" : "Uid",
+    "dataTypeName" : "text",
+    "fieldName" : "system_id",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514152,
+    "format" : {
+    }
+  }, {
+    "id" : 101151749,
+    "name" : "Table Id",
+    "dataTypeName" : "number",
+    "fieldName" : "table_id",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 14514153,
+    "format" : {
+    }
+  }, {
+    "id" : 101151750,
+    "name" : "External Id",
+    "dataTypeName" : "text",
+    "fieldName" : "external_id",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514154,
+    "format" : {
+    }
+  }, {
+    "id" : 101151751,
+    "name" : "Columns",
+    "dataTypeName" : "list",
+    "fieldName" : "properties",
+    "position" : 18,
+    "renderTypeName" : "list",
+    "tableColumnId" : 14514155,
+    "format" : {
+    }
+  }, {
+    "id" : 101151752,
+    "name" : "Identifier",
+    "dataTypeName" : "text",
+    "fieldName" : "id",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514156,
+    "format" : {
+    }
+  }, {
+    "id" : 101151753,
+    "name" : "Custom Metadata",
+    "dataTypeName" : "object",
+    "fieldName" : "custom_metadata",
+    "position" : 20,
+    "renderTypeName" : "object",
+    "tableColumnId" : 14514157,
+    "format" : {
+    }
+  }, {
+    "id" : 101151754,
+    "name" : "SoQL",
+    "dataTypeName" : "text",
+    "fieldName" : "soql",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514158,
+    "format" : {
+    }
+  }, {
+    "id" : 101151755,
+    "name" : "Key Identifier",
+    "dataTypeName" : "text",
+    "fieldName" : "key_identifier",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514159,
+    "format" : {
+    }
+  }, {
+    "id" : 101151756,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514160,
+    "format" : {
+    }
+  }, {
+    "id" : 101151757,
+    "name" : "Owner",
+    "dataTypeName" : "url",
+    "fieldName" : "owner",
+    "position" : 24,
+    "renderTypeName" : "url",
+    "tableColumnId" : 14514161,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 101151758,
+    "name" : "Permissions",
+    "dataTypeName" : "text",
+    "fieldName" : "permissions",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 14514162,
+    "format" : {
+    }
+  }, {
+    "id" : 101151759,
+    "name" : "License",
+    "dataTypeName" : "url",
+    "fieldName" : "license",
+    "position" : 26,
+    "renderTypeName" : "url",
+    "tableColumnId" : 14514163,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 101151760,
+    "name" : "Attribution",
+    "dataTypeName" : "url",
+    "fieldName" : "attribution",
+    "position" : 27,
+    "renderTypeName" : "url",
+    "tableColumnId" : 14514164,
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 101151761,
+    "name" : "Creation Date",
+    "dataTypeName" : "date",
+    "fieldName" : "created_at",
+    "position" : 28,
+    "renderTypeName" : "date",
+    "tableColumnId" : 14514165,
+    "format" : {
+    }
+  }, {
+    "id" : 101151762,
+    "name" : "Last Updated Date",
+    "dataTypeName" : "date",
+    "fieldName" : "updated_at",
+    "position" : 29,
+    "renderTypeName" : "date",
+    "tableColumnId" : 14514166,
+    "format" : {
+    }
+  } ], "datasets", null, null, "id", "normal", [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047395, 1382122867 ]
 , [ 84354500765260, "84354500765260", null, 1380047397, "710611", 1380047402, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Templates/jbxg-3qpc", "Templates" ], null, null, "0", null, "", "0", null, null, null, null, "jbxg-3qpc", "1181401", null, [ {
     "id" : 101151763,
     "name" : "Name",
