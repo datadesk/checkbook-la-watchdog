@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 403,
+      "downloadCount" : 407,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -7720,44 +7720,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/k42r-k4hk", "D. Chen" ], "public", null, null, 1387006696, 1391790498 ]
-, [ 55122081923282, "55122081923282", null, 1391790645, "862121", 1391790645, "862121", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/test1/cy8s-7c3i", "test1" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through January 31, 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "cy8s-7c3i", "1469051", null, [ {
-    "id" : 132334857,
-    "name" : "DEPARTMENT NAME",
-    "dataTypeName" : "text",
-    "fieldName" : "department_name",
-    "position" : 1,
-    "renderTypeName" : "text",
-    "tableColumnId" : 15407324,
-    "width" : 244,
-    "format" : {
-      "drill_down" : "true"
-    }
-  }, {
-    "id" : 132334858,
-    "name" : "TOTAL EXPENDITURES",
-    "dataTypeName" : "money",
-    "description" : "Total Budget Fiscal Year amount expended from account to date",
-    "fieldName" : "total_expenditures",
-    "position" : 2,
-    "renderTypeName" : "money",
-    "tableColumnId" : 15407334,
-    "width" : 99,
-    "format" : {
-      "aggregate" : "sum",
-      "grouping_aggregate" : "sum",
-      "humane" : "false",
-      "align" : "right",
-      "currency" : "USD"
-    }
-  } ], "cy8s-7c3i", {
-    "Data Owner" : {
-      "Data Owner" : "Controller's Office"
-    },
-    "Department" : {
-      "Controller" : "",
-      "Other" : ""
-    }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, null, 1391790645, 1391790645 ]
 , [ 62950819271876, "62950819271876", null, 1384571266, "862121", 1391790499, "862121", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Expenditures-by-Account-Group/ek3x-e9j4", "Expenditures by Account Group" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "ek3x-e9j4", "1469051", null, [ {
     "id" : 132334780,
     "name" : "ACCOUNT GROUP NAME",

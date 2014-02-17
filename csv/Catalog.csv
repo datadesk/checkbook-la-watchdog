@@ -6362,36 +6362,6 @@ Type,Domain,Name,Popularity,Description,Rating,Category,Keywords,Comments,Releva
     ""currency"" : ""USD""
   }
 }]",cndm-tt67,"{Department={Controller=, Other=}}",,,,D. Chen (http://controllerdata.lacity.org/api/users/k42r-k4hk),public,,,12/14/2013 07:38:16 AM +0000,02/07/2014 04:28:18 PM +0000
-"<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,test1 (Finance/test1/cy8s-7c3i),,"General Fund Budget, Adjustments and Expenditures from July 1, 2011 through January 31, 2014",0,Finance,"general fund, budget, expenditure, appropriation, account, expenditures",0,,,,,cy8s-7c3i,1469051,,"[{
-  ""id"" : 132334857,
-  ""name"" : ""DEPARTMENT NAME"",
-  ""dataTypeName"" : ""text"",
-  ""fieldName"" : ""department_name"",
-  ""position"" : 1,
-  ""renderTypeName"" : ""text"",
-  ""tableColumnId"" : 15407324,
-  ""width"" : 244,
-  ""format"" : {
-    ""drill_down"" : ""true""
-  }
-}, {
-  ""id"" : 132334858,
-  ""name"" : ""TOTAL EXPENDITURES"",
-  ""dataTypeName"" : ""money"",
-  ""description"" : ""Total Budget Fiscal Year amount expended from account to date"",
-  ""fieldName"" : ""total_expenditures"",
-  ""position"" : 2,
-  ""renderTypeName"" : ""money"",
-  ""tableColumnId"" : 15407334,
-  ""width"" : 99,
-  ""format"" : {
-    ""aggregate"" : ""sum"",
-    ""grouping_aggregate"" : ""sum"",
-    ""humane"" : ""false"",
-    ""align"" : ""right"",
-    ""currency"" : ""USD""
-  }
-}]",cy8s-7c3i,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,02/07/2014 04:30:45 PM +0000,02/07/2014 04:30:45 PM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Expenditures by Account Group (Finance/Expenditures-by-Account-Group/ek3x-e9j4),,"General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014",0,Finance,"general fund, budget, expenditure, appropriation, account",0,,,,,ek3x-e9j4,1469051,,"[{
   ""id"" : 132334780,
   ""name"" : ""ACCOUNT GROUP NAME"",
