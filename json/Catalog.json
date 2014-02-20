@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 415,
+      "downloadCount" : 419,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -1210,7 +1210,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/sa72-xm7q", "Randy" ], "public", null, [ null, "Controller's Office" ], 1386107028, 1391792105 ]
-, [ 9350331830938, "9350331830938", null, 1392241647, "875368", 1392769729, "875368", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Police/284b-dhaq", "Police" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "284b-dhaq", "1481345", null, [ {
+, [ 9350331830938, "9350331830938", null, 1392241647, "875368", 1392857252, "875368", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Police/284b-dhaq", "Police" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - January 31, 2014.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "284b-dhaq", "1481345", null, [ {
     "id" : 134147921,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
@@ -1520,7 +1520,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/777y-v2sp", "David" ], "public", null, null, 1392241647, 1392769729 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/777y-v2sp", "David" ], "public", null, null, 1392241647, 1392857252 ]
 , [ 10403608879773, "10403608879773", null, 1382970365, "858342", 1392769721, "858342", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Law-Firms-NAMED/2np7-qmat", "Law Firms - NAMED" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "2np7-qmat", "1481345", null, [ {
     "id" : 134147586,
     "name" : "VENDOR NAME",
@@ -2074,6 +2074,283 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384628161, 1392769733 ]
+, [ 24419228521413, "24419228521413", null, 1392836100, "849676", 1392836100, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgements-Under-100k/5zmb-shf5", "Settlements/Judgements Under 100k" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "5zmb-shf5", "1481345", null, [ {
+    "id" : 134275487,
+    "name" : "ID NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "id_number",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294626,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 134275488,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294627,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 134275489,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294628,
+    "width" : 194,
+    "format" : {
+    }
+  }, {
+    "id" : 134275490,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 134275491,
+    "name" : "TRANSACTION DATE",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "transaction_date",
+    "position" : 5,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 15294633,
+    "width" : 112,
+    "format" : {
+      "align" : "left",
+      "view" : "date"
+    }
+  }, {
+    "id" : 134275492,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 134275493,
+    "name" : "AUTHORITY",
+    "dataTypeName" : "text",
+    "fieldName" : "authority",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275278,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275494,
+    "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
+    "dataTypeName" : "text",
+    "fieldName" : "business_tax_registration_certificate",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275261,
+    "width" : 100,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 134275495,
+    "name" : "GOVERNMENT ACTIVITY",
+    "dataTypeName" : "text",
+    "fieldName" : "government_activity",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294639,
+    "width" : 201,
+    "format" : {
+    }
+  }, {
+    "id" : 134275497,
+    "name" : "FUND TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_type",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294637,
+    "width" : 143,
+    "format" : {
+    }
+  }, {
+    "id" : 134275498,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294636,
+    "width" : 209,
+    "format" : {
+    }
+  }, {
+    "id" : 134275499,
+    "name" : "ACCOUNT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "account_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275245,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275500,
+    "name" : "ACCOUNT CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "account_code",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275244,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275501,
+    "name" : "TRANSACTION ID",
+    "dataTypeName" : "text",
+    "fieldName" : "transaction_id",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294635,
+    "width" : 111,
+    "format" : {
+    }
+  }, {
+    "id" : 134275502,
+    "name" : "EXPENDITURE TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "expenditure_type",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294638,
+    "width" : 234,
+    "format" : {
+    }
+  }, {
+    "id" : 134275503,
+    "name" : "SETTLEMENT/JUDGMENT",
+    "dataTypeName" : "text",
+    "fieldName" : "settlement_judgment",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275279,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275504,
+    "name" : "FISCAL MONTH NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_month_number",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294640,
+    "width" : 65,
+    "format" : {
+    }
+  }, {
+    "id" : 134275505,
+    "name" : "FISCAL YEAR-MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year_month",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294641,
+    "width" : 114,
+    "format" : {
+    }
+  }, {
+    "id" : 134275506,
+    "name" : "FISCAL YEAR-QUARTER",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year_quarter",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294642,
+    "width" : 91,
+    "format" : {
+    }
+  }, {
+    "id" : 134275507,
+    "name" : "CALENDAR MONTH NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "calendar_month_number",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15301856,
+    "width" : 61,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 134275508,
+    "name" : "CALENDAR MONTH/YEAR",
+    "dataTypeName" : "text",
+    "fieldName" : "calendar_month_year",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294643,
+    "width" : 174,
+    "format" : {
+    }
+  }, {
+    "id" : 134275509,
+    "name" : "CALENDAR MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "calendar_month",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294644,
+    "width" : 133,
+    "format" : {
+    }
+  }, {
+    "id" : 134275510,
+    "name" : "DATA SOURCE",
+    "dataTypeName" : "text",
+    "fieldName" : "data_source",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294646,
+    "width" : 50,
+    "format" : {
+    }
+  } ], "5zmb-shf5", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1392836100, 1392836100 ]
 , [ 26694554042693, "26694554042693", null, 1386484617, "866040", 1392769718, "866040", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/testing/64tf-qk55", "testing" ], null, "Financial Data for the Checkbook Explorer", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "64tf-qk55", "1481345", null, [ {
     "id" : 134147456,
     "name" : "VENDOR NAME",
@@ -2756,6 +3033,283 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1392251836, 1392769715 ]
+, [ 45589099788172, "45589099788172", null, 1392836150, "849676", 1392836150, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgements-under-5k/anqa-6juc", "Settlements/Judgements under 5k" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "anqa-6juc", "1481345", null, [ {
+    "id" : 134275560,
+    "name" : "ID NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "id_number",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294626,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 134275561,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294627,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 134275562,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294628,
+    "width" : 194,
+    "format" : {
+    }
+  }, {
+    "id" : 134275563,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 134275564,
+    "name" : "TRANSACTION DATE",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "transaction_date",
+    "position" : 5,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 15294633,
+    "width" : 112,
+    "format" : {
+      "align" : "left",
+      "view" : "date"
+    }
+  }, {
+    "id" : 134275565,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 134275566,
+    "name" : "AUTHORITY",
+    "dataTypeName" : "text",
+    "fieldName" : "authority",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275278,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275567,
+    "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
+    "dataTypeName" : "text",
+    "fieldName" : "business_tax_registration_certificate",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275261,
+    "width" : 100,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 134275568,
+    "name" : "GOVERNMENT ACTIVITY",
+    "dataTypeName" : "text",
+    "fieldName" : "government_activity",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294639,
+    "width" : 201,
+    "format" : {
+    }
+  }, {
+    "id" : 134275570,
+    "name" : "FUND TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_type",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294637,
+    "width" : 143,
+    "format" : {
+    }
+  }, {
+    "id" : 134275571,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294636,
+    "width" : 209,
+    "format" : {
+    }
+  }, {
+    "id" : 134275572,
+    "name" : "ACCOUNT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "account_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275245,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275573,
+    "name" : "ACCOUNT CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "account_code",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275244,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275574,
+    "name" : "TRANSACTION ID",
+    "dataTypeName" : "text",
+    "fieldName" : "transaction_id",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294635,
+    "width" : 111,
+    "format" : {
+    }
+  }, {
+    "id" : 134275575,
+    "name" : "EXPENDITURE TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "expenditure_type",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294638,
+    "width" : 234,
+    "format" : {
+    }
+  }, {
+    "id" : 134275576,
+    "name" : "SETTLEMENT/JUDGMENT",
+    "dataTypeName" : "text",
+    "fieldName" : "settlement_judgment",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275279,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275577,
+    "name" : "FISCAL MONTH NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_month_number",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294640,
+    "width" : 65,
+    "format" : {
+    }
+  }, {
+    "id" : 134275578,
+    "name" : "FISCAL YEAR-MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year_month",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294641,
+    "width" : 114,
+    "format" : {
+    }
+  }, {
+    "id" : 134275579,
+    "name" : "FISCAL YEAR-QUARTER",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year_quarter",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294642,
+    "width" : 91,
+    "format" : {
+    }
+  }, {
+    "id" : 134275580,
+    "name" : "CALENDAR MONTH NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "calendar_month_number",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15301856,
+    "width" : 61,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 134275581,
+    "name" : "CALENDAR MONTH/YEAR",
+    "dataTypeName" : "text",
+    "fieldName" : "calendar_month_year",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294643,
+    "width" : 174,
+    "format" : {
+    }
+  }, {
+    "id" : 134275582,
+    "name" : "CALENDAR MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "calendar_month",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294644,
+    "width" : 133,
+    "format" : {
+    }
+  }, {
+    "id" : 134275583,
+    "name" : "DATA SOURCE",
+    "dataTypeName" : "text",
+    "fieldName" : "data_source",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294646,
+    "width" : 50,
+    "format" : {
+    }
+  } ], "anqa-6juc", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1392836150, 1392836150 ]
 , [ 62016145347718, "62016145347718", null, 1386869203, "849676", 1392769715, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Neighborhood-Empowerment-Expenditures/e6t2-k5i6", "Neighborhood Empowerment Expenditures" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "e6t2-k5i6", "1481345", null, [ {
     "id" : 134147375,
     "name" : "ID NUMBER",
@@ -3268,6 +3822,283 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/t5r4-mie9", "bsbonus" ], "public", null, null, 1386484787, 1392769716 ]
+, [ 75137402388758, "75137402388758", null, 1392836127, "849676", 1392836127, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgements-under-25k/h5pa-bs4m", "Settlements/Judgements under 25k" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "h5pa-bs4m", "1481345", null, [ {
+    "id" : 134275530,
+    "name" : "ID NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "id_number",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294626,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 134275531,
+    "name" : "FISCAL YEAR",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294627,
+    "width" : 50,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 134275532,
+    "name" : "DEPARTMENT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294628,
+    "width" : 194,
+    "format" : {
+    }
+  }, {
+    "id" : 134275533,
+    "name" : "VENDOR NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294631,
+    "width" : 232,
+    "format" : {
+    }
+  }, {
+    "id" : 134275534,
+    "name" : "TRANSACTION DATE",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "transaction_date",
+    "position" : 5,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 15294633,
+    "width" : 112,
+    "format" : {
+      "align" : "left",
+      "view" : "date"
+    }
+  }, {
+    "id" : 134275535,
+    "name" : "DOLLAR AMOUNT",
+    "dataTypeName" : "money",
+    "fieldName" : "dollar_amount",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 15294645,
+    "width" : 98,
+    "format" : {
+      "aggregate" : "sum",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 134275536,
+    "name" : "AUTHORITY",
+    "dataTypeName" : "text",
+    "fieldName" : "authority",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275278,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275537,
+    "name" : "BUSINESS TAX REGISTRATION CERTIFICATE",
+    "dataTypeName" : "text",
+    "fieldName" : "business_tax_registration_certificate",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275261,
+    "width" : 100,
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 134275538,
+    "name" : "GOVERNMENT ACTIVITY",
+    "dataTypeName" : "text",
+    "fieldName" : "government_activity",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294639,
+    "width" : 201,
+    "format" : {
+    }
+  }, {
+    "id" : 134275540,
+    "name" : "FUND TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_type",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294637,
+    "width" : 143,
+    "format" : {
+    }
+  }, {
+    "id" : 134275541,
+    "name" : "FUND NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "fund_name",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294636,
+    "width" : 209,
+    "format" : {
+    }
+  }, {
+    "id" : 134275542,
+    "name" : "ACCOUNT NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "account_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275245,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275543,
+    "name" : "ACCOUNT CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "account_code",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275244,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275544,
+    "name" : "TRANSACTION ID",
+    "dataTypeName" : "text",
+    "fieldName" : "transaction_id",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294635,
+    "width" : 111,
+    "format" : {
+    }
+  }, {
+    "id" : 134275545,
+    "name" : "EXPENDITURE TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "expenditure_type",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294638,
+    "width" : 234,
+    "format" : {
+    }
+  }, {
+    "id" : 134275546,
+    "name" : "SETTLEMENT/JUDGMENT",
+    "dataTypeName" : "text",
+    "fieldName" : "settlement_judgment",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 16275279,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 134275547,
+    "name" : "FISCAL MONTH NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_month_number",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15294640,
+    "width" : 65,
+    "format" : {
+    }
+  }, {
+    "id" : 134275548,
+    "name" : "FISCAL YEAR-MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year_month",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294641,
+    "width" : 114,
+    "format" : {
+    }
+  }, {
+    "id" : 134275549,
+    "name" : "FISCAL YEAR-QUARTER",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year_quarter",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294642,
+    "width" : 91,
+    "format" : {
+    }
+  }, {
+    "id" : 134275550,
+    "name" : "CALENDAR MONTH NUMBER",
+    "dataTypeName" : "number",
+    "fieldName" : "calendar_month_number",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 15301856,
+    "width" : 61,
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 134275551,
+    "name" : "CALENDAR MONTH/YEAR",
+    "dataTypeName" : "text",
+    "fieldName" : "calendar_month_year",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294643,
+    "width" : 174,
+    "format" : {
+    }
+  }, {
+    "id" : 134275552,
+    "name" : "CALENDAR MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "calendar_month",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294644,
+    "width" : 133,
+    "format" : {
+    }
+  }, {
+    "id" : 134275553,
+    "name" : "DATA SOURCE",
+    "dataTypeName" : "text",
+    "fieldName" : "data_source",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 15294646,
+    "width" : 50,
+    "format" : {
+    }
+  } ], "h5pa-bs4m", {
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    }
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1392836127, 1392836127 ]
 , [ 76969594074266, "76969594074266", null, 1387178755, "404935", 1392769729, "404935", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/My-View/hw3x-k3iq", "My View" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - November 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "hw3x-k3iq", "1481345", null, [ {
     "id" : 134147949,
     "name" : "DEPARTMENT NAME",
@@ -4399,7 +5230,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/6vkd-j24i", "magustin" ], "public", null, null, 1383689678, 1392769728 ]
-, [ 150526038258706, "150526038258706", null, 1384801336, "849676", 1392769725, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgement-Vendor-Transactions/yesj-2zgi", "Settlements/Judgement Vendor Transactions" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "yesj-2zgi", "1481345", null, [ {
+, [ 150526038258706, "150526038258706", null, 1384801336, "849676", 1392836063, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Settlements-Judgement-Vendor-Transactions/yesj-2zgi", "Settlements/Judgement Vendor Transactions" ], null, "Financial Data for the Checkbook Explorer. Data from June 2011 - October 30, 2013.", "0", "Finance", "checkbook, echeckbook, expenditures, vendors, agencies", "0", null, null, null, null, "yesj-2zgi", "1481345", null, [ {
     "id" : 134147739,
     "name" : "ID NUMBER",
     "dataTypeName" : "number",
@@ -4518,7 +5349,7 @@
     "name" : "FUND TYPE",
     "dataTypeName" : "text",
     "fieldName" : "fund_type",
-    "position" : 10,
+    "position" : 11,
     "renderTypeName" : "text",
     "tableColumnId" : 15294637,
     "width" : 143,
@@ -4529,7 +5360,7 @@
     "name" : "FUND NAME",
     "dataTypeName" : "text",
     "fieldName" : "fund_name",
-    "position" : 11,
+    "position" : 12,
     "renderTypeName" : "text",
     "tableColumnId" : 15294636,
     "width" : 209,
@@ -4540,7 +5371,7 @@
     "name" : "ACCOUNT NAME",
     "dataTypeName" : "text",
     "fieldName" : "account_name",
-    "position" : 12,
+    "position" : 13,
     "renderTypeName" : "text",
     "tableColumnId" : 16275245,
     "width" : 100,
@@ -4551,7 +5382,7 @@
     "name" : "ACCOUNT CODE",
     "dataTypeName" : "text",
     "fieldName" : "account_code",
-    "position" : 13,
+    "position" : 14,
     "renderTypeName" : "text",
     "tableColumnId" : 16275244,
     "width" : 100,
@@ -4562,7 +5393,7 @@
     "name" : "TRANSACTION ID",
     "dataTypeName" : "text",
     "fieldName" : "transaction_id",
-    "position" : 14,
+    "position" : 15,
     "renderTypeName" : "text",
     "tableColumnId" : 15294635,
     "width" : 111,
@@ -4573,7 +5404,7 @@
     "name" : "EXPENDITURE TYPE",
     "dataTypeName" : "text",
     "fieldName" : "expenditure_type",
-    "position" : 15,
+    "position" : 16,
     "renderTypeName" : "text",
     "tableColumnId" : 15294638,
     "width" : 234,
@@ -4584,7 +5415,7 @@
     "name" : "SETTLEMENT/JUDGMENT",
     "dataTypeName" : "text",
     "fieldName" : "settlement_judgment",
-    "position" : 16,
+    "position" : 17,
     "renderTypeName" : "text",
     "tableColumnId" : 16275279,
     "width" : 100,
@@ -4595,7 +5426,7 @@
     "name" : "FISCAL MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "fiscal_month_number",
-    "position" : 17,
+    "position" : 18,
     "renderTypeName" : "number",
     "tableColumnId" : 15294640,
     "width" : 65,
@@ -4606,7 +5437,7 @@
     "name" : "FISCAL YEAR-MONTH",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_month",
-    "position" : 18,
+    "position" : 19,
     "renderTypeName" : "text",
     "tableColumnId" : 15294641,
     "width" : 114,
@@ -4617,7 +5448,7 @@
     "name" : "FISCAL YEAR-QUARTER",
     "dataTypeName" : "text",
     "fieldName" : "fiscal_year_quarter",
-    "position" : 19,
+    "position" : 20,
     "renderTypeName" : "text",
     "tableColumnId" : 15294642,
     "width" : 91,
@@ -4628,7 +5459,7 @@
     "name" : "CALENDAR MONTH NUMBER",
     "dataTypeName" : "number",
     "fieldName" : "calendar_month_number",
-    "position" : 20,
+    "position" : 21,
     "renderTypeName" : "number",
     "tableColumnId" : 15301856,
     "width" : 61,
@@ -4642,7 +5473,7 @@
     "name" : "CALENDAR MONTH/YEAR",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month_year",
-    "position" : 21,
+    "position" : 22,
     "renderTypeName" : "text",
     "tableColumnId" : 15294643,
     "width" : 174,
@@ -4653,7 +5484,7 @@
     "name" : "CALENDAR MONTH",
     "dataTypeName" : "text",
     "fieldName" : "calendar_month",
-    "position" : 22,
+    "position" : 23,
     "renderTypeName" : "text",
     "tableColumnId" : 15294644,
     "width" : 133,
@@ -4664,7 +5495,7 @@
     "name" : "DATA SOURCE",
     "dataTypeName" : "text",
     "fieldName" : "data_source",
-    "position" : 23,
+    "position" : 24,
     "renderTypeName" : "text",
     "tableColumnId" : 15294646,
     "width" : 50,
@@ -4675,7 +5506,7 @@
       "Controller" : "",
       "Other" : ""
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384801336, 1392769725 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1384801336, 1392836063 ]
 , [ 27722071266706, "27722071266706", null, 1382301759, "849676", 1391792101, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Revenue-Budget-v-Collected-Rev/6jqc-dtmi", "FY2013 General Fund Revenue Budget v Collected Revenue" ], null, "General Fund Budget versus Collected Revenue in Fiscal Year 2013", "0", "Finance", "revenue", "0", null, null, null, null, "6jqc-dtmi", "1469088", null, [ {
     "id" : 132337139,
     "name" : "DEPARTMENT NAME",
