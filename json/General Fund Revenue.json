@@ -5,7 +5,7 @@
       "name" : "General Fund Revenue",
       "attribution" : "Controller's Office",
       "averageRating" : 0,
-      "category" : "Finance",
+      "category" : "Revenue",
       "createdAt" : 1382069286,
       "description" : "General Fund Budget versus Collected Revenue from July 1, 2011 through January 31, 2014",
       "displayType" : "table",
@@ -24,7 +24,7 @@
       "tableId" : 1469088,
       "totalTimesRated" : 0,
       "viewCount" : 690,
-      "viewLastModified" : 1391792107,
+      "viewLastModified" : 1393461588,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -771,6 +771,10 @@
           "Department" : {
             "Controller" : "",
             "Other" : ""
+          },
+          "Update Information" : {
+            "Last Updated" : "2-3-14",
+            "Update Cycle" : "Monthly"
           }
         },
         "renderTypeConfig" : {

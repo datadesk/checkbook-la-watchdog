@@ -8,7 +8,7 @@
       "averageRating" : 0,
       "category" : "Finance",
       "createdAt" : 1383870766,
-      "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment",
+      "description" : "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\r\nInformation provided by the Department of Neighborhood Empowerment",
       "displayType" : "table",
       "downloadCount" : 9920,
       "indexUpdatedAt" : 1390947424,
@@ -19,12 +19,13 @@
       "publicationDate" : 1389380459,
       "publicationGroup" : 1333874,
       "publicationStage" : "published",
+      "rowClass" : "",
       "rowsUpdatedAt" : 1389380279,
       "rowsUpdatedBy" : "mnkj-bu52",
       "tableId" : 1435011,
       "totalTimesRated" : 0,
       "viewCount" : 2728,
-      "viewLastModified" : 1389380459,
+      "viewLastModified" : 1393461614,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -697,6 +698,14 @@
         "custom_fields" : {
           "Data Owner" : {
             "Data Owner" : "Controller's Office"
+          },
+          "Department" : {
+            "Controller" : "",
+            "Other" : ""
+          },
+          "Update Information" : {
+            "Last Updated" : "",
+            "Update Cycle" : "As Needed"
           }
         },
         "renderTypeConfig" : {
@@ -704,7 +713,10 @@
             "table" : true
           }
         },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
       },
       "owner" : {
         "id" : "ajd3-jp8q",

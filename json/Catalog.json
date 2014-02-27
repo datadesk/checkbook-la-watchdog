@@ -5,7 +5,7 @@
       "name" : "Catalog",
       "averageRating" : 0,
       "createdAt" : 1380047395,
-      "downloadCount" : 446,
+      "downloadCount" : 448,
       "indexUpdatedAt" : 1382127378,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -4567,7 +4567,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://controller.lacity.org", "Los Angeles City Controller's Office" ], 1393368393, 1393368716 ]
-, [ 115671355475668, "115671355475668", null, 1382233994, "849676", 1393356757, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Payroll/qjfm-3srk", "Payroll" ], null, "Payroll information for all Los Angeles City Departments, Jan 1, 2011 - December 31, 2013. \r\n\r\nUpdated on a quarterly basis by the Los Angeles City Controller's Office.", "0", "Finance", "payroll, personnel, bonuses, healthcare, overtime", "0", null, null, null, null, "qjfm-3srk", "1488514", null, [ {
+, [ 115671355475668, "115671355475668", null, 1382233994, "849676", 1393461268, "849676", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Payroll/qjfm-3srk", "Payroll" ], null, "Payroll information for all Los Angeles City Departments, Jan 1, 2011 - December 31, 2013. \r\n\r\nUpdated on a quarterly basis by the Los Angeles City Controller's Office.", "0", "Finance", "payroll, personnel, bonuses, healthcare, overtime", "0", null, null, null, null, "qjfm-3srk", "1488514", null, [ {
     "id" : 135095676,
     "name" : "Year",
     "dataTypeName" : "number",
@@ -4970,8 +4970,12 @@
     "Department" : {
       "Controller" : "",
       "Other" : ""
+    },
+    "Update Information" : {
+      "Last Updated" : "2-25-14",
+      "Update Cycle" : "Quarterly"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://controller.lacity.org", "Los Angeles City Controller's Office" ], 1382233994, 1393356757 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, [ "http://controller.lacity.org", "Los Angeles City Controller's Office" ], 1382233994, 1393461268 ]
 , [ 116566525884226, "116566525884226", null, 1393358106, "849676", 1393358333, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/DWP-Employee-Compensation-Breakdown/qwh2-nzt2", "DWP Employee Compensation Breakdown" ], null, "Payroll information for all Los Angeles City Departments, Jan 1, 2011 - December 31, 2013. \r\n\r\nUpdated on a quarterly basis by the Los Angeles City Controller's Office.", "0", "Finance", "payroll, personnel, bonuses, healthcare, overtime", "0", null, null, null, null, "qwh2-nzt2", "1488514", null, [ {
     "id" : 135323556,
     "name" : "Year",
@@ -11847,7 +11851,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/7c7a-resi", "Edwin Avanessian" ], "public", null, [ null, "Controller's Office" ], 1389804580, 1391792105 ]
-, [ 75830267502921, "75830267502921", null, 1382069286, "855880", 1391792107, "855880", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Revenue/hfus-a659", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through January 31, 2014", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "hfus-a659", "1469088", null, [ {
+, [ 75830267502921, "75830267502921", null, 1382069286, "855880", 1393461588, "855880", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Revenue/General-Fund-Revenue/hfus-a659", "General Fund Revenue" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through January 31, 2014", "0", "Revenue", "revenue, general fund, revenues", "0", null, null, null, null, "hfus-a659", "1469088", null, [ {
     "id" : 132335381,
     "name" : "FISCAL YEAR",
     "dataTypeName" : "number",
@@ -11986,8 +11990,12 @@
     "Department" : {
       "Controller" : "",
       "Other" : ""
+    },
+    "Update Information" : {
+      "Last Updated" : "2-3-14",
+      "Update Cycle" : "Monthly"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1391792107 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/8vyv-xsw4", "Colin Spikes" ], "public", null, [ null, "Controller's Office" ], 1382069286, 1393461588 ]
 , [ 80486815851795, "80486815851795", null, 1386112926, "865607", 1391792105, "865607", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Public-Works-Engineering/ijfc-4mkj", "Public Works - Engineering" ], null, "General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013", "0", "Finance", "revenue, general fund, revenues", "0", null, null, null, null, "ijfc-4mkj", "1469088", null, [ {
     "id" : 132337292,
     "name" : "FISCAL YEAR",
@@ -14176,7 +14184,7 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1382290267, 1391790496 ]
-, [ 134315984364055, "134315984364055", null, 1382254769, "849941", 1391790501, "849941", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures/uyzw-yi8n", "General Fund Budget Expenditures" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through January 31, 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "uyzw-yi8n", "1469051", null, [ {
+, [ 134315984364055, "134315984364055", null, 1382254769, "849941", 1393461629, "849941", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/General-Fund-Budget-Expenditures/uyzw-yi8n", "General Fund Budget Expenditures" ], null, "General Fund Budget, Adjustments and Expenditures from July 1, 2011 through January 31, 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account, expenditures", "0", null, null, null, null, "uyzw-yi8n", "1469051", null, [ {
     "id" : 132330925,
     "name" : "BUDGET FISCAL YEAR",
     "dataTypeName" : "text",
@@ -14393,8 +14401,12 @@
     "Department" : {
       "Controller" : "",
       "Other" : ""
+    },
+    "Update Information" : {
+      "Last Updated" : "2-3-14",
+      "Update Cycle" : "Monthly"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/73wi-p96d", "Controller's Office" ], "public", null, null, 1382254769, 1391790501 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/73wi-p96d", "Controller's Office" ], "public", null, null, 1382254769, 1393461629 ]
 , [ 145276482164955, "145276482164955", null, 1382289378, "849676", 1391790497, "849676", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/FY2013-General-Fund-Expenditures-by-Account-Name/x23h-7hzr", "FY2013 General Fund Expenditures by Account Name" ], null, "General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014", "0", "Finance", "general fund, budget, expenditure, appropriation, account", "0", null, null, null, null, "x23h-7hzr", "1469051", null, [ {
     "id" : 132334679,
     "name" : "ACCOUNT NAME",
@@ -15210,7 +15222,7 @@
       "Other" : "ITA"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ea2j-g9m4", "Information Technology Agency" ], "public", null, [ null, "Individual" ], 1389194578, 1389830554 ]
-, [ 66123376117577, "66123376117577", null, 1383870766, "860854", 1389380459, "860854", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures/f2ec-m4t9", "Neighborhood Council Expenditures" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "f2ec-m4t9", "1435011", null, [ {
+, [ 66123376117577, "66123376117577", null, 1383870766, "860854", 1393461614, "860854", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Finance/Neighborhood-Council-Expenditures/f2ec-m4t9", "Neighborhood Council Expenditures" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\r\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "f2ec-m4t9", "1435011", null, [ {
     "id" : 128171856,
     "name" : "BFY",
     "dataTypeName" : "number",
@@ -15322,8 +15334,16 @@
   } ], "f2ec-m4t9", {
     "Data Owner" : {
       "Data Owner" : "Controller's Office"
+    },
+    "Department" : {
+      "Controller" : "",
+      "Other" : ""
+    },
+    "Update Information" : {
+      "Last Updated" : "",
+      "Update Cycle" : "As Needed"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ajd3-jp8q", "Sevak Paramazian" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1383870766, 1389380459 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/ajd3-jp8q", "Sevak Paramazian" ], "public", null, [ "http://www.empowerla.org", "City of Los Angeles, Department of Neighborhood Empowerment" ], 1383870766, 1393461614 ]
 , [ 70652416862288, "70652416862288", null, 1383956085, "860854", 1389380458, "860854", null, "<div class='typeChart'><div class=\"viewTypeCell\">Chart</div></div>", null, [ "Finance/Pie-Chart/g48c-dqxg", "Pie Chart" ], null, "Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.\nInformation provided by the Department of Neighborhood Empowerment", "0", "Finance", "neighborhood council, expenditures, done, ncs, neighborhood", "0", null, null, null, null, "g48c-dqxg", "1435011", null, [ {
     "id" : 128172516,
     "name" : "Neighborhood Council",
@@ -17002,7 +17022,7 @@
       "Data Owner" : "Controller's Office"
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381279851, 1388446929 ]
-, [ 110169338759365, "110169338759365", null, 1381781205, "849676", 1388446923, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Audits-View/p3bc-jkz5", "Audits View" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "p3bc-jkz5", "1420248", null, [ {
+, [ 110169338759365, "110169338759365", null, 1381781205, "849676", 1393461550, "849676", null, "<div class='typeFilter'><div class=\"viewTypeCell\">Filter</div></div>", null, [ "Finance/Audits-View/p3bc-jkz5", "Audits View" ], null, "Audits Released by the City Controller, 1999-Present", "0", "Finance", "audits, audit, performance, financial", "0", null, null, null, null, "p3bc-jkz5", "1420248", null, [ {
     "id" : 125967515,
     "name" : "Department",
     "dataTypeName" : "text",
@@ -17163,8 +17183,12 @@
     "Department" : {
       "Controller" : "",
       "Other" : ""
+    },
+    "Update Information" : {
+      "Last Updated" : "",
+      "Update Cycle" : "As Needed"
     }
-  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381781205, 1388446923 ]
+  }, null, null, null, [ "http://controllerdata.lacity.org/api/users/mnkj-bu52", "Controller's Office" ], "public", null, null, 1381781205, 1393461550 ]
 , [ 76312394675156, "76312394675156", null, 1380047576, "710611", 1382500070, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk", "Home Page Featured Scrolling Stories" ], null, null, "0", "Internal", "", "0", null, null, null, null, "hmvt-bjfk", "1277333", null, [ {
     "id" : 109009975,
     "name" : "Sort",
@@ -17254,292 +17278,6 @@
       "Other" : ""
     }
   }, null, null, null, [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047725, 1382299195 ]
-, [ 76520547230021, "76520547230021", null, 1380047395, "710611", 1382122867, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Catalog/hpxk-2i55", "Catalog" ], null, null, "0", null, "", "0", null, null, null, null, "hpxk-2i55", "1181400", null, [ {
-    "id" : 101151735,
-    "name" : "Type",
-    "dataTypeName" : "html",
-    "fieldName" : "type",
-    "position" : 2,
-    "renderTypeName" : "html",
-    "tableColumnId" : 14514139,
-    "format" : {
-    }
-  }, {
-    "id" : 101151736,
-    "name" : "Domain",
-    "dataTypeName" : "html",
-    "fieldName" : "domain",
-    "position" : 3,
-    "renderTypeName" : "html",
-    "tableColumnId" : 14514140,
-    "format" : {
-    }
-  }, {
-    "id" : 101151737,
-    "name" : "Name",
-    "dataTypeName" : "url",
-    "fieldName" : "name",
-    "position" : 4,
-    "renderTypeName" : "url",
-    "tableColumnId" : 14514141,
-    "format" : {
-      "baseUrl" : "http://la.demo.socrata.com/"
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 101151738,
-    "name" : "Popularity",
-    "dataTypeName" : "number",
-    "fieldName" : "popularity",
-    "position" : 5,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514142,
-    "format" : {
-    }
-  }, {
-    "id" : 101151739,
-    "name" : "Description",
-    "dataTypeName" : "text",
-    "fieldName" : "description",
-    "position" : 6,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514143,
-    "format" : {
-    }
-  }, {
-    "id" : 101151740,
-    "name" : "Rating",
-    "dataTypeName" : "number",
-    "fieldName" : "rating",
-    "position" : 7,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514144,
-    "format" : {
-    }
-  }, {
-    "id" : 101151741,
-    "name" : "Category",
-    "dataTypeName" : "text",
-    "fieldName" : "category",
-    "position" : 8,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514145,
-    "format" : {
-    }
-  }, {
-    "id" : 101151742,
-    "name" : "Keywords",
-    "dataTypeName" : "text",
-    "fieldName" : "keywords",
-    "position" : 9,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514146,
-    "format" : {
-    }
-  }, {
-    "id" : 101151743,
-    "name" : "Comments",
-    "dataTypeName" : "number",
-    "fieldName" : "comments",
-    "position" : 10,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514147,
-    "format" : {
-    }
-  }, {
-    "id" : 101151744,
-    "name" : "Relevance",
-    "dataTypeName" : "number",
-    "fieldName" : "relevance",
-    "position" : 11,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514148,
-    "format" : {
-    }
-  }, {
-    "id" : 101151745,
-    "name" : "Access this Week",
-    "dataTypeName" : "number",
-    "fieldName" : "access_this_week",
-    "position" : 12,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514149,
-    "format" : {
-    }
-  }, {
-    "id" : 101151746,
-    "name" : "Access this Month",
-    "dataTypeName" : "number",
-    "fieldName" : "access_this_month",
-    "position" : 13,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514150,
-    "format" : {
-    }
-  }, {
-    "id" : 101151747,
-    "name" : "Access this year",
-    "dataTypeName" : "number",
-    "fieldName" : "access_this_year",
-    "position" : 14,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514151,
-    "format" : {
-    }
-  }, {
-    "id" : 101151748,
-    "name" : "Uid",
-    "dataTypeName" : "text",
-    "fieldName" : "system_id",
-    "position" : 15,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514152,
-    "format" : {
-    }
-  }, {
-    "id" : 101151749,
-    "name" : "Table Id",
-    "dataTypeName" : "number",
-    "fieldName" : "table_id",
-    "position" : 16,
-    "renderTypeName" : "number",
-    "tableColumnId" : 14514153,
-    "format" : {
-    }
-  }, {
-    "id" : 101151750,
-    "name" : "External Id",
-    "dataTypeName" : "text",
-    "fieldName" : "external_id",
-    "position" : 17,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514154,
-    "format" : {
-    }
-  }, {
-    "id" : 101151751,
-    "name" : "Columns",
-    "dataTypeName" : "list",
-    "fieldName" : "properties",
-    "position" : 18,
-    "renderTypeName" : "list",
-    "tableColumnId" : 14514155,
-    "format" : {
-    }
-  }, {
-    "id" : 101151752,
-    "name" : "Identifier",
-    "dataTypeName" : "text",
-    "fieldName" : "id",
-    "position" : 19,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514156,
-    "format" : {
-    }
-  }, {
-    "id" : 101151753,
-    "name" : "Custom Metadata",
-    "dataTypeName" : "object",
-    "fieldName" : "custom_metadata",
-    "position" : 20,
-    "renderTypeName" : "object",
-    "tableColumnId" : 14514157,
-    "format" : {
-    }
-  }, {
-    "id" : 101151754,
-    "name" : "SoQL",
-    "dataTypeName" : "text",
-    "fieldName" : "soql",
-    "position" : 21,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514158,
-    "format" : {
-    }
-  }, {
-    "id" : 101151755,
-    "name" : "Key Identifier",
-    "dataTypeName" : "text",
-    "fieldName" : "key_identifier",
-    "position" : 22,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514159,
-    "format" : {
-    }
-  }, {
-    "id" : 101151756,
-    "name" : "State",
-    "dataTypeName" : "text",
-    "fieldName" : "state",
-    "position" : 23,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514160,
-    "format" : {
-    }
-  }, {
-    "id" : 101151757,
-    "name" : "Owner",
-    "dataTypeName" : "url",
-    "fieldName" : "owner",
-    "position" : 24,
-    "renderTypeName" : "url",
-    "tableColumnId" : 14514161,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 101151758,
-    "name" : "Permissions",
-    "dataTypeName" : "text",
-    "fieldName" : "permissions",
-    "position" : 25,
-    "renderTypeName" : "text",
-    "tableColumnId" : 14514162,
-    "format" : {
-    }
-  }, {
-    "id" : 101151759,
-    "name" : "License",
-    "dataTypeName" : "url",
-    "fieldName" : "license",
-    "position" : 26,
-    "renderTypeName" : "url",
-    "tableColumnId" : 14514163,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 101151760,
-    "name" : "Attribution",
-    "dataTypeName" : "url",
-    "fieldName" : "attribution",
-    "position" : 27,
-    "renderTypeName" : "url",
-    "tableColumnId" : 14514164,
-    "format" : {
-    },
-    "subColumnTypes" : [ "url", "description" ]
-  }, {
-    "id" : 101151761,
-    "name" : "Creation Date",
-    "dataTypeName" : "date",
-    "fieldName" : "created_at",
-    "position" : 28,
-    "renderTypeName" : "date",
-    "tableColumnId" : 14514165,
-    "format" : {
-    }
-  }, {
-    "id" : 101151762,
-    "name" : "Last Updated Date",
-    "dataTypeName" : "date",
-    "fieldName" : "updated_at",
-    "position" : 29,
-    "renderTypeName" : "date",
-    "tableColumnId" : 14514166,
-    "format" : {
-    }
-  } ], "datasets", null, null, "id", "normal", [ "http://controllerdata.lacity.org/api/users/vcvp-yass", "Dylan" ], "public", null, null, 1380047395, 1382122867 ]
 , [ 84354500765260, "84354500765260", null, 1380047397, "710611", 1380047402, "710611", null, "<div class='typeBlist'><div class=\"viewTypeCell\">Tabular</div></div>", null, [ "dataset/Templates/jbxg-3qpc", "Templates" ], null, null, "0", null, "", "0", null, null, null, null, "jbxg-3qpc", "1181401", null, [ {
     "id" : 101151763,
     "name" : "Name",

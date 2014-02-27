@@ -3826,7 +3826,7 @@ Updated on a quarterly basis by the Los Angeles City Controller's Office.",0,Fin
   ""width"" : 50,
   ""format"" : {
   }
-}]",qjfm-3srk,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,Los Angeles City Controller's Office (http://controller.lacity.org),10/20/2013 01:53:14 AM +0000,02/25/2014 07:32:37 PM +0000
+}]",qjfm-3srk,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}, Update Information={Last Updated=2-25-14, Update Cycle=Quarterly}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,Los Angeles City Controller's Office (http://controller.lacity.org),10/20/2013 01:53:14 AM +0000,02/27/2014 12:34:28 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,DWP Employee Compensation Breakdown (Finance/DWP-Employee-Compensation-Breakdown/qwh2-nzt2),,"Payroll information for all Los Angeles City Departments, Jan 1, 2011 - December 31, 2013. 
 
 Updated on a quarterly basis by the Los Angeles City Controller's Office.",0,Finance,"payroll, personnel, bonuses, healthcare, overtime",0,,,,,qwh2-nzt2,1488514,,"[{
@@ -10423,7 +10423,7 @@ Updated on a quarterly basis by the Los Angeles City Controller's Office.",0,Fin
   ""format"" : {
   }
 }]",gamv-3bqv,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Edwin Avanessian (http://controllerdata.lacity.org/api/users/7c7a-resi),public,,,01/15/2014 04:49:40 PM +0000,02/07/2014 04:55:05 PM +0000
-"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,General Fund Revenue (Finance/General-Fund-Revenue/hfus-a659),,"General Fund Budget versus Collected Revenue from July 1, 2011 through January 31, 2014",0,Finance,"revenue, general fund, revenues",0,,,,,hfus-a659,1469088,,"[{
+"<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,General Fund Revenue (Revenue/General-Fund-Revenue/hfus-a659),,"General Fund Budget versus Collected Revenue from July 1, 2011 through January 31, 2014",0,Revenue,"revenue, general fund, revenues",0,,,,,hfus-a659,1469088,,"[{
   ""id"" : 132335381,
   ""name"" : ""FISCAL YEAR"",
   ""dataTypeName"" : ""number"",
@@ -10555,7 +10555,7 @@ Updated on a quarterly basis by the Los Angeles City Controller's Office.",0,Fin
   ""width"" : 208,
   ""format"" : {
   }
-}]",hfus-a659,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/8vyv-xsw4),public,,,10/18/2013 04:08:06 AM +0000,02/07/2014 04:55:07 PM +0000
+}]",hfus-a659,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}, Update Information={Last Updated=2-3-14, Update Cycle=Monthly}}",,,,Colin Spikes (http://controllerdata.lacity.org/api/users/8vyv-xsw4),public,,,10/18/2013 04:08:06 AM +0000,02/27/2014 12:39:48 AM +0000
 "<div class='typeFilter'><div class=""viewTypeCell"">Filter</div></div>",,Public Works - Engineering (Finance/Public-Works-Engineering/ijfc-4mkj),,"General Fund Budget versus Collected Revenue from July 1, 2011 through October 30, 2013",0,Finance,"revenue, general fund, revenues",0,,,,,ijfc-4mkj,1469088,,"[{
   ""id"" : 132337292,
   ""name"" : ""FISCAL YEAR"",
@@ -12874,7 +12874,7 @@ Updated on a quarterly basis by the Los Angeles City Controller's Office.",0,Fin
   ""width"" : 55,
   ""format"" : {
   }
-}]",uyzw-yi8n,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/73wi-p96d),public,,,10/20/2013 07:39:29 AM +0000,02/07/2014 04:28:21 PM +0000
+}]",uyzw-yi8n,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}, Update Information={Last Updated=2-3-14, Update Cycle=Monthly}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/73wi-p96d),public,,,10/20/2013 07:39:29 AM +0000,02/27/2014 12:40:29 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,FY2013 General Fund Expenditures by Account Name (Finance/FY2013-General-Fund-Expenditures-by-Account-Name/x23h-7hzr),,"General Fund Budget, Adjustments and Expenditures beginning Fiscal Year 2012 through September of Fiscal Year 2014",0,Finance,"general fund, budget, expenditure, appropriation, account",0,,,,,x23h-7hzr,1469051,,"[{
   ""id"" : 132334679,
   ""name"" : ""ACCOUNT NAME"",
@@ -13755,7 +13755,7 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
     ""align"" : ""right"",
     ""currency"" : ""USD""
   }
-}]",f2ec-m4t9,{Data Owner={Data Owner=Controller's Office}},,,,Sevak Paramazian (http://controllerdata.lacity.org/api/users/ajd3-jp8q),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/08/2013 12:32:46 AM +0000,01/10/2014 07:00:59 PM +0000
+}]",f2ec-m4t9,"{Data Owner={Data Owner=Controller's Office}, Department={Controller=, Other=}, Update Information={Last Updated=, Update Cycle=As Needed}}",,,,Sevak Paramazian (http://controllerdata.lacity.org/api/users/ajd3-jp8q),public,,"City of Los Angeles, Department of Neighborhood Empowerment (http://www.empowerla.org)",11/08/2013 12:32:46 AM +0000,02/27/2014 12:40:14 AM +0000
 "<div class='typeChart'><div class=""viewTypeCell"">Chart</div></div>",,Pie Chart (Finance/Pie-Chart/g48c-dqxg),,"Expenditures by the Neighborhood Councils, July 1, 2013 - October 5, 2013.
 Information provided by the Department of Neighborhood Empowerment",0,Finance,"neighborhood council, expenditures, done, ncs, neighborhood",0,,,,,g48c-dqxg,1435011,,"[{
   ""id"" : 128172516,
@@ -15527,7 +15527,7 @@ Information provided by the Department of Neighborhood Empowerment",0,Finance,"n
   ""width"" : 50,
   ""format"" : {
   }
-}]",p3bc-jkz5,"{Department={Controller=, Other=}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/14/2013 08:06:45 PM +0000,12/30/2013 11:42:03 PM +0000
+}]",p3bc-jkz5,"{Department={Controller=, Other=}, Update Information={Last Updated=, Update Cycle=As Needed}}",,,,Controller's Office (http://controllerdata.lacity.org/api/users/mnkj-bu52),public,,,10/14/2013 08:06:45 PM +0000,02/27/2014 12:39:10 AM +0000
 "<div class='typeBlist'><div class=""viewTypeCell"">Tabular</div></div>",,Home Page Featured Scrolling Stories (Internal/Home-Page-Featured-Scrolling-Stories/hmvt-bjfk),,,0,Internal,,0,,,,,hmvt-bjfk,1277333,,"[{
   ""id"" : 109009975,
   ""name"" : ""Sort"",

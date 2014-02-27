@@ -23,7 +23,7 @@
       "tableId" : 1469051,
       "totalTimesRated" : 0,
       "viewCount" : 2606,
-      "viewLastModified" : 1391790501,
+      "viewLastModified" : 1393461629,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -1116,6 +1116,10 @@
           "Department" : {
             "Controller" : "",
             "Other" : ""
+          },
+          "Update Information" : {
+            "Last Updated" : "2-3-14",
+            "Update Cycle" : "Monthly"
           }
         },
         "rdfSubject" : "0",

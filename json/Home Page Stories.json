@@ -104,6 +104,36 @@
         "renderTypeName" : "number",
         "tableColumnId" : 15500997,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "1",
+          "sum" : "28",
+          "null" : 0,
+          "average" : "4",
+          "largest" : "7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "7"
+          }, {
+            "count" : 17,
+            "item" : "3"
+          }, {
+            "count" : 16,
+            "item" : "6"
+          }, {
+            "count" : 15,
+            "item" : "1"
+          }, {
+            "count" : 14,
+            "item" : "5"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -115,6 +145,34 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514321,
         "width" : 160,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Controller's Message",
+          "null" : 0,
+          "largest" : "Survey",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Expanded Payroll with Overtime and Bonus "
+          }, {
+            "count" : 19,
+            "item" : "Healthcare Data now in Payroll and CheckbookLA"
+          }, {
+            "count" : 18,
+            "item" : "Survey"
+          }, {
+            "count" : 17,
+            "item" : "LAPD Vendors Now in CheckbookLA"
+          }, {
+            "count" : 16,
+            "item" : "Questions?"
+          }, {
+            "count" : 15,
+            "item" : "Controller's Message"
+          }, {
+            "count" : 14,
+            "item" : "New Report by LA Controller Ron Galperin Details City Payroll, Overtime, Bonus and Healthcare "
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -126,6 +184,10 @@
         "renderTypeName" : "photo",
         "tableColumnId" : 14820921,
         "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "null" : 3
+        },
         "format" : {
           "size" : "medium"
         }
@@ -138,6 +200,34 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514322,
         "width" : 232,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Average healthcare costs per employee is now included in our payroll dataset. <br> <br> In 2013, the City paid average healthcare costs of $11,836 for civilians, $13,682 for Firefighters and $12,899 for police. <br> <br> The City also paid $568.22 million to healthcare providers in FY2013, which is now in CheckbookLA.",
+          "null" : 0,
+          "largest" : "We want to hear from you - tell us what you think about ControlPanelLA by clicking here and taking a quick survey.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "This is the most comprehensive picture to date of the City's total payroll costs. <br> <br> Many new payroll details are now readily available - including overtime costs across City Departments, average healthcare costs, various types of bonuses and lump sum payments that make up a City employee’s pay - for both full and part-time personnel. "
+          }, {
+            "count" : 19,
+            "item" : "Average healthcare costs per employee is now included in our payroll dataset. <br> <br> In 2013, the City paid average healthcare costs of $11,836 for civilians, $13,682 for Firefighters and $12,899 for police. <br> <br> The City also paid $568.22 million to healthcare providers in FY2013, which is now in CheckbookLA."
+          }, {
+            "count" : 18,
+            "item" : "We want to hear from you - tell us what you think about ControlPanelLA by clicking here and taking a quick survey."
+          }, {
+            "count" : 17,
+            "item" : "Top LAPD vendors include: the Los Angeles Regional Crime Lab, Los Angeles County, and GlobalOptions, Inc, a claims management and risk mitigation contractor. <br> <br> Vendor payment data now includes enhanced contract details, including links to the actual contract. "
+          }, {
+            "count" : 16,
+            "item" : "Need help navigating Control PanelLA? Click here for helpful tips and resources."
+          }, {
+            "count" : 15,
+            "item" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent to the public in truly unprecedented ways. But just having data is not enough – without analyzing and learning from the data, we would be missing out on a valuable opportunity to take a closer look at our City government.  <br> <br>We don’t just need Big Data – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA."
+          }, {
+            "count" : 14,
+            "item" : "Controller Ron Galperin released the most comprehensive picture to date of the total cost of City employees to taxpayers - providing further detail on the true costs of the City’s 57,379 full- and part-time employees. Controller Galperin’s update also makes hundreds of millions of dollars of payments made to health care providers and to Los Angeles Police Department (LAPD) vendors available for the first time.  <br><br>  “This addition to our open data site is intended to give the public and decision makers in City Hall more insight into the City's true payroll costs and payments to vendors,” said Galperin. \"The new numbers not only give us a better picture of the City's real costs but also move the City closer to making transparency in spending a new way of life.\""
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -149,6 +239,19 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514324,
         "width" : 165,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Chart",
+          "null" : 3,
+          "largest" : "Link",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Chart"
+          }, {
+            "count" : 19,
+            "item" : "Link"
+          } ]
+        },
         "format" : {
         }
       }, {
@@ -160,6 +263,31 @@
         "renderTypeName" : "text",
         "tableColumnId" : 14514325,
         "width" : 148,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "/videos",
+          "null" : 1,
+          "largest" : "https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk?",
+          "top" : [ {
+            "count" : 20,
+            "item" : "https://controllerdata.lacity.org/Finance/Payroll/qjfm-3srk?"
+          }, {
+            "count" : 19,
+            "item" : "https://controllerdata.lacity.org/Finance/Departments-by-Total-Average-Benefit-Cost/p23j-6a9z"
+          }, {
+            "count" : 18,
+            "item" : "https://controllerdata.lacity.org/dataset/ControlPanel-LA-Survey/twip-eai6"
+          }, {
+            "count" : 17,
+            "item" : "https://controllerdata.lacity.org/checkbook/2014/department-summary?department=POLICE"
+          }, {
+            "count" : 16,
+            "item" : "/videos"
+          }, {
+            "count" : 15,
+            "item" : "https://controllerdata.lacity.org/checkbook/2014"
+          } ]
+        },
         "format" : {
         }
       } ],
